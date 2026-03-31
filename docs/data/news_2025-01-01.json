@@ -1,0 +1,105 @@
+{
+  "date": "2025-01-01",
+  "generated_at": "2025-01-01T06:30:00",
+  "categories": {
+    "tech": {
+      "count": 3,
+      "summary": "💻 今日科技动态摘要\n\n1. 苹果发布新款 MacBook，搭载最新 M 系列芯片，性能大幅提升\n2. 谷歌宣布扩大数据中心投资，重点布局亚太地区\n3. 特斯拉 Cybertruck 在华销量破万，电动汽车市场竞争加剧\n\n今日科技领域最值得关注的是 AI 硬件军备竞赛的持续升温。",
+      "articles": [
+        {
+          "id": "demo001",
+          "title": "苹果发布新款 MacBook Pro，搭载 M4 Max 芯片性能大幅领先",
+          "link": "https://techcrunch.com",
+          "description": "苹果公司今日正式发布新一代 MacBook Pro 系列，配备全新 M4 Max 芯片，多核性能较前代提升 40%。",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "2025-01-01"
+        },
+        {
+          "id": "demo002",
+          "title": "谷歌宣布未来三年在亚太地区投资 300 亿美元建设数据中心",
+          "link": "https://theverge.com",
+          "description": "谷歌宣布将在日本、新加坡、印度等地扩大云计算基础设施投资，以满足 AI 服务需求增长。",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2025-01-01"
+        },
+        {
+          "id": "demo003",
+          "title": "36氪：国内科技巨头纷纷押注 AI Agent，2025 年或成爆发元年",
+          "link": "https://36kr.com",
+          "description": "字节、腾讯、百度等互联网大厂均已布局 AI Agent 赛道，业界预计今年将有大量产品落地。",
+          "source": "36氪",
+          "category": "tech",
+          "pub_date": "2025-01-01"
+        }
+      ]
+    },
+    "ai": {
+      "count": 3,
+      "summary": "🤖 今日 AI 前沿动态摘要\n\n1. DeepSeek R2 模型即将发布，推理能力据称超越 GPT-4o\n2. OpenAI 推出 o3-mini，以更低成本提供强大推理能力\n3. 谷歌 Gemini 2.0 全系列模型开放 API，多模态能力显著增强\n\n今日 AI 领域最值得关注的是开源大模型与闭源模型的能力差距持续缩小。",
+      "articles": [
+        {
+          "id": "demo004",
+          "title": "DeepSeek R2 预计本月发布，基准测试成绩引发行业广泛关注",
+          "link": "https://www.qbitai.com",
+          "description": "量子位获悉 DeepSeek 新一代推理模型 R2 即将推出，内部测试显示在数学和代码基准上表现卓越。",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "2025-01-01"
+        },
+        {
+          "id": "demo005",
+          "title": "OpenAI 发布 o3-mini：面向开发者的轻量推理模型，API 价格降低 80%",
+          "link": "https://www.jiqizhixin.com",
+          "description": "OpenAI 推出 o3-mini 模型，在保持强大推理能力的同时大幅降低推理成本，目标群体为中小型企业。",
+          "source": "机器之心",
+          "category": "ai",
+          "pub_date": "2025-01-01"
+        },
+        {
+          "id": "demo006",
+          "title": "谷歌 Gemini 2.0 全系列 API 开放，原生多模态能力领先同类产品",
+          "link": "https://aiweekly.co",
+          "description": "谷歌正式开放 Gemini 2.0 全系列 API，支持实时音视频理解，在多模态综合评测中排名第一。",
+          "source": "AI Weekly",
+          "category": "ai",
+          "pub_date": "2025-01-01"
+        }
+      ]
+    },
+    "cctv": {
+      "count": 3,
+      "summary": "📺 今日新闻联播要点\n\n1. 国务院召开常务会议，部署2025年经济工作重点任务\n2. 春运首日全国铁路发送旅客超1200万人次，创历史新高\n3. 国家医保局宣布新一轮药品谈判结果，多款创新药纳入医保\n\n今日政治民生最值得关注的是中央经济工作会议精神的具体落实与部署。",
+      "articles": [
+        {
+          "id": "demo007",
+          "title": "国务院常务会议：部署2025年稳就业促消费扩投资重点工作",
+          "link": "http://www.xinhuanet.com",
+          "description": "国务院总理主持召开常务会议，研究部署2025年宏观经济政策，重点强调扩大内需和稳定就业。",
+          "source": "新华网",
+          "category": "cctv",
+          "pub_date": "2025-01-01"
+        },
+        {
+          "id": "demo008",
+          "title": "2025年春运正式启动，预计全国旅客发送量将达90亿人次",
+          "link": "https://news.cctv.com",
+          "description": "交通运输部宣布2025年春运自今日起正式启动，铁路、民航、公路运力均创历史新高。",
+          "source": "央视网",
+          "category": "cctv",
+          "pub_date": "2025-01-01"
+        },
+        {
+          "id": "demo009",
+          "title": "国家医保局：新增50种药品纳入医保目录，惠及数千万患者",
+          "link": "http://www.people.com.cn",
+          "description": "国家医疗保障局公布2024年医保药品目录调整结果，新纳入创新药、罕见病用药等50个品种。",
+          "source": "人民网",
+          "category": "cctv",
+          "pub_date": "2025-01-01"
+        }
+      ]
+    }
+  }
+}
