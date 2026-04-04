@@ -1,1 +1,805 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>每日新闻聚合 · AI 精选</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Space+Mono:wght@400;700&family=Noto+Sans+SC:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink: #0e0e0e;
+      --paper: #f5f0e8;
+      --paper2: #ede8db;
+      --red: #c0392b;
+      --red-soft: #e74c3c;
+      --gold: #b8860b;
+      --gold-light: #f0c040;
+      --blue: #1a4a7a;
+      --blue-soft: #2c6fad;
+      --gray: #6b6b6b;
+      --gray-light: #d0cbc0;
+      --border: #c8c0b0;
+      --shadow: rgba(14,14,14,0.12);
+      --font-serif: 'Noto Serif SC', Georgia, serif;
+      --font-mono: 'Space Mono', monospace;
+      --font-sans: 'Noto Sans SC', sans-serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: var(--font-serif);
+      min-height: 100vh;
+      background-image:
+        radial-gradient(circle at 20% 50%, rgba(184,134,11,0.04) 0%, transparent 50%),
+        radial-gradient(circle at 80% 20%, rgba(26,74,122,0.04) 0%, transparent 40%);
+    }
+
+    /* ── 报纸头部 ── */
+    .masthead {
+      background: var(--ink);
+      color: var(--paper);
+      text-align: center;
+      padding: 28px 20px 20px;
+      position: relative;
+      overflow: hidden;
+    }
+    .masthead::before {
+      content: '';
+      position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+      background: repeating-linear-gradient(
+        0deg, transparent, transparent 3px,
+        rgba(255,255,255,0.02) 3px, rgba(255,255,255,0.02) 4px
+      );
+    }
+    .masthead-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1200px;
+      margin: 0 auto 12px;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      opacity: 0.6;
+      letter-spacing: 0.5px;
+    }
+    .masthead h1 {
+      font-family: var(--font-serif);
+      font-size: clamp(28px, 5vw, 52px);
+      font-weight: 700;
+      letter-spacing: 6px;
+      line-height: 1;
+      position: relative;
+      z-index: 1;
+    }
+    .masthead h1 span { color: var(--gold-light); }
+    .masthead-subtitle {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      letter-spacing: 3px;
+      opacity: 0.55;
+      margin-top: 8px;
+    }
+    .masthead-bar {
+      width: 100%; height: 3px;
+      background: linear-gradient(90deg, var(--red), var(--gold), var(--blue), var(--red));
+      margin-top: 18px;
+    }
+
+    /* ── 语言切换按钮 ── */
+    .lang-btn {
+      position: relative;
+      z-index: 2;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: transparent;
+      border: 1.5px solid rgba(240,192,64,0.5);
+      color: var(--gold-light);
+      font-family: var(--font-mono);
+      font-size: 10px;
+      letter-spacing: 1.5px;
+      padding: 5px 12px;
+      cursor: pointer;
+      border-radius: 2px;
+      transition: all 0.2s;
+      margin-top: 10px;
+      text-transform: uppercase;
+    }
+    .lang-btn:hover {
+      background: rgba(240,192,64,0.15);
+      border-color: var(--gold-light);
+    }
+    .lang-btn.translating {
+      opacity: 0.6;
+      pointer-events: none;
+    }
+    .lang-btn .lang-spinner {
+      display: none;
+      width: 10px; height: 10px;
+      border: 1.5px solid rgba(240,192,64,0.3);
+      border-top-color: var(--gold-light);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+    }
+    .lang-btn.translating .lang-spinner { display: inline-block; }
+
+    /* ── 翻译状态横幅 ── */
+    .translate-banner {
+      display: none;
+      background: #1a3a5c;
+      color: #a8d4ff;
+      text-align: center;
+      padding: 8px 20px;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      letter-spacing: 1px;
+      border-bottom: 1px solid #2c5a8c;
+    }
+    .translate-banner.visible { display: block; }
+    .translate-banner .back-btn {
+      background: none;
+      border: 1px solid #2c6fad;
+      color: #a8d4ff;
+      font-family: var(--font-mono);
+      font-size: 10px;
+      padding: 2px 10px;
+      cursor: pointer;
+      margin-left: 12px;
+      border-radius: 2px;
+      transition: all 0.15s;
+    }
+    .translate-banner .back-btn:hover {
+      background: rgba(44,111,173,0.3);
+    }
+
+    /* ── 导航日期栏 ── */
+    .datebar {
+      background: var(--paper2);
+      border-bottom: 2px solid var(--ink);
+      padding: 10px 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px var(--shadow);
+    }
+    .datebar::-webkit-scrollbar { display: none; }
+    .datebar-label {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      letter-spacing: 1px;
+      color: var(--gray);
+      white-space: nowrap;
+      text-transform: uppercase;
+    }
+    .date-btn {
+      background: none;
+      border: 1.5px solid var(--border);
+      padding: 4px 12px;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      cursor: pointer;
+      white-space: nowrap;
+      color: var(--gray);
+      transition: all 0.15s;
+      border-radius: 2px;
+    }
+    .date-btn:hover { border-color: var(--ink); color: var(--ink); }
+    .date-btn.active {
+      background: var(--ink);
+      color: var(--paper);
+      border-color: var(--ink);
+    }
+
+    /* ── 主体布局 ── */
+    .container {
+      max-width: 1240px;
+      margin: 0 auto;
+      padding: 24px 20px;
+    }
+
+    /* ── 今日总览横幅 ── */
+    .overview-strip {
+      background: var(--ink);
+      color: var(--paper);
+      padding: 14px 20px;
+      margin-bottom: 24px;
+      display: flex;
+      align-items: flex-start;
+      gap: 16px;
+      border-left: 5px solid var(--gold-light);
+    }
+    .overview-label {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--gold-light);
+      white-space: nowrap;
+      padding-top: 2px;
+    }
+    .overview-text {
+      font-size: 13px;
+      line-height: 1.7;
+      opacity: 0.88;
+      font-family: var(--font-sans);
+    }
+
+    /* ── 三栏网格 ── */
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 0;
+      border: 2px solid var(--ink);
+    }
+    @media (max-width: 900px) {
+      .grid { grid-template-columns: 1fr; }
+    }
+
+    .column {
+      border-right: 1.5px solid var(--ink);
+      padding: 0;
+      min-width: 0;
+    }
+    .column:last-child { border-right: none; }
+
+    .col-header {
+      padding: 12px 16px 10px;
+      border-bottom: 2px solid var(--ink);
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+    }
+    .col-header.tech-header { background: #1a1a2e; color: #e8d5ff; }
+    .col-header.ai-header { background: #0d2137; color: #c8e8ff; }
+    .col-header.cctv-header { background: #1a0a0a; color: #ffd0c8; }
+
+    .col-icon { font-size: 18px; }
+    .col-title {
+      font-family: var(--font-serif);
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: 2px;
+    }
+    .col-count {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      opacity: 0.6;
+      margin-left: auto;
+    }
+
+    /* ── AI 总结框 ── */
+    .summary-box {
+      margin: 12px;
+      padding: 12px 14px;
+      border-left: 3px solid var(--gold);
+      background: rgba(184,134,11,0.06);
+      font-family: var(--font-sans);
+      font-size: 12px;
+      line-height: 1.8;
+      color: #3a2800;
+      white-space: pre-line;
+    }
+    .summary-label {
+      font-family: var(--font-mono);
+      font-size: 9px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--gold);
+      display: block;
+      margin-bottom: 6px;
+    }
+
+    /* ── 文章列表 ── */
+    .articles-list { padding: 0 0 8px; }
+
+    .article-item {
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--gray-light);
+      cursor: pointer;
+      transition: background 0.1s;
+    }
+    .article-item:hover { background: rgba(0,0,0,0.03); }
+    .article-item:last-child { border-bottom: none; }
+
+    .article-source {
+      font-family: var(--font-mono);
+      font-size: 9px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: var(--gray);
+      margin-bottom: 3px;
+    }
+    .article-title {
+      font-size: 13px;
+      font-weight: 600;
+      line-height: 1.5;
+      color: var(--ink);
+      text-decoration: none;
+    }
+    .article-title:hover { color: var(--blue-soft); text-decoration: underline; }
+    .article-desc {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      color: var(--gray);
+      line-height: 1.5;
+      margin-top: 3px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* ── CCTV 特殊样式 ── */
+    .column.cctv-col .article-item {
+      border-left: 2px solid transparent;
+      padding-left: 12px;
+    }
+    .column.cctv-col .article-item:hover {
+      border-left-color: var(--red);
+      background: rgba(192,57,43,0.04);
+    }
+    .column.cctv-col .article-title { color: #2a0000; }
+    .column.cctv-col .summary-box {
+      border-left-color: var(--red);
+      background: rgba(192,57,43,0.06);
+      color: #2a0000;
+    }
+    .column.cctv-col .summary-label { color: var(--red); }
+
+    /* ── 翻译中遮罩 ── */
+    .col-translating {
+      position: relative;
+    }
+    .col-translating::after {
+      content: 'Translating...';
+      position: absolute;
+      inset: 0;
+      background: rgba(245,240,232,0.7);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      letter-spacing: 2px;
+      color: var(--gray);
+      backdrop-filter: blur(1px);
+      pointer-events: none;
+    }
+
+    /* ── 加载/空状态 ── */
+    .loading-state, .empty-state {
+      padding: 40px 20px;
+      text-align: center;
+      font-family: var(--font-mono);
+      font-size: 12px;
+      color: var(--gray);
+      letter-spacing: 1px;
+    }
+    .loading-spinner {
+      display: inline-block;
+      width: 20px; height: 20px;
+      border: 2px solid var(--gray-light);
+      border-top-color: var(--ink);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin-bottom: 10px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── 页脚 ── */
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-family: var(--font-mono);
+      font-size: 10px;
+      color: var(--gray);
+      border-top: 2px solid var(--ink);
+      margin-top: 24px;
+      letter-spacing: 1px;
+    }
+    footer a { color: var(--blue-soft); text-decoration: none; }
+
+    @media (max-width: 600px) {
+      .masthead h1 { letter-spacing: 2px; }
+      .container { padding: 16px 12px; }
+      .overview-strip { flex-direction: column; gap: 8px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- 报头 -->
+<header class="masthead">
+  <div class="masthead-top">
+    <span id="hd-date">──</span>
+    <span>DeepSeek AI 精选摘要</span>
+    <span>每日更新</span>
+  </div>
+  <h1>每日<span>新闻</span>聚合</h1>
+  <p class="masthead-subtitle">TECH · AI · 新闻联播 &nbsp;|&nbsp; POWERED BY DEEPSEEK</p>
+  <!-- 语言切换按钮 -->
+  <button class="lang-btn" id="lang-btn" onclick="toggleLanguage()">
+    <span class="lang-spinner"></span>
+    <span id="lang-btn-text">🌐 Switch to English</span>
+  </button>
+  <div class="masthead-bar"></div>
+</header>
+
+<!-- 翻译状态提示 -->
+<div class="translate-banner" id="translate-banner">
+  🌐 Showing English translation (AI translated)
+  <button class="back-btn" onclick="switchToZh()">← 返回中文</button>
+</div>
+
+<!-- 日期导航 -->
+<nav class="datebar" id="datebar">
+  <span class="datebar-label">历史</span>
+  <div id="date-buttons"></div>
+</nav>
+
+<!-- 主内容 -->
+<main class="container">
+  <div class="overview-strip" id="overview-strip" style="display:none">
+    <span class="overview-label">今日速览</span>
+    <span class="overview-text" id="overview-text"></span>
+  </div>
+
+  <div class="grid">
+    <!-- 科技栏 -->
+    <div class="column tech-col" id="col-tech">
+      <div class="col-header tech-header">
+        <span class="col-icon">💻</span>
+        <span class="col-title" id="title-tech">科技动态</span>
+        <span class="col-count" id="count-tech">─</span>
+      </div>
+      <div id="summary-tech"></div>
+      <div class="articles-list" id="articles-tech">
+        <div class="loading-state"><div class="loading-spinner"></div><br>加载中...</div>
+      </div>
+    </div>
+
+    <!-- AI栏 -->
+    <div class="column ai-col" id="col-ai">
+      <div class="col-header ai-header">
+        <span class="col-icon">🤖</span>
+        <span class="col-title" id="title-ai">AI 前沿</span>
+        <span class="col-count" id="count-ai">─</span>
+      </div>
+      <div id="summary-ai"></div>
+      <div class="articles-list" id="articles-ai">
+        <div class="loading-state"><div class="loading-spinner"></div><br>加载中...</div>
+      </div>
+    </div>
+
+    <!-- 新闻联播栏 -->
+    <div class="column cctv-col" id="col-cctv">
+      <div class="col-header cctv-header">
+        <span class="col-icon">📺</span>
+        <span class="col-title" id="title-cctv">新闻联播</span>
+        <span class="col-count" id="count-cctv">─</span>
+      </div>
+      <div id="summary-cctv"></div>
+      <div class="articles-list" id="articles-cctv">
+        <div class="loading-state"><div class="loading-spinner"></div><br>加载中...</div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <p>数据每日自动更新 &nbsp;·&nbsp; DeepSeek AI 智能总结 &nbsp;·&nbsp; 保存近 15 天历史</p>
+  <p style="margin-top:6px;opacity:0.6">
+    <a href="https://github.com" target="_blank">GitHub</a> &nbsp;·&nbsp;
+    数据来源：The Verge · Ars Technica · Hacker News · 量子位 · 人民网
+  </p>
+</footer>
+
+<script>
+const BASE = './data';
+let currentDate = null;
+let currentData = null;   // 原始中文数据
+let isEnglish = false;    // 当前是否英文模式
+let translationCache = {};// 缓存已翻译内容 {date: {tech,ai,cctv}}
+
+// ─── 工具函数 ───────────────────────────────────────────
+function escHtml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+// ─── 数据加载 ────────────────────────────────────────────
+async function loadIndex() {
+  try {
+    const r = await fetch(`${BASE}/index.json?_=${Date.now()}`);
+    if (!r.ok) throw new Error('no index');
+    return await r.json();
+  } catch { return null; }
+}
+
+async function loadDay(date) {
+  try {
+    const r = await fetch(`${BASE}/news_${date}.json?_=${Date.now()}`);
+    if (!r.ok) throw new Error('no data');
+    return await r.json();
+  } catch { return null; }
+}
+
+// ─── 渲染函数 ────────────────────────────────────────────
+function renderSummary(id, text, isCctv) {
+  const el = document.getElementById(id);
+  if (!text || text.includes('暂时不可用') || text.includes('不可用') || text.includes('未配置')) {
+    el.innerHTML = '';
+    return;
+  }
+  el.innerHTML = `
+    <div class="summary-box">
+      <span class="summary-label">✦ DeepSeek AI 摘要</span>${escHtml(text)}
+    </div>`;
+}
+
+function renderArticles(id, articles) {
+  const el = document.getElementById(id);
+  if (!articles || articles.length === 0) {
+    el.innerHTML = '<div class="empty-state">今日暂无数据</div>';
+    return;
+  }
+  el.innerHTML = articles.map(a => `
+    <div class="article-item">
+      <div class="article-source">${escHtml(a.source || '')}</div>
+      <a class="article-title" href="${escHtml(a.link || '#')}" target="_blank" rel="noopener">
+        ${escHtml(a.title)}
+      </a>
+      ${a.description ? `<div class="article-desc">${escHtml(a.description)}</div>` : ''}
+    </div>`).join('');
+}
+
+function renderDate(data) {
+  if (!data) {
+    ['tech','ai','cctv'].forEach(c => {
+      document.getElementById(`articles-${c}`).innerHTML =
+        '<div class="empty-state">暂无数据，请等待自动抓取</div>';
+      document.getElementById(`summary-${c}`).innerHTML = '';
+      document.getElementById(`count-${c}`).textContent = '0';
+    });
+    document.getElementById('overview-strip').style.display = 'none';
+    return;
+  }
+
+  const cats = data.categories || {};
+
+  const tech = cats.tech || {};
+  renderSummary('summary-tech', tech.summary, false);
+  renderArticles('articles-tech', tech.articles);
+  document.getElementById('count-tech').textContent = `${(tech.articles||[]).length} 条`;
+
+  const ai = cats.ai || {};
+  renderSummary('summary-ai', ai.summary, false);
+  renderArticles('articles-ai', ai.articles);
+  document.getElementById('count-ai').textContent = `${(ai.articles||[]).length} 条`;
+
+  const cctv = cats.cctv || {};
+  renderSummary('summary-cctv', cctv.summary, true);
+  renderArticles('articles-cctv', cctv.articles);
+  document.getElementById('count-cctv').textContent = `${(cctv.articles||[]).length} 条`;
+
+  // 栏目标题恢复中文
+  document.getElementById('title-tech').textContent = '科技动态';
+  document.getElementById('title-ai').textContent = 'AI 前沿';
+  document.getElementById('title-cctv').textContent = '新闻联播';
+
+  // 总览
+  const overviewParts = [
+    tech.summary && `【科技】${tech.summary.split('\n').find(l => l.trim() && l.length > 10) || ''}`,
+    ai.summary && `【AI】${ai.summary.split('\n').find(l => l.trim() && l.length > 10) || ''}`,
+    cctv.summary && `【联播】${cctv.summary.split('\n').find(l => l.trim() && l.length > 10) || ''}`
+  ].filter(Boolean);
+
+  if (overviewParts.length) {
+    document.getElementById('overview-strip').style.display = 'flex';
+    document.getElementById('overview-text').textContent = overviewParts.join('\n');
+  } else {
+    document.getElementById('overview-strip').style.display = 'none';
+  }
+
+  if (data.generated_at) {
+    const d = new Date(data.generated_at);
+    const label = `更新于 ${d.toLocaleString('zh-CN', {timeZone:'Asia/Shanghai'})}`;
+    document.getElementById('hd-date').textContent = `${data.date} · ${label}`;
+  }
+}
+
+// ─── 翻译逻辑 ────────────────────────────────────────────
+async function callDeepSeekTranslate(textToTranslate) {
+  // 使用 DeepSeek API（需要在后端代理或直接调用）
+  // 由于浏览器端无法直接暴露 API Key，这里使用免费的 MyMemory 翻译 API 作为备选
+  // 如果你有后端代理可以替换这里
+  try {
+    const encoded = encodeURIComponent(textToTranslate.slice(0, 500));
+    const r = await fetch(
+      `https://api.mymemory.translated.net/get?q=${encoded}&langpair=zh|en`
+    );
+    const j = await r.json();
+    return j.responseData?.translatedText || textToTranslate;
+  } catch {
+    return textToTranslate;
+  }
+}
+
+async function translateText(text) {
+  if (!text || text.length < 5) return text;
+  return await callDeepSeekTranslate(text);
+}
+
+async function translateArticles(articles) {
+  if (!articles || articles.length === 0) return articles;
+  // 批量翻译标题（每次最多15条）
+  const translated = [];
+  for (const a of articles.slice(0, 15)) {
+    const titleEn = await translateText(a.title);
+    const descEn = a.description ? await translateText(a.description) : '';
+    translated.push({ ...a, title: titleEn, description: descEn });
+    await new Promise(r => setTimeout(r, 100)); // 避免请求过快
+  }
+  return translated;
+}
+
+async function getTranslatedData(date, data) {
+  if (translationCache[date]) return translationCache[date];
+
+  const cats = data.categories || {};
+  const result = {};
+
+  for (const cat of ['tech', 'ai', 'cctv']) {
+    const src = cats[cat] || {};
+    const [summaryEn, articlesEn] = await Promise.all([
+      translateText(src.summary || ''),
+      translateArticles(src.articles || [])
+    ]);
+    result[cat] = {
+      summary: summaryEn,
+      articles: articlesEn,
+    };
+  }
+
+  translationCache[date] = result;
+  return result;
+}
+
+function renderEnglish(translated) {
+  const cats = translated;
+
+  // 栏目标题改英文
+  document.getElementById('title-tech').textContent = 'Tech News';
+  document.getElementById('title-ai').textContent = 'AI Frontier';
+  document.getElementById('title-cctv').textContent = 'China Daily';
+
+  ['tech', 'ai', 'cctv'].forEach(cat => {
+    const d = cats[cat] || {};
+    renderSummary(`summary-${cat}`, d.summary, cat === 'cctv');
+    renderArticles(`articles-${cat}`, d.articles);
+  });
+
+  document.getElementById('translate-banner').classList.add('visible');
+}
+
+async function toggleLanguage() {
+  if (isEnglish) {
+    switchToZh();
+    return;
+  }
+
+  if (!currentData) return;
+
+  // 进入翻译状态
+  const btn = document.getElementById('lang-btn');
+  const btnText = document.getElementById('lang-btn-text');
+  btn.classList.add('translating');
+  btnText.textContent = 'Translating...';
+
+  // 给三列加半透明遮罩
+  ['tech','ai','cctv'].forEach(c => {
+    document.getElementById(`col-${c}`).classList.add('col-translating');
+  });
+
+  try {
+    const translated = await getTranslatedData(currentDate, currentData);
+    isEnglish = true;
+    renderEnglish(translated);
+    btn.classList.remove('translating');
+    btnText.textContent = '🌐 切换回中文';
+  } catch(e) {
+    console.error(e);
+    btn.classList.remove('translating');
+    btnText.textContent = '🌐 Switch to English';
+  } finally {
+    ['tech','ai','cctv'].forEach(c => {
+      document.getElementById(`col-${c}`).classList.remove('col-translating');
+    });
+  }
+}
+
+function switchToZh() {
+  isEnglish = false;
+  document.getElementById('translate-banner').classList.remove('visible');
+  document.getElementById('lang-btn-text').textContent = '🌐 Switch to English';
+  document.getElementById('lang-btn').classList.remove('translating');
+  renderDate(currentData);
+}
+
+// ─── 日期切换 ────────────────────────────────────────────
+function buildDateButtons(dates, activeDate) {
+  const container = document.getElementById('date-buttons');
+  const today = new Date().toISOString().slice(0,10);
+  container.innerHTML = dates.map(d => {
+    const label = d === today ? `今日 ${d}` : d;
+    return `<button class="date-btn ${d === activeDate ? 'active' : ''}"
+      onclick="switchDate('${d}')">${label}</button>`;
+  }).join('');
+}
+
+async function switchDate(date) {
+  if (date === currentDate) return;
+  currentDate = date;
+  isEnglish = false;
+
+  document.getElementById('translate-banner').classList.remove('visible');
+  document.getElementById('lang-btn-text').textContent = '🌐 Switch to English';
+
+  document.querySelectorAll('.date-btn').forEach(b => {
+    b.classList.toggle('active', b.textContent.includes(date));
+  });
+
+  ['tech','ai','cctv'].forEach(c => {
+    document.getElementById(`articles-${c}`).innerHTML =
+      '<div class="loading-state"><div class="loading-spinner"></div><br>加载中...</div>';
+    document.getElementById(`summary-${c}`).innerHTML = '';
+  });
+
+  const data = await loadDay(date);
+  currentData = data;
+  renderDate(data);
+}
+
+// ─── 初始化 ──────────────────────────────────────────────
+async function init() {
+  const index = await loadIndex();
+
+  if (!index || !index.dates || index.dates.length === 0) {
+    ['tech','ai','cctv'].forEach(c => {
+      document.getElementById(`articles-${c}`).innerHTML =
+        '<div class="empty-state">🔧 尚无数据<br>请配置 DeepSeek API Key 并手动触发 GitHub Actions</div>';
+    });
+    document.getElementById('hd-date').textContent = '等待首次抓取';
+    return;
+  }
+
+  const dates = index.dates;
+  const latest = index.latest || dates[0];
+  currentDate = latest;
+
+  buildDateButtons(dates, latest);
+  document.getElementById('hd-date').textContent = latest;
+
+  const data = await loadDay(latest);
+  currentData = data;
+  renderDate(data);
+}
+
+init();
+</script>
+</body>
+</html>
 
