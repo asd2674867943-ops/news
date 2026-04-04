@@ -1,9 +1,45 @@
 {
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T11:10:03.999305",
+  "generated_at": "2026-04-04T14:35:32.313497",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "e2798d97a9bf",
+          "title": "My dream pair of AR gaming glasses needs to have these nine features",
+          "link": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
+          "description": "I’ve spent months in the lab testing the latest AR glasses from Xreal and Viture. By “lab,” I mean cozied up on my couch each night, playing my Steam Deck or Nintendo Switch 2 on a huge, virtual screen that only I can see through these glasses. Using AR glasses as a portable display for [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-04T10:00:00-04:00"
+        },
+        {
+          "id": "7e9704c76637",
+          "title": "Really, you made this without AI? Prove it",
+          "link": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+          "description": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-04T09:00:00-04:00"
+        },
+        {
+          "id": "70817573958b",
+          "title": "Super Meat Boy 3D makes suffering fun",
+          "link": "https://www.theverge.com/games/904202/super-meat-boy-3d-review",
+          "description": "The original Super Meat Boy is one of the best-known indie games of all time. Released in 2010, it's a brutally difficult 2D platformer, but so fun to play: The short levels almost feel like speedrunning puzzles, and even though they're filled with traps and buzzsaws, dying isn't so bad because you revive nearly instantly. [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-04T08:00:00-04:00"
+        },
+        {
+          "id": "20c66833b366",
+          "title": "The app for tracking TV, movies, podcasts, and everything",
+          "link": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
+          "description": "Hi, friends! Welcome to Installer No. 122, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, go 'Zona, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about early Apple employees and weather apps and one-page productivity systems, watching [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-04T08:00:00-04:00"
+        },
         {
           "id": "f31d578711a6",
           "title": "Anker’s Nebula P1 projector is the portable sound king",
@@ -57,42 +93,6 @@
           "source": "The Verge",
           "category": "tech",
           "pub_date": "2026-04-03T13:31:17-04:00"
-        },
-        {
-          "id": "d6b3579e2b8d",
-          "title": "Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS",
-          "link": "https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs",
-          "description": "Steer-by-wire, in which a car can be steered electronically rather than through a physical connection between the steering wheel and steering rack, is coming to Mercedes-Benz. The German automaker says it will use the steering technology in its forthcoming refreshed EQS sedan, marking its first foray into the world of steer-by-wire. Steer-by-wire systems replace traditional [&#8230;]",
-          "source": "The Verge",
-          "category": "tech",
-          "pub_date": "2026-04-03T11:34:10-04:00"
-        },
-        {
-          "id": "1f47658a4f46",
-          "title": "Anker&#8217;s small, five-port travel adapter is down to its best price yet",
-          "link": "https://www.theverge.com/gadgets/906392/anker-nano-travel-adapter-samsung-galaxy-watch-ultra-deal-sale",
-          "description": "Few things kill the vibe of your relaxing spring break abroad faster than realizing you forgot a way to keep things charged. Anker’s Nano Travel Adapter makes it easy to charge your phone, camera, e-readers, and other devices anywhere you travel. Right now, you can buy it at its all-time low of $19.99 ($6 off) [&#8230;]",
-          "source": "The Verge",
-          "category": "tech",
-          "pub_date": "2026-04-03T11:10:31-04:00"
-        },
-        {
-          "id": "d27797b161ba",
-          "title": "I saved a doomed Windows laptop by embracing Linux",
-          "link": "https://www.theverge.com/tech/905946/windows-11-forced-obsolescence-linux-thinkpad",
-          "description": "Two weeks ago I set aside my M4 MacBook Air and picked up a nine-year-old ThinkPad. It's one of an estimated 200 to 400 million Windows 10 PCs that don't meet Microsoft's requirements for Windows 11. When Microsoft officially ended support for Windows 10 in October, it became \"obsolete.\" The solution, according to Microsoft, is [&#8230;]",
-          "source": "The Verge",
-          "category": "tech",
-          "pub_date": "2026-04-03T11:00:00-04:00"
-        },
-        {
-          "id": "ec687bcfc3ca",
-          "title": "Waiting for Trump Phone",
-          "link": "https://www.theverge.com/tech/905599/where-is-the-trump-phone-t1-april",
-          "description": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. Crickets. Despite recent signs of life, another week has come and gone without the Trump T1 Phone. We're now over nine months since its announcement in June of last year, [&#8230;]",
-          "source": "The Verge",
-          "category": "tech",
-          "pub_date": "2026-04-03T10:00:00-04:00"
         },
         {
           "id": "e340c2048284",
@@ -185,64 +185,73 @@
           "pub_date": "Fri, 03 Apr 2026 13:35:13 +0000"
         },
         {
+          "id": "243a5375d877",
+          "title": "Ask HN: How do you handle clients who don't pay on time?",
+          "link": "https://news.ycombinator.com/item?id=47638685",
+          "description": "I run a supply role at a company during the day and I'm building a B2B tool on the side. The problem I keep running into — both at work and in my family's business — is that chasing overdue invoices is manual, awkward, and nobody has a good system for it. Most small businesses I've talked to do one of three things: send the QB/Xero auto-reminder and hope for the best, send a WhatsApp message themselves when the reminder doesn't work, or just let it slide because the relationship feels more important than the cash. The second one is interesting to me. WhatsApp works — it gets read, it gets repl",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 04 Apr 2026 12:58:45 +0000"
+        },
+        {
+          "id": "6bbe5fd09aba",
+          "title": "Mbodi AI (YC P25) Is Hiring",
+          "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
+          "description": "Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls Comments URL: https://news.ycombinator.com/item?id=47638270 Points: 0 # Comments: 0",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 04 Apr 2026 12:00:38 +0000"
+        },
+        {
+          "id": "a9bf62162865",
+          "title": "Jack Dorsey says Block employees now bring prototypes, not slides, to meetings",
+          "link": "https://www.businessinsider.com/block-ceo-jack-dorsey-bring-prototypes-not-slide-decks-meetings-2026-4",
+          "description": "Article URL: https://www.businessinsider.com/block-ceo-jack-dorsey-bring-prototypes-not-slide-decks-meetings-2026-4 Comments URL: https://news.ycombinator.com/item?id=47638246 Points: 34 # Comments: 22",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 04 Apr 2026 11:57:14 +0000"
+        },
+        {
+          "id": "72a93941048d",
+          "title": "The CMS is dead. Long live the CMS",
+          "link": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+          "description": "Article URL: https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms Comments URL: https://news.ycombinator.com/item?id=47638075 Points: 54 # Comments: 29",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 04 Apr 2026 11:24:30 +0000"
+        },
+        {
+          "id": "393620a2e14c",
+          "title": "Simple self-distillation improves code generation",
+          "link": "https://arxiv.org/abs/2604.01193",
+          "description": "Article URL: https://arxiv.org/abs/2604.01193 Comments URL: https://news.ycombinator.com/item?id=47637757 Points: 220 # Comments: 62",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 04 Apr 2026 10:26:21 +0000"
+        },
+        {
           "id": "5f3b490fe8ca",
           "title": "Some Unusual Trees",
           "link": "https://thoughts.wyounas.com/p/some-unusual-trees",
-          "description": "Article URL: https://thoughts.wyounas.com/p/some-unusual-trees Comments URL: https://news.ycombinator.com/item?id=47637287 Points: 28 # Comments: 10",
+          "description": "Article URL: https://thoughts.wyounas.com/p/some-unusual-trees Comments URL: https://news.ycombinator.com/item?id=47637287 Points: 106 # Comments: 31",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Sat, 04 Apr 2026 09:04:19 +0000"
         },
         {
-          "id": "c53f97df9991",
-          "title": "Emotion concepts and their function in a large language model",
-          "link": "https://www.anthropic.com/research/emotion-concepts-function",
-          "description": "Article URL: https://www.anthropic.com/research/emotion-concepts-function Comments URL: https://news.ycombinator.com/item?id=47636435 Points: 60 # Comments: 46",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Sat, 04 Apr 2026 06:30:25 +0000"
-        },
-        {
-          "id": "14337d2c1366",
-          "title": "Scientists are working on \"everything vaccines\"",
-          "link": "https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines",
-          "description": "Article URL: https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines Comments URL: https://news.ycombinator.com/item?id=47636203 Points: 29 # Comments: 25",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Sat, 04 Apr 2026 05:47:18 +0000"
-        },
-        {
-          "id": "a2057f94d8f3",
-          "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
-          "link": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
-          "description": "Article URL: https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr Comments URL: https://news.ycombinator.com/item?id=47635056 Points: 204 # Comments: 143",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Sat, 04 Apr 2026 02:30:32 +0000"
-        },
-        {
           "id": "5f1771fb3e91",
           "title": "Delve removed from Y Combinator",
           "link": "https://www.ycombinator.com/companies/delve",
-          "description": "Article URL: https://www.ycombinator.com/companies/delve Comments URL: https://news.ycombinator.com/item?id=47634690 Points: 326 # Comments: 204",
+          "description": "Article URL: https://www.ycombinator.com/companies/delve Comments URL: https://news.ycombinator.com/item?id=47634690 Points: 395 # Comments: 249",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Sat, 04 Apr 2026 01:37:02 +0000"
         },
         {
-          "id": "a2fedec785da",
-          "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
-          "link": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
-          "description": "Article URL: https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice Comments URL: https://news.ycombinator.com/item?id=47633947 Points: 406 # Comments: 117",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 03 Apr 2026 23:56:32 +0000"
-        },
-        {
           "id": "28db128c7aa6",
           "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
           "link": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-          "description": "Article URL: https://mtlynch.io/claude-code-found-linux-vulnerability/ Comments URL: https://news.ycombinator.com/item?id=47633855 Points: 59 # Comments: 31",
+          "description": "Article URL: https://mtlynch.io/claude-code-found-linux-vulnerability/ Comments URL: https://news.ycombinator.com/item?id=47633855 Points: 135 # Comments: 87",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Fri, 03 Apr 2026 23:46:51 +0000"
@@ -260,22 +269,13 @@
           "id": "fd015a78633a",
           "title": "Fake Fans",
           "link": "https://www.wordsfromeliza.com/p/fake-fans",
-          "description": "Article URL: https://www.wordsfromeliza.com/p/fake-fans Comments URL: https://news.ycombinator.com/item?id=47633157 Points: 117 # Comments: 27",
+          "description": "Article URL: https://www.wordsfromeliza.com/p/fake-fans Comments URL: https://news.ycombinator.com/item?id=47633157 Points: 131 # Comments: 35",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Fri, 03 Apr 2026 22:26:38 +0000"
-        },
-        {
-          "id": "56d653cfd0b8",
-          "title": "Run Linux containers on Android, no root required",
-          "link": "https://github.com/ExTV/Podroid",
-          "description": "Article URL: https://github.com/ExTV/Podroid Comments URL: https://news.ycombinator.com/item?id=47633131 Points: 132 # Comments: 47",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 03 Apr 2026 22:23:55 +0000"
         }
       ],
-      "summary": "🔬 今日科技动态摘要\n\n1. **航天任务进展与预算挑战**：NASA 已解决 Artemis II 任务中的软件故障，任务进展顺利；但特朗普提议大幅削减 NASA 预算，为登月计划带来不确定性。\n2. **AI 行业竞争与治理**：Anthropic 对 Claude 订阅者收取额外费用以限制 OpenClaw 访问；OpenAI 的 AGI 负责人暂时离职；研究指出 AI 可能导致用户“认知投降”，放弃逻辑思考。\n3. **消费电子趋势**：便携投影仪、游戏硬件（如联想 Legion Go 2 因内存涨价提价）、iPad 优惠和旅行适配器降价反映移动娱乐与性价比需求。\n4. **汽车与系统创新**：奔驰 EQS 新增线控转向与异形方向盘，Linux 成功挽救老旧 Windows 笔记本，体现技术迭代与开源解决方案的实用性。\n5. **商业与科技文化争议**：马斯克要求合作银行为 SpaceX IPO 购买 Grok 订阅，特朗普手机传闻引发关注，反映科技与政治、资本的交叉影响。\n\n今日最值得关注的是 **航天探索在技术突破与预算压力下的双重进展**，以及 **AI 行业在商业化与伦理治理上面临的持续博弈**。",
+      "summary": "🔬 今日科技动态摘要\n\n1. **AI 监管与伦理争议加剧**：Anthropic 对 Claude 插件收费以限制第三方工具，研究指出 AI 可能导致用户“认知投降”放弃逻辑思考，反映行业对 AI 滥用与依赖的担忧。\n2. **太空探索与预算博弈**：NASA 解决 Artemis II 系统故障、任务进展顺利，但特朗普提议大幅削减 NASA 预算，显示载人登月计划面临技术成功与政策不确定性的双重挑战。\n3. **消费电子创新与市场波动**：AR 眼镜功能设想、便携投影仪升级、游戏设备因内存涨价而提价，反映硬件领域持续追求沉浸体验与便携性，同时供应链价格波动影响市场。\n4. **AI 高层变动与商业扩张**：OpenAI 的 AGI 负责人暂时离职，马斯克要求合作银行订阅 Grok，凸显 AI 巨头内部调整与生态扩张的并行趋势。\n5. **内容生态与复古娱乐回归**：全媒体追踪应用受关注，3D 版《超级食肉男孩》延续硬核游戏热度，体现数字内容整合与复古游戏创新的市场需求。\n\n今日最值得关注的是 **AI 在快速商业化中引发的伦理反思与监管尝试**，同时 **载人登月计划在技术突破与政治不确定性间的拉扯** 也将深远影响科技前沿格局。",
       "count": 50
     },
     "ai": {
@@ -461,6 +461,15 @@
           "pub_date": "Sun, 25 Jan 2026 02:11:46 +0000"
         },
         {
+          "id": "25d1aef3e0e8",
+          "title": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+          "link": "https://www.qbitai.com/2026/04/396346.html",
+          "description": "日调用量突破1.4万亿Token",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 04 Apr 2026 13:38:01 +0000"
+        },
+        {
           "id": "6753d010b6ba",
           "title": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
           "link": "https://www.qbitai.com/2026/04/396069.html",
@@ -540,18 +549,9 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Fri, 03 Apr 2026 06:53:07 +0000"
-        },
-        {
-          "id": "4148d00de589",
-          "title": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
-          "link": "https://www.qbitai.com/2026/04/395216.html",
-          "description": "“离散视觉没有天花板”",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 03 Apr 2026 06:24:01 +0000"
         }
       ],
-      "summary": "🔬 今日AI动态摘要  \n\n1. **多模态与边缘AI模型小型化**：多家机构推出轻量级多模态模型（如Gemma 4、Granite 4.0 3B Vision），强调在设备端或企业场景实现高效视觉-语言理解，降低部署门槛。  \n2. **AI智能体能力向操作系统级突破**：Holo3、HoloTron-12B等计算机使用智能体涌现，旨在突破人机交互边界，实现自动化、高吞吐的计算机操作与任务执行。  \n3. **开源生态工具与评估体系完善**：Hugging Face发布TRL v1.0训练库、EVA语音智能体评估框架等工具，推动模型训练、评估与领域定制（如嵌入模型快速构建）的标准化与效率提升。  \n4. **垂直化与本地化应用加速**：印度Sarvan AI发布专注印度语言的大模型；社区关注本地AI部署（如Mac Studio运行模型）、AI驱动3D世界编辑（Gravimera）等细分场景创新。  \n5. **AI应用风险管控受重视**：业界开始关注AI智能体对生产环境（如SQL数据库）的潜在风险，并提出针对性防护方案。  \n\n**今日最值得关注的是：AI正从“云端大规模模型”转向“边缘化、垂直化与操作系统级智能体”的落地竞赛，同时开源工具链的成熟正在加速这一进程。**",
+      "summary": "🔬 今日AI动态摘要\n\n1. **边缘与设备端多模态AI成为焦点**：多家机构推出轻量级多模态模型（如Gemma 4、Granite 4.0 3B Vision），强调在设备端实现高效视觉-语言理解，尤其面向企业文档处理与移动场景。\n\n2. **AI智能体能力向实际计算机操作演进**：Holo3、HoloTron-12B等“计算机使用智能体”突破传统交互边界，展现出控制操作系统、完成复杂任务的高吞吐能力，推动AI向自主操作工具发展。\n\n3. **开源生态持续深化与专业化**：Hugging Face发布TRL v1.0训练库、领域专用嵌入模型快速构建工具，以及开源现状报告，显示开源社区正加速提供企业级工具链，降低AI定制化门槛。\n\n4. **垂直化与本地化模型受关注**：Sarvan AI发布专注印度语言的LLM，同时社区讨论本地部署（如Mac Studio运行LLM）、边缘跟踪工具及3D世界AI编辑器，反映行业向细分领域与私有化部署倾斜。\n\n5. **AI应用安全与评估框架受重视**：推出语音智能体评估框架EVA，并探讨保护生产数据库免受AI查询风险，显示伴随AI能力提升，可靠性评估与安全防护成为关键议题。\n\n**今日最值得关注的是AI智能体正从“对话”迈向“直接操作计算机系统”，这可能是人机交互范式变革的重要信号。**",
       "count": 30
     },
     "cctv": {
@@ -782,7 +782,7 @@
           "pub_date": ""
         }
       ],
-      "summary": "🔬 今日新闻联播动态摘要\n\n1. **生态文明建设持续深化**：多篇报道聚焦“绿水青山”理念，强调生态环境保护与民生、永续发展的紧密联系，体现绿色发展在国家战略中的核心地位。\n2. **粮食安全与农业生产扎实推进**：国务院部署全国农业普查，中央领导调研夏粮丰收与秋粮生产基础，凸显保障粮食安全的紧迫性与系统性安排。\n3. **法治与纪律建设加强**：中央军委发布军事设施建设条例，中办印发党组处分党员程序规定，全国人大常委会启动节能法执法检查，反映依法治军、从严治党及依法节能的协同推进。\n4. **教育与社会治理关注升温**：高考公平保障、性教育纳入课程提案、台湾青年赴大陆交流数据发布，显示教育公平、青年交流与社会议题受到重视。\n5. **科技发展与对外交往并行**：中国公布探月计划、表达AI发展信心，同时高层会见中美二轨对话代表团，展现科技自强与对外沟通的双重动向。\n\n今日最值得关注的是**国家在生态保护、粮食安全与法治建设三大领域同步推出实质性举措**，凸显统筹发展与安全的整体布局。",
+      "summary": "🔬 今日新闻联播动态摘要\n\n1. **生态文明建设持续推进**：多篇报道强调“绿水青山就是金山银山”理念，展现国家在生态环境保护与可持续发展方面的政策导向与实践决心。\n2. **粮食安全与农业生产部署加强**：副总理刘国中调研夏粮丰收与秋粮生产，国务院部署第四次全国农业普查，凸显对农业基础与粮食安全的高度重视。\n3. **法治与纪律建设深化**：中央军委发布《军事设施建设条例》，中共中央办公厅印发党员处分事项工作程序规定，体现依法治军、从严治党的制度完善。\n4. **教育与社会治理关注升温**：副总理丁薛祥强调保障“平安高考”，有人大代表建议将全面性教育纳入基础教育课程，反映对社会公平与青少年教育的聚焦。\n5. **科技发展与对外交流活跃**：中国计划今年实施探月任务，学者对AI发展表达信心；同时高层会见中美二轨对话代表团，两岸民间往来数据公布，显示科技自主与开放交流并进的态势。\n\n**今日最值得关注的是国家在生态保护、粮食安全、法治建设等多维度同步强化顶层部署，凸显统筹发展与安全的系统性战略思路。**",
       "count": 25
     }
   }
