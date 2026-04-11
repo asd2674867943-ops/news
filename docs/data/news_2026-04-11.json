@@ -1,9 +1,45 @@
 {
   "date": "2026-04-11",
-  "generated_at": "2026-04-11T14:37:42.744244",
+  "generated_at": "2026-04-11T22:38:33.854244",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "d8b5cb70c8ee",
+          "title": "Google says Polymarket bets showing up in News was an ‘error’",
+          "link": "https://www.theverge.com/tech/910691/google-news-polymarket-bets-error",
+          "description": "Polymarket bets started popping up in Google News alongside legitimate news articles. But now those results aren't showing, and Google says they were never supposed to. Spokesperson Ned Adriance told The Verge that \"Google News is designed to show sources that create content about current issues, events, and important topics, and we have policies for [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-11T11:07:47-04:00"
+        },
+        {
+          "id": "e34d8025d4d2",
+          "title": "Pokémon Champions is off to a rough start",
+          "link": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
+          "description": "Like many live-service games before it, Pok&#233;mon Champions' launch has been messy. The free-to-start battle sim, which is out now on the Switch and Switch 2 (and also coming to mobile later this year), is plagued with bugs, some of which cause issues with basic battle mechanics - not great for a game that's only [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-11T11:00:00-04:00"
+        },
+        {
+          "id": "2c0f0b169c31",
+          "title": "Your article about AI doesn’t need AI art",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+          "description": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-11T11:00:00-04:00"
+        },
+        {
+          "id": "105239c93723",
+          "title": "Google’s latest Nest Doorbells just hit their lowest prices of the year",
+          "link": "https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale",
+          "description": "If you’ve ever worried about porch pirates stealing packages while you’re away, a video doorbell can offer some peace of mind, letting you keep tabs on deliveries no matter where you are. Google offers some of the best around, and right now, its battery-powered, second-gen Nest Doorbell is available for $129.99 ($50 off) from&#160;Amazon and [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-11T11:00:00-04:00"
+        },
         {
           "id": "d5aebfb663cb",
           "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
@@ -57,42 +93,6 @@
           "source": "The Verge",
           "category": "tech",
           "pub_date": "2026-04-11T07:00:00-04:00"
-        },
-        {
-          "id": "c13ff19d925d",
-          "title": "Now the FAA says gamers are the answer to its air traffic controller shortage",
-          "link": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
-          "description": "The Federal Aviation Administration (FAA) has struggled for years to have enough air traffic controllers to address shortages, with the US Government Accountability Office (GAO) saying in January that the number of people in the job in the US has declined by around 6 percent \"in the last decade.\" Now the Trump administration is rolling [&#8230;]",
-          "source": "The Verge",
-          "category": "tech",
-          "pub_date": "2026-04-10T16:50:51-04:00"
-        },
-        {
-          "id": "c05fdb468832",
-          "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
-          "description": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect's description was seen making threats outside OpenAI's [&#8230;]",
-          "source": "The Verge",
-          "category": "tech",
-          "pub_date": "2026-04-10T16:16:57-04:00"
-        },
-        {
-          "id": "47687fdca655",
-          "title": "How to watch the Artemis II astronauts return to Earth",
-          "link": "https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth",
-          "description": "The Orion capsule, carrying Artemis II commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch, and Canadian astronaut Jeremy Hansen, is expected to land back to Earth after a nine-day mission that set a record for the farthest distance humans have ever traveled from our planet. After making a high-speed re-entry through the atmosphere, [&#8230;]",
-          "source": "The Verge",
-          "category": "tech",
-          "pub_date": "2026-04-10T16:08:08-04:00"
-        },
-        {
-          "id": "81e4ed4a86ef",
-          "title": "Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool",
-          "link": "https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool",
-          "description": "Microsoft is finally allowing Windows 11 testers to get access to experimental features without having to download a third-party app like ViVeTool. The changes are part of making the Windows Insider Program (WIP) less confusing, with Dev and Canary testing rings simplified into a new Experimental Channel alongside a refresh of the existing Beta Channel. [&#8230;]",
-          "source": "The Verge",
-          "category": "tech",
-          "pub_date": "2026-04-10T14:00:00-04:00"
         },
         {
           "id": "6ad4597b0a52",
@@ -185,97 +185,97 @@
           "pub_date": "Fri, 10 Apr 2026 17:08:58 +0000"
         },
         {
-          "id": "934de145ce8f",
-          "title": "South Korea introduces universal basic mobile data access",
-          "link": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
-          "description": "Article URL: https://www.theregister.com/2026/04/10/south_korea_data_access_universal/ Comments URL: https://news.ycombinator.com/item?id=47730407 Points: 25 # Comments: 1",
+          "id": "b1c650b106eb",
+          "title": "Democratic AI to serve the public – OneProject.org",
+          "link": "https://oneproject.org/how-to-make-ai-serve-the-public/",
+          "description": "Article URL: https://oneproject.org/how-to-make-ai-serve-the-public/ Comments URL: https://news.ycombinator.com/item?id=47734224 Points: 6 # Comments: 0",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 11 Apr 2026 13:27:16 +0000"
+          "pub_date": "Sat, 11 Apr 2026 21:35:12 +0000"
         },
         {
-          "id": "b7887617d3ca",
-          "title": "Bitcoin miners are losing on every coin produced as difficulty drops",
-          "link": "https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8",
-          "description": "Article URL: https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8 Comments URL: https://news.ycombinator.com/item?id=47730370 Points: 61 # Comments: 47",
+          "id": "c85322d084f9",
+          "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+          "link": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+          "description": "Article URL: https://khronokernel.com/macos/2023/08/08/AS-VM.html Comments URL: https://news.ycombinator.com/item?id=47733971 Points: 75 # Comments: 19",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 11 Apr 2026 13:22:25 +0000"
+          "pub_date": "Sat, 11 Apr 2026 20:58:48 +0000"
         },
         {
-          "id": "0c9d2e1523e2",
-          "title": "Cirrus Labs to join OpenAI",
-          "link": "https://cirruslabs.org/",
-          "description": "Article URL: https://cirruslabs.org/ Comments URL: https://news.ycombinator.com/item?id=47730194 Points: 41 # Comments: 13",
+          "id": "3b3b8dc1d794",
+          "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+          "link": "https://zenodo.org/records/19513269",
+          "description": "Article URL: https://zenodo.org/records/19513269 Comments URL: https://news.ycombinator.com/item?id=47733561 Points: 68 # Comments: 32",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 11 Apr 2026 13:01:34 +0000"
+          "pub_date": "Sat, 11 Apr 2026 20:08:46 +0000"
         },
         {
-          "id": "21a276c4ae30",
-          "title": "Polymarket gamblers betting millions on war",
-          "link": "https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth",
-          "description": "Article URL: https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth Comments URL: https://news.ycombinator.com/item?id=47729994 Points: 84 # Comments: 34",
+          "id": "a08790b3403b",
+          "title": "Dark Castle",
+          "link": "https://darkcastle.co.uk/",
+          "description": "Article URL: https://darkcastle.co.uk/ Comments URL: https://news.ycombinator.com/item?id=47733521 Points: 59 # Comments: 5",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 11 Apr 2026 12:28:04 +0000"
+          "pub_date": "Sat, 11 Apr 2026 20:01:59 +0000"
         },
         {
-          "id": "5d181f9d3e22",
-          "title": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
-          "link": "https://www.hormuz-havoc.com/",
-          "description": "I built a satirical browser game to share with friends (Hormuz Havoc: you play an American president managing a crisis in the Middle East, only \"loosely\" inspired by current events). I had good fun making this, but that's not necessarily the interesting part. The interesting part was that within a few hours of sharing it with my friends, some of them set about trying to overrun the leaderboard by launching a swarm of AI bots to learn the game and figure out how to get the highest score. This set off a game of cat-and-mouse as they found vulnerabilities and I tried patching them. Within hours o",
+          "id": "b9ddd126e156",
+          "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+          "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+          "description": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 124 # Comments: 39",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 11 Apr 2026 10:58:36 +0000"
+          "pub_date": "Sat, 11 Apr 2026 19:15:56 +0000"
         },
         {
-          "id": "f49b3707f084",
-          "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
-          "link": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
-          "description": "Article URL: https://www.xda-developers.com/frances-government-ditching-windows-for-linux/ Comments URL: https://news.ycombinator.com/item?id=47728653 Points: 165 # Comments: 104",
+          "id": "4e44e63d59ee",
+          "title": "New synthesis of astronomical measurements shows Hubble tension is real",
+          "link": "https://noirlab.edu/public/news/noirlab2611/",
+          "description": "Article URL: https://noirlab.edu/public/news/noirlab2611/ Comments URL: https://news.ycombinator.com/item?id=47733066 Points: 10 # Comments: 0",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 11 Apr 2026 08:25:14 +0000"
+          "pub_date": "Sat, 11 Apr 2026 18:55:43 +0000"
         },
         {
-          "id": "fa099d9ea10b",
-          "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
-          "link": "https://news.ycombinator.com/item?id=47727960",
-          "description": "https://pardonned.com Inspired by the videos of Liz Oyer, I wanted to be able to verify her claims and just look up all the pardons more easily. Tech Stack: Playwright - to sccrape the DOJ website SQLite - local database Astro 6 - Build out a static website from the sqlite db All code is open source and available on Github. Comments URL: https://news.ycombinator.com/item?id=47727960 Points: 111 # Comments: 37",
+          "id": "a6e81e00b28c",
+          "title": "How to build a `Git diff` driver",
+          "link": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+          "description": "Article URL: https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/ Comments URL: https://news.ycombinator.com/item?id=47732697 Points: 54 # Comments: 3",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 11 Apr 2026 06:19:25 +0000"
+          "pub_date": "Sat, 11 Apr 2026 18:07:49 +0000"
         },
         {
-          "id": "2269160dc882",
-          "title": "20 years on AWS and never not my job",
-          "link": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
-          "description": "Article URL: https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html Comments URL: https://news.ycombinator.com/item?id=47727711 Points: 206 # Comments: 46",
+          "id": "a0470ebf1119",
+          "title": "The APL programming language source code (2012)",
+          "link": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
+          "description": "Article URL: https://computerhistory.org/blog/the-apl-programming-language-source-code/ Comments URL: https://news.ycombinator.com/item?id=47732402 Points: 29 # Comments: 3",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 11 Apr 2026 05:31:10 +0000"
+          "pub_date": "Sat, 11 Apr 2026 17:34:10 +0000"
         },
         {
-          "id": "a7a87f067031",
-          "title": "Productive Procrastination",
-          "link": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
-          "description": "Article URL: https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/ Comments URL: https://news.ycombinator.com/item?id=47727659 Points: 63 # Comments: 29",
+          "id": "13024b7e1d3b",
+          "title": "Small models also found the vulnerabilities that Mythos found",
+          "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+          "description": "Article URL: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier Comments URL: https://news.ycombinator.com/item?id=47732020 Points: 648 # Comments: 177",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 11 Apr 2026 05:21:21 +0000"
+          "pub_date": "Sat, 11 Apr 2026 16:47:28 +0000"
         },
         {
-          "id": "249d0da214ab",
-          "title": "Artemis II safely splashes down",
-          "link": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-          "description": "Article URL: https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/ Comments URL: https://news.ycombinator.com/item?id=47725583 Points: 1038 # Comments: 329",
+          "id": "aeab769d1547",
+          "title": "Phone Trips",
+          "link": "http://www.wideweb.com/phonetrips/",
+          "description": "Article URL: http://www.wideweb.com/phonetrips/ Comments URL: https://news.ycombinator.com/item?id=47731998 Points: 52 # Comments: 4",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 11 Apr 2026 00:10:51 +0000"
+          "pub_date": "Sat, 11 Apr 2026 16:43:40 +0000"
         }
       ],
-      "summary": "🔬 今日科技动态摘要\n\n1. **AI与安全议题凸显**：AI模型在体育预测中表现不佳（如xAI Grok），同时加州出现针对AI医疗记录工具的诉讼，反映AI应用面临可靠性与隐私挑战。\n2. **航天领域里程碑**：Artemis II任务完成绕月飞行，四名宇航员安全返回，NASA正规划后续深空探索方向。\n3. **科技巨头动态频发**：微软为Windows 11测试者开放实验功能便捷通道；OpenAI CEO萨姆·奥尔特曼住所遭袭击，引发对科技领袖安全关注。\n4. **能源技术新进展**：固态电池（“电池圣杯”）商用化可能性被探讨，可能推动储能技术突破。\n5. **社会文化中的科技反思**：新剧集嘲讽科技精英文化，同时政府机构（如FAA）尝试从游戏玩家中招募空中交通管制员，体现科技与社会的双向影响。\n\n今日最值得关注的是 **航天探索与AI伦理并行推进**：Artemis任务成功标志着人类重返月球迈出关键一步，而AI在医疗、预测等领域的应用争议凸显其发展需兼顾技术创新与伦理规范。",
+      "summary": "🔬 今日科技动态摘要\n\n1. **AI应用引发争议与反思**：AI模型在体育预测（如足球博彩）中表现糟糕，尤其是xAI的Grok；同时有评论指出AI报道无需搭配AI生成图片，加州出现针对AI记录诊疗过程的诉讼，反映AI在实际应用中的可靠性与伦理问题受到关注。\n2. **太空探索进入新阶段**：NASA的Artemis II绕月任务已结束，四名宇航员安全返回，标志载人登月计划迈出关键一步，未来深空探索方向成为焦点。\n3. **科技产品市场动态**：Google智能门铃Nest年内价格新低，同时Switch 2的USB-C扩展坞出现高性价比选择，显示消费电子领域价格竞争与配件生态活跃。\n4. **能源与地学突破引关注**：被称为“电池圣杯”的新电池技术或迎来突破，同时有新研究质疑黄石公园地热活动源于地幔柱的传统观点，可能改写地质模型。\n5. **网络信息与平台治理受挑战**：Google误将预测市场Polymarket信息显示在新闻板块，伊朗被指通过社交媒体策略影响国际舆论，反映信息传播与平台监管的复杂性。\n\n**今日最值得关注的是AI在关键领域（如医疗、预测）的可靠性争议与太空探索里程碑的结合，凸显科技在突破边界的同时也面临现实应用的严峻考验。**",
       "count": 50
     },
     "ai": {
@@ -551,7 +551,7 @@
           "pub_date": "Fri, 10 Apr 2026 08:22:55 +0000"
         }
       ],
-      "summary": "🔬 今日AI动态摘要\n\n1. **多模态与边缘AI成为焦点**：多家机构推出轻量级多模态模型（如Gemma 4、Granite 4.0 3B Vision），强调在设备端或边缘部署高效能AI，降低计算门槛。\n2. **AI开发工具与安全升级**：Safetensors加入PyTorch基金会提升模型安全标准；同时业界关注保护数据库免受AI代理查询风险，工具链更注重生产安全。\n3. **交互式AI与虚拟世界构建**：Waypoint-1.5、Holo3及Gravimera等工具推动高保真交互世界创建，使AI能更动态地生成和操作3D环境。\n4. **专业化与小众领域模型兴起**：出现针对特定语言（如印度Sarvan AI）、生物领域（mRNA语言模型）及企业文档的专用模型，体现AI垂直化趋势。\n\n**最值得关注的是：AI正从云端大规模模型转向专业化、轻量化且可安全部署的边缘应用，同时交互式虚拟世界的构建工具开始普及，预示AI将更深融入日常数字体验。**",
+      "summary": "🔬 今日AI动态摘要\n\n1. **多模态与边缘AI模型小型化**：Gemma 4、Granite 4.0 3B Vision等模型强调在设备端实现前沿多模态智能，同时模型更紧凑，适合企业文档处理与边缘部署。\n2. **AI交互与仿真世界构建**：Waypoint-1.5、Holo3及Gravimera等工具推动高保真交互世界与3D编辑的平民化，降低创作与仿真门槛。\n3. **开源生态与安全整合**：Safetensors加入PyTorch基金会，Hugging Face平台持续强化多模态嵌入、定制前端（Gradio）及智能体持续学习（ALTK-Evolve）等工具支持。\n4. **垂直应用与成本突破**：出现面向印度语言的Sarvan AI模型、仅用165美元训练25种物种mRNA语言模型的研究，以及针对AI代理SQL查询风险的防护方案，显示AI正向专业化、低成本化发展。\n\n**最值得关注的是：AI正全面走向“轻量化”与“场景化”——从边缘设备多模态模型、低成本训练到垂直领域工具，技术突破更聚焦实际部署与行业应用。**",
       "count": 30
     },
     "cctv": {
@@ -782,7 +782,7 @@
           "pub_date": ""
         }
       ],
-      "summary": "🔬 今日新闻联播动态摘要  \n\n1. **生态文明建设持续深化**：多篇报道聚焦“绿水青山”理念，强调生态环境保护与可持续发展，体现政策层面对生态文明的高度重视。  \n2. **农业与粮食安全部署加强**：国务院部署全国农业普查，高层调研夏粮丰收与秋粮生产，凸显保障粮食安全的紧迫性。  \n3. **法治与纪律建设稳步推进**：中央军委发布军事设施建设条例，中办印发党员处分程序规定，全国人大常委会启动节能法执法检查，反映法治化、规范化治理趋势。  \n4. **对外交流与科技发展并举**：韩正会见中美二轨对话代表团，同时中国宣布年内探月计划、学者看好AI算力发展，展现开放合作与科技自立协同推进。  \n5. **社会民生议题受关注**：高考公平保障、性教育纳入课程体系、台湾青年赴大陆交流等话题，体现对社会治理与青年发展的多层次关切。  \n\n今日最值得关注的是**生态文明理念与粮食安全、法治建设、科技外交等多领域政策同步推进**，展现统筹发展与安全的系统性布局。",
+      "summary": "🔬 今日新闻联播动态摘要  \n\n1. **生态保护与可持续发展成为政策宣传重点**：多篇报道强调“绿水青山”理念，凸显生态环境治理与民生福祉、永续发展的紧密关联。  \n2. **农业与粮食安全部署加强**：国务院启动第四次全国农业普查，高层调研强调确保夏粮丰收、夯实秋粮生产，反映对农业基础的重视。  \n3. **法治与纪律建设持续推进**：中央军委发布《军事设施建设条例》，中办印发党组处分党员程序规定，全国人大常委会启动节约能源法执法检查，体现制度完善与法治深化。  \n4. **对外交往与科技发展受关注**：韩正会见中美二轨对话美方代表团；中国宣布今年实施探月任务，政协委员表达对人工智能发展的信心。  \n5. **社会议题与两岸交流受重视**：有人大代表建议将全面性教育纳入基础教育课程；数据显示2025年台湾青年赴大陆交流活跃。  \n\n今日最值得关注的是**生态保护、粮食安全与法治建设多领域协同推进**，同时科技创新与对外交往呈现积极态势，展现统筹发展与安全的整体布局。",
       "count": 25
     }
   }
