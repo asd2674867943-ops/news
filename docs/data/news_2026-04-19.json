@@ -1,9 +1,27 @@
 {
   "date": "2026-04-19",
-  "generated_at": "2026-04-19T14:41:52.319749",
+  "generated_at": "2026-04-19T22:42:22.653073",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "b7d5d424e3f4",
+          "title": "Blue Origin successfully reused its New Glenn rocket",
+          "link": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+          "description": "Today's launch of AST SpaceMobile's BlueBird 7 satellite aboard Blue Origin's reusable New Glenn rocket was a partial success. The New Glenn touched down on its landing pad without incident, making it the second launch and landing for the first stage booster, and officially giving Jeff Bezos a reusable launch vehicle. Unfortunately for AST SpaceMobile, [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-19T16:28:52-04:00"
+        },
+        {
+          "id": "92b851948f39",
+          "title": "Cloud development platform Vercel was hacked",
+          "link": "https://www.theverge.com/tech/914723/vercel-hacked",
+          "description": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-19T15:54:52-04:00"
+        },
         {
           "id": "68c04430806b",
           "title": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date",
@@ -77,22 +95,13 @@
           "pub_date": "2026-04-18T09:00:00-04:00"
         },
         {
-          "id": "c4e43dc52fd7",
-          "title": "There’s nothing like an RPG over vacation",
-          "link": "https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2",
-          "description": "With a vacation comes a big choice: What game should I focus on during the trip? I thought about grinding out the harder levels of Super Meat Boy 3D, but I was looking for something more chill. I could have dabbled more with Slay the Spire II, but I already know that's a game I'll [&#8230;]",
-          "source": "The Verge",
+          "id": "7cf3e4e6923d",
+          "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
+          "link": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
+          "description": "Blue Origin's reused first stage hit its targets, but New Glenn's upper stage did not.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "2026-04-18T08:00:00-04:00"
-        },
-        {
-          "id": "d53d030daa8e",
-          "title": "The AI apps are coming for your PC",
-          "link": "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc",
-          "description": "Hi, friends! Welcome to Installer No. 124, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, send me your Coachella fits, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about restaurant bread and GLP-1s and Lenny Rachitsky and [&#8230;]",
-          "source": "The Verge",
-          "category": "tech",
-          "pub_date": "2026-04-18T08:00:00-04:00"
+          "pub_date": "Sun, 19 Apr 2026 18:19:19 +0000"
         },
         {
           "id": "1e796384d8d2",
@@ -176,107 +185,98 @@
           "pub_date": "Fri, 17 Apr 2026 17:32:55 +0000"
         },
         {
-          "id": "a607730f4663",
-          "title": "Artemis II pilot talks about what it was really like to fly and land in Orion",
-          "link": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/",
-          "description": "\"I've been thinking about reentry for three straight years.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 17 Apr 2026 16:59:44 +0000"
-        },
-        {
-          "id": "e34bea8dce50",
-          "title": "Vercel April 2026 security incident",
-          "link": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
-          "description": "Article URL: https://vercel.com/kb/bulletin/vercel-april-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=47824463 Points: 13 # Comments: 0",
+          "id": "3bc65439e3df",
+          "title": "Banned by Anthropic",
+          "link": "https://bannedbyanthropic.com/",
+          "description": "Article URL: https://bannedbyanthropic.com/ Comments URL: https://news.ycombinator.com/item?id=47828249 Points: 4 # Comments: 0",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 19 Apr 2026 14:14:38 +0000"
+          "pub_date": "Sun, 19 Apr 2026 22:33:31 +0000"
         },
         {
-          "id": "582d8fe34009",
-          "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
-          "link": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
-          "description": "Article URL: https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/ Comments URL: https://news.ycombinator.com/item?id=47824068 Points: 62 # Comments: 37",
+          "id": "276f5796d936",
+          "title": "CEOs admit AI had no impact on employment or productivity",
+          "link": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
+          "description": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 22 # Comments: 14",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 19 Apr 2026 13:13:09 +0000"
+          "pub_date": "Sun, 19 Apr 2026 21:56:22 +0000"
         },
         {
-          "id": "dd61fef16fc8",
-          "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
-          "link": "https://teamchong.github.io/turboquant-wasm/draw.html",
-          "description": "Article URL: https://teamchong.github.io/turboquant-wasm/draw.html Comments URL: https://news.ycombinator.com/item?id=47823460 Points: 13 # Comments: 8",
+          "id": "0b0c2cb82bab",
+          "title": "C++26: Reflection, Memory Safety, Contracts, and a New Async Model",
+          "link": "https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/",
+          "description": "Article URL: https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/ Comments URL: https://news.ycombinator.com/item?id=47827603 Points: 9 # Comments: 0",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 19 Apr 2026 11:17:27 +0000"
+          "pub_date": "Sun, 19 Apr 2026 21:00:49 +0000"
         },
         {
-          "id": "e60f471e1dde",
-          "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-          "link": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-          "description": "Article URL: https://simonwillison.net/2026/Apr/18/opus-system-prompt/ Comments URL: https://news.ycombinator.com/item?id=47823270 Points: 65 # Comments: 39",
+          "id": "415f4b61c1ac",
+          "title": "Swiss authorities want to reduce dependency on Microsoft",
+          "link": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
+          "description": "Article URL: https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532 Comments URL: https://news.ycombinator.com/item?id=47827383 Points: 148 # Comments: 52",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 19 Apr 2026 10:36:29 +0000"
+          "pub_date": "Sun, 19 Apr 2026 20:25:29 +0000"
         },
         {
-          "id": "64150aa8ea37",
-          "title": "Ask HN: How did you land your first projects as a solo engineer/consultant?",
-          "link": "https://news.ycombinator.com/item?id=47822940",
-          "description": "I’ve spent roughly the last decade and some change as a software engineer, and recently decided to start a solo consultancy. I’m focused on helping SMEs sort out the messy back-office parts of the business: spreadsheet glue, brittle internal workflows, poor reporting, awkward integrations, backend/platform problems, and AI workflows that need to do real work rather than just look good in a demo. I’m not really interested in becoming a generic agency. I’d rather work with businesses that already feel operational pain and need someone technical to help untangle it properly. For those of you who’",
+          "id": "bb9727cd9fab",
+          "title": "A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)",
+          "link": "https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/",
+          "description": "https://web.archive.org/web/20190724072148/https://www.philo... https://archive.ph/is0by Comments URL: https://news.ycombinator.com/item?id=47827215 Points: 46 # Comments: 49",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 19 Apr 2026 09:17:12 +0000"
+          "pub_date": "Sun, 19 Apr 2026 20:04:13 +0000"
         },
         {
-          "id": "45ff62c31c2b",
-          "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
-          "link": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-          "description": "Article URL: https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf Comments URL: https://news.ycombinator.com/item?id=47822805 Points: 97 # Comments: 45",
+          "id": "004f4d43ad6b",
+          "title": "I wrote a CHIP-8 emulator in my own programming language",
+          "link": "https://github.com/navid-m/chip8emu",
+          "description": "Article URL: https://github.com/navid-m/chip8emu Comments URL: https://news.ycombinator.com/item?id=47826852 Points: 29 # Comments: 7",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 19 Apr 2026 08:45:48 +0000"
+          "pub_date": "Sun, 19 Apr 2026 19:21:22 +0000"
         },
         {
-          "id": "9837b1aea7dd",
-          "title": "Binary GCD",
-          "link": "https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd",
-          "description": "Article URL: https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd Comments URL: https://news.ycombinator.com/item?id=47822737 Points: 20 # Comments: 0",
+          "id": "f19a99c6f6c1",
+          "title": "Six Levels of Dark Mode",
+          "link": "https://cssence.com/2024/six-levels-of-dark-mode/",
+          "description": "Article URL: https://cssence.com/2024/six-levels-of-dark-mode/ Comments URL: https://news.ycombinator.com/item?id=47826502 Points: 10 # Comments: 2",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 19 Apr 2026 08:33:38 +0000"
+          "pub_date": "Sun, 19 Apr 2026 18:36:00 +0000"
         },
         {
-          "id": "7db07358dfb7",
-          "title": "The seven programming ur-languages (2022)",
-          "link": "https://madhadron.com/programming/seven_ur_languages.html",
-          "description": "Article URL: https://madhadron.com/programming/seven_ur_languages.html Comments URL: https://news.ycombinator.com/item?id=47822486 Points: 97 # Comments: 40",
+          "id": "a50b201543c4",
+          "title": "Show HN: Faceoff – A terminal UI for following NHL games",
+          "link": "https://www.vincentgregoire.com/faceoff/",
+          "description": "Faceoff is a TUI app written in Python to follow live NHL games and browse standings and stats. I got the inspiration from Playball, a similar TUI app for MLB games that was featured on HN. The app was mostly vibe-coded with Claude Code, but not one-shot. I added features and fixed bugs by using it, as I spent way too much time in the terminal over the last few months. Try it out with `uvx faceoff` (requires uv). Comments URL: https://news.ycombinator.com/item?id=47826104 Points: 78 # Comments: 25",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 19 Apr 2026 07:38:08 +0000"
+          "pub_date": "Sun, 19 Apr 2026 17:44:44 +0000"
         },
         {
-          "id": "af7f6a105312",
-          "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
-          "link": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
-          "description": "Article URL: https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702 Comments URL: https://news.ycombinator.com/item?id=47822356 Points: 119 # Comments: 23",
+          "id": "afcbe4b9b3e5",
+          "title": "The Bromine Chokepoint",
+          "link": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+          "description": "Article URL: https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/ Comments URL: https://news.ycombinator.com/item?id=47826100 Points: 116 # Comments: 55",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 19 Apr 2026 07:05:17 +0000"
+          "pub_date": "Sun, 19 Apr 2026 17:44:03 +0000"
         },
         {
-          "id": "3b09d3e6ad77",
-          "title": "The world in which IPv6 was a good design (2017)",
-          "link": "https://apenwarr.ca/log/20170810",
-          "description": "Article URL: https://apenwarr.ca/log/20170810 Comments URL: https://news.ycombinator.com/item?id=47821429 Points: 117 # Comments: 39",
-          "source": "Hacker News",
+          "id": "63ecad83e6ef",
+          "title": "Pie Day 2026",
+          "link": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
+          "description": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/",
+          "source": "MIT Tech Review",
           "category": "tech",
-          "pub_date": "Sun, 19 Apr 2026 02:50:43 +0000"
+          "pub_date": "Fri, 17 Apr 2026 14:07:41 +0000"
         }
       ],
-      "summary": "🔬 今日科技动态摘要\n\n1. **硬件市场波动**：CMF耳机历史低价、Keychron键盘续航突破，反映消费电子持续创新与价格竞争；同时全球RAM短缺可能持续数年，影响产业链。\n2. **AI与PC融合加速**：AI应用正快速向个人电脑端渗透，预示下一代人机交互变革。\n3. **网络安全与地缘冲突交织**：美国制裁的货币交易所遭“不友好国家”黑客攻击，政府社交媒体账号入侵事件司法审理，凸显数字空间对抗升级。\n4. **气候与科技交叉议题**：大白鲨因海洋变暖面临过热威胁，激光技术实验报道，体现科技在环境监测与前沿科研中的角色。\n5. **美国政策与媒体演变**：特朗普时期涉ICE追踪案被判违宪，地方电视新闻呈现政治化倾向，同时CDC新任负责人提名引发专家谨慎关注。\n\n今日最值得关注的是**AI向PC端的大规模推进**，这可能彻底重塑个人计算生态。",
-      "count": 50
+      "summary": "🔬 今日科技动态摘要\n\n1. **航天领域进展与挫折并存**：蓝色起源（Blue Origin）成功实现New Glenn火箭的重复使用，但上面级出现故障，显示商业航天在回收技术推进过程中仍面临挑战。\n2. **网络安全事件频发**：云开发平台Vercel遭黑客攻击，同时涉及政府账号入侵、跨境网络劫持等事件，凸显网络安全威胁持续加剧。\n3. **硬件产业面临供应链压力**：全球RAM短缺可能持续数年，影响电子产品生产；同时消费电子领域出现高性能键盘、模块化耳机等创新产品。\n4. **气候与科技交叉议题受关注**：研究显示大白鲨因海洋变暖面临过热风险，反映环境变化对生态系统的直接影响。\n5. **科技政策与言论自由争议**：法院裁定特朗普政府在打击ICE追踪行动中违反第一修正案，同时地方电视新闻出现政治化转向趋势。\n\n今日最值得关注的是航天回收技术实现突破的同时暴露可靠性挑战，这预示着商业航天将进入更复杂的技术攻坚阶段。",
+      "count": 49
     },
     "ai": {
       "articles": [
@@ -551,7 +551,7 @@
           "pub_date": "Sat, 18 Apr 2026 15:48:50 +0000"
         }
       ],
-      "summary": "🔬 今日AI动态摘要\n\n1. **开源与多模态模型持续突破**：Hugging Face 发布多项技术进展，包括多语言OCR合成数据训练、多模态嵌入与重排序模型优化，以及Gemma 4的端侧多模态智能模型，显示开源社区在模型效率与跨模态能力上的快速迭代。\n\n2. **AI智能体与工具应用深化**：围绕智能体的推理、工具使用及失败分析（如VAKRA框架）、电商对话环境自适应验证（Ecom-RLVE），以及交互式世界构建（Waypoint-1.5）等研究，反映AI智能体正朝着更复杂、实用的场景演进。\n\n3. **本地化与边缘计算受关注**：从Mac Studio本地运行AI的讨论、边缘AI爬虫追踪工具，到印度Sarvan AI推出专注印度语言的大模型，凸显出AI在本地部署、边缘设备及区域语言适配方面的需求增长。\n\n4. **安全与基础设施整合升级**：Safetensors加入PyTorch基金会，以及针对AI代理查询SQL数据库的风险防护讨论，体现行业对AI模型安全、数据可靠性与开源标准化协作的重视。\n\n**最值得关注的是：开源多模态模型正加速向轻量化、端侧部署迈进，同时智能体的场景化应用与安全架构成为技术落地的关键支柱。**",
+      "summary": "🔬 今日AI动态摘要\n\n1. **开源模型与工具持续创新**：Hugging Face 发布多项多模态与OCR模型（如Gemma 4、Waypoint-1.5），并推动Safetensors加入PyTorch基金会，强化开源生态。\n2. **智能体与多模态能力深化**：研究聚焦智能体的推理与工具使用（如VAKRA分析）、电商对话环境适配，以及3D世界编辑（Gravimera）等交互式应用。\n3. **本地化与边缘计算受关注**：设备端多模态模型（Gemma 4）、边缘AI爬虫追踪、本地Mac Studio运行LLM等趋势，显示AI向轻量化与隐私安全方向发展。\n4. **行业应用与风险防护并重**：印度推出专注本地语言的LLM，同时业界关注保护生产数据库免受AI代理查询风险，体现落地中的实用与安全考量。\n\n**最值得关注的是开源多模态智能体正快速向轻量化、本地化演进，同时行业在推动落地时更注重数据安全与本地需求适配。**",
       "count": 30
     },
     "cctv": {
@@ -782,7 +782,7 @@
           "pub_date": ""
         }
       ],
-      "summary": "🔬 今日新闻联播动态摘要  \n\n1. **生态文明建设持续推进**：多篇报道强调“环境就是民生”理念，展现高层对生态环境保护与永续发展的高度重视。  \n2. **农业与粮食安全部署加强**：国务院启动第四次全国农业普查，副总理调研夏粮丰收与秋粮生产，凸显粮食安全基础地位。  \n3. **法治与纪律建设深化**：中央军委发布《军事设施建设条例》，中办印发党组处分党员程序规定，全国人大常委会启动节约能源法执法检查，反映法治化、规范化治理趋势。  \n4. **对外交往与多边合作活跃**：国家副主席会见中美二轨对话美方代表团，国际论坛关注中国对多边主义的贡献，体现外交互动持续深化。  \n5. **社会民生与教育议题受关注**：副总理调研确保“平安高考”，人大代表建议将全面性教育纳入基础教育课程，同时两岸青年交流数据亮眼，嫦娥探月计划公布新进展。  \n\n今日新闻聚焦生态治理、粮食安全与法治建设，同时内外双向发力，展现统筹发展与安全的整体布局。",
+      "summary": "🔬 今日新闻联播动态摘要  \n\n1. **生态文明建设持续推进**：多篇报道强调“环境就是民生”理念，展现国家在生态环境保护与可持续发展方面的政策导向与实践决心。  \n2. **农业与粮食安全部署加强**：国务院启动第四次全国农业普查，高层调研强调确保夏粮丰收、夯实秋粮基础，凸显粮食安全的战略地位。  \n3. **法治与治理体系完善**：中央军委发布《军事设施建设条例》，中办印发党组处分党员程序规定，全国人大常委会启动节约能源法执法检查，反映制度建设与法治化治理持续深化。  \n4. **对外交往与多边合作**：韩正会见中美高级别二轨对话美方代表团，国际论坛关注中国对多边主义的贡献，体现中国积极参与全球对话与稳定合作。  \n5. **社会民生与教育议题受关注**：高考组织工作强调公平公正，人大代表提议将全面性教育纳入基础教育课程，同时两岸青年交流数据呈现积极态势。  \n\n今日新闻聚焦**生态保护、粮食安全、法治建设**三大主线，同时兼顾内外双向互动与民生关切，整体呈现统筹发展与安全、深化治理改革的政策导向。",
       "count": 25
     }
   }
