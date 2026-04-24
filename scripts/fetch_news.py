@@ -2,6 +2,7 @@
 """
 新闻聚合抓取脚本
 抓取科技/AI新闻 + 新闻联播，使用 DeepSeek API 总结
+新增功能：严格限制仅抓取“今日”与“昨日”的新闻，不限制具体条数
 """
 
 import os
@@ -13,6 +14,7 @@ import re
 import urllib.request
 import urllib.error
 import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime # 新增：用于解析 RSS/Atom 的标准时间
 
 DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs", "data")
@@ -28,21 +30,21 @@ RSS_SOURCES = {
         {"name": "Hacker News",     "url": "https://hnrss.org/frontpage",                          "lang": "en"},
         {"name": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/",               "lang": "en"},
         {"name": "少数派",          "url": "https://sspai.com/feed",                               "lang": "zh"},
-        {"name": "InfoQ中文",       "url": "https://feed.infoq.com/cn/",                          "lang": "zh"},
+        {"name": "InfoQ中文",       "url": "https://feed.infoq.com/cn/",                           "lang": "zh"},
     ],
     "ai": [
         {"name": "The Batch",        "url": "https://www.deeplearning.ai/the-batch/feed/",         "lang": "en"},
         {"name": "Hugging Face",     "url": "https://huggingface.co/blog/feed.xml",                "lang": "en"},
         {"name": "Import AI",        "url": "https://importai.substack.com/feed",                  "lang": "en"},
-        {"name": "HN-AI",            "url": "https://hnrss.org/newest?q=AI+LLM&count=20",         "lang": "en"},
+        {"name": "HN-AI",            "url": "https://hnrss.org/newest?q=AI+LLM&count=20",          "lang": "en"},
         {"name": "量子位",           "url": "https://www.qbitai.com/feed",                         "lang": "zh"},
         {"name": "机器之心",         "url": "https://www.jiqizhixin.com/rss",                      "lang": "zh"},
     ],
     "cctv": [
         {"name": "人民网-要闻",     "url": "http://www.people.com.cn/rss/politics.xml",            "lang": "zh"},
-        {"name": "人民网-科技",     "url": "http://www.people.com.cn/rss/IT.xml",                 "lang": "zh"},
+        {"name": "人民网-科技",     "url": "http://www.people.com.cn/rss/IT.xml",                  "lang": "zh"},
         {"name": "Global Times",    "url": "https://www.globaltimes.cn/rss/outbrain.xml",          "lang": "en"},
-        {"name": "China Daily",     "url": "http://www.chinadaily.com.cn/rss/china_rss.xml",      "lang": "en"},
+        {"name": "China Daily",     "url": "http://www.chinadaily.com.cn/rss/china_rss.xml",       "lang": "en"},
     ]
 }
 
@@ -59,7 +61,6 @@ def next_ua():
     ua = USER_AGENTS[_ua_idx % len(USER_AGENTS)]
     _ua_idx += 1
     return ua
-
 
 def fetch_rss(url, timeout=20):
     """抓取 RSS feed，失败自动重试一次"""
@@ -90,14 +91,12 @@ def fetch_rss(url, timeout=20):
             return None
     return None
 
-
 def _clean_html(text):
     if not text:
         return ""
     text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"\s+", " ", text)
     return text.strip()
-
 
 def _try_parse_xml(xml_text):
     """解析 XML，损坏时自动清理非法字符后重试"""
@@ -110,9 +109,34 @@ def _try_parse_xml(xml_text):
         except ET.ParseError:
             return None
 
+def _is_recent(date_str):
+    """判断新闻是否为今日或昨日发布"""
+    if not date_str:
+        return True # 如果无法找到时间节点，为了防漏，默认保留
+
+    try:
+        # 尝试使用 email.utils 解析 RFC 2822 格式
+        dt = parsedate_to_datetime(date_str)
+        item_date = dt.date()
+    except Exception:
+        try:
+            # 尝试直接解析 ISO 8601 格式 (常用于 Atom feed)
+            clean_str = date_str.replace('Z', '+00:00')
+            dt = datetime.datetime.fromisoformat(clean_str)
+            item_date = dt.date()
+        except Exception:
+            # 如果彻底无法解析时间，默认保留
+            return True 
+    
+    # 获取今天和昨天的日期
+    today = datetime.date.today()
+    yesterday = today - datetime.timedelta(days=1)
+    
+    # 只要是昨天或以后的新闻，都视为近期
+    return item_date >= yesterday
 
 def parse_rss(xml_text, source_name, category):
-    """解析 RSS/Atom，返回文章列表"""
+    """解析 RSS/Atom，返回近期文章列表"""
     items = []
     if not xml_text:
         return items
@@ -130,7 +154,20 @@ def parse_rss(xml_text, source_name, category):
 
     entries = root.findall(".//atom:entry", ns) or root.findall(".//item")
 
-    for entry in entries[:10]:
+    # 取消切片限制，遍历所有的条目
+    for entry in entries:
+        # 发布时间（最先获取，以便及时过滤跳过）
+        pub_date = ""
+        for tag in ("pubDate", "published", "atom:published", "updated", "dc:date"):
+            el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
+            if el is not None and el.text:
+                pub_date = el.text.strip()
+                break
+        
+        # 新增：时间限制过滤机制
+        if not _is_recent(pub_date):
+            continue
+
         # 标题
         title = ""
         for tag in ("title", "atom:title"):
@@ -157,14 +194,6 @@ def parse_rss(xml_text, source_name, category):
                 desc = _clean_html(el.text)[:600]
                 break
 
-        # 发布时间
-        pub_date = ""
-        for tag in ("pubDate", "published", "atom:published", "updated", "dc:date"):
-            el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
-            if el is not None and el.text:
-                pub_date = el.text.strip()
-                break
-
         if title and len(title) > 3:
             items.append({
                 "id": hashlib.md5(f"{title}{link}".encode()).hexdigest()[:12],
@@ -177,7 +206,6 @@ def parse_rss(xml_text, source_name, category):
             })
 
     return items
-
 
 def call_deepseek(prompt, max_tokens=1500):
     if not DEEPSEEK_API_KEY:
@@ -206,11 +234,12 @@ def call_deepseek(prompt, max_tokens=1500):
         print(f"  ⚠ DeepSeek API 错误: {e}")
         return "（AI 总结暂时不可用）"
 
-
 def summarize_news(articles, category_name):
     if not articles:
         return "今日暂无相关新闻。"
 
+    # 这里由于不再限制数量，如果新闻条数非常多，可能超出 AI 总结的 token 上限
+    # 所以在提交给 AI 总结时，我们还是截取最具代表性的前 15 条标题即可，但不影响最终保存的列表
     titles_text = "\n".join([f"- {a['title']} ({a['source']})" for a in articles[:15]])
 
     if category_name == "cctv":
@@ -243,7 +272,6 @@ def summarize_news(articles, category_name):
     print(f"  → 调用 DeepSeek 总结 {category_name}...")
     return call_deepseek(prompt)
 
-
 def clean_old_data():
     if not os.path.exists(DATA_DIR):
         return
@@ -258,7 +286,6 @@ def clean_old_data():
             except Exception:
                 pass
 
-
 def get_date_list():
     dates = []
     if not os.path.exists(DATA_DIR):
@@ -271,7 +298,6 @@ def get_date_list():
             except Exception:
                 pass
     return dates[:MAX_DAYS]
-
 
 def main():
     today = datetime.date.today().isoformat()
@@ -301,7 +327,7 @@ def main():
             print(f"  → {src['name']}: {src['url'][:70]}...")
             xml = fetch_rss(src["url"])
             arts = parse_rss(xml, src["name"], cat)
-            print(f"     获取 {len(arts)} 条")
+            print(f"     获取近期新闻 {len(arts)} 条")
             all_articles.extend(arts)
             time.sleep(1)
 
@@ -312,7 +338,8 @@ def main():
                 seen.add(a["id"])
                 unique.append(a)
 
-        result["categories"][cat]["articles"] = unique[:30]
+        # 取消原有 [:30] 的切片限制，保留所有近期新闻
+        result["categories"][cat]["articles"] = unique
         result["categories"][cat]["count"] = len(unique)
 
         print(f"  📝 总结 {cat_labels[cat]} 新闻（共{len(unique)}条）...")
@@ -335,7 +362,6 @@ def main():
         json.dump(index, f, ensure_ascii=False, indent=2)
     print(f"📋 索引更新完成，共 {len(dates)} 天数据")
     print(f"\n{'='*50}\n✨ 抓取完成！\n{'='*50}\n")
-
 
 if __name__ == "__main__":
     main()
