@@ -1,9 +1,45 @@
 {
   "date": "2026-04-25",
-  "generated_at": "2026-04-25T14:43:34.736548",
+  "generated_at": "2026-04-25T22:43:28.104363",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "5f5895994de8",
+          "title": "Trump fires the entire National Science Board",
+          "link": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+          "description": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already been funding research at historically low levels and has seen significant delays in doling out that funding. The NSF has been fundamental in [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-25T15:20:15-04:00"
+        },
+        {
+          "id": "6539adc4f35c",
+          "title": "An influx of used EVs could drive down prices",
+          "link": "https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices",
+          "description": "Part of what has held back electric cars has been the cost. But an influx of used vehicles over the next three years could bring prices down dramatically. In 2025, just 123,000 leases on EVs expired. That is expected to more than double to 300,000 in 2026, and double again to 600,000 in 2027 and [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-25T14:25:23-04:00"
+        },
+        {
+          "id": "814e075c85c4",
+          "title": "Researchers say we’re talking less than ever",
+          "link": "https://www.theverge.com/science/918753/researchers-talking-less",
+          "description": "Researchers at the University of Missouri-Kansas City and the University of Arizona say that between 2005 and 2019, the number of words we speak out loud to another human being fell by nearly 28 percent. And that has likely only gotten worse following the pandemic. The researchers actually counted the number of words we were [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-25T11:03:53-04:00"
+        },
+        {
+          "id": "af6d3c4272f7",
+          "title": "Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable",
+          "link": "https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale",
+          "description": "I’ve been testing compact, magnetic Qi2 power banks that can snap onto your phone for an upcoming buying guide. They make recharging much easier than bringing along a huge battery that weighs down your bag. One of my favorites so far is the Sharge Icemag 3, a 10,000mAh model that can wirelessly output 25W to [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-25T11:00:00-04:00"
+        },
         {
           "id": "55b15372b46e",
           "title": "The Govee smart lamp brightened up my room, and then my life",
@@ -57,42 +93,6 @@
           "source": "The Verge",
           "category": "tech",
           "pub_date": "2026-04-24T16:45:58-04:00"
-        },
-        {
-          "id": "b25470d95a33",
-          "title": "Alex Jones has uncovered another massive conspiracy",
-          "link": "https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker",
-          "description": "Alex Jones may soon lose Infowars, the digital perch that he's used for decades to traffic in conspiracy theories, to The Onion, the satirical newspaper. But not before he's uncovered something truly dastardly: comedian Tim Heidecker's past (publicly available) work. \"The Onion newspaper has been rocked by the discovery that their new creative director, produced [&#8230;]",
-          "source": "The Verge",
-          "category": "tech",
-          "pub_date": "2026-04-24T16:10:00-04:00"
-        },
-        {
-          "id": "790320bf9433",
-          "title": "The person who allegedly leaked Paramount’s new Avatar movie has been arrested",
-          "link": "https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus",
-          "description": "Following Paramount Skydance's move to launch an investigation into how its upcoming Avatar Aang: The Last Airbender animated feature leaked onto the internet, a suspect has been taken into custody by police. The Straits Times reports Singaporean police have arrested a 26-year-old man who is alleged to have uploaded the new Avatar movie (previously titled [&#8230;]",
-          "source": "The Verge",
-          "category": "tech",
-          "pub_date": "2026-04-24T15:45:01-04:00"
-        },
-        {
-          "id": "a1e143a58a13",
-          "title": "BMW is one step closer to selling you a color-changing car",
-          "link": "https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing",
-          "description": "At CES 2022, BMW debuted its BMW iX Flow concept car that could dynamically change its appearance using the same grayscale E Ink panels found in e-readers like the Kindle. It was followed by the BMW i Vision Dee concept and the BMW i5 Flow Nostokana that were both upgraded with color E Ink panels. [&#8230;]",
-          "source": "The Verge",
-          "category": "tech",
-          "pub_date": "2026-04-24T13:31:44-04:00"
-        },
-        {
-          "id": "dcc0af08ac6c",
-          "title": "Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations",
-          "link": "https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale",
-          "description": "Spring has sprung, as they say, and to mark the occasion, Google is running a spring-centric promo until Sunday, April 26th. The limited-time discounts apply to a number of Google’s first-party devices, from the Pixel 10 Pro to the Pixel Buds Pro 2, as well as the wearables like the Pixel Watch 4. In fact, [&#8230;]",
-          "source": "The Verge",
-          "category": "tech",
-          "pub_date": "2026-04-24T13:25:49-04:00"
         },
         {
           "id": "6ce9fe8e4207",
@@ -248,19 +248,127 @@
           "pub_date": "Fri, 24 Apr 2026 11:00:36 +0000"
         },
         {
+          "id": "f04a3bb461fc",
+          "title": "The AI Industry Is Discovering That the Public Hates It",
+          "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+          "description": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 153 # Comments: 182",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 25 Apr 2026 21:11:11 +0000"
+        },
+        {
+          "id": "19346c4b21c1",
+          "title": "Can you stop beans from making you gassy?",
+          "link": "https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862",
+          "description": "Article URL: https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862 Comments URL: https://news.ycombinator.com/item?id=47904224 Points: 72 # Comments: 47",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 25 Apr 2026 20:17:41 +0000"
+        },
+        {
+          "id": "d6144242610d",
+          "title": "America's Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution",
+          "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
+          "description": "Article URL: https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html Comments URL: https://news.ycombinator.com/item?id=47903945 Points: 40 # Comments: 25",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 25 Apr 2026 19:38:55 +0000"
+        },
+        {
+          "id": "c19c588e7a58",
+          "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
+          "link": "https://getkloak.io/",
+          "description": "Article URL: https://getkloak.io/ Comments URL: https://news.ycombinator.com/item?id=47903690 Points: 29 # Comments: 22",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 25 Apr 2026 19:03:01 +0000"
+        },
+        {
+          "id": "18391a6cfdc5",
+          "title": "North American Millets Alliance(2023)",
+          "link": "https://milletsalliance.org/",
+          "description": "Article URL: https://milletsalliance.org/ Comments URL: https://news.ycombinator.com/item?id=47903190 Points: 8 # Comments: 2",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 25 Apr 2026 17:49:13 +0000"
+        },
+        {
+          "id": "cc45f3bfa66a",
+          "title": "Mine, an IDE for Coalton and Common Lisp",
+          "link": "https://coalton-lang.github.io/mine/",
+          "description": "Article URL: https://coalton-lang.github.io/mine/ Comments URL: https://news.ycombinator.com/item?id=47903173 Points: 46 # Comments: 5",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 25 Apr 2026 17:47:02 +0000"
+        },
+        {
+          "id": "a38148003022",
+          "title": "Hokusai and Tesselations",
+          "link": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+          "description": "Article URL: https://dl.ndl.go.jp/pid/1899550/1/11/ Comments URL: https://news.ycombinator.com/item?id=47902993 Points: 83 # Comments: 13",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 25 Apr 2026 17:21:22 +0000"
+        },
+        {
+          "id": "58a478bbb43d",
+          "title": "Simulacrum of Knowledge Work",
+          "link": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
+          "description": "Article URL: https://blog.happyfellow.dev/simulacrum-of-knowledge-work/ Comments URL: https://news.ycombinator.com/item?id=47902987 Points: 57 # Comments: 21",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 25 Apr 2026 17:20:34 +0000"
+        },
+        {
+          "id": "d1026c40a3b3",
+          "title": "Using coding assistance tools to revive projects you never were going to finish",
+          "link": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+          "description": "Article URL: https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/ Comments URL: https://news.ycombinator.com/item?id=47902525 Points: 110 # Comments: 79",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 25 Apr 2026 16:11:50 +0000"
+        },
+        {
+          "id": "6bfeb3c9f4bc",
+          "title": "GPT‑5.5 Bio Bug Bounty",
+          "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+          "description": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 118 # Comments: 90",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 25 Apr 2026 14:17:31 +0000"
+        },
+        {
+          "id": "db66bc6538b5",
+          "title": "HEALPix",
+          "link": "https://en.wikipedia.org/wiki/HEALPix",
+          "description": "Article URL: https://en.wikipedia.org/wiki/HEALPix Comments URL: https://news.ycombinator.com/item?id=47901312 Points: 48 # Comments: 6",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 25 Apr 2026 13:11:18 +0000"
+        },
+        {
           "id": "6afccf85086d",
           "title": "Lambda Calculus Benchmark for AI",
           "link": "https://victortaelin.github.io/lambench/",
-          "description": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 44 # Comments: 16",
+          "description": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 123 # Comments: 37",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Sat, 25 Apr 2026 11:16:23 +0000"
         },
         {
-          "id": "5b3f096974d9",
-          "title": "Only One Side Will Be the True Successor to MS-DOS – Windows 2.x",
+          "id": "4b15c041c9c4",
+          "title": "Discret 11, the French TV encryption of the 80s",
+          "link": "https://fabiensanglard.net/discret11/",
+          "description": "Article URL: https://fabiensanglard.net/discret11/ Comments URL: https://news.ycombinator.com/item?id=47900478 Points: 134 # Comments: 21",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 25 Apr 2026 11:10:41 +0000"
+        },
+        {
+          "id": "13d3700cb5a9",
+          "title": "Only one side will be the true successor to MS-DOS – Windows 2.x",
           "link": "https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/",
-          "description": "Article URL: https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/ Comments URL: https://news.ycombinator.com/item?id=47900451 Points: 19 # Comments: 16",
+          "description": "Article URL: https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/ Comments URL: https://news.ycombinator.com/item?id=47900451 Points: 67 # Comments: 47",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Sat, 25 Apr 2026 11:03:15 +0000"
@@ -269,7 +377,7 @@
           "id": "1b2632da6d13",
           "title": "A web-based RDP client built with Go WebAssembly and grdp",
           "link": "https://github.com/nakagami/grdpwasm",
-          "description": "Article URL: https://github.com/nakagami/grdpwasm Comments URL: https://news.ycombinator.com/item?id=47900440 Points: 31 # Comments: 10",
+          "description": "Article URL: https://github.com/nakagami/grdpwasm Comments URL: https://news.ycombinator.com/item?id=47900440 Points: 98 # Comments: 40",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Sat, 25 Apr 2026 10:59:29 +0000"
@@ -278,61 +386,25 @@
           "id": "b825a47a5c56",
           "title": "Martin Galway's music source files from 1980's Commodore 64 games",
           "link": "https://github.com/MartinGalway/C64_music",
-          "description": "Article URL: https://github.com/MartinGalway/C64_music Comments URL: https://news.ycombinator.com/item?id=47900398 Points: 46 # Comments: 6",
+          "description": "Article URL: https://github.com/MartinGalway/C64_music Comments URL: https://news.ycombinator.com/item?id=47900398 Points: 151 # Comments: 19",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Sat, 25 Apr 2026 10:46:14 +0000"
         },
         {
-          "id": "2ed4ae3874bd",
-          "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-          "link": "https://github.com/nex-crm/wuphf",
-          "description": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet. It runs locally in ~/.wuphf/wiki/ and you can git clone it out if you want to take your knowledge with you. The shape is the one Karpathy has been circling for a while: an LLM-native knowledge substrate that agents both read from and write into, so context compounds across sessions rather than getting re-pasted every morning. Most implementations of that idea land on Postgres, pgvector, Neo4j, Kafka, and a dashboard. I wanted to go back to ",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Sat, 25 Apr 2026 08:53:53 +0000"
-        },
-        {
           "id": "8ac33f7129ae",
           "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
           "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-          "description": "Article URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/ Comments URL: https://news.ycombinator.com/item?id=47899053 Points: 346 # Comments: 194",
+          "description": "Article URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/ Comments URL: https://news.ycombinator.com/item?id=47899053 Points: 517 # Comments: 304",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Sat, 25 Apr 2026 05:56:12 +0000"
         },
         {
-          "id": "8c6c8c365fe6",
-          "title": "Turbo Vision 2.0 – a modern port",
-          "link": "https://github.com/magiblot/tvision",
-          "description": "Article URL: https://github.com/magiblot/tvision Comments URL: https://news.ycombinator.com/item?id=47898597 Points: 170 # Comments: 45",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Sat, 25 Apr 2026 04:18:01 +0000"
-        },
-        {
-          "id": "d6e075dc12c6",
-          "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-          "link": "https://alash3al.github.io/stash?_v01",
-          "description": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 99 # Comments: 47",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Sat, 25 Apr 2026 01:24:40 +0000"
-        },
-        {
-          "id": "c40c0c1c0fe5",
-          "title": "Cosmology with Geometry Nodes",
-          "link": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
-          "description": "Article URL: https://www.blender.org/user-stories/cosmology-with-geometry-nodes/ Comments URL: https://news.ycombinator.com/item?id=47897706 Points: 87 # Comments: 2",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Sat, 25 Apr 2026 01:08:14 +0000"
-        },
-        {
           "id": "d45583b099b5",
           "title": "Plain text has been around for decades and it’s here to stay",
           "link": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-          "description": "Article URL: https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/ Comments URL: https://news.ycombinator.com/item?id=47897681 Points: 171 # Comments: 75",
+          "description": "Article URL: https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/ Comments URL: https://news.ycombinator.com/item?id=47897681 Points: 257 # Comments: 127",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Sat, 25 Apr 2026 01:03:09 +0000"
@@ -341,64 +413,19 @@
           "id": "dd8b89b12086",
           "title": "Replace IBM Quantum back end with /dev/urandom",
           "link": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-          "description": "Article URL: https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md Comments URL: https://news.ycombinator.com/item?id=47897647 Points: 229 # Comments: 33",
+          "description": "Article URL: https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md Comments URL: https://news.ycombinator.com/item?id=47897647 Points: 324 # Comments: 44",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Sat, 25 Apr 2026 00:58:38 +0000"
         },
         {
-          "id": "bcdafb797ba9",
-          "title": "Education must go beyond the mere production of words",
-          "link": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
-          "description": "Article URL: https://www.ncregister.com/commentaries/schnell-repairing-the-ruins Comments URL: https://news.ycombinator.com/item?id=47897349 Points: 96 # Comments: 44",
+          "id": "21a235a570a7",
+          "title": "Which one is more important: more parameters or more computation? (2021)",
+          "link": "https://parl.ai/projects/params_vs_compute/",
+          "description": "Article URL: https://parl.ai/projects/params_vs_compute/ Comments URL: https://news.ycombinator.com/item?id=47892655 Points: 39 # Comments: 6",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 25 Apr 2026 00:11:43 +0000"
-        },
-        {
-          "id": "ea398c818f7a",
-          "title": "My audio interface has SSH enabled by default",
-          "link": "https://hhh.hn/rodecaster-duo-fw/",
-          "description": "Article URL: https://hhh.hn/rodecaster-duo-fw/ Comments URL: https://news.ycombinator.com/item?id=47894747 Points: 280 # Comments: 84",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 24 Apr 2026 19:30:46 +0000"
-        },
-        {
-          "id": "a2a9d2a30091",
-          "title": "There Will Be a Scientific Theory of Deep Learning",
-          "link": "https://arxiv.org/abs/2604.21691",
-          "description": "Article URL: https://arxiv.org/abs/2604.21691 Comments URL: https://news.ycombinator.com/item?id=47893779 Points: 292 # Comments: 123",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 24 Apr 2026 18:06:05 +0000"
-        },
-        {
-          "id": "e61107f34ee7",
-          "title": "Google plans to invest up to $40B in Anthropic",
-          "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic Comments URL: https://news.ycombinator.com/item?id=47892074 Points: 678 # Comments: 671",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 24 Apr 2026 16:04:41 +0000"
-        },
-        {
-          "id": "d0b03323723f",
-          "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-          "link": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-          "description": "Article URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/ Comments URL: https://news.ycombinator.com/item?id=47890799 Points: 474 # Comments: 115",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 24 Apr 2026 14:28:52 +0000"
-        },
-        {
-          "id": "05eaece89f6e",
-          "title": "DeepSeek v4",
-          "link": "https://api-docs.deepseek.com/news/news260424",
-          "description": "https://api-docs.deepseek.com/ https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main... Comments URL: https://news.ycombinator.com/item?id=47884971 Points: 1984 # Comments: 1513",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 24 Apr 2026 03:01:21 +0000"
+          "pub_date": "Fri, 24 Apr 2026 16:44:57 +0000"
         },
         {
           "id": "38fc4a892314",
@@ -482,8 +509,8 @@
           "pub_date": "Fri, 24 Apr 2026 08:52:21 +0800"
         }
       ],
-      "summary": "🔬 今日科技动态摘要\n\n1. **消费电子与智能硬件创新**：Govee智能灯、Xbox工作室动态、令人兴奋的笔记本电脑、宝马可变色汽车、谷歌Pixel Watch 4促销等，显示智能家居、游戏、可穿戴设备及汽车技术持续推陈出新。\n\n2. **软件与系统更新政策调整**：微软允许用户将Windows更新暂停最多35天（可无限次操作），反映用户对系统更新自主权的需求增强。\n\n3. **科技巨头投资与合作加速**：谷歌计划向AI公司Anthropic投资高达400亿美元，欧洲率先批准莫德纳的mRNA流感-新冠联合疫苗，显示AI和生物医药领域资本与监管双轮驱动。\n\n4. **娱乐与信息安全事件**：《阿凡达》新片泄露嫌疑人被捕，Alex Jones再提阴谋论，Palantir员工讨论公司“走向法西斯”，凸显内容安全、企业伦理与内部文化争议。\n\n5. **太空探索与国防技术进展**：Artemis II打破宇航员距离纪录，Golden Dome轨道拦截器研发团队曝光，标志太空任务与军事航天技术同步推进。\n\n**今日最值得关注的发展**：谷歌对Anthropic的巨额投资（最高400亿美元）与欧洲率先批准mRNA联合疫苗，共同表明AI和生物医药领域正成为全球科技竞赛的核心战场。",
-      "count": 53
+      "summary": "🔬 今日科技动态摘要\n\n1. **政策与科研动荡**：美国总统特朗普解雇了国家科学委员会全体成员，引发对科研独立性和政策连续性的担忧。\n2. **电动汽车市场趋势**：大量二手电动汽车涌入市场，可能推动价格下行，降低消费者购车门槛。\n3. **社交与通信行为变化**：研究显示，人们面对面交流的频率降至历史最低，引发对社交隔离和心理健康影响的关注。\n4. **科技巨头与AI投资**：谷歌计划向人工智能公司Anthropic投资高达400亿美元，显示AI领域竞争持续升温。\n5. **医疗与疫苗突破**：欧洲率先批准莫德纳公司联合mRNA流感和新冠疫苗，标志着疫苗技术向多病种联合方向迈进。\n\n**今日最值得关注的趋势**：人工智能领域的巨额投资与科研政策的不确定性形成鲜明对比，而电动汽车价格下行和疫苗技术革新则预示着消费与健康领域的积极变化。",
+      "count": 56
     },
     "ai": {
       "articles": [
@@ -495,6 +522,24 @@
           "source": "Hugging Face",
           "category": "ai",
           "pub_date": "Fri, 24 Apr 2026 00:00:00 GMT"
+        },
+        {
+          "id": "a9923f114738",
+          "title": "GCC Establishes Working Group to Decide on AI/LLM Policy",
+          "link": "https://www.phoronix.com/news/GCC-Working-Group-AI-Policy",
+          "description": "Article URL: https://www.phoronix.com/news/GCC-Working-Group-AI-Policy Comments URL: https://news.ycombinator.com/item?id=47898043 Points: 2 # Comments: 0",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Sat, 25 Apr 2026 02:18:46 +0000"
+        },
+        {
+          "id": "259feb5b3e7e",
+          "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
+          "link": "https://www.qbitai.com/2026/04/407363.html",
+          "description": "“为自动驾驶而来”",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 25 Apr 2026 15:38:18 +0000"
         },
         {
           "id": "1f4e51e03531",
@@ -576,19 +621,10 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Fri, 24 Apr 2026 10:10:16 +0000"
-        },
-        {
-          "id": "97a3252b0cff",
-          "title": "Mobileye 2026财年一季度营收增长27%，自动驾驶商业化进程持续推进",
-          "link": "https://www.qbitai.com/2026/04/406775.html",
-          "description": "表现超出此前市场预期。",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 24 Apr 2026 09:45:43 +0000"
         }
       ],
-      "summary": "🔬 今日AI动态摘要\n\n1. **DeepSeek-V4重磅发布，百万token长上下文成现实**：DeepSeek-V4正式亮相，支持百万token超长上下文，已在Hugging Face、PPIO、华为云等平台上线或适配，标志着国产大模型在长文本处理能力上取得关键突破，并公开了长达484天的详细技术迭代报告。\n\n2. **自动驾驶与物理AI加速融合**：轻舟智航率先进军“物理AI”赛道，Mobileye公布2026财年一季度营收增长27%，显示自动驾驶商业化进程持续提速。同时，华为乾崑智驾加持的全新奥迪Q5L实现燃油SUV智能化升级，传统车企智能化转型加速。\n\n3. **国产AI生图能力再突破，硬刚GPT-Image-2**：国内AI图像生成模型被曝“捅破天花板”，直接对标GPT-Image-2，表明国产多模态生成能力正快速追赶国际前沿水平。\n\n4. **AI向家庭与宠物场景渗透**：涂鸦智能推出“Hey Tuya”全屋智能超级入口，实现AI自主监测宠物健康；优必选发布“Thinker cosmos”开发者生态平台，推动人形机器人走向规模化应用，AI正从专业领域向日常家庭生活落地。\n\n5. **学术界与产业界人才突破引关注**：一篇由“0博士”团队（含两位GPT天才本科生及一位二本背景研究者）完成的论文获得ICLR时间检验奖，十年研究终获认可，凸显AI领域人才多元化和长期积累的价值。\n\n**今日最值得关注的发展**：**DeepSeek-V4的正式发布**，不仅以百万token上下文能力刷新行业标杆，更通过详尽的技术复盘和全平台适配，展现了国产大模型在工程化与开放生态上的系统性进步。",
-      "count": 11
+      "summary": "🔬 今日AI动态摘要\n\n1. **DeepSeek-V4重磅发布**：具备百万级token超长上下文能力，华为云首发适配，PPIO等平台已上线预览版，标志着大模型在长文本处理与Agent应用上取得关键突破。\n2. **华为加速智能驾驶与全屋智能布局**：发布ADS 5强化世界模型路线，今年投入180亿；同时与奥迪合作推动燃油SUV智能化，涂鸦智能推出AI宠物健康监测，展现多场景AI落地。\n3. **国产AI图像生成能力再升级**：有模型挑战GPT-Image-2，国产AI生图“天花板”被捅破，显示国内在视觉生成领域持续追赶。\n4. **自动驾驶赛道进入“物理AI”阶段**：轻舟智航率先进军物理AI，优必选发布人形机器人开发者平台Thinker cosmos，推动机器人从实验室走向规模化应用。\n5. **学术界与政策动向**：GCC成立AI/LLM政策工作组；0博士组合（两位本科生+非传统背景研究者）获ICLR时间检验奖，凸显AI领域对创新与跨背景人才的开放。\n\n**今日最值得关注的发展**：DeepSeek-V4的百万级上下文能力与华为ADS 5的发布，分别在大模型与智能驾驶两个关键领域标志着AI技术从“可用”向“可规模化实用”迈出实质一步。",
+      "count": 12
     },
     "cctv": {
       "articles": [
@@ -962,7 +998,7 @@
           "pub_date": ""
         }
       ],
-      "summary": "🔬 今日新闻联播动态摘要\n\n1. **习近平强调整治不良工作作风，推动外交亲近世界**：习近平主席要求“根除不良工作作风”，同时“习式外交”持续拉近中国与世界的距离，体现内外兼修的发展思路。\n\n2. **中俄联合反导演练与军事技术民用化并进**：北京与莫斯科举行潜在导弹战争演练，同时中国推动更多军事技术转向民用领域以提振经济，显示国防与经济发展深度融合。\n\n3. **民生领域聚焦教育、医疗费用及环境改善**：教育、医疗费用成为社会关注焦点；国际组织赞扬中国绿色复兴成果；南水北调工程推动环境改善并创造就业，体现可持续发展与民生保障。\n\n4. **反腐与两岸关系持续受关注**：重庆原政治官员面临腐败调查，台湾新党承诺助力改善两岸关系，显示反腐常态化与对台政策持续发力。\n\n5. **国际合作与科技突破并行**：中国为阿拉伯国家发射首颗卫星，亚投行贷款2.5亿美元支持北京煤改气工程，展现中国在航天、金融、能源转型领域的国际合作与自主创新。\n\n今日最值得关注的发展是习近平主席同时聚焦内部作风整治与外部外交亲近，表明中国在强化治理能力的同时，正以更开放的姿态融入全球体系。",
+      "summary": "🔬 今日新闻联播动态摘要\n\n1. **中俄联合反导演习**：北京与莫斯科举行潜在导弹战争背景下的联合军事演练，凸显两国在防务领域的战略协作深化。\n2. **军民融合与绿色转型**：更多军事技术被定向转向民用领域以提振经济；同时，国际组织赞扬中国的绿色复兴努力，北京煤改气项目获亚投行2.5亿美元贷款支持。\n3. **民生与治理焦点**：教育、医疗费用成为关键社会关切；重庆前政治官员涉腐被调查；南京大屠杀最年长幸存者逝世（享年100岁），引发历史记忆与纪念日反思。\n4. **两岸关系与外交**：台湾新党承诺助力改善两岸关系；习近平倡导“习近平式外交”推动中国走近世界，并强调“铲除不良工作作风”。\n5. **区域发展与国际合作**：中国为阿拉伯国家发射首颗卫星；南水北调工程改善环境并创造就业；云南香格里拉高原地区旅游与文化价值被专题报道。\n\n今日最值得关注的发展：中俄联合反导演习与亚投行支持北京绿色能源转型，共同体现了中国在安全与气候领域的双重战略布局。",
       "count": 41
     }
   }
