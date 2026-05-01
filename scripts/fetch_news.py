@@ -12,11 +12,8 @@ from email.utils import parsedate_to_datetime
 
 DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 
-DATA_DIR = os.path.join(
-    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-    "docs",
-    "data"
-)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_DIR = os.path.join(BASE_DIR, "docs", "data")
 
 MAX_DAYS = 2
 
@@ -36,41 +33,58 @@ RSS_SOURCES = {
         {"name": "机器之心", "url": "https://www.jiqizhixin.com/rss"},
     ],
     "cctv": [
-        {"name": "人民网-要闻", "url": "http://www.people.com.cn/rss/politics.xml"},
+        {"name": "人民网-时政", "url": "http://www.people.com.cn/rss/politics.xml"},
+        {"name": "人民网-国际", "url": "http://www.people.com.cn/rss/world.xml"},
+        {"name": "人民网-社会", "url": "http://www.people.com.cn/rss/society.xml"},
+        {"name": "人民网-军事", "url": "http://www.people.com.cn/rss/military.xml"},
+        {"name": "人民网-要闻", "url": "http://www.people.com.cn/rss/ywkx.xml"},
         {"name": "Global Times", "url": "https://www.globaltimes.cn/rss/outbrain.xml"},
-        {"name": "环球网", "url": "https://world.huanqiu.com/rss/world.xml"},
-    ]
+    ],
 }
 
 
 def fetch_url(url, timeout=20):
-    try:
-        req = urllib.request.Request(url, headers={
-            "User-Agent": "Mozilla/5.0",
-            "Accept": "application/rss+xml, application/xml, text/xml, */*",
-        })
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            raw = resp.read()
+    for attempt in range(2):
+        try:
+            req = urllib.request.Request(url, headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36",
+                "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            })
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                raw = resp.read()
+
             for enc in ("utf-8", "gbk", "gb2312", "latin-1"):
                 try:
                     return raw.decode(enc)
                 except Exception:
                     continue
+
             return raw.decode("utf-8", errors="ignore")
-    except Exception as e:
-        print(f"  ⚠ 抓取失败: {url} - {e}")
-        return None
+
+        except Exception as e:
+            if attempt == 0:
+                time.sleep(2)
+                continue
+            print(f"  ⚠ 抓取失败: {url} - {e}")
+            return None
+
+    return None
 
 
 def clean_html(text):
     if not text:
         return ""
+    text = re.sub(r"<!\[CDATA\[(.*?)\]\]>", r"\1", text, flags=re.S)
     text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 
 
 def try_parse_xml(xml_text):
+    if not xml_text:
+        return None
+
     try:
         return ET.fromstring(xml_text)
     except ET.ParseError:
@@ -85,8 +99,10 @@ def parse_date(date_str):
     if not date_str:
         return None
 
+    date_str = date_str.strip()
+
     try:
-        dt = parsedate_to_datetime(date_str.strip())
+        dt = parsedate_to_datetime(date_str)
     except Exception:
         try:
             dt = datetime.datetime.fromisoformat(date_str.replace("Z", "+00:00"))
@@ -101,7 +117,7 @@ def parse_date(date_str):
     return dt
 
 
-def is_recent(date_str, days=2):
+def is_recent(date_str, days):
     dt = parse_date(date_str)
     if dt is None:
         return False
@@ -127,14 +143,32 @@ def link_has_old_year(link):
     return False
 
 
-def parse_rss(xml_text, source_name, category):
+def get_child_text(entry, tags, ns):
+    for tag in tags:
+        el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
+        if el is not None and el.text:
+            return el.text.strip()
+    return ""
+
+
+def get_link(entry, ns):
+    link_el = entry.find("link")
+    if link_el is not None:
+        link = (link_el.get("href") or link_el.text or "").strip()
+        if link:
+            return link
+
+    atom_link = entry.find("atom:link", ns)
+    if atom_link is not None:
+        return atom_link.get("href", "").strip()
+
+    return ""
+
+
+def parse_rss(xml_text, source_name, category, relaxed=False):
     items = []
 
-    if not xml_text:
-        return items
-
     root = try_parse_xml(xml_text)
-
     if root is None:
         print(f"  ⚠ XML解析失败: {source_name}")
         return items
@@ -152,58 +186,37 @@ def parse_rss(xml_text, source_name, category):
     days_limit = 10 if category == "cctv" else 2
 
     for entry in entries:
-        pub_date = ""
+        pub_date = get_child_text(
+            entry,
+            ("pubDate", "published", "atom:published", "updated", "atom:updated", "dc:date"),
+            ns
+        )
 
-        for tag in ("pubDate", "published", "atom:published", "updated", "atom:updated", "dc:date"):
-            el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
-            if el is not None and el.text:
-                pub_date = el.text.strip()
-                break
-
-        # 科技 / AI：严格最近2天
         if category != "cctv":
-            if not is_recent(pub_date, days=days_limit):
+            if not is_recent(pub_date, days_limit):
+                continue
+        else:
+            if pub_date and not is_recent(pub_date, days_limit):
+                continue
+            if not pub_date and not relaxed:
                 continue
 
-        # 新闻联播：如果有日期就检查；没日期先保留，避免整栏为空
-        if category == "cctv" and pub_date:
-            if not is_recent(pub_date, days=days_limit):
-                continue
-
-        title = ""
-
-        for tag in ("title", "atom:title"):
-            el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
-            if el is not None and el.text:
-                title = clean_html(el.text)
-                break
-
-        link = ""
-
-        link_el = entry.find("link")
-        if link_el is not None:
-            link = (link_el.get("href") or link_el.text or "").strip()
-
-        if not link:
-            atom_link = entry.find("atom:link", ns)
-            if atom_link is not None:
-                link = atom_link.get("href", "").strip()
+        title = clean_html(get_child_text(entry, ("title", "atom:title"), ns))
+        link = get_link(entry, ns)
 
         if link_has_old_year(link):
             print(f"     跳过旧链接: {title[:30]} {link}")
             continue
 
-        desc = ""
-
-        for tag in ("description", "summary", "atom:summary", "content:encoded", "atom:content"):
-            el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
-            if el is not None and el.text:
-                desc = clean_html(el.text)[:600]
-                break
+        desc = clean_html(get_child_text(
+            entry,
+            ("description", "summary", "atom:summary", "content:encoded", "atom:content"),
+            ns
+        ))[:600]
 
         if title and len(title) > 3:
             items.append({
-                "id": hashlib.md5(f"{title}{link}".encode()).hexdigest()[:12],
+                "id": hashlib.md5(f"{title}{link}".encode("utf-8")).hexdigest()[:12],
                 "title": title,
                 "link": link,
                 "description": desc,
@@ -249,7 +262,7 @@ def summarize_news(articles, category_name):
         return "今日暂无相关新闻。"
 
     titles_text = "\n".join([
-        f"- {a['title']} ({a['source']})"
+        f"- {a['title']}（{a['source']}）"
         for a in articles[:15]
     ])
 
@@ -304,6 +317,19 @@ def get_date_list():
     return dates[:MAX_DAYS]
 
 
+def dedupe_articles(articles):
+    seen = set()
+    unique = []
+
+    for article in articles:
+        key = article["id"]
+        if key not in seen:
+            seen.add(key)
+            unique.append(article)
+
+    return unique
+
+
 def main():
     today = datetime.date.today().isoformat()
 
@@ -329,6 +355,8 @@ def main():
         "cctv": "新闻联播"
     }
 
+    rss_cache = {}
+
     for cat, sources in RSS_SOURCES.items():
         print(f"\n📡 抓取 {cat_labels[cat]} 新闻...")
         all_articles = []
@@ -336,18 +364,25 @@ def main():
         for src in sources:
             print(f"  → {src['name']}: {src['url']}")
             xml = fetch_url(src["url"])
-            articles = parse_rss(xml, src["name"], cat)
+            rss_cache[(cat, src["name"])] = xml
+
+            articles = parse_rss(xml, src["name"], cat, relaxed=False)
             print(f"     获取 {len(articles)} 条")
             all_articles.extend(articles)
             time.sleep(1)
 
-        seen = set()
-        unique = []
+        unique = dedupe_articles(all_articles)
 
-        for article in all_articles:
-            if article["id"] not in seen:
-                seen.add(article["id"])
-                unique.append(article)
+        if cat == "cctv" and len(unique) == 0:
+            print("  ⚠ 新闻联播严格模式为0，启用兜底模式...")
+            fallback_articles = []
+
+            for src in sources:
+                xml = rss_cache.get((cat, src["name"]))
+                articles = parse_rss(xml, src["name"], cat, relaxed=True)
+                fallback_articles.extend(articles)
+
+            unique = dedupe_articles(fallback_articles)[:20]
 
         result["categories"][cat]["articles"] = unique
         result["categories"][cat]["count"] = len(unique)
