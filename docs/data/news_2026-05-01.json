@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T09:57:58.427593",
+  "generated_at": "2026-05-01T10:16:28.477762",
   "categories": {
     "tech": {
       "articles": [
@@ -275,10 +275,28 @@
           "pub_date": "Wed, 29 Apr 2026 17:52:52 +0000"
         },
         {
+          "id": "8364a87c2aaf",
+          "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+          "link": "https://news.ycombinator.com/item?id=47972888",
+          "description": "Hi HN, I'm Erwin. I built a small free open-source utility that bridges Bluetooth LE MIDI keyboards into the new Windows MIDI Services stack so any DAW or Web MIDI app can use them as if they were wired. I bought a Roland FP-90X piano partly because it had Bluetooth MIDI. On my Windows 11 PC, pairing succeeded, but my DAW couldn't see the keyboard, and notes I sent from the PC never made the piano sing. After a regrettable number of evenings, I'd separated this into three independent bugs stacked on top of each other. The first one is the famous one: Windows only natively exposes BLE-MIDI thro",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 09:52:15 +0000"
+        },
+        {
+          "id": "ab8092db1346",
+          "title": "The Rotary Un-Smartphone",
+          "link": "https://skysedge.com/telecom/RUSP/index.html",
+          "description": "Article URL: https://skysedge.com/telecom/RUSP/index.html Comments URL: https://news.ycombinator.com/item?id=47972807 Points: 5 # Comments: 0",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 09:39:07 +0000"
+        },
+        {
           "id": "6fbac5f438b5",
           "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
           "link": "https://github.com/darrylmorley/whatcable",
-          "description": "USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer. WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc. Built in Swift/SwiftUI. Open source, free, no tracking. GitHub: https://github.com/darrylmorley/whatcable Comments URL: https://news.ycombinator.com/item?id=47972511 Points: 4 # Comments: 0",
+          "description": "USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer. WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc. Built in Swift/SwiftUI. Open source, free, no tracking. GitHub: https://github.com/darrylmorley/whatcable Comments URL: https://news.ycombinator.com/item?id=47972511 Points: 42 # Comments: 6",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Fri, 01 May 2026 08:43:45 +0000"
@@ -287,7 +305,7 @@
           "id": "0e33223898e5",
           "title": "Grok 4.3",
           "link": "https://docs.x.ai/developers/models/grok-4.3",
-          "description": "Article URL: https://docs.x.ai/developers/models/grok-4.3 Comments URL: https://news.ycombinator.com/item?id=47972447 Points: 42 # Comments: 31",
+          "description": "Article URL: https://docs.x.ai/developers/models/grok-4.3 Comments URL: https://news.ycombinator.com/item?id=47972447 Points: 63 # Comments: 56",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Fri, 01 May 2026 08:29:31 +0000"
@@ -296,88 +314,70 @@
           "id": "51f5a05750bf",
           "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
           "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
-          "description": "Article URL: https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw== Comments URL: https://news.ycombinator.com/item?id=47972213 Points: 41 # Comments: 8",
+          "description": "Article URL: https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw== Comments URL: https://news.ycombinator.com/item?id=47972213 Points: 48 # Comments: 10",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Fri, 01 May 2026 07:44:17 +0000"
         },
         {
-          "id": "36dcd9470bb1",
-          "title": "It’s Toasted",
-          "link": "https://yadin.com/notes/toasted/",
-          "description": "Article URL: https://yadin.com/notes/toasted/ Comments URL: https://news.ycombinator.com/item?id=47971830 Points: 40 # Comments: 28",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 06:34:54 +0000"
-        },
-        {
-          "id": "02092e9a1d7f",
-          "title": "If I Could Make My Own GitHub",
+          "id": "35b3621c869a",
+          "title": "If I could make my own GitHub",
           "link": "https://matduggan.com/if-i-could-make-my-own-github/",
-          "description": "Article URL: https://matduggan.com/if-i-could-make-my-own-github/ Comments URL: https://news.ycombinator.com/item?id=47971771 Points: 32 # Comments: 25",
+          "description": "Article URL: https://matduggan.com/if-i-could-make-my-own-github/ Comments URL: https://news.ycombinator.com/item?id=47971771 Points: 40 # Comments: 30",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Fri, 01 May 2026 06:21:01 +0000"
         },
         {
-          "id": "e2dced6d50dc",
-          "title": "Your Biggest Vulnerability is your Shitty Compensation",
-          "link": "https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/",
-          "description": "Article URL: https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/ Comments URL: https://news.ycombinator.com/item?id=47971134 Points: 15 # Comments: 4",
+          "id": "6d0efd12f105",
+          "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
+          "link": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
+          "description": "Article URL: https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/ Comments URL: https://news.ycombinator.com/item?id=47971768 Points: 75 # Comments: 58",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Fri, 01 May 2026 03:53:44 +0000"
+          "pub_date": "Fri, 01 May 2026 06:20:33 +0000"
         },
         {
-          "id": "a984c46f67aa",
-          "title": "ClawIRC – IRC Chat for Agents",
-          "link": "https://clawirc.com/",
-          "description": "Article URL: https://clawirc.com/ Comments URL: https://news.ycombinator.com/item?id=47970089 Points: 6 # Comments: 0",
+          "id": "22d61d6f54b4",
+          "title": "OpenWarp",
+          "link": "https://openwarp.zerx.dev",
+          "description": "Article URL: https://openwarp.zerx.dev Comments URL: https://news.ycombinator.com/item?id=47970622 Points: 91 # Comments: 78",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Fri, 01 May 2026 00:29:57 +0000"
+          "pub_date": "Fri, 01 May 2026 02:10:46 +0000"
+        },
+        {
+          "id": "460ad57408de",
+          "title": "The Hearts of the Super Nintendo (2024)",
+          "link": "https://fabiensanglard.net/snes_hearts/",
+          "description": "Article URL: https://fabiensanglard.net/snes_hearts/ Comments URL: https://news.ycombinator.com/item?id=47970578 Points: 27 # Comments: 5",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 02:02:11 +0000"
         },
         {
           "id": "1f4a30f1dffe",
           "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
           "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-          "description": "Article URL: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/ Comments URL: https://news.ycombinator.com/item?id=47969288 Points: 104 # Comments: 40",
+          "description": "Article URL: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/ Comments URL: https://news.ycombinator.com/item?id=47969288 Points: 106 # Comments: 40",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 22:48:51 +0000"
         },
         {
-          "id": "9702224995cf",
-          "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
-          "link": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
-          "description": "Article URL: https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html Comments URL: https://news.ycombinator.com/item?id=47968982 Points: 86 # Comments: 25",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 22:18:57 +0000"
-        },
-        {
           "id": "4e0f134243fb",
           "title": "Can I disable all data collection from my vehicle?",
           "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-          "description": "Article URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle Comments URL: https://news.ycombinator.com/item?id=47967786 Points: 632 # Comments: 255",
+          "description": "Article URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle Comments URL: https://news.ycombinator.com/item?id=47967786 Points: 634 # Comments: 262",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 20:27:22 +0000"
         },
         {
-          "id": "7488007e11e9",
-          "title": "Does Postgres Scale?",
-          "link": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
-          "description": "Article URL: https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres Comments URL: https://news.ycombinator.com/item?id=47966625 Points: 135 # Comments: 58",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 18:45:22 +0000"
-        },
-        {
           "id": "8c4723365130",
           "title": "Full-Text Search with DuckDB",
           "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-          "description": "Article URL: https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html Comments URL: https://news.ycombinator.com/item?id=47966254 Points: 135 # Comments: 30",
+          "description": "Article URL: https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html Comments URL: https://news.ycombinator.com/item?id=47966254 Points: 138 # Comments: 31",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 18:14:18 +0000"
@@ -386,7 +386,7 @@
           "id": "76578337de8e",
           "title": "I built a Game Boy emulator in F#",
           "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-          "description": "Article URL: https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/ Comments URL: https://news.ycombinator.com/item?id=47965503 Points: 275 # Comments: 65",
+          "description": "Article URL: https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/ Comments URL: https://news.ycombinator.com/item?id=47965503 Points: 277 # Comments: 65",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 17:14:21 +0000"
@@ -395,7 +395,7 @@
           "id": "8d077e978742",
           "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
           "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-          "description": "Recent: Copy Fail - https://news.ycombinator.com/item?id=47952181 - April 2026 (466 comments) Comments URL: https://news.ycombinator.com/item?id=47965108 Points: 499 # Comments: 389",
+          "description": "Recent: Copy Fail - https://news.ycombinator.com/item?id=47952181 - April 2026 (466 comments) Comments URL: https://news.ycombinator.com/item?id=47965108 Points: 503 # Comments: 396",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 16:43:47 +0000"
@@ -404,7 +404,7 @@
           "id": "ae1fe53c3bc6",
           "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
           "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-          "description": "Article URL: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/ Comments URL: https://news.ycombinator.com/item?id=47965060 Points: 593 # Comments: 195",
+          "description": "Article URL: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/ Comments URL: https://news.ycombinator.com/item?id=47965060 Points: 602 # Comments: 197",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 16:41:00 +0000"
@@ -413,7 +413,7 @@
           "id": "510ebe3eb7bf",
           "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
           "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-          "description": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 396 # Comments: 135",
+          "description": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 397 # Comments: 137",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 16:09:26 +0000"
@@ -422,7 +422,7 @@
           "id": "2a8b896ebbbd",
           "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
           "link": "https://twitter.com/theo/status/2049645973350363168",
-          "description": "https://xcancel.com/theo/status/2049645973350363168 Comments URL: https://news.ycombinator.com/item?id=47963204 Points: 1156 # Comments: 634",
+          "description": "https://xcancel.com/theo/status/2049645973350363168 Comments URL: https://news.ycombinator.com/item?id=47963204 Points: 1163 # Comments: 640",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 14:36:58 +0000"
@@ -431,28 +431,28 @@
           "id": "2ae0c5af8aa1",
           "title": "How an oil refinery works",
           "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-          "description": "Article URL: https://www.construction-physics.com/p/how-an-oil-refinery-works Comments URL: https://news.ycombinator.com/item?id=47962548 Points: 422 # Comments: 126",
+          "description": "Article URL: https://www.construction-physics.com/p/how-an-oil-refinery-works Comments URL: https://news.ycombinator.com/item?id=47962548 Points: 423 # Comments: 129",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 13:54:20 +0000"
         },
         {
-          "id": "f33aea2f7b74",
-          "title": "I aggregated 28 US Government auction sites into one search",
-          "link": "https://bidprowl.com",
-          "description": "Article URL: https://bidprowl.com Comments URL: https://news.ycombinator.com/item?id=47961378 Points: 281 # Comments: 77",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 12:24:53 +0000"
-        },
-        {
           "id": "2962402ce4cb",
           "title": "Belgium stops decommissioning nuclear power plants",
           "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-          "description": "Article URL: https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/ Comments URL: https://news.ycombinator.com/item?id=47961319 Points: 819 # Comments: 825",
+          "description": "Article URL: https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/ Comments URL: https://news.ycombinator.com/item?id=47961319 Points: 824 # Comments: 835",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 12:17:14 +0000"
+        },
+        {
+          "id": "f189dc1f111c",
+          "title": "Lessons from Building an OTel Normalizer for GenAI",
+          "link": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
+          "description": "Article URL: https://www.groundcover.com/blog/otel-normalizer-genai-part-1 Comments URL: https://news.ycombinator.com/item?id=47958081 Points: 4 # Comments: 0",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 04:23:40 +0000"
         },
         {
           "id": "10ad7b738009",
@@ -509,6 +509,15 @@
           "pub_date": "Wed, 29 Apr 2026 12:10:00 +0000"
         },
         {
+          "id": "600059b9f8b9",
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "link": "https://sspai.com/post/109266",
+          "description": "📅本周新预告《暗影蜘蛛侠》正式预告4月26日，剧集《暗影蜘蛛侠》发布了黑白和彩色双版本正式预告，将于5月27日上线PrimeVideo。尼古拉斯·凯奇领衔主演，聚焦1930年代纽约的一个上了年纪、倒霉 ... 查看全文",
+          "source": "少数派",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 17:00:00 +0800"
+        },
+        {
           "id": "29c47c94e8bf",
           "title": "本月玩什么｜朋友收藏、识质存在、沙罗周期",
           "link": "https://sspai.com/post/109257",
@@ -545,8 +554,8 @@
           "pub_date": "Thu, 30 Apr 2026 09:16:28 +0800"
         }
       ],
-      "summary": "🔬 今日科技动态摘要\n\n1. **科技巨头法律与监管博弈加剧**：马斯克与奥特曼的OpenAI庭审出现戏剧性转折，Meta威胁因“技术不可行”要求而撤出新墨西哥州，美国国会则持续拖延监控改革，显示科技行业与政策制定者之间的紧张关系升级。\n\n2. **苹果与Rivian财报表现分化**：尽管芯片短缺，苹果iPhone营收仍跃升至570亿美元；Rivian在R2车型投产推动下营收增长，但因特朗普政府削减贷款协议而被迫缩减新电动汽车工厂规模，反映行业在政策不确定性下的调整。\n\n3. **用户增长与平台安全策略冲突**：Roblox因年龄验证措施导致日活跃用户持续下降，凸显社交/游戏平台在合规与增长之间的平衡难题；微软Xbox模式向所有Windows 11 PC开放，则展示了平台扩展的新思路。\n\n4. **全球科技与政治环境风险凸显**：美国新闻自由排名跌至乌克兰之后，俄罗斯因太空港暴露于乌克兰打击范围而隐藏发射计划，Linux系统遭遇近年来最严重安全威胁——表明地缘政治与网络安全风险正深刻影响科技生态。\n\n5. **游戏与下一代技术探索**：Housemarque通过《Saros》展示了差异化开发下一代游戏的路径，暗示行业在硬件迭代期寻求创意突破的趋势。\n\n**今日最值得关注的发展**：科技巨头在监管、安全与增长的多重压力下，正面临从法律对抗到政策调整、从用户策略到地缘风险的全面挑战，而苹果与Rivian的财报则揭示了行业内部的分化与韧性。",
-      "count": 60
+      "summary": "🔬 今日科技动态摘要\n\n1. **AI与法律博弈加剧**：马斯克与奥特曼的OpenAI诉讼案中，陪审团离席期间发生关键事件，马斯克在庭审中多次出现重大失误，凸显科技巨头间法律与商业竞争的激烈程度。\n\n2. **科技巨头面临监管与市场双重压力**：Meta威胁因“技术上不切实际”的要求退出新墨西哥州；Roblox因年龄验证措施导致日活用户持续下滑；美国国会再次推迟监控改革，显示科技行业在合规与增长间的矛盾加剧。\n\n3. **苹果与Rivian财报亮点与隐忧并存**：苹果iPhone营收跃升至570亿美元，克服芯片短缺；Rivian营收增长并启动R2生产，但因特朗普政府削减贷款协议而缩减新工厂规模，反映新能源车企的政策依赖风险。\n\n4. **微软与游戏产业新动向**：微软Xbox模式正式向所有Windows 11 PC开放；Housemarque工作室以新作《Saros》探索下一代游戏差异化发展路径，显示平台与内容创新持续活跃。\n\n5. **网络安全与地缘政治风险上升**：近年来最严重的Linux安全漏洞引发全球警惕；俄罗斯因太空港暴露于乌克兰打击范围内而加密发射计划；美国新闻自由排名跌至乌克兰之后，全球威权趋势加剧。\n\n**今日最值得关注的发展**：AI领域法律战升级、科技巨头监管博弈白热化，以及全球网络安全与地缘政治风险同步上升，成为科技行业当前最突出的挑战。",
+      "count": 61
     },
     "ai": {
       "articles": [
@@ -659,12 +668,12 @@
           "pub_date": "Thu, 30 Apr 2026 07:24:29 +0000"
         }
       ],
-      "summary": "🔬 今日AI动态摘要\n\n1. **AI评估（Evals）成为新算力瓶颈**：Hugging Face指出，随着模型能力提升，对AI系统进行有效评估所需的计算资源正迅速增长，可能取代训练成为新的算力瓶颈。\n\n2. **具身智能仿真框架开源突破**：国内团队开源新一代具身智能仿真框架，支持高吞吐、并行高保真渲染，旨在突破视觉仿真算力瓶颈，推动规模化训练。\n\n3. **AI从“人用”转向“人机协作”**：商汤科技杨帆提出，AI发展的拐点在于生产关系重构，未来趋势是从工具型AI转向与人类深度协作的智能体，重构工作模式。\n\n4. **AI经济基础设施与数字员工兴起**：Stripe发布288项新功能，聚焦构建AI时代的经济基础设施；阿里推出数字员工产品QoderWake，可承担工程师、运营、销售等岗位，体现AI向企业级应用加速渗透。\n\n5. **马斯克与OpenAI法庭交锋**：马斯克与OpenAI的诉讼案开庭，双方高层互相指责，暴露硅谷科技巨头在AI发展方向与利益分配上的激烈博弈。\n\n今日最值得关注的发展是：AI评估（Evals）正成为新算力瓶颈，这预示着行业焦点将从“训练更大模型”转向“如何可靠衡量与验证模型能力”，可能重塑AI研发的资源分配格局。",
+      "summary": "🔬 今日AI动态摘要\n\n1. **AI评估（Evals）成为新的算力瓶颈**：Hugging Face指出，随着AI模型复杂度提升，评估过程本身正消耗大量计算资源，成为制约发展的新瓶颈。\n\n2. **具身智能仿真框架开源突破**：国内团队开源新一代高吞吐、高保真并行渲染仿真框架，旨在解决视觉仿真算力瓶颈，推动具身智能规模化训练。\n\n3. **AI与生产关系重构**：商汤杨帆提出AI拐点已至，从“人用AI”转向“人机协作”，本质是生产关系的重构，预示AI将深度融入工作流。\n\n4. **AI经济基础设施加速构建**：Stripe发布288项新功能，定位为AI时代的经济基础设施；阿里推出数字员工产品QoderWake，可承担多种岗位角色，AI Agent商业化提速。\n\n5. **马斯克与OpenAI法庭交锋**：硅谷巨头围绕AI控制权展开激烈法律战，暴露行业内部利益与理念冲突，凸显AI治理的复杂性。\n\n📌 **今日最值得关注的发展**：AI评估成为新算力瓶颈，以及具身智能仿真框架的开源突破，分别从“模型验证”和“训练效率”两个维度，揭示了当前AI技术落地的关键挑战与解决路径。",
       "count": 12
     },
     "cctv": {
       "articles": [],
-      "summary": "今日暂无相关新闻。",
+      "summary": "",
       "count": 0
     }
   }
