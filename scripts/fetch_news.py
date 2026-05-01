@@ -6,7 +6,6 @@ import hashlib
 import time
 import re
 import urllib.request
-import urllib.error
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
@@ -14,7 +13,6 @@ DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "docs", "data")
-
 MAX_DAYS = 2
 
 RSS_SOURCES = {
@@ -25,19 +23,22 @@ RSS_SOURCES = {
         {"name": "Engadget", "url": "https://www.engadget.com/rss.xml"},
         {"name": "ZDNet", "url": "https://www.zdnet.com/news/rss.xml"},
         {"name": "少数派", "url": "https://sspai.com/feed"},
-        {"name": "InfoQ中文", "url": "https://feed.infoq.com/cn/"},
     ],
-
     "ai": [
         {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml"},
-        {"name": "Import AI", "url": "https://importai.substack.com/feed"},
+        {"name": "DeepLearning.AI", "url": "https://www.deeplearning.ai/the-batch/feed/"},
+        {"name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/"},
+        {"name": "OpenAI Blog", "url": "https://openai.com/news/rss.xml"},
+        {"name": "HN-AI", "url": "https://hnrss.org/newest?q=AI+LLM&count=30"},
+        {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/"},
+        {"name": "量子位", "url": "https://www.qbitai.com/feed"},
     ],
-
     "cctv": [
-        {"name": "人民网", "url": "http://www.people.com.cn/rss/politics.xml"},
-        {"name": "环球时报", "url": "https://www.globaltimes.cn/rss/outbrain.xml"},
-        {"name": "中国日报", "url": "http://www.chinadaily.com.cn/rss/china_rss.xml"},
-    ]
+        {"name": "Global Times", "url": "https://www.globaltimes.cn/rss/outbrain.xml"},
+        {"name": "China Daily", "url": "http://www.chinadaily.com.cn/rss/china_rss.xml"},
+        {"name": "人民网-要闻", "url": "http://www.people.com.cn/rss/politics.xml"},
+        {"name": "HN-China", "url": "https://hnrss.org/newest?q=China&count=30"},
+    ],
 }
 
 
@@ -45,10 +46,14 @@ def fetch_url(url, timeout=20):
     for attempt in range(2):
         try:
             req = urllib.request.Request(url, headers={
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36",
-                "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
-                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+                "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, text/html, */*",
+                "Accept-Language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+                "Cache-Control": "no-cache",
+                "Referer": "https://www.google.com/",
+                "Connection": "close",
             })
+
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 raw = resp.read()
 
@@ -62,8 +67,10 @@ def fetch_url(url, timeout=20):
 
         except Exception as e:
             if attempt == 0:
-                time.sleep(2)
+                print(f"  ⚠ 第一次抓取失败，5秒后重试: {url}")
+                time.sleep(5)
                 continue
+
             print(f"  ⚠ 抓取失败: {url} - {e}")
             return None
 
@@ -73,9 +80,11 @@ def fetch_url(url, timeout=20):
 def clean_html(text):
     if not text:
         return ""
+
     text = re.sub(r"<!\[CDATA\[(.*?)\]\]>", r"\1", text, flags=re.S)
     text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"\s+", " ", text)
+
     return text.strip()
 
 
@@ -117,6 +126,7 @@ def parse_date(date_str):
 
 def is_recent(date_str, days):
     dt = parse_date(date_str)
+
     if dt is None:
         return False
 
@@ -144,19 +154,23 @@ def link_has_old_year(link):
 def get_child_text(entry, tags, ns):
     for tag in tags:
         el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
+
         if el is not None and el.text:
             return el.text.strip()
+
     return ""
 
 
 def get_link(entry, ns):
     link_el = entry.find("link")
+
     if link_el is not None:
         link = (link_el.get("href") or link_el.text or "").strip()
         if link:
             return link
 
     atom_link = entry.find("atom:link", ns)
+
     if atom_link is not None:
         return atom_link.get("href", "").strip()
 
@@ -167,6 +181,7 @@ def parse_rss(xml_text, source_name, category, relaxed=False):
     items = []
 
     root = try_parse_xml(xml_text)
+
     if root is None:
         print(f"  ⚠ XML解析失败: {source_name}")
         return items
@@ -178,10 +193,16 @@ def parse_rss(xml_text, source_name, category, relaxed=False):
     }
 
     entries = root.findall(".//item")
+
     if not entries:
         entries = root.findall(".//atom:entry", ns)
 
-    days_limit = 10 if category == "cctv" else 2
+    if category == "tech":
+        days_limit = 3
+    elif category == "ai":
+        days_limit = 7
+    else:
+        days_limit = 14
 
     for entry in entries:
         pub_date = get_child_text(
@@ -190,13 +211,11 @@ def parse_rss(xml_text, source_name, category, relaxed=False):
             ns
         )
 
-        if category != "cctv":
+        if pub_date:
             if not is_recent(pub_date, days_limit):
                 continue
         else:
-            if pub_date and not is_recent(pub_date, days_limit):
-                continue
-            if not pub_date and not relaxed:
+            if not relaxed:
                 continue
 
         title = clean_html(get_child_text(entry, ("title", "atom:title"), ns))
@@ -234,7 +253,7 @@ def call_deepseek(prompt, max_tokens=1500):
         "model": "deepseek-chat",
         "messages": [{"role": "user", "content": prompt}],
         "max_tokens": max_tokens,
-        "temperature": 0.7
+        "temperature": 0.7,
     }).encode("utf-8")
 
     req = urllib.request.Request(
@@ -264,7 +283,7 @@ def summarize_news(articles, category_name):
         for a in articles[:15]
     ])
 
-    prompt = f"""以下是今日{category_name}新闻标题，请用中文总结，提炼3-5个核心内容：
+    prompt = f"""以下是{category_name}新闻标题，请用中文总结，提炼3-5个核心内容：
 
 {titles_text}
 
@@ -321,6 +340,7 @@ def dedupe_articles(articles):
 
     for article in articles:
         key = article["id"]
+
         if key not in seen:
             seen.add(key)
             unique.append(article)
@@ -350,7 +370,13 @@ def main():
     cat_labels = {
         "tech": "科技",
         "ai": "AI",
-        "cctv": "新闻联播"
+        "cctv": "新闻联播",
+    }
+
+    max_items = {
+        "tech": 40,
+        "ai": 30,
+        "cctv": 30,
     }
 
     rss_cache = {}
@@ -361,18 +387,22 @@ def main():
 
         for src in sources:
             print(f"  → {src['name']}: {src['url']}")
+
             xml = fetch_url(src["url"])
             rss_cache[(cat, src["name"])] = xml
 
             articles = parse_rss(xml, src["name"], cat, relaxed=False)
+
             print(f"     获取 {len(articles)} 条")
             all_articles.extend(articles)
-            time.sleep(1)
+
+            # 减少被拦截：源与源之间间隔 3 秒
+            time.sleep(3)
 
         unique = dedupe_articles(all_articles)
 
-        if cat == "cctv" and len(unique) == 0:
-            print("  ⚠ 新闻联播严格模式为0，启用兜底模式...")
+        if len(unique) == 0:
+            print(f"  ⚠ {cat_labels[cat]} 严格模式为0，启用兜底模式...")
             fallback_articles = []
 
             for src in sources:
@@ -380,7 +410,9 @@ def main():
                 articles = parse_rss(xml, src["name"], cat, relaxed=True)
                 fallback_articles.extend(articles)
 
-            unique = dedupe_articles(fallback_articles)[:20]
+            unique = dedupe_articles(fallback_articles)
+
+        unique = unique[:max_items[cat]]
 
         result["categories"][cat]["articles"] = unique
         result["categories"][cat]["count"] = len(unique)
