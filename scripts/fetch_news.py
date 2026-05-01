@@ -36,9 +36,8 @@ RSS_SOURCES = {
         {"name": "机器之心", "url": "https://www.jiqizhixin.com/rss"},
     ],
     "cctv": [
-        {"name": "央视新闻", "url": "https://news.cctv.com/rss/china.xml"},
-        {"name": "央视国际", "url": "https://news.cctv.com/rss/world.xml"},
         {"name": "人民网-要闻", "url": "http://www.people.com.cn/rss/politics.xml"},
+        {"name": "Global Times", "url": "https://www.globaltimes.cn/rss/outbrain.xml"},
         {"name": "环球网", "url": "https://world.huanqiu.com/rss/world.xml"},
     ]
 }
@@ -117,8 +116,8 @@ def link_has_old_year(link):
     if not link:
         return False
 
-    years = re.findall(r"20\d{2}", link)
     current_year = datetime.datetime.now().year
+    years = re.findall(r"20\d{2}", link)
 
     for y in years:
         year = int(y)
@@ -135,6 +134,7 @@ def parse_rss(xml_text, source_name, category):
         return items
 
     root = try_parse_xml(xml_text)
+
     if root is None:
         print(f"  ⚠ XML解析失败: {source_name}")
         return items
@@ -160,10 +160,18 @@ def parse_rss(xml_text, source_name, category):
                 pub_date = el.text.strip()
                 break
 
-        if not is_recent(pub_date, days=days_limit):
-            continue
+        # 科技 / AI：严格最近2天
+        if category != "cctv":
+            if not is_recent(pub_date, days=days_limit):
+                continue
+
+        # 新闻联播：如果有日期就检查；没日期先保留，避免整栏为空
+        if category == "cctv" and pub_date:
+            if not is_recent(pub_date, days=days_limit):
+                continue
 
         title = ""
+
         for tag in ("title", "atom:title"):
             el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
             if el is not None and el.text:
@@ -171,6 +179,7 @@ def parse_rss(xml_text, source_name, category):
                 break
 
         link = ""
+
         link_el = entry.find("link")
         if link_el is not None:
             link = (link_el.get("href") or link_el.text or "").strip()
@@ -185,6 +194,7 @@ def parse_rss(xml_text, source_name, category):
             continue
 
         desc = ""
+
         for tag in ("description", "summary", "atom:summary", "content:encoded", "atom:content"):
             el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
             if el is not None and el.text:
