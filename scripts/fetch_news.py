@@ -18,13 +18,15 @@ DATA_DIR = os.path.join(BASE_DIR, "docs", "data")
 MAX_DAYS = 2
 
 RSS_SOURCES = {
-    "tech": [
-        {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
-        {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
-        {"name": "Hacker News", "url": "https://hnrss.org/frontpage"},
-        {"name": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/"},
-        {"name": "少数派", "url": "https://sspai.com/feed"},
-        {"name": "InfoQ中文", "url": "https://feed.infoq.com/cn/"},
+   "tech": [
+    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
+    {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
+    {"name": "Hacker News", "url": "https://hnrss.org/frontpage"},
+    {"name": "Engadget", "url": "https://www.engadget.com/rss.xml"},
+    {"name": "ZDNet", "url": "https://www.zdnet.com/news/rss.xml"},
+    {"name": "少数派", "url": "https://sspai.com/feed"},
+    {"name": "InfoQ中文", "url": "https://feed.infoq.com/cn/"},
+],
     ],
     "ai": [
         {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml"},
