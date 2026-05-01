@@ -1,379 +1,653 @@
 {
   "date": "2026-05-01",
+  "generated_at": "2026-05-01T10:45:20.444536",
   "categories": {
-    "tech": [
-      {
-        "id": "358d0709200e",
-        "title": "Trump nominates Fox News doctor to be the next surgeon general",
-        "link": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
-        "description": "Trump lashes out at Cassidy while announcing his new nomination.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 22:09:36 +0000"
-      },
-      {
-        "id": "be88dea88261",
-        "title": "US falls below Ukraine in press freedom as global autocracy takes hold",
-        "link": "https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/",
-        "description": "\"In 25 years, the average score... has never been so low.\"",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 21:53:48 +0000"
-      },
-      {
-        "id": "300ae2769caf",
-        "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
-        "link": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
-        "description": "\"We had serious inbound attempts to the cosmodrome that day.\"",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 21:35:02 +0000"
-      },
-      {
-        "id": "398a81b9b998",
-        "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
-        "link": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
-        "description": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 21:11:51 +0000"
-      },
-      {
-        "id": "8535ceca2e97",
-        "title": "The most severe Linux threat to surface in years catches the world flat-footed",
-        "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
-        "description": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 20:20:48 +0000"
-      },
-      {
-        "id": "abb536c4a004",
-        "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
-        "link": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
-        "description": "Meta said the Kenyan workers didn't \"meet our standards.\"",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 19:55:18 +0000"
-      },
-      {
-        "id": "587bf68a1124",
-        "title": "Researchers try to cut the genetic code from 20 to 19 amino acids",
-        "link": "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
-        "description": "Using AI tools, the team reworked part of the ribosome to need one less amino acid.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 19:34:15 +0000"
-      },
-      {
-        "id": "81d9cbf76012",
-        "title": "Blue Origin certainly has ambitious launch targets for New Glenn",
-        "link": "https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/",
-        "description": "If Blue Origin wants to launch New Glenn 100 times a year, we're here for it.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 19:12:26 +0000"
-      },
-      {
-        "id": "9f497137a925",
-        "title": "Stranded traveler gets more than he bargained for in Resident Evil teaser",
-        "link": "https://arstechnica.com/culture/2026/04/stranded-traveler-gets-more-than-he-bargained-for-in-resident-evil-teaser/",
-        "description": "Fresh off the Oscar-winning Weapons, director Zach Cregger has his own vision for the gaming franchise.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 19:02:10 +0000"
-      },
-      {
-        "id": "6ce784072a04",
-        "title": "Beijing bans drone sales even as rest of world buys Chinese drones",
-        "link": "https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/",
-        "description": "Beijing's citywide ban restricts the sale, transport, and storage of drones.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 17:47:17 +0000"
-      },
-      {
-        "id": "800ebd53195d",
-        "title": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel",
-        "link": "https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/",
-        "description": "There was uncertainty about whether Kennedy would fight or simply try an end run.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 16:20:45 +0000"
-      },
-      {
-        "id": "5e6ca84e6814",
-        "title": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
-        "link": "https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/",
-        "description": "AI finds value in motorsport, multiplying limited computational fluid dynamics resources.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 15:37:41 +0000"
-      },
-      {
-        "id": "60361f41de6c",
-        "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-        "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-        "description": "Old 86-DOS source code dates back to the time before Microsoft bought it.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 14:20:29 +0000"
-      },
-      {
-        "id": "561efc33bda4",
-        "title": "More than half of all  Polymarket \"long shot\" bets on military action pay off",
-        "link": "https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/",
-        "description": "Sensitive information and the prediction markets can be a winning combination.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 13:16:04 +0000"
-      },
-      {
-        "id": "067679b95a89",
-        "title": "Florida Republicans reject plan to weaken childhood vaccine requirements",
-        "link": "https://arstechnica.com/health/2026/04/gop-led-florida-house-junks-desantis-plan-to-ease-vaccine-mandates/",
-        "description": "DeSantis had called for a special session to take up the proposed changes.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 11:15:43 +0000"
-      },
-      {
-        "id": "e89894491f01",
-        "title": "The hidden cost of Google's AI defaults and the illusion of choice",
-        "link": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
-        "description": "Google says it respects user privacy in AI, but the reality is not so black and white.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 11:00:31 +0000"
-      },
-      {
-        "id": "df21293b28d4",
-        "title": "ABC can beat Trump FCC's license threat if owner Disney is willing to fight",
-        "link": "https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/",
-        "description": "Broadcast license renewals are \"all but automatic\" due to 1996 change in US law.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Wed, 29 Apr 2026 19:14:44 +0000"
-      },
-      {
-        "id": "235b6ae356cf",
-        "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
-        "link": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
-        "description": "Directions also include system instructions to act like \"you have a vivid inner life.\"",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Wed, 29 Apr 2026 19:00:58 +0000"
-      },
-      {
-        "id": "7e7515f4fc61",
-        "title": "Howdy's dated $3/month ad-free streaming service said to have 1M subscribers",
-        "link": "https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/",
-        "description": "Most are keeping their subscriptions after signing up, too, research firm says.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Wed, 29 Apr 2026 18:02:20 +0000"
-      },
-      {
-        "id": "2332559cc61c",
-        "title": "New Sam Bankman-Fried trial would be huge waste of court’s time, judge says",
-        "link": "https://arstechnica.com/tech-policy/2026/04/new-sam-bankman-fried-trial-would-be-huge-waste-of-courts-time-judge-says/",
-        "description": "FTX fraudster came out as Republican, then tried to claim Biden's DOJ targeted him.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "pub_date": "Wed, 29 Apr 2026 17:52:52 +0000"
-      },
-      {
-        "id": "8364a87c2aaf",
-        "title": "Show HN: Perfect Bluetooth MIDI for Windows",
-        "link": "https://news.ycombinator.com/item?id=47972888",
-        "description": "Hi HN, I'm Erwin. I built a small free open-source utility that bridges Bluetooth LE MIDI keyboards into the new Windows MIDI Services stack so any DAW or Web MIDI app can use them as if they were wired.I bought a Roland FP-90X piano partly because it had Bluetooth MIDI. On my Windows 11 PC, pairing succeeded, but my DAW couldn't see the keyboard, and notes I sent from the PC never made the piano sing. After a regrettable number of evenings, I'd separated this into three independent bugs stacked on top of each other.The first one is the famous one: Windows only natively exposes BLE-MIDI through the WinRT API, which almost no DAW polls. So even when pairing succeeds, MIDI apps still don't see the device. The usual workaround is MIDIberry + loopMIDI, but I couldn't get that combination to work reliably in my case, and I wanted a single-app solution. The new Windows MIDI Services stack ships with a feature called loopback endpoints: anything written to one comes out the other, and any winmm/WinRT/WMS app sees them as normal MIDI ports. So the app does WinRT BLE-MIDI in, WMS loopback out. That solved direction one, piano to PC.Direction two, PC to piano, still didn't work. NoteOn writes were getting ATT-acked, but the piano stayed silent. I tried both write modes (some BLE-MIDI firmware silently drops one or the other), poked the proprietary ISSC characteristic. Every variant ATT-acked, every variant produced silence. So the bytes were reaching the piano. Something above the GATT layer was discarding them.After ruling out pairing, encryption, write-mode, and proprietary characteristics, the only obvious lever left was the MIDI channel itself. The FP-90X has a panel setting called Transmit Channel, default 1. Yet it turns out the FP-90X actually receives on channel 4 (and it can't be changed). Notes I sent on channel 1 were being GATT-acked and silently dropped at the synth engine because they weren't on the channel the engine was listening to. Zero feedback at any layer. The fix had to live up at the application layer, so I added a Detect button that plays N test notes ascending on each channel from 1 to 16: you count the notes you actually hear, and that number is the receive channel. Saved per BLE MAC, about 75 seconds, done forever per piano.Tech stack: .NET 10, Avalonia for the UI (the BLE/MIDI side is Windows-only but the UI layer is portable), Microsoft.Windows.Devices.Midi2 packages for WMS, Windows.Devices.Midi (WinRT) directly for BLE rather than relying on Korg's older WinMM driver. MIT, single self-contained ~21 MB exe, no installer, no telemetry, no account.I built it for myself and use it with my FP-90X to play through a few apps and Web MIDI sites. Pete from the Microsoft Windows MIDI Services team commented positively on the BLE integration when I shared it on r/synthesizers (https://www.reddit.com/r/synthesizers/comments/1szvuiq/comme...).Site (with screenshots): https://mayerwin.github.io/Perfect-Bluetooth-MIDI-For-Window...Source: https://github.com/mayerwin/Perfect-Bluetooth-MIDI-For-Windo...Long-form technical writeup with the full debugging story: https://dev.to/mayerwin/why-your-bluetooth-midi-keyboard-sil...Personally tested with my FP-90X only. The BLE side is generic, so other keyboards (WIDI Master, CME, Yamaha MD-BT01, Korg microKey Air, ROLI Seaboard, etc.) should work, but I haven't confirmed individually. Device test reports, issues, and PRs very welcome.\n\nComments URL: https://news.ycombinator.com/item?id=47972888\nPoints: 18\n# Comments: 1",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Fri, 01 May 2026 09:52:15 +0000"
-      },
-      {
-        "id": "ab8092db1346",
-        "title": "The Rotary Un-Smartphone",
-        "link": "https://skysedge.com/telecom/RUSP/index.html",
-        "description": "Article URL: https://skysedge.com/telecom/RUSP/index.html\nComments URL: https://news.ycombinator.com/item?id=47972807\nPoints: 10\n# Comments: 0",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Fri, 01 May 2026 09:39:07 +0000"
-      },
-      {
-        "id": "6fbac5f438b5",
-        "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-        "link": "https://github.com/darrylmorley/whatcable",
-        "description": "USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer.WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc.Built in Swift/SwiftUI. Open source, free, no tracking.GitHub: https://github.com/darrylmorley/whatcable\n\nComments URL: https://news.ycombinator.com/item?id=47972511\nPoints: 53\n# Comments: 9",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Fri, 01 May 2026 08:43:45 +0000"
-      },
-      {
-        "id": "0e33223898e5",
-        "title": "Grok 4.3",
-        "link": "https://docs.x.ai/developers/models/grok-4.3",
-        "description": "Article URL: https://docs.x.ai/developers/models/grok-4.3\nComments URL: https://news.ycombinator.com/item?id=47972447\nPoints: 69\n# Comments: 76",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Fri, 01 May 2026 08:29:31 +0000"
-      },
-      {
-        "id": "51f5a05750bf",
-        "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
-        "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
-        "description": "Article URL: https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==\nComments URL: https://news.ycombinator.com/item?id=47972213\nPoints: 49\n# Comments: 13",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Fri, 01 May 2026 07:44:17 +0000"
-      },
-      {
-        "id": "35b3621c869a",
-        "title": "If I could make my own GitHub",
-        "link": "https://matduggan.com/if-i-could-make-my-own-github/",
-        "description": "Article URL: https://matduggan.com/if-i-could-make-my-own-github/\nComments URL: https://news.ycombinator.com/item?id=47971771\nPoints: 52\n# Comments: 33",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Fri, 01 May 2026 06:21:01 +0000"
-      },
-      {
-        "id": "6d0efd12f105",
-        "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
-        "link": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
-        "description": "Article URL: https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/\nComments URL: https://news.ycombinator.com/item?id=47971768\nPoints: 78\n# Comments: 61",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Fri, 01 May 2026 06:20:33 +0000"
-      },
-      {
-        "id": "22d61d6f54b4",
-        "title": "OpenWarp",
-        "link": "https://openwarp.zerx.dev",
-        "description": "Article URL: https://openwarp.zerx.dev\nComments URL: https://news.ycombinator.com/item?id=47970622\nPoints: 95\n# Comments: 78",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Fri, 01 May 2026 02:10:46 +0000"
-      },
-      {
-        "id": "460ad57408de",
-        "title": "The Hearts of the Super Nintendo (2024)",
-        "link": "https://fabiensanglard.net/snes_hearts/",
-        "description": "Article URL: https://fabiensanglard.net/snes_hearts/\nComments URL: https://news.ycombinator.com/item?id=47970578\nPoints: 27\n# Comments: 5",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Fri, 01 May 2026 02:02:11 +0000"
-      },
-      {
-        "id": "1f4a30f1dffe",
-        "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
-        "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-        "description": "Article URL: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/\nComments URL: https://news.ycombinator.com/item?id=47969288\nPoints: 106\n# Comments: 40",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 22:48:51 +0000"
-      },
-      {
-        "id": "4e0f134243fb",
-        "title": "Can I disable all data collection from my vehicle?",
-        "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-        "description": "Article URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle\nComments URL: https://news.ycombinator.com/item?id=47967786\nPoints: 634\n# Comments: 263",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 20:27:22 +0000"
-      },
-      {
-        "id": "8c4723365130",
-        "title": "Full-Text Search with DuckDB",
-        "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-        "description": "Article URL: https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html\nComments URL: https://news.ycombinator.com/item?id=47966254\nPoints: 139\n# Comments: 31",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 18:14:18 +0000"
-      },
-      {
-        "id": "76578337de8e",
-        "title": "I built a Game Boy emulator in F#",
-        "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-        "description": "Article URL: https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/\nComments URL: https://news.ycombinator.com/item?id=47965503\nPoints: 279\n# Comments: 66",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 17:14:21 +0000"
-      },
-      {
-        "id": "8d077e978742",
-        "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-        "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-        "description": "Recent: Copy Fail - https://news.ycombinator.com/item?id=47952181 - April 2026 (466 comments)\n\nComments URL: https://news.ycombinator.com/item?id=47965108\nPoints: 507\n# Comments: 396",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 16:43:47 +0000"
-      },
-      {
-        "id": "ae1fe53c3bc6",
-        "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-        "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-        "description": "Article URL: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/\nComments URL: https://news.ycombinator.com/item?id=47965060\nPoints: 604\n# Comments: 198",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 16:41:00 +0000"
-      },
-      {
-        "id": "510ebe3eb7bf",
-        "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-        "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-        "description": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/\nComments URL: https://news.ycombinator.com/item?id=47964617\nPoints: 397\n# Comments: 138",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 16:09:26 +0000"
-      },
-      {
-        "id": "2a8b896ebbbd",
-        "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-        "link": "https://twitter.com/theo/status/2049645973350363168",
-        "description": "https://xcancel.com/theo/status/2049645973350363168\n\nComments URL: https://news.ycombinator.com/item?id=47963204\nPoints: 1168\n# Comments: 640",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 14:36:58 +0000"
-      },
-      {
-        "id": "2ae0c5af8aa1",
-        "title": "How an oil refinery works",
-        "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-        "description": "Article URL: https://www.construction-physics.com/p/how-an-oil-refinery-works\nComments URL: https://news.ycombinator.com/item?id=47962548\nPoints: 425\n# Comments: 132",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 13:54:20 +0000"
-      },
-      {
-        "id": "f189dc1f111c",
-        "title": "Lessons from Building an OTel Normalizer for GenAI",
-        "link": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
-        "description": "Article URL: https://www.groundcover.com/blog/otel-normalizer-genai-part-1\nComments URL: https://news.ycombinator.com/item?id=47958081\nPoints: 4\n# Comments: 0",
-        "source": "Hacker News",
-        "category": "tech",
-        "pub_date": "Thu, 30 Apr 2026 04:23:40 +0000"
-      }
-    ],
-    "ai": [
-      {
-        "id": "0ceb22a3bd82",
-        "title": "AI evals are becoming the new compute bottleneck",
-        "link": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-        "description": "",
-        "source": "Hugging Face",
-        "category": "ai",
-        "pub_date": "Wed, 29 Apr 2026 16:45:09 GMT"
-      },
-      {
-        "id": "a7140f0d0047",
-        "title": "Granite 4.1 LLMs: How They’re Built",
-        "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-        "description": "",
-        "source": "Hugging Face",
-        "category": "ai",
-        "pub_date": "Wed, 29 Apr 2026 15:01:48 GMT"
-      }
-    ],
-    "cctv": []
+    "tech": {
+      "articles": [
+        {
+          "id": "2b4aab491019",
+          "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
+          "description": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-30T18:59:51-04:00"
+        },
+        {
+          "id": "5ada41f659f7",
+          "title": "Roblox’s daily users continue to drop as age checks slow growth",
+          "link": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
+          "description": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of last year, which was a drop from 152 million in Q3 [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-30T17:25:15-04:00"
+        },
+        {
+          "id": "93246045ee35",
+          "title": "Congress keeps kicking surveillance reform down the road",
+          "link": "https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension",
+          "description": "Congress has reauthorized Section 702 of the Foreign Intelligence Surveillance Act - but only for another 45 days. The extension is meant to give legislators more time to negotiate reforms to the controversial wiretapping bill. If the past few weeks are any indication of how future debates will go, however, we're in for a bumpy [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-30T16:59:58-04:00"
+        },
+        {
+          "id": "69e528fed126",
+          "title": "Apple&#8217;s iPhone revenue jumps to $57 billion despite chip shortages",
+          "link": "https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings",
+          "description": "Apple's iPhone revenue jumped 22 percent to $57 billion over the past few months, despite supply chain issues impacting the device's processor. In an interview with Reuters, Apple CEO Tim Cook said iPhone \"demand was off the charts,\" but there's \"a little less flexibility at the moment for getting more parts.\" Cook added during an [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-30T16:58:22-04:00"
+        },
+        {
+          "id": "0a40548f4ac2",
+          "title": "Rivian’s revenue is up as R2 production kicks into gear",
+          "link": "https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2",
+          "description": "Rivian reported its first quarter earnings of 2026, providing us a closer look at the company's financial health as it kicks off production for the crucial R2 electric vehicle. We've already got Rivian's production and delivery statement from the first three months of the year. The company sold 10,365 vehicles in Q1, representing 20 percent [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-30T16:05:00-04:00"
+        },
+        {
+          "id": "02bdd84bb423",
+          "title": "Rivian downsizes new EV factory after Trump’s DOE slashes loan agreement",
+          "link": "https://www.theverge.com/transportation/921585/rivian-georgia-factory-capacity-doe-loan",
+          "description": "Rivian announced some changes today with regard to the factory its building in the state of Georgia. The company was planning to build the facility in two phases, each resulting in 200,000 vehicles of annual production capacity, for a total of 400,000 units. Rivian held a ground breaking ceremony late last year. Now the company [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-30T16:05:00-04:00"
+        },
+        {
+          "id": "7122045293dd",
+          "title": "The logic of the racist Supreme Court isn’t adding up",
+          "link": "https://www.theverge.com/policy/921597/callais-louisiana-voting-rights-act",
+          "description": "Close watchers of the Supreme Court knew that the conservative supermajority was about to murder what was left of the Voting Rights Act. Wednesday's decision in Louisiana v. Callais took down Section 2 of the law, clearing the way for racist gerrymandering, because it is now racist to remedy racism. The decision is an affront [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-30T15:52:29-04:00"
+        },
+        {
+          "id": "ca12f8f08c37",
+          "title": "Microsoft’s Xbox mode is now available for all Windows 11 PCs",
+          "link": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
+          "description": "Microsoft is now rolling out its Xbox mode to all Windows 11 PCs. The new Xbox mode adds a full-screen interface to the Xbox PC app, much like Steam's Big Picture Mode, and originally debuted as the Xbox Full Screen Experience (FSE) with Asus' Xbox Ally devices. \"Some players in select markets will be able [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-30T15:14:23-04:00"
+        },
+        {
+          "id": "c5b4cf214769",
+          "title": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
+          "link": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
+          "description": "Meta says it may be forced to pull Facebook, Instagram, and WhatsApp from New Mexico if the attorney general gets his way. The state is demanding a host of changes that the company says are impossible to achieve. After winning a $375 million jury award against Meta in a trial that argued the company misled [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-30T15:05:01-04:00"
+        },
+        {
+          "id": "13adcb1a7fec",
+          "title": "With Saros, Housemarque makes a case for doing next-gen games differently",
+          "link": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
+          "description": "It is generally frowned upon to care too much about appearances. We have a lot of little aphorisms discouraging this - books and their covers, beauty being skin deep, style over substance, that sort of thing. Vanity is a risk. Should one put a disproportionate effort into how a thing looks, then said work may [&#8230;]",
+          "source": "The Verge",
+          "category": "tech",
+          "pub_date": "2026-04-30T15:00:45-04:00"
+        },
+        {
+          "id": "358d0709200e",
+          "title": "Trump nominates Fox News doctor to be the next surgeon general",
+          "link": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
+          "description": "Trump lashes out at Cassidy while announcing his new nomination.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 22:09:36 +0000"
+        },
+        {
+          "id": "be88dea88261",
+          "title": "US falls below Ukraine in press freedom as global autocracy takes hold",
+          "link": "https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/",
+          "description": "\"In 25 years, the average score... has never been so low.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 21:53:48 +0000"
+        },
+        {
+          "id": "300ae2769caf",
+          "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
+          "link": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
+          "description": "\"We had serious inbound attempts to the cosmodrome that day.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 21:35:02 +0000"
+        },
+        {
+          "id": "398a81b9b998",
+          "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+          "link": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
+          "description": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 21:11:51 +0000"
+        },
+        {
+          "id": "8535ceca2e97",
+          "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+          "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+          "description": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 20:20:48 +0000"
+        },
+        {
+          "id": "abb536c4a004",
+          "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
+          "link": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+          "description": "Meta said the Kenyan workers didn't \"meet our standards.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 19:55:18 +0000"
+        },
+        {
+          "id": "587bf68a1124",
+          "title": "Researchers try to cut the genetic code from 20 to 19 amino acids",
+          "link": "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
+          "description": "Using AI tools, the team reworked part of the ribosome to need one less amino acid.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 19:34:15 +0000"
+        },
+        {
+          "id": "81d9cbf76012",
+          "title": "Blue Origin certainly has ambitious launch targets for New Glenn",
+          "link": "https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/",
+          "description": "If Blue Origin wants to launch New Glenn 100 times a year, we're here for it.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 19:12:26 +0000"
+        },
+        {
+          "id": "9f497137a925",
+          "title": "Stranded traveler gets more than he bargained for in Resident Evil teaser",
+          "link": "https://arstechnica.com/culture/2026/04/stranded-traveler-gets-more-than-he-bargained-for-in-resident-evil-teaser/",
+          "description": "Fresh off the Oscar-winning Weapons , director Zach Cregger has his own vision for the gaming franchise.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 19:02:10 +0000"
+        },
+        {
+          "id": "6ce784072a04",
+          "title": "Beijing bans drone sales even as rest of world buys Chinese drones",
+          "link": "https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/",
+          "description": "Beijing's citywide ban restricts the sale, transport, and storage of drones.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 17:47:17 +0000"
+        },
+        {
+          "id": "800ebd53195d",
+          "title": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel",
+          "link": "https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/",
+          "description": "There was uncertainty about whether Kennedy would fight or simply try an end run.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 16:20:45 +0000"
+        },
+        {
+          "id": "5e6ca84e6814",
+          "title": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
+          "link": "https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/",
+          "description": "AI finds value in motorsport, multiplying limited computational fluid dynamics resources.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 15:37:41 +0000"
+        },
+        {
+          "id": "60361f41de6c",
+          "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+          "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+          "description": "Old 86-DOS source code dates back to the time before Microsoft bought it.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 14:20:29 +0000"
+        },
+        {
+          "id": "369551d23518",
+          "title": "More than half of all Polymarket \"long shot\" bets on military action pay off",
+          "link": "https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/",
+          "description": "Sensitive information and the prediction markets can be a winning combination.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 13:16:04 +0000"
+        },
+        {
+          "id": "067679b95a89",
+          "title": "Florida Republicans reject plan to weaken childhood vaccine requirements",
+          "link": "https://arstechnica.com/health/2026/04/gop-led-florida-house-junks-desantis-plan-to-ease-vaccine-mandates/",
+          "description": "DeSantis had called for a special session to take up the proposed changes.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 11:15:43 +0000"
+        },
+        {
+          "id": "e89894491f01",
+          "title": "The hidden cost of Google's AI defaults and the illusion of choice",
+          "link": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
+          "description": "Google says it respects user privacy in AI, but the reality is not so black and white.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 11:00:31 +0000"
+        },
+        {
+          "id": "df21293b28d4",
+          "title": "ABC can beat Trump FCC's license threat if owner Disney is willing to fight",
+          "link": "https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/",
+          "description": "Broadcast license renewals are \"all but automatic\" due to 1996 change in US law.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Wed, 29 Apr 2026 19:14:44 +0000"
+        },
+        {
+          "id": "235b6ae356cf",
+          "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
+          "link": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
+          "description": "Directions also include system instructions to act like \"you have a vivid inner life.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Wed, 29 Apr 2026 19:00:58 +0000"
+        },
+        {
+          "id": "7e7515f4fc61",
+          "title": "Howdy's dated $3/month ad-free streaming service said to have 1M subscribers",
+          "link": "https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/",
+          "description": "Most are keeping their subscriptions after signing up, too, research firm says.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Wed, 29 Apr 2026 18:02:20 +0000"
+        },
+        {
+          "id": "2332559cc61c",
+          "title": "New Sam Bankman-Fried trial would be huge waste of court’s time, judge says",
+          "link": "https://arstechnica.com/tech-policy/2026/04/new-sam-bankman-fried-trial-would-be-huge-waste-of-courts-time-judge-says/",
+          "description": "FTX fraudster came out as Republican, then tried to claim Biden's DOJ targeted him.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Wed, 29 Apr 2026 17:52:52 +0000"
+        },
+        {
+          "id": "8364a87c2aaf",
+          "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+          "link": "https://news.ycombinator.com/item?id=47972888",
+          "description": "Hi HN, I'm Erwin. I built a small free open-source utility that bridges Bluetooth LE MIDI keyboards into the new Windows MIDI Services stack so any DAW or Web MIDI app can use them as if they were wired. I bought a Roland FP-90X piano partly because it had Bluetooth MIDI. On my Windows 11 PC, pairing succeeded, but my DAW couldn't see the keyboard, and notes I sent from the PC never made the piano sing. After a regrettable number of evenings, I'd separated this into three independent bugs stacked on top of each other. The first one is the famous one: Windows only natively exposes BLE-MIDI thro",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 09:52:15 +0000"
+        },
+        {
+          "id": "ab8092db1346",
+          "title": "The Rotary Un-Smartphone",
+          "link": "https://skysedge.com/telecom/RUSP/index.html",
+          "description": "Article URL: https://skysedge.com/telecom/RUSP/index.html Comments URL: https://news.ycombinator.com/item?id=47972807 Points: 12 # Comments: 1",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 09:39:07 +0000"
+        },
+        {
+          "id": "6fbac5f438b5",
+          "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+          "link": "https://github.com/darrylmorley/whatcable",
+          "description": "USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer. WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc. Built in Swift/SwiftUI. Open source, free, no tracking. GitHub: https://github.com/darrylmorley/whatcable Comments URL: https://news.ycombinator.com/item?id=47972511 Points: 68 # Comments: 15",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 08:43:45 +0000"
+        },
+        {
+          "id": "0e33223898e5",
+          "title": "Grok 4.3",
+          "link": "https://docs.x.ai/developers/models/grok-4.3",
+          "description": "Article URL: https://docs.x.ai/developers/models/grok-4.3 Comments URL: https://news.ycombinator.com/item?id=47972447 Points: 85 # Comments: 93",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 08:29:31 +0000"
+        },
+        {
+          "id": "51f5a05750bf",
+          "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
+          "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
+          "description": "Article URL: https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw== Comments URL: https://news.ycombinator.com/item?id=47972213 Points: 51 # Comments: 14",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 07:44:17 +0000"
+        },
+        {
+          "id": "35b3621c869a",
+          "title": "If I could make my own GitHub",
+          "link": "https://matduggan.com/if-i-could-make-my-own-github/",
+          "description": "Article URL: https://matduggan.com/if-i-could-make-my-own-github/ Comments URL: https://news.ycombinator.com/item?id=47971771 Points: 58 # Comments: 38",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 06:21:01 +0000"
+        },
+        {
+          "id": "6d0efd12f105",
+          "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
+          "link": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
+          "description": "Article URL: https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/ Comments URL: https://news.ycombinator.com/item?id=47971768 Points: 81 # Comments: 64",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 06:20:33 +0000"
+        },
+        {
+          "id": "e2dced6d50dc",
+          "title": "Your Biggest Vulnerability is your Shitty Compensation",
+          "link": "https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/",
+          "description": "Article URL: https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/ Comments URL: https://news.ycombinator.com/item?id=47971134 Points: 30 # Comments: 13",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 03:53:44 +0000"
+        },
+        {
+          "id": "22d61d6f54b4",
+          "title": "OpenWarp",
+          "link": "https://openwarp.zerx.dev",
+          "description": "Article URL: https://openwarp.zerx.dev Comments URL: https://news.ycombinator.com/item?id=47970622 Points: 96 # Comments: 78",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 02:10:46 +0000"
+        },
+        {
+          "id": "460ad57408de",
+          "title": "The Hearts of the Super Nintendo (2024)",
+          "link": "https://fabiensanglard.net/snes_hearts/",
+          "description": "Article URL: https://fabiensanglard.net/snes_hearts/ Comments URL: https://news.ycombinator.com/item?id=47970578 Points: 29 # Comments: 5",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 02:02:11 +0000"
+        },
+        {
+          "id": "1f4a30f1dffe",
+          "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+          "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+          "description": "Article URL: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/ Comments URL: https://news.ycombinator.com/item?id=47969288 Points: 109 # Comments: 45",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 22:48:51 +0000"
+        },
+        {
+          "id": "4e0f134243fb",
+          "title": "Can I disable all data collection from my vehicle?",
+          "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+          "description": "Article URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle Comments URL: https://news.ycombinator.com/item?id=47967786 Points: 634 # Comments: 263",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 20:27:22 +0000"
+        },
+        {
+          "id": "8c4723365130",
+          "title": "Full-Text Search with DuckDB",
+          "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+          "description": "Article URL: https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html Comments URL: https://news.ycombinator.com/item?id=47966254 Points: 140 # Comments: 31",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 18:14:18 +0000"
+        },
+        {
+          "id": "76578337de8e",
+          "title": "I built a Game Boy emulator in F#",
+          "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+          "description": "Article URL: https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/ Comments URL: https://news.ycombinator.com/item?id=47965503 Points: 280 # Comments: 66",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 17:14:21 +0000"
+        },
+        {
+          "id": "8d077e978742",
+          "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+          "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+          "description": "Recent: Copy Fail - https://news.ycombinator.com/item?id=47952181 - April 2026 (466 comments) Comments URL: https://news.ycombinator.com/item?id=47965108 Points: 509 # Comments: 398",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 16:43:47 +0000"
+        },
+        {
+          "id": "ae1fe53c3bc6",
+          "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+          "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+          "description": "Article URL: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/ Comments URL: https://news.ycombinator.com/item?id=47965060 Points: 607 # Comments: 200",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 16:41:00 +0000"
+        },
+        {
+          "id": "510ebe3eb7bf",
+          "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+          "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+          "description": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 397 # Comments: 141",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 16:09:26 +0000"
+        },
+        {
+          "id": "2a8b896ebbbd",
+          "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+          "link": "https://twitter.com/theo/status/2049645973350363168",
+          "description": "https://xcancel.com/theo/status/2049645973350363168 Comments URL: https://news.ycombinator.com/item?id=47963204 Points: 1172 # Comments: 641",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 14:36:58 +0000"
+        },
+        {
+          "id": "2ae0c5af8aa1",
+          "title": "How an oil refinery works",
+          "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+          "description": "Article URL: https://www.construction-physics.com/p/how-an-oil-refinery-works Comments URL: https://news.ycombinator.com/item?id=47962548 Points: 426 # Comments: 134",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 13:54:20 +0000"
+        },
+        {
+          "id": "89c9e6301e46",
+          "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+          "link": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+          "description": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for a month starting this week, it will&#8230;",
+          "source": "MIT Tech Review",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 10:00:00 +0000"
+        },
+        {
+          "id": "10ad7b738009",
+          "title": "Trump’s mass firing just dealt another blow to American science",
+          "link": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+          "description": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday last week, they were all fired.&#8230;",
+          "source": "MIT Tech Review",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 09:00:00 +0000"
+        },
+        {
+          "id": "a33f9d9b6fad",
+          "title": "A new US phone network for Christians aims to block porn and gender-related content",
+          "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+          "description": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter&#8230;",
+          "source": "MIT Tech Review",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 09:00:00 +0000"
+        },
+        {
+          "id": "9f083a8eeda6",
+          "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+          "link": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+          "description": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for &#8220;brainless clones&#8221; to serve the role of backup human bodies. by Antonio Regalado March 20, 2026 Related Stories: Access all subscriber-only eBooks:",
+          "source": "MIT Tech Review",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 18:42:50 +0000"
+        },
+        {
+          "id": "70b83937664c",
+          "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+          "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+          "description": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&#8230;",
+          "source": "MIT Tech Review",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 15:59:41 +0000"
+        },
+        {
+          "id": "c3d3d28d94fb",
+          "title": "The Download: the North Pole’s future and humanoid data",
+          "link": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
+          "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Digging for clues about the North Pole’s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But last year, a research vessel&#8230;",
+          "source": "MIT Tech Review",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 12:10:00 +0000"
+        },
+        {
+          "id": "c8c9030cfe50",
+          "title": "The Download: storing nuclear waste and orchestrating agents",
+          "link": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+          "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is throwing money around to&#8230;",
+          "source": "MIT Tech Review",
+          "category": "tech",
+          "pub_date": "Wed, 29 Apr 2026 12:10:00 +0000"
+        },
+        {
+          "id": "600059b9f8b9",
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "link": "https://sspai.com/post/109266",
+          "description": "📅本周新预告《暗影蜘蛛侠》正式预告4月26日，剧集《暗影蜘蛛侠》发布了黑白和彩色双版本正式预告，将于5月27日上线PrimeVideo。尼古拉斯·凯奇领衔主演，聚焦1930年代纽约的一个上了年纪、倒霉 ... 查看全文",
+          "source": "少数派",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 17:00:00 +0800"
+        },
+        {
+          "id": "29c47c94e8bf",
+          "title": "本月玩什么｜朋友收藏、识质存在、沙罗周期",
+          "link": "https://sspai.com/post/109257",
+          "description": "假期预防无聊，先来找点玩的。 查看全文",
+          "source": "少数派",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 17:30:00 +0800"
+        },
+        {
+          "id": "cfbe1f7980a4",
+          "title": "五一假期将至，用 iPhone 轻松搞定假日出行",
+          "link": "https://sspai.com/post/88452",
+          "description": "五一假期将至，我相信有很多派友们都会抓住难得的长假机会，策划一场期盼许久的旅行。曾几何时，我们出门旅游时要带上相机、纸质地图、旅行攻略（比如说LonelyPlanet）、纸质车票、钱包、现金等一堆东西 ... 查看全文",
+          "source": "少数派",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 14:49:33 +0800"
+        },
+        {
+          "id": "0c0047f9be51",
+          "title": "关于中年和中年危机的一些思考",
+          "link": "https://sspai.com/post/108451",
+          "description": "关于「中年」这个极其宏大的话题，虽然可写的方面很多，但我不想把话题铺的太满。我写这篇文章本身的核心目的，不是为了说出些什么道理，而是只是想表达自己当下的一种人生处境，同时抛砖引玉，让更多的朋友去分享自己的中年收获和困境。只要有一瞬间觉得自己并不孤单，这篇文章的目的就达到了。 查看全文",
+          "source": "少数派",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 10:17:59 +0800"
+        },
+        {
+          "id": "42a8ecde8e20",
+          "title": "派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等",
+          "link": "https://sspai.com/post/109235",
+          "description": "Framework 推出 RTX 5070 GPU 显卡模块、蚂蚁集团百灵大模型开源 Ling-2.6-flash 等。 查看全文",
+          "source": "少数派",
+          "category": "tech",
+          "pub_date": "Thu, 30 Apr 2026 09:16:28 +0800"
+        }
+      ],
+      "summary": "今日科技动态摘要\n\n1. **苹果营收逆势增长**：尽管面临芯片短缺，iPhone营收仍跃升至570亿美元，展现强劲市场表现。\n2. **Rivian生产与工厂调整**：Rivian营收因R2车型投产而上升，但受特朗普政府削减贷款协议影响，被迫缩减新电动汽车工厂规模。\n3. **微软Xbox模式全面开放**：微软Xbox游戏模式现已对所有Windows 11 PC用户可用，拓展游戏生态。\n4. **Roblox用户持续下滑**：因年龄验证措施导致增长放缓，Roblox日活跃用户数继续下降。\n5. **Meta威胁退出新墨西哥州**：Meta称若被要求进行“技术上不可行”的修改，将撤回在该州的应用程序服务。\n\n今日最值得关注的发展是苹果在芯片短缺背景下仍实现iPhone营收大幅增长，凸显其供应链韧性与高端市场需求韧性。",
+      "count": 61
+    },
+    "ai": {
+      "articles": [
+        {
+          "id": "0ceb22a3bd82",
+          "title": "AI evals are becoming the new compute bottleneck",
+          "link": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 29 Apr 2026 16:45:09 GMT"
+        },
+        {
+          "id": "a7140f0d0047",
+          "title": "Granite 4.1 LLMs: How They’re Built",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 29 Apr 2026 15:01:48 GMT"
+        },
+        {
+          "id": "f1e927997fda",
+          "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+          "link": "https://www.qbitai.com/2026/05/412577.html",
+          "description": "真机部署“零微调”",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 01 May 2026 06:28:46 +0000"
+        },
+        {
+          "id": "9ed06459dc7c",
+          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "link": "https://www.qbitai.com/2026/05/412447.html",
+          "description": "瓜多到吃不完",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 01 May 2026 06:21:38 +0000"
+        },
+        {
+          "id": "2b923209b744",
+          "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
+          "link": "https://www.qbitai.com/2026/04/412041.html",
+          "description": "牵引中国汽车“走出去”、“走上去”",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 30 Apr 2026 12:04:32 +0000"
+        },
+        {
+          "id": "ce0fcf75ba3a",
+          "title": "10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市",
+          "link": "https://www.qbitai.com/2026/04/411963.html",
+          "description": "三大技术尖点+五大全面引领",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 30 Apr 2026 08:36:50 +0000"
+        },
+        {
+          "id": "cfbf950aacd9",
+          "title": "IMO/IOI奖牌得主18000人追踪：1500倍概率成亿万富翁",
+          "link": "https://www.qbitai.com/2026/04/411964.html",
+          "description": "MIT是奥赛天才的第一目的地",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 30 Apr 2026 08:23:39 +0000"
+        },
+        {
+          "id": "3bd5adc9233f",
+          "title": "为智能体可信协作提供新方案 蚂蚁数科登顶以太坊全球基准评测",
+          "link": "https://www.qbitai.com/2026/04/411959.html",
+          "description": "已投入自主研发超过 10 年",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 30 Apr 2026 07:27:07 +0000"
+        },
+        {
+          "id": "6c9e20db6420",
+          "title": "阿里发布数字员工产品QoderWake，可承担工程师、运营、销售等岗位角色",
+          "link": "https://www.qbitai.com/2026/04/411955.html",
+          "description": "根据自身业务流程定制专属数字员工",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 30 Apr 2026 07:24:29 +0000"
+        }
+      ],
+      "summary": "今日AI动态摘要\n\n1. **AI评估（Evals）成为新算力瓶颈**：Hugging Face指出，随着模型规模扩大，对AI系统进行评估所需的计算资源正成为新的瓶颈，挑战甚至超越训练环节。\n2. **开源具身智能仿真框架突破**：国内团队开源新一代具身智能仿真框架，实现高吞吐并行与高保真渲染，旨在突破视觉仿真算力瓶颈，支持规模化训练。\n3. **马斯克与OpenAI对簿公堂**：马斯克与OpenAI的法律纠纷开庭，双方在法庭上互相揭露内幕，被形容为“硅谷巨富村口吵架”，引发广泛关注。\n4. **阿里发布数字员工产品QoderWake**：阿里巴巴推出可承担工程师、运营、销售等岗位角色的数字员工产品，标志着AI在职场替代应用上的进一步落地。\n5. **蚂蚁数科登顶以太坊全球基准评测**：蚂蚁数科在智能体可信协作领域取得突破，其方案在以太坊全球基准评测中排名第一，为去中心化AI协作提供新方案。\n\n**今日最值得关注的发展**：AI评估正取代训练成为新的算力瓶颈，同时具身智能与数字员工产品的开源与商用化加速，预示着AI从“能力构建”向“规模化应用与可信协作”的关键转折。",
+      "count": 9
+    },
+    "cctv": {
+      "articles": [],
+      "summary": "今日暂无相关新闻。",
+      "count": 0
+    }
   }
 }
