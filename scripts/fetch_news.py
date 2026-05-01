@@ -1,12 +1,4 @@
 #!/usr/bin/env python3
-"""
-新闻聚合抓取脚本
-抓取科技/AI新闻 + 新闻联播，使用 DeepSeek API 总结
-科技/AI：最近2天
-新闻联播：最近5天
-历史数据文件：只保留最近2天
-"""
-
 import os
 import json
 import datetime
@@ -19,7 +11,13 @@ import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
 DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
-DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs", "data")
+
+DATA_DIR = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    "docs",
+    "data"
+)
+
 MAX_DAYS = 2
 
 RSS_SOURCES = {
@@ -42,7 +40,6 @@ RSS_SOURCES = {
     "cctv": [
         {"name": "人民网-要闻", "url": "http://www.people.com.cn/rss/politics.xml", "lang": "zh"},
         {"name": "Global Times", "url": "https://www.globaltimes.cn/rss/outbrain.xml", "lang": "en"},
-        {"name": "China Daily", "url": "http://www.chinadaily.com.cn/rss/china_rss.xml", "lang": "en"},
     ]
 }
 
@@ -62,32 +59,37 @@ def next_ua():
     return ua
 
 
+def fetch_url(url, timeout=20):
+    try:
+        req = urllib.request.Request(url, headers={
+            "User-Agent": next_ua(),
+            "Accept": "text/html,application/rss+xml,application/atom+xml,application/xml,text/xml,*/*",
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            "Cache-Control": "no-cache",
+        })
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            raw = resp.read()
+            for enc in ("utf-8", "gbk", "gb2312", "latin-1"):
+                try:
+                    return raw.decode(enc)
+                except Exception:
+                    continue
+            return raw.decode("utf-8", errors="replace")
+    except urllib.error.HTTPError as e:
+        print(f"  ⚠ HTTP {e.code} {url}")
+        return None
+    except Exception as e:
+        print(f"  ⚠ 抓取失败 {url}: {e}")
+        return None
+
+
 def fetch_rss(url, timeout=20):
     for attempt in range(2):
-        try:
-            req = urllib.request.Request(url, headers={
-                "User-Agent": next_ua(),
-                "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
-                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-                "Cache-Control": "no-cache",
-            })
-            with urllib.request.urlopen(req, timeout=timeout) as resp:
-                raw = resp.read()
-                for enc in ("utf-8", "gbk", "gb2312", "latin-1"):
-                    try:
-                        return raw.decode(enc)
-                    except Exception:
-                        continue
-                return raw.decode("utf-8", errors="replace")
-        except urllib.error.HTTPError as e:
-            print(f"  ⚠ HTTP {e.code} {url}")
-            return None
-        except Exception as e:
-            if attempt == 0:
-                time.sleep(2)
-                continue
-            print(f"  ⚠ 抓取失败 {url}: {e}")
-            return None
+        text = fetch_url(url, timeout)
+        if text:
+            return text
+        if attempt == 0:
+            time.sleep(2)
     return None
 
 
@@ -110,13 +112,11 @@ def _try_parse_xml(xml_text):
             return None
 
 
-def _is_recent(date_str, days=2):
-    """
-    严格判断新闻是否在最近 days 天内。
-    没日期/解析失败/未来时间，一律丢弃。
-    """
+def _parse_date(date_str):
     if not date_str:
-        return False
+        return None
+
+    date_str = date_str.strip()
 
     try:
         dt = parsedate_to_datetime(date_str)
@@ -125,17 +125,97 @@ def _is_recent(date_str, days=2):
             clean_str = date_str.replace("Z", "+00:00")
             dt = datetime.datetime.fromisoformat(clean_str)
         except Exception:
-            return False
+            return None
 
     if dt.tzinfo is not None:
         dt = dt.astimezone(datetime.timezone.utc)
     else:
         dt = dt.replace(tzinfo=datetime.timezone.utc)
 
+    return dt
+
+
+def _is_recent(date_str, days=2):
+    dt = _parse_date(date_str)
+    if dt is None:
+        return False
+
     now = datetime.datetime.now(datetime.timezone.utc)
     cutoff = now - datetime.timedelta(days=days)
 
     return cutoff <= dt <= now
+
+
+def _link_has_old_year(link, days=2):
+    """
+    防止 RSS 时间是新的，但链接实际是 2017、2018 这种旧文章。
+    """
+    if not link:
+        return False
+
+    now = datetime.datetime.now(datetime.timezone.utc)
+    cutoff = now - datetime.timedelta(days=days)
+
+    years = re.findall(r"/(20\d{2})[-_/]", link)
+    years += re.findall(r"(20\d{2})[-_/]\d{1,2}[-_/]\d{1,2}", link)
+
+    for y in years:
+        try:
+            year = int(y)
+            if year < cutoff.year:
+                return True
+        except Exception:
+            pass
+
+    return False
+
+
+def _extract_page_date(html):
+    if not html:
+        return ""
+
+    patterns = [
+        r"(20\d{2})[-年/](\d{1,2})[-月/](\d{1,2})",
+        r"Published:\s*([A-Za-z]{3,9}\s+\d{1,2},\s+20\d{2})",
+        r"更新时间[:：]\s*(20\d{4}年\d{1,2}月\d{1,2}日)",
+        r"更新时间[:：]\s*(20\d{2}年\d{1,2}月\d{1,2}日)",
+    ]
+
+    for p in patterns:
+        m = re.search(p, html, re.I)
+        if not m:
+            continue
+
+        text = m.group(0)
+
+        ym = re.search(r"(20\d{2})[-年/](\d{1,2})[-月/](\d{1,2})", text)
+        if ym:
+            y, mo, d = ym.groups()
+            return f"{y}-{int(mo):02d}-{int(d):02d}T00:00:00+00:00"
+
+        try:
+            dt = parsedate_to_datetime(m.group(1))
+            return dt.isoformat()
+        except Exception:
+            pass
+
+    return ""
+
+
+def _page_date_is_recent(link, days=2):
+    """
+    只给 cctv/要闻类使用。
+    如果页面能提取到日期，就严格验证。
+    如果提取不到日期，不保留，防止旧文章混入。
+    """
+    html = fetch_url(link, timeout=15)
+    page_date = _extract_page_date(html)
+
+    if not page_date:
+        return False
+
+    return _is_recent(page_date, days=days)
+
 
 def parse_rss(xml_text, source_name, category):
     items = []
@@ -156,6 +236,7 @@ def parse_rss(xml_text, source_name, category):
     }
 
     entries = root.findall(".//atom:entry", ns) or root.findall(".//item")
+    days_limit = 5 if category == "cctv" else 2
 
     for entry in entries:
         pub_date = ""
@@ -166,12 +247,11 @@ def parse_rss(xml_text, source_name, category):
                 pub_date = el.text.strip()
                 break
 
-        days_limit = 5 if category == "cctv" else 2
-
         if not _is_recent(pub_date, days=days_limit):
             continue
 
         title = ""
+
         for tag in ("title", "atom:title"):
             el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
             if el is not None and el.text:
@@ -179,6 +259,7 @@ def parse_rss(xml_text, source_name, category):
                 break
 
         link = ""
+
         link_el = entry.find("link")
         if link_el is not None:
             link = (link_el.get("href") or link_el.text or "").strip()
@@ -188,7 +269,17 @@ def parse_rss(xml_text, source_name, category):
             if al is not None:
                 link = al.get("href", "").strip()
 
+        if _link_has_old_year(link, days=days_limit):
+            print(f"     跳过旧链接: {title[:30]} {link}")
+            continue
+
+        if category == "cctv" and link:
+            if not _page_date_is_recent(link, days=days_limit):
+                print(f"     跳过页面日期不合格: {title[:30]}")
+                continue
+
         desc = ""
+
         for tag in ("description", "summary", "atom:summary", "content:encoded", "atom:content"):
             el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
             if el is not None and el.text:
@@ -205,6 +296,8 @@ def parse_rss(xml_text, source_name, category):
                 "category": category,
                 "pub_date": pub_date,
             })
+
+        time.sleep(0.5)
 
     return items
 
@@ -242,7 +335,10 @@ def summarize_news(articles, category_name):
     if not articles:
         return "今日暂无相关新闻。"
 
-    titles_text = "\n".join([f"- {a['title']} ({a['source']})" for a in articles[:15]])
+    titles_text = "\n".join([
+        f"- {a['title']} ({a['source']})"
+        for a in articles[:15]
+    ])
 
     if category_name == "新闻联播":
         prompt = f"""以下是最近国内外要闻标题，请用简洁的中文总结，提炼3-5个核心内容：
