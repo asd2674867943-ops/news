@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T09:23:44.998943",
+  "generated_at": "2026-05-01T09:46:39.433636",
   "categories": {
     "tech": {
       "articles": [
@@ -275,10 +275,19 @@
           "pub_date": "Wed, 29 Apr 2026 17:52:52 +0000"
         },
         {
+          "id": "6fbac5f438b5",
+          "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+          "link": "https://github.com/darrylmorley/whatcable",
+          "description": "USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer. WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc. Built in Swift/SwiftUI. Open source, free, no tracking. GitHub: https://github.com/darrylmorley/whatcable Comments URL: https://news.ycombinator.com/item?id=47972511 Points: 4 # Comments: 0",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 08:43:45 +0000"
+        },
+        {
           "id": "0e33223898e5",
           "title": "Grok 4.3",
           "link": "https://docs.x.ai/developers/models/grok-4.3",
-          "description": "Article URL: https://docs.x.ai/developers/models/grok-4.3 Comments URL: https://news.ycombinator.com/item?id=47972447 Points: 17 # Comments: 5",
+          "description": "Article URL: https://docs.x.ai/developers/models/grok-4.3 Comments URL: https://news.ycombinator.com/item?id=47972447 Points: 42 # Comments: 31",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Fri, 01 May 2026 08:29:31 +0000"
@@ -287,7 +296,7 @@
           "id": "51f5a05750bf",
           "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
           "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
-          "description": "Article URL: https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw== Comments URL: https://news.ycombinator.com/item?id=47972213 Points: 29 # Comments: 4",
+          "description": "Article URL: https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw== Comments URL: https://news.ycombinator.com/item?id=47972213 Points: 41 # Comments: 8",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Fri, 01 May 2026 07:44:17 +0000"
@@ -296,7 +305,7 @@
           "id": "36dcd9470bb1",
           "title": "It’s Toasted",
           "link": "https://yadin.com/notes/toasted/",
-          "description": "Article URL: https://yadin.com/notes/toasted/ Comments URL: https://news.ycombinator.com/item?id=47971830 Points: 36 # Comments: 24",
+          "description": "Article URL: https://yadin.com/notes/toasted/ Comments URL: https://news.ycombinator.com/item?id=47971830 Points: 40 # Comments: 28",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Fri, 01 May 2026 06:34:54 +0000"
@@ -305,19 +314,19 @@
           "id": "02092e9a1d7f",
           "title": "If I Could Make My Own GitHub",
           "link": "https://matduggan.com/if-i-could-make-my-own-github/",
-          "description": "Article URL: https://matduggan.com/if-i-could-make-my-own-github/ Comments URL: https://news.ycombinator.com/item?id=47971771 Points: 18 # Comments: 12",
+          "description": "Article URL: https://matduggan.com/if-i-could-make-my-own-github/ Comments URL: https://news.ycombinator.com/item?id=47971771 Points: 32 # Comments: 25",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Fri, 01 May 2026 06:21:01 +0000"
         },
         {
-          "id": "22d61d6f54b4",
-          "title": "OpenWarp",
-          "link": "https://openwarp.zerx.dev",
-          "description": "Article URL: https://openwarp.zerx.dev Comments URL: https://news.ycombinator.com/item?id=47970622 Points: 85 # Comments: 74",
+          "id": "e2dced6d50dc",
+          "title": "Your Biggest Vulnerability is your Shitty Compensation",
+          "link": "https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/",
+          "description": "Article URL: https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/ Comments URL: https://news.ycombinator.com/item?id=47971134 Points: 15 # Comments: 4",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Fri, 01 May 2026 02:10:46 +0000"
+          "pub_date": "Fri, 01 May 2026 03:53:44 +0000"
         },
         {
           "id": "a984c46f67aa",
@@ -332,7 +341,7 @@
           "id": "1f4a30f1dffe",
           "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
           "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-          "description": "Article URL: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/ Comments URL: https://news.ycombinator.com/item?id=47969288 Points: 100 # Comments: 37",
+          "description": "Article URL: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/ Comments URL: https://news.ycombinator.com/item?id=47969288 Points: 104 # Comments: 40",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 22:48:51 +0000"
@@ -341,7 +350,7 @@
           "id": "9702224995cf",
           "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
           "link": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
-          "description": "Article URL: https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html Comments URL: https://news.ycombinator.com/item?id=47968982 Points: 82 # Comments: 24",
+          "description": "Article URL: https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html Comments URL: https://news.ycombinator.com/item?id=47968982 Points: 86 # Comments: 25",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 22:18:57 +0000"
@@ -350,7 +359,7 @@
           "id": "4e0f134243fb",
           "title": "Can I disable all data collection from my vehicle?",
           "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-          "description": "Article URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle Comments URL: https://news.ycombinator.com/item?id=47967786 Points: 624 # Comments: 254",
+          "description": "Article URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle Comments URL: https://news.ycombinator.com/item?id=47967786 Points: 632 # Comments: 255",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 20:27:22 +0000"
@@ -359,7 +368,7 @@
           "id": "7488007e11e9",
           "title": "Does Postgres Scale?",
           "link": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
-          "description": "Article URL: https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres Comments URL: https://news.ycombinator.com/item?id=47966625 Points: 131 # Comments: 58",
+          "description": "Article URL: https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres Comments URL: https://news.ycombinator.com/item?id=47966625 Points: 135 # Comments: 58",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 18:45:22 +0000"
@@ -368,7 +377,7 @@
           "id": "8c4723365130",
           "title": "Full-Text Search with DuckDB",
           "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-          "description": "Article URL: https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html Comments URL: https://news.ycombinator.com/item?id=47966254 Points: 133 # Comments: 30",
+          "description": "Article URL: https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html Comments URL: https://news.ycombinator.com/item?id=47966254 Points: 135 # Comments: 30",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 18:14:18 +0000"
@@ -377,7 +386,7 @@
           "id": "76578337de8e",
           "title": "I built a Game Boy emulator in F#",
           "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-          "description": "Article URL: https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/ Comments URL: https://news.ycombinator.com/item?id=47965503 Points: 273 # Comments: 64",
+          "description": "Article URL: https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/ Comments URL: https://news.ycombinator.com/item?id=47965503 Points: 275 # Comments: 65",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 17:14:21 +0000"
@@ -386,7 +395,7 @@
           "id": "8d077e978742",
           "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
           "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-          "description": "Recent: Copy Fail - https://news.ycombinator.com/item?id=47952181 - April 2026 (466 comments) Comments URL: https://news.ycombinator.com/item?id=47965108 Points: 493 # Comments: 382",
+          "description": "Recent: Copy Fail - https://news.ycombinator.com/item?id=47952181 - April 2026 (466 comments) Comments URL: https://news.ycombinator.com/item?id=47965108 Points: 499 # Comments: 389",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 16:43:47 +0000"
@@ -395,7 +404,7 @@
           "id": "ae1fe53c3bc6",
           "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
           "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-          "description": "Article URL: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/ Comments URL: https://news.ycombinator.com/item?id=47965060 Points: 587 # Comments: 192",
+          "description": "Article URL: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/ Comments URL: https://news.ycombinator.com/item?id=47965060 Points: 593 # Comments: 195",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 16:41:00 +0000"
@@ -404,7 +413,7 @@
           "id": "510ebe3eb7bf",
           "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
           "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-          "description": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 394 # Comments: 133",
+          "description": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 396 # Comments: 135",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 16:09:26 +0000"
@@ -413,7 +422,7 @@
           "id": "2a8b896ebbbd",
           "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
           "link": "https://twitter.com/theo/status/2049645973350363168",
-          "description": "https://xcancel.com/theo/status/2049645973350363168 Comments URL: https://news.ycombinator.com/item?id=47963204 Points: 1147 # Comments: 627",
+          "description": "https://xcancel.com/theo/status/2049645973350363168 Comments URL: https://news.ycombinator.com/item?id=47963204 Points: 1156 # Comments: 634",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 14:36:58 +0000"
@@ -422,7 +431,7 @@
           "id": "2ae0c5af8aa1",
           "title": "How an oil refinery works",
           "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-          "description": "Article URL: https://www.construction-physics.com/p/how-an-oil-refinery-works Comments URL: https://news.ycombinator.com/item?id=47962548 Points: 412 # Comments: 124",
+          "description": "Article URL: https://www.construction-physics.com/p/how-an-oil-refinery-works Comments URL: https://news.ycombinator.com/item?id=47962548 Points: 422 # Comments: 126",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 13:54:20 +0000"
@@ -431,7 +440,7 @@
           "id": "f33aea2f7b74",
           "title": "I aggregated 28 US Government auction sites into one search",
           "link": "https://bidprowl.com",
-          "description": "Article URL: https://bidprowl.com Comments URL: https://news.ycombinator.com/item?id=47961378 Points: 279 # Comments: 77",
+          "description": "Article URL: https://bidprowl.com Comments URL: https://news.ycombinator.com/item?id=47961378 Points: 281 # Comments: 77",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 12:24:53 +0000"
@@ -440,23 +449,14 @@
           "id": "2962402ce4cb",
           "title": "Belgium stops decommissioning nuclear power plants",
           "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-          "description": "Article URL: https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/ Comments URL: https://news.ycombinator.com/item?id=47961319 Points: 813 # Comments: 820",
+          "description": "Article URL: https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/ Comments URL: https://news.ycombinator.com/item?id=47961319 Points: 819 # Comments: 825",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 12:17:14 +0000"
         },
         {
-          "id": "f189dc1f111c",
-          "title": "Lessons from Building an OTel Normalizer for GenAI",
-          "link": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
-          "description": "Article URL: https://www.groundcover.com/blog/otel-normalizer-genai-part-1 Comments URL: https://news.ycombinator.com/item?id=47958081 Points: 4 # Comments: 0",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 04:23:40 +0000"
-        },
-        {
-          "id": "e6bdaf79c5e6",
-          "title": "With mass firing, Trump deals a fresh blow to American science",
+          "id": "10ad7b738009",
+          "title": "Trump’s mass firing just dealt another blow to American science",
           "link": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
           "description": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday last week, they were all fired.&#8230;",
           "source": "MIT Tech Review",
@@ -545,7 +545,7 @@
           "pub_date": "Thu, 30 Apr 2026 09:16:28 +0800"
         }
       ],
-      "summary": "🔬 今日科技动态摘要\n\n1. **AI与法律争议持续发酵**：马斯克与奥特曼的法律纠纷在陪审团离席期间出现戏剧性转折，同时马斯克在OpenAI庭审中遭遇多次不利证词，凸显科技巨头间的竞争与法律风险。\n\n2. **苹果与Rivian财报表现分化**：苹果iPhone营收跃升至570亿美元，克服芯片短缺；Rivian营收增长但受特朗普政府削减贷款协议影响，被迫缩减新工厂规模，显示政策对新能源车企的直接影响。\n\n3. **平台与监管矛盾加剧**：Roblox因年龄验证措施导致日活用户持续下滑；Meta威胁若被要求进行“技术不可行”的修改将撤出新墨西哥州，反映科技公司在用户增长与合规压力间的平衡难题。\n\n4. **网络安全与地缘政治风险上升**：Linux系统出现近年来最严重的安全漏洞，全球应对不足；俄罗斯因太空港落入乌克兰打击范围而隐瞒发射计划，显示科技与地缘冲突的深度交织。\n\n5. **游戏与硬件生态新动向**：微软Xbox模式正式向所有Windows 11 PC开放；Housemarque提出下一代游戏开发新思路，显示平台与内容创新仍在加速。\n\n**今日最值得关注的发展**：AI法律博弈与新能源政策风险成为科技行业面临的两大核心不确定性。",
+      "summary": "🔬 今日科技动态摘要\n\n1. **AI与法律博弈持续升温**：马斯克与奥特曼的法律纠纷在陪审团离席期间出现戏剧性转折，同时马斯克在OpenAI庭审中遭遇多次证词失误，凸显科技巨头间竞争与监管的复杂性。\n\n2. **消费科技市场分化加剧**：Roblox因年龄验证措施导致日活跃用户持续下滑，而苹果iPhone营收逆势增长至570亿美元，显示不同企业应对市场挑战的策略差异。\n\n3. **电动汽车产业面临政策与产能双重变数**：Rivian营收因R2车型投产而上升，但特朗普政府削减贷款协议迫使公司缩减新工厂规模，反映美国新能源车产业受政治环境波动影响。\n\n4. **平台监管与内容安全冲突升级**：Meta威胁若新墨西哥州强制要求“技术上不可行”的修改将撤出该州，同时美国国会再次推迟监控改革，科技公司的合规边界争议持续。\n\n5. **网络安全与地缘政治风险凸显**：Linux系统遭遇近年来最严重安全威胁，俄罗斯因太空港暴露于乌克兰打击范围而加密发射计划，全球科技安全环境面临新挑战。\n\n**今日最值得关注的发展**：科技产业在AI法律纠纷、消费市场分化、政策波动与安全威胁等多重压力下，正进入一个高度不确定的调整期，企业战略与政府监管的博弈将深刻影响未来格局。",
       "count": 60
     },
     "ai": {
@@ -659,13 +659,392 @@
           "pub_date": "Thu, 30 Apr 2026 07:24:29 +0000"
         }
       ],
-      "summary": "🔬 今日AI动态摘要\n\n1. **AI评估（Evals）成为新算力瓶颈**：Hugging Face指出，随着模型能力提升，对AI系统的评估过程本身正消耗大量计算资源，成为制约发展的新瓶颈。\n2. **具身智能仿真框架开源突破**：国内团队开源新一代具身智能仿真框架，实现高吞吐、并行高保真渲染，突破视觉仿真算力瓶颈，助力规模化训练。\n3. **AI与经济基础设施深度融合**：Stripe发布288项新功能，旨在构建AI时代的经济基础设施；蚂蚁数科在以太坊基准评测中登顶，聚焦智能体可信协作。\n4. **AI角色从工具转向协作**：商汤杨帆提出AI发展拐点，从“人用AI”转向“人机协作”，本质是生产关系重构；阿里发布数字员工产品QoderWake，可承担多种岗位角色。\n5. **硅谷AI巨头法律纠纷升级**：马斯克与OpenAI开庭，双方互揭老底，事件凸显AI领域商业竞争与治理冲突的加剧。\n\n**今日最值得关注的发展**：AI评估成为新算力瓶颈，提示行业需在提升模型能力的同时，重视评估体系的效率与可持续性。",
+      "summary": "🔬 今日AI动态摘要\n\n1. **AI评估成为新算力瓶颈**：Hugging Face指出，随着模型规模扩大，AI评估（evals）的算力需求正超过训练本身，成为新的性能瓶颈，凸显标准化评测基础设施的重要性。\n\n2. **具身智能仿真框架开源突破**：国内团队开源新一代具身智能仿真框架，实现高吞吐、并行高保真渲染，旨在解决视觉仿真算力瓶颈，为规模化训练提供支持。\n\n3. **AI经济基础设施加速构建**：Stripe发布288项新功能，聚焦AI时代的经济基础设施；同时阿里推出数字员工产品QoderWake，可承担多种岗位角色，标志AI正从工具向“数字劳动力”演进。\n\n4. **人机协作与生产关系重构**：商汤杨帆提出AI拐点已至，核心是从“人用AI”转向“人机协作”，本质是生产关系的重构，预示组织与工作模式将迎来深层变革。\n\n5. **AI与法律、商业伦理交织**：马斯克与OpenAI开庭互揭底细，反映AI领域巨头间的法律与商业摩擦加剧，行业治理与透明度问题日益突出。\n\n📌 今日最值得关注的发展是：AI评估的算力瓶颈被正式提出，同时具身智能仿真框架与数字员工产品密集落地，表明AI正从“模型竞赛”转向“基础设施与协作生态”的全面布局。",
       "count": 12
     },
     "cctv": {
-      "articles": [],
-      "summary": "今日暂无相关新闻。",
-      "count": 0
+      "articles": [
+        {
+          "id": "827b960b5e9f",
+          "title": "DC gala shooting suspect voices grievances against US administration in writings to family: media reports",
+          "link": "https://www.globaltimes.cn/page/202604/1359873.shtml",
+          "description": "",
+          "source": "Global Times",
+          "category": "cctv",
+          "pub_date": "Tue, 28 Apr 2026 10:36:40 GMT"
+        },
+        {
+          "id": "60396adeb2c8",
+          "title": "Education, health fees among key concerns",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f29d4a3108bc8c6721a30.html",
+          "description": "China to legislate on preschool education",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "8fa9c3e2b2ac",
+          "title": "International group praises green revival",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f2701a3108bc8c6721a16.html",
+          "description": "A high-level international advisory body applauded China's efforts to improve the environment and suggested a 15-year strategy against pollution in a draft recommendation report on Monday.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "5c6ee0d2964d",
+          "title": "Beijing, Moscow drill for potential missile warfare",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f25bda3108bc8c6721a0b.html",
+          "description": "China and Russia kicked off their second joint computer-assisted anti-missile drill on Monday, a move experts said could deter potential missile threats amid rising tensions on the Korean Peninsula.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "358c68c08c13",
+          "title": "Memorial Day a time to 'remember', 'inspire'",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f252ca3108bc8c6721a01.html",
+          "description": "A memorial service to mark the 80th anniversary of the Nanjing Massacre committed during the War of Resistance Against Japanese Aggression (1931-45) brought together hundreds of activists and members of the Chinese and other Asian communities on Sunday in San Francisco.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "a9bf63e0dcfc",
+          "title": "More military technologies targeted for civilian sector to boost economy",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f2514a3108bc8c67219fb.html",
+          "description": "China will strengthen innovation by developing high-tech industries with military technologies to boost military-civil integration, a move that aims to cultivate new growth drivers and boost the economy, said a recent State Council guideline.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "4dddb9d1eb0f",
+          "title": "Dangerous stunts get thumbs-down from video platforms",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f247aa3108bc8c67219f5.html",
+          "description": "Multiple social media and video streaming platforms will limit who can view videos that depict dangerous stunts - and may even prohibit such material - in an effort to discourage imitators.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "5aa908694ed5",
+          "title": "Taiwan's New Party vows to help improve relations",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f23eba3108bc8c67219f0.html",
+          "description": "Top political adviser Yu Zhengsheng met with a Taiwan delegation representing the island's New Party in Beijing on Monday to discuss the peaceful development of cross-Straits relations and how to achieve the \"great rejuvenation\" of the Chinese nation.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "f29f09cd129c",
+          "title": "Former Chongqing political official facing corruption investigation",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f22aba3108bc8c67219e2.html",
+          "description": "Sun Zhengcai, the former secretary of Chongqing Municipal Committee of the Communist Party of China, has been placed under investigation on suspicion of accepting bribes, according to the Supreme People's Procuratorate on Monday.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "51491cd88fd9",
+          "title": "Satellite lofted for first Arab country",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f225ea3108bc8c67219dd.html",
+          "description": "A Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country when it was launched by China on Monday for Algeria.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "ff12fb445208",
+          "title": "Water diversion project drives environmental improvements and provides new jobs for locals",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f1b86a3108bc8c672199a.html",
+          "description": "Green industries such as eco-agriculture and tourism are helping to raise living standards along the program's central route",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "a3ac318c7016",
+          "title": "Oldest Nanjing Massacre survivor dies at 100",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f1571a3108bc8c6721964.html",
+          "description": "The oldest survivor of the Nanjing Massacre died on Sunday, and fewer than 100 survivors remain, the Memorial Hall of the Victims in the Nanjing Massacre said on Monday.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "859f1f503ff9",
+          "title": "AIIB loans $250m for Beijing coal-to-gas conversion",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f146aa3108bc8c6721954.html",
+          "description": "The Asian Infrastructure Investment Bank announced on Monday a $250 million loan for a natural gas project in Beijing, the bank's first such investment in China, to help cut coal use and improve air quality in the capital area.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "1ee1b7becfd2",
+          "title": "Discovering Yunnan’s Tibetan Plateau - A personal Shangri-La",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f103aa3108bc8c672193a.html",
+          "description": "High in the northwestern uplands of Yunnan lies a popular destination known as Shangri-La since 2001. When Bruce Connolly visited it in 1995, it was called Zhongdian. A town partly fulfilling Bruce’s Tibetan dream.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "657a6c4f334f",
+          "title": "Xi: Uproot undesirable work styles",
+          "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2efdeaa3108bc8c6721925.html",
+          "description": "General Secretary Xi Jinping warns about the recurrence of undesirable work styles - formalities for formalities' sake, hedonism, and extravagance.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "0bdaff7c8110",
+          "title": "Xi-style diplomacy brings China closer to world",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e9898a3103f77d55ac36d.html",
+          "description": "",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "3e6ca7cb3b17",
+          "title": "China to hold annual memorial for Nanjing Massacre victims",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e8352a3103f77d55ac363.html",
+          "description": "China will hold an annual memorial for the victims of the Nanjing Massacre, in the eastern city of Nanjing Wednesday.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "6079a15309a6",
+          "title": "Beijing’s Haidian district halts removal of building signs",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e7f94a3103f77d55ac35d.html",
+          "description": "Urban management authorities in Beijing’s Haidian district have suspended the removal of signs and billboards from buildings, and have not made a decision when work would resume.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "8fa5852d890a",
+          "title": "PLA Navy stations women on Nansha Islands for the 1st time",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e7b2ea3109f488237c972.html",
+          "description": "The People’s Liberation Army has sent 10 of its female members to join the garrison guarding the Nansha Islands in the South China Sea, according to the PLA Navy.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "8881c3a3acfa",
+          "title": "Forum tackles urban problems for sustainable future",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e7840a3109f488237c96c.html",
+          "description": "A forum tackling the more challenging problems in urban development gathered people in this area on Saturday to raise awareness of greener and more sustainable urban development.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "3c51827a991e",
+          "title": "Emojis frown on corruption",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e7338a3109f488237c969.html",
+          "description": "An emojis package highlighting the eight-point austerity rules has become a hit on the internet.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "6cca956127a1",
+          "title": "Suzhou police catch gang selling fake Herbalife products",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e6f45a3109f488237c967.html",
+          "description": "Police in eastern China said on Monday they have smashed an operation that made more than 20 million yuan ($3 million) from selling fake Herbalife products.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "a37913e1a6fc",
+          "title": "Jack Ma Foundation pledges millions to boost rural education",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e6ce6a3109f488237c965.html",
+          "description": "The Jack Ma Foundation has pledged to spend at least 300 million yuan ($45 million) in the next decade to staff rural schools with qualified teachers.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "3f2f55a05d6f",
+          "title": "New Party delegation from Taiwan visits mainland",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e6a39a3109f488237c814.html",
+          "description": "The director of the State Council's Taiwan Affairs Office met with a delegation from Taiwan's New Party on Monday to promote peaceful development of cross-Straits relations.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "b7e1da68afee",
+          "title": "NGO helps epileptic boy realize racing dream in Zhejiang",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e62d8a3109f488237c209.html",
+          "description": "An NGO helped an epileptic boy from eastern China realize his dream to ride a race car on an international circuit on Monday.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "20fdaa83079b",
+          "title": "Six killed in Hebei bath house fire",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e6080a3109f488237c032.html",
+          "description": "Six people were killed on Sunday afternoon in a fire at a bath house in Yongnian district of Handan, Hebei province, authorities said on Monday.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "d6b3e7910682",
+          "title": "Residents mobilized to protect environment in Tibet",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e46f3a310eefe3e9a2fe0.html",
+          "description": "Residents of southwest China's Tibet autonomous region have been mobilized for government-paid patrolling jobs to protect the ecosystem on the \"roof of the world.\"",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "6252247f1615",
+          "title": "Israeli feels special connection to Harbin",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e45aca310eefe3e9a2efe.html",
+          "description": "A young foreign man walks around the city, giving big hugs to the strangers he meets on the streets in Harbin, capital of Northeast China’s Heilongjiang province.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "1e7549497f92",
+          "title": "Honor mobile phone leading in AI speed",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e4398a310eefe3e9a2ee3.html",
+          "description": "Many commentators have deemed 2017 to be year one for the artificial intelligence smartphone as iPhone X and Honor V10 launched into the highly competitive but uniform cellphone market. So will an intelligent phone be the next great breakthrough?",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "fcd0ace40e41",
+          "title": "Xi’an security guard dies trying to save suicidal woman",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e39c9a310eefe3e9a2ed4.html",
+          "description": "Police in Xi’an, Shaanxi province, are investigating the death of a security guard who tried to catch a woman who jumped from the 11th floor of a building, Huashang Daily reported on Monday.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "e5c31e1e2089",
+          "title": "'Naughty' elephant damages two vehicles in SW China",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e2941a310eefe3e9a290b.html",
+          "description": "A wild Asian elephant turned a highway in southwest China's Yunnan province into its playground, damaging a minibus and a sedan Saturday afternoon.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "7cf5424f4d5d",
+          "title": "Algerian boy, 12, wins Shenzhen talent contest",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e1cd9a310eefe3e9a28ac.html",
+          "description": "A 12-year-old Algerian boy was crowned winner of the eighth Shenzhen Expats Chinese Talent Competition on Sunday.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "e2776eb99e6f",
+          "title": "Duke Kunshan starts search for bachelor’s degree students",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e1ccba310eefe3e9a28a8.html",
+          "description": "Duke Kunshan University, a joint venture between Duke University in the US and China’s Wuhan University, has started to enroll its first class of undergraduate students.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "06c2a3a7b00f",
+          "title": "Former Chongqing Party chief under investigation",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e1410a310eefe3e9a2754.html",
+          "description": "Sun Zhengcai, the former Party chief of Chongqing, is being investigated on allegations of bribery, State prosecutors said on Monday.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "b4888899b9e3",
+          "title": "Top procuratorate investigates Sun Zhengcai",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2e043aa310eefe3e9a2745.html",
+          "description": "The Supreme People's Procuratorate (SPP) of China announced on Monday that it has started investigation into Sun Zhengcai, former secretary of Chongqing Municipal Committee of the Communist Party of China (CPC).",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "dec00e548bce",
+          "title": "Xi stresses nonstop efforts to fight undesirable work styles",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2dfdd2a310eefe3e9a273a.html",
+          "description": "Xi Jinping, general secretary of the Communist Party of China Central Committee, stressed that the fight against undesirable work styles should not be stopped.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "2823c29434c6",
+          "title": "World's largest automated container terminal starts operation in Shanghai",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2df96fa310eefe3e9a2716.html",
+          "description": "As part of the Shanghai Free Trade Zone, the system can operate completely unmanned.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "e3be0408cafa",
+          "title": "China launches communication satellite for Algeria",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2dee96a310eefe3e9a163a.html",
+          "description": "China launched Algeria's first communication satellite, Alcomsat-1, into a preset orbit from the Xichang Satellite Launch Center in the southwestern province of Sichuan early Monday.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "33b8a99e9fc3",
+          "title": "Chinese, Algerian presidents hail successful launch of communications satellite",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2deb0aa310eefe3e9a1614.html",
+          "description": "President Xi Jinping and his Algerian counterpart Abdelaziz Bouteflika exchanged congratulatory messages on the successful launch of Alcomsat-1 in the Xichang Satellite Launch Center in China's southwestern province of Sichuan early Monday.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "cd29a8393096",
+          "title": "Autopsy: Jiang suffered several injuries before the fatal stab",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2de998a310eefe3e9a160b.html",
+          "description": "The trial of the alleged murderer of Chinese student Jiang Ge began at 10 am on Monday in Tokyo. It will last seven days and the verdict is expected on Dec 20.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "69a2be00161a",
+          "title": "Asia's tallest wooden pagoda destroyed",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2de962a310eefe3e9a1600.html",
+          "description": "The 16-story structure was said to be the tallest wooden pagoda in Asia. No casualties were reported in the incident. The cause of the blaze is under investigation.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        },
+        {
+          "id": "cee619f326c1",
+          "title": "Guizhou: Western province looks to the future of big data",
+          "link": "http://www.chinadaily.com.cn/a/201712/11/WS5a2dddcaa310eefe3e9a159a.html",
+          "description": "While located in the remote southwestern part of China, Guizhou leads the development of Big Data technology in recent years.",
+          "source": "China Daily",
+          "category": "cctv",
+          "pub_date": ""
+        }
+      ],
+      "summary": "📺 今日要闻要点\n\n1. 美国华盛顿特区枪击案嫌疑人致信家人表达对政府不满，引发关注。  \n2. 中国民众关注教育与医疗费用问题，成为两会热点。  \n3. 中俄举行联合导弹防御演习，强化战略协作。  \n4. 中国加速推动军事技术向民用领域转化，助力经济发展。  \n5. 南京大屠杀幸存者最年长者去世，享年100岁。  \n\n今日重点涵盖国际安全、民生关切、中俄合作、军民融合及历史纪念。",
+      "count": 42
     }
   }
 }
