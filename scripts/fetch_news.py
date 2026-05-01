@@ -110,9 +110,8 @@ def _try_parse_xml(xml_text):
             return None
 
 def _is_recent(date_str, days=2):
-    """严格判断新闻是否在最近 days 天内；默认最近2天"""
     if not date_str:
-        return False
+        return True  # 放过无日期（避免空数据）
 
     try:
         dt = parsedate_to_datetime(date_str)
@@ -121,15 +120,17 @@ def _is_recent(date_str, days=2):
             clean_str = date_str.replace("Z", "+00:00")
             dt = datetime.datetime.fromisoformat(clean_str)
         except Exception:
-            return False
+            return True  # 解析失败也放过
 
     if dt.tzinfo is not None:
-        dt = dt.astimezone().replace(tzinfo=None)
+        dt = dt.astimezone(datetime.timezone.utc)
+    else:
+        dt = dt.replace(tzinfo=datetime.timezone.utc)
 
-    now = datetime.datetime.now()
+    now = datetime.datetime.now(datetime.timezone.utc)
     cutoff = now - datetime.timedelta(days=days)
 
-    return cutoff <= dt <= now
+    return dt >= cutoff
 def parse_rss(xml_text, source_name, category):
     """解析 RSS/Atom，返回近期文章列表"""
     items = []
@@ -152,16 +153,18 @@ def parse_rss(xml_text, source_name, category):
     # 取消切片限制，遍历所有的条目
     for entry in entries:
         # 发布时间（最先获取，以便及时过滤跳过）
-        pub_date = ""
-        for tag in ("pubDate", "published", "atom:published", "updated", "dc:date"):
-            el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
-            if el is not None and el.text:
-                pub_date = el.text.strip()
-                break
-        
-        # 新增：时间限制过滤机制
-        if not _is_recent(pub_date):
-            continue
+       # 发布时间
+pub_date = ""
+
+for tag in ("pubDate", "published", "atom:published", "updated", "dc:date"):
+    ...
+
+# ⭐ 在这里加
+days_limit = 5 if category == "cctv" else 2
+
+# 时间过滤
+if not _is_recent(pub_date, days=days_limit):
+    continue
 
         # 标题
         title = ""
