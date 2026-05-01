@@ -10,7 +10,7 @@ import urllib.error
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
-DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "#!/usr/bin/env python3
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 import os
 import json
 import datetime
