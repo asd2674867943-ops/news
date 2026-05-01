@@ -112,11 +112,11 @@ def _try_parse_xml(xml_text):
 
 def _is_recent(date_str, days=2):
     """
-    判断新闻是否在最近 days 天内。
-    没日期/日期解析失败时默认保留，避免 RSS 源不规范导致整栏为空。
+    严格判断新闻是否在最近 days 天内。
+    没日期/解析失败/未来时间，一律丢弃。
     """
     if not date_str:
-        return True
+        return False
 
     try:
         dt = parsedate_to_datetime(date_str)
@@ -125,7 +125,7 @@ def _is_recent(date_str, days=2):
             clean_str = date_str.replace("Z", "+00:00")
             dt = datetime.datetime.fromisoformat(clean_str)
         except Exception:
-            return True
+            return False
 
     if dt.tzinfo is not None:
         dt = dt.astimezone(datetime.timezone.utc)
@@ -135,8 +135,7 @@ def _is_recent(date_str, days=2):
     now = datetime.datetime.now(datetime.timezone.utc)
     cutoff = now - datetime.timedelta(days=days)
 
-    return dt >= cutoff
-
+    return cutoff <= dt <= now
 
 def parse_rss(xml_text, source_name, category):
     items = []
