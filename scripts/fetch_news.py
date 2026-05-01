@@ -18,30 +18,26 @@ DATA_DIR = os.path.join(BASE_DIR, "docs", "data")
 MAX_DAYS = 2
 
 RSS_SOURCES = {
-   "tech": [
-    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
-    {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
-    {"name": "Hacker News", "url": "https://hnrss.org/frontpage"},
-    {"name": "Engadget", "url": "https://www.engadget.com/rss.xml"},
-    {"name": "ZDNet", "url": "https://www.zdnet.com/news/rss.xml"},
-    {"name": "少数派", "url": "https://sspai.com/feed"},
-    {"name": "InfoQ中文", "url": "https://feed.infoq.com/cn/"},
-],
+    "tech": [
+        {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
+        {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
+        {"name": "Hacker News", "url": "https://hnrss.org/frontpage"},
+        {"name": "Engadget", "url": "https://www.engadget.com/rss.xml"},
+        {"name": "ZDNet", "url": "https://www.zdnet.com/news/rss.xml"},
+        {"name": "少数派", "url": "https://sspai.com/feed"},
+        {"name": "InfoQ中文", "url": "https://feed.infoq.com/cn/"},
     ],
+
     "ai": [
         {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml"},
-        {"name": "HN-AI", "url": "https://hnrss.org/newest?q=AI+LLM&count=20"},
-        {"name": "量子位", "url": "https://www.qbitai.com/feed"},
-        {"name": "机器之心", "url": "https://www.jiqizhixin.com/rss"},
+        {"name": "Import AI", "url": "https://importai.substack.com/feed"},
     ],
+
     "cctv": [
-        {"name": "人民网-时政", "url": "http://www.people.com.cn/rss/politics.xml"},
-        {"name": "人民网-国际", "url": "http://www.people.com.cn/rss/world.xml"},
-        {"name": "人民网-社会", "url": "http://www.people.com.cn/rss/society.xml"},
-        {"name": "人民网-军事", "url": "http://www.people.com.cn/rss/military.xml"},
-        {"name": "人民网-要闻", "url": "http://www.people.com.cn/rss/ywkx.xml"},
-        {"name": "Global Times", "url": "https://www.globaltimes.cn/rss/outbrain.xml"},
-    ],
+        {"name": "人民网", "url": "http://www.people.com.cn/rss/politics.xml"},
+        {"name": "环球时报", "url": "https://www.globaltimes.cn/rss/outbrain.xml"},
+        {"name": "中国日报", "url": "http://www.chinadaily.com.cn/rss/china_rss.xml"},
+    ]
 }
 
 
