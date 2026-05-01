@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T09:51:28.303078",
+  "generated_at": "2026-05-01T09:57:58.427593",
   "categories": {
     "tech": {
       "articles": [
@@ -464,8 +464,8 @@
           "pub_date": "Fri, 01 May 2026 09:00:00 +0000"
         },
         {
-          "id": "5799fa0dd353",
-          "title": "A new T-Mobile network for Christians aims to block porn and gender-related content",
+          "id": "a33f9d9b6fad",
+          "title": "A new US phone network for Christians aims to block porn and gender-related content",
           "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
           "description": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter&#8230;",
           "source": "MIT Tech Review",
@@ -545,7 +545,7 @@
           "pub_date": "Thu, 30 Apr 2026 09:16:28 +0800"
         }
       ],
-      "summary": "🔬 今日科技动态摘要\n\n1. **苹果iPhone营收逆势增长**：尽管面临芯片短缺，苹果iPhone营收仍跃升至570亿美元，显示其高端市场韧性与供应链管理能力。\n2. **Rivian生产加速与政策风险并存**：Rivian因R2车型投产营收增长，但特朗普政府能源部削减贷款协议，迫使公司缩减新电动车工厂规模，反映政策变动对新能源产业的影响。\n3. **微软Xbox模式全面开放**：微软宣布Windows 11所有PC均可使用Xbox模式，进一步整合游戏生态，推动PC与主机游戏体验融合。\n4. **Roblox用户持续下滑**：因年龄验证措施加强，Roblox日活用户数继续下降，增长放缓凸显内容平台在合规与扩张间的平衡难题。\n5. **严重Linux安全漏洞曝光**：多年来最严重的Linux威胁被发现，全球系统面临风险，凸显开源软件安全维护的紧迫性。\n\n**总结**：今日科技领域最值得关注的发展是**苹果在芯片短缺下仍实现营收跃升**，以及**Rivian因政策变动被迫调整扩张计划**，两者共同折射出全球科技产业在供应链与政策环境双重压力下的分化与适应。",
+      "summary": "🔬 今日科技动态摘要\n\n1. **科技巨头法律与监管博弈加剧**：马斯克与奥特曼的OpenAI庭审出现戏剧性转折，Meta威胁因“技术不可行”要求而撤出新墨西哥州，美国国会则持续拖延监控改革，显示科技行业与政策制定者之间的紧张关系升级。\n\n2. **苹果与Rivian财报表现分化**：尽管芯片短缺，苹果iPhone营收仍跃升至570亿美元；Rivian在R2车型投产推动下营收增长，但因特朗普政府削减贷款协议而被迫缩减新电动汽车工厂规模，反映行业在政策不确定性下的调整。\n\n3. **用户增长与平台安全策略冲突**：Roblox因年龄验证措施导致日活跃用户持续下降，凸显社交/游戏平台在合规与增长之间的平衡难题；微软Xbox模式向所有Windows 11 PC开放，则展示了平台扩展的新思路。\n\n4. **全球科技与政治环境风险凸显**：美国新闻自由排名跌至乌克兰之后，俄罗斯因太空港暴露于乌克兰打击范围而隐藏发射计划，Linux系统遭遇近年来最严重安全威胁——表明地缘政治与网络安全风险正深刻影响科技生态。\n\n5. **游戏与下一代技术探索**：Housemarque通过《Saros》展示了差异化开发下一代游戏的路径，暗示行业在硬件迭代期寻求创意突破的趋势。\n\n**今日最值得关注的发展**：科技巨头在监管、安全与增长的多重压力下，正面临从法律对抗到政策调整、从用户策略到地缘风险的全面挑战，而苹果与Rivian的财报则揭示了行业内部的分化与韧性。",
       "count": 60
     },
     "ai": {
@@ -659,23 +659,13 @@
           "pub_date": "Thu, 30 Apr 2026 07:24:29 +0000"
         }
       ],
-      "summary": "🔬 今日AI动态摘要\n\n1. **AI评估（Evals）成为新算力瓶颈**：Hugging Face指出，随着模型能力提升，对AI系统进行可靠评估所需的计算资源正迅速增长，甚至可能超过训练阶段的算力需求，成为新的瓶颈。\n\n2. **开源具身智能仿真框架突破**：国内团队开源新一代具身智能仿真框架，实现高吞吐、并行高保真渲染，旨在突破视觉仿真的算力限制，支持大规模机器人训练。\n\n3. **AI时代经济与协作模式重构**：Stripe发布288项新功能，定位为AI时代的经济基础设施；商汤杨帆提出AI拐点正从“人用AI”转向“人机协作”，本质是生产关系的重构。\n\n4. **AI数字员工与智能体协作进展**：阿里发布数字员工产品QoderWake，可承担工程师、运营、销售等岗位；蚂蚁数科在以太坊基准评测中登顶，为智能体可信协作提供新方案。\n\n5. **硅谷AI巨头法律纠纷升级**：马斯克与OpenAI开庭，双方互揭老底，事件引发广泛关注，反映出AI领域商业竞争与治理的激烈博弈。\n\n**今日最值得关注的发展**：AI评估正成为新的算力瓶颈，同时具身智能与数字员工等应用加速落地，标志着AI正从模型训练阶段向更广泛的部署与协作阶段演进。",
+      "summary": "🔬 今日AI动态摘要\n\n1. **AI评估（Evals）成为新算力瓶颈**：Hugging Face指出，随着模型能力提升，对AI系统进行有效评估所需的计算资源正迅速增长，可能取代训练成为新的算力瓶颈。\n\n2. **具身智能仿真框架开源突破**：国内团队开源新一代具身智能仿真框架，支持高吞吐、并行高保真渲染，旨在突破视觉仿真算力瓶颈，推动规模化训练。\n\n3. **AI从“人用”转向“人机协作”**：商汤科技杨帆提出，AI发展的拐点在于生产关系重构，未来趋势是从工具型AI转向与人类深度协作的智能体，重构工作模式。\n\n4. **AI经济基础设施与数字员工兴起**：Stripe发布288项新功能，聚焦构建AI时代的经济基础设施；阿里推出数字员工产品QoderWake，可承担工程师、运营、销售等岗位，体现AI向企业级应用加速渗透。\n\n5. **马斯克与OpenAI法庭交锋**：马斯克与OpenAI的诉讼案开庭，双方高层互相指责，暴露硅谷科技巨头在AI发展方向与利益分配上的激烈博弈。\n\n今日最值得关注的发展是：AI评估（Evals）正成为新算力瓶颈，这预示着行业焦点将从“训练更大模型”转向“如何可靠衡量与验证模型能力”，可能重塑AI研发的资源分配格局。",
       "count": 12
     },
     "cctv": {
-      "articles": [
-        {
-          "id": "827b960b5e9f",
-          "title": "DC gala shooting suspect voices grievances against US administration in writings to family: media reports",
-          "link": "https://www.globaltimes.cn/page/202604/1359873.shtml",
-          "description": "",
-          "source": "Global Times",
-          "category": "cctv",
-          "pub_date": "Tue, 28 Apr 2026 10:36:40 GMT"
-        }
-      ],
-      "summary": "📺 今日要闻要点\n\n1. 美国华盛顿特区庆祝活动枪击案嫌疑人，在写给家人的信件中表达了对美国政府的不满。\n2. 该嫌疑人声称其行为源于对政府管理方式的怨恨，相关信件内容已被媒体披露。\n3. 此案引发对美国国内社会矛盾与公共安全问题的进一步关注。\n\n今日重点：美国DC庆祝活动枪击案嫌疑人通过信件向家人宣泄对政府的不满，凸显社会深层矛盾。",
-      "count": 1
+      "articles": [],
+      "summary": "今日暂无相关新闻。",
+      "count": 0
     }
   }
 }
