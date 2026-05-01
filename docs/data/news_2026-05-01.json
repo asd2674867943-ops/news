@@ -1,9 +1,18 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T11:19:58.569355",
+  "generated_at": "2026-05-01T14:57:30.774636",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "59acbea77db4",
+          "title": "People are finally using Reddit’s search",
+          "link": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
+          "description": "The company saw a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 12:00:11 +0000"
+        },
         {
           "id": "85d7b31ea6e9",
           "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
@@ -140,8 +149,8 @@
           "pub_date": "Thu, 30 Apr 2026 17:24:49 +0000"
         },
         {
-          "id": "029865e9173a",
-          "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+          "id": "314c223abeb9",
+          "title": "Stripe updates Link, a digital wallet that autonomous AI agents can use, too",
           "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
           "description": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
           "source": "TechCrunch",
@@ -176,13 +185,31 @@
           "pub_date": "Thu, 30 Apr 2026 15:29:49 +0000"
         },
         {
-          "id": "bef965eb23bc",
-          "title": "Dental practice software maker fixes bug that exposed patients’ medical records",
-          "link": "https://techcrunch.com/2026/04/30/dental-practice-software-maker-fixes-bug-that-exposed-patients-medical-records/",
-          "description": "The security bug is now fixed, but the patient who found it said it was challenging to alert the software company about the issue.",
-          "source": "TechCrunch",
+          "id": "5186dcfd878d",
+          "title": "Women sue the men who used their Instagram feed to create AI porn influencers",
+          "link": "https://arstechnica.com/tech-policy/2026/05/women-sue-men-who-used-their-instagram-feed-to-create-ai-porn-influencers/",
+          "description": "AI ModelForge is a platform that teaches men how generate their own AI influencers.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 15:15:41 +0000"
+          "pub_date": "Fri, 01 May 2026 13:26:34 +0000"
+        },
+        {
+          "id": "78e9b9b9edbd",
+          "title": "Rocket Report: Falcon Heavy is back; Russia's Soyuz-5 finally debuts",
+          "link": "https://arstechnica.com/space/2026/05/rocket-report-falcon-heavy-is-back-russias-soyuz-5-finally-debuts/",
+          "description": "Two launches this week delivered 61 more satellites to orbit for the Amazon Leo broadband network.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 12:39:03 +0000"
+        },
+        {
+          "id": "4b30efdc41d4",
+          "title": "There's a lot of hype about Chinese EVs—is any of it true?",
+          "link": "https://arstechnica.com/cars/2026/05/theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/",
+          "description": "In addition to being full of screens, China now wants its cars to be packed with AI.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 01 May 2026 11:00:15 +0000"
         },
         {
           "id": "358d0709200e",
@@ -336,36 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 29 Apr 2026 19:14:44 +0000"
-        },
-        {
-          "id": "235b6ae356cf",
-          "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
-          "link": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
-          "description": "Directions also include system instructions to act like \"you have a vivid inner life.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 29 Apr 2026 19:00:58 +0000"
-        },
-        {
-          "id": "7e7515f4fc61",
-          "title": "Howdy's dated $3/month ad-free streaming service said to have 1M subscribers",
-          "link": "https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/",
-          "description": "Most are keeping their subscriptions after signing up, too, research firm says.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 29 Apr 2026 18:02:20 +0000"
-        },
-        {
-          "id": "2332559cc61c",
-          "title": "New Sam Bankman-Fried trial would be huge waste of court’s time, judge says",
-          "link": "https://arstechnica.com/tech-policy/2026/04/new-sam-bankman-fried-trial-would-be-huge-waste-of-courts-time-judge-says/",
-          "description": "FTX fraudster came out as Republican, then tried to claim Biden's DOJ targeted him.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 29 Apr 2026 17:52:52 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI竞争加剧**：OpenAI与Anthropic在AI模型限制上相互指责，同时Anthropic可能以超900亿美元估值融资；OpenAI则与Yubico合作提升ChatGPT账户安全。\n2. **苹果动态**：蒂姆·库克卸任后苹果销售额创纪录，但面临芯片短缺威胁；苹果对AI驱动Mac需求感到意外。\n3. **AI与法律科技**：法律AI初创公司Legora估值达56亿美元，与Harvey的竞争升温；另一AI初创BioticsAI讨论医疗领域FDA审批与融资挑战。\n4. **汽车与出行**：Rivian将佐治亚工厂贷款缩减至45亿美元；法拉第未来向创始人贾跃亭关联公司支付750万美元；谷歌Gemini AI将搭载于数百万辆汽车。\n5. **安全与平台**：黑客正积极利用cPanel漏洞影响数百万网站；TikTok推出大学群聊与信息流功能“Campus Hub”。\n\n今日最值得关注的发展是AI领域融资与竞争白热化，Anthropic或超900亿美元估值的潜在融资轮，以及OpenAI与Anthropic之间的限制策略博弈，凸显出AI行业头部企业争夺市场与资源的激烈态势。",
+      "summary": "今日科技动态摘要\n\n1. **AI竞争与安全升级**：OpenAI宣布与Yubico合作，为ChatGPT账户推出高级安全功能；同时，OpenAI限制了对“Cyber”模型的访问，此前曾批评Anthropic限制Mythos模型。此外，Elon Musk证实xAI使用OpenAI模型训练了Grok。\n2. **苹果动态**：在Tim Cook卸任之际，苹果创下销售纪录，但面临芯片短缺威胁；同时，苹果对AI驱动的Mac需求感到意外。\n3. **AI企业估值与融资**：Anthropic可能在未来两周内完成超9000亿美元估值的融资轮；法律AI初创公司Legora估值达56亿美元，与Harvey的竞争加剧；Y Combinator校友企业Skio以1.05亿美元现金出售，仅融资800万美元。\n4. **科技安全与漏洞**：黑客正在积极利用影响数百万网站的cPanel漏洞；Rivian将佐治亚州工厂的DOE贷款缩减至45亿美元。\n5. **AI应用拓展**：谷歌的Gemini AI助手将进入数百万辆汽车；ChatGPT Images 2.0在印度大受欢迎，但在其他地区表现平平。\n\n**今日最值得关注的发展**：AI领域的竞争与安全升级成为焦点，尤其是OpenAI与Anthropic之间的模型限制争议，以及Elon Musk关于xAI使用OpenAI模型训练Grok的证词，凸显了AI行业在技术、伦理与商业利益上的复杂博弈。",
       "count": 40
     },
     "ai": {
@@ -551,6 +551,33 @@
           "pub_date": "Sat, 25 Apr 2026 02:18:46 +0000"
         },
         {
+          "id": "64ed88791121",
+          "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
+          "link": "https://www.qbitai.com/2026/05/412696.html",
+          "description": "基于全栈国产化软硬件生态打造",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 01 May 2026 13:58:09 +0000"
+        },
+        {
+          "id": "c39869e11c55",
+          "title": "他用AI办了个音乐节，主题：别读博",
+          "link": "https://www.qbitai.com/2026/05/412597.html",
+          "description": "一代科研人的赛博苦中作乐",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 01 May 2026 13:20:15 +0000"
+        },
+        {
+          "id": "a3f6c39ae402",
+          "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
+          "link": "https://www.qbitai.com/2026/05/412585.html",
+          "description": "都是Prefill的锅",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 01 May 2026 11:00:05 +0000"
+        },
+        {
           "id": "f1e927997fda",
           "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
           "link": "https://www.qbitai.com/2026/05/412577.html",
@@ -585,36 +612,9 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Thu, 30 Apr 2026 08:36:50 +0000"
-        },
-        {
-          "id": "cfbf950aacd9",
-          "title": "IMO/IOI奖牌得主18000人追踪：1500倍概率成亿万富翁",
-          "link": "https://www.qbitai.com/2026/04/411964.html",
-          "description": "MIT是奥赛天才的第一目的地",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 30 Apr 2026 08:23:39 +0000"
-        },
-        {
-          "id": "3bd5adc9233f",
-          "title": "为智能体可信协作提供新方案 蚂蚁数科登顶以太坊全球基准评测",
-          "link": "https://www.qbitai.com/2026/04/411959.html",
-          "description": "已投入自主研发超过 10 年",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 30 Apr 2026 07:27:07 +0000"
-        },
-        {
-          "id": "6c9e20db6420",
-          "title": "阿里发布数字员工产品QoderWake，可承担工程师、运营、销售等岗位角色",
-          "link": "https://www.qbitai.com/2026/04/411955.html",
-          "description": "根据自身业务流程定制专属数字员工",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 30 Apr 2026 07:24:29 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AI评估成为新计算瓶颈**：Hugging Face指出，随着模型性能提升，评估（eval）环节正取代训练成为算力消耗的主要瓶颈。\n2. **多模态与长上下文模型发布**：NVIDIA推出Nemotron 3 Nano Omni，支持文档、音频和视频的长上下文多模态智能；Hugging Face发布Granite 4.1系列LLM及DeepInfra推理服务。\n3. **谷歌与OpenAI功能更新**：谷歌翻译迎来20周年新特性，推出Gemini空间整理技巧及AI Agents编程课程；OpenAI强化账户安全，并宣布模型、Codex及托管Agents登陆AWS，同时达到FedRAMP Moderate合规标准。\n4. **安全与基础设施并重**：OpenAI连发多文，强调网络安全、社区安全承诺，并探讨为“智能时代”建设计算基础设施。\n5. **AI应用开发工具新进展**：OpenAI推出Privacy Filter助力可扩展Web应用开发；谷歌与Kaggle合作推出AI Agents Vibe Coding课程。\n\n**最值得关注的发展**：AI评估正成为新的算力瓶颈，而多模态模型（如NVIDIA Nemotron 3 Nano Omni）与云服务集成（OpenAI登陆AWS）标志着AI基础设施正从训练转向推理与安全合规的全面竞争。",
+      "summary": "今日AI动态摘要\n\n1. **AI评估成为新计算瓶颈**：Hugging Face指出，随着模型复杂度提升，对AI系统进行有效评估（evals）所需的算力资源正成为新的性能瓶颈。\n2. **多款大模型与推理服务发布**：包括IBM的Granite 4.1系列、NVIDIA的Nemotron 3 Nano Omni（专注长上下文多模态处理），以及DeepInfra在Hugging Face上提供的推理服务。\n3. **OpenAI与Google多项产品更新**：OpenAI推出高级账户安全、计算基础设施规划、FedRAMP Moderate认证，并宣布模型及Codex、托管Agent登陆AWS；Google庆祝翻译功能20周年，推出Gemini空间整理技巧、AI Agent编程课程。\n4. **AI安全与社区承诺**：OpenAI发布多篇关于网络安全、社区安全承诺及“地精起源”等主题的博客，强调在智能时代的安全与责任。\n\n今日最值得关注的发展是：AI评估正成为新的算力瓶颈，同时各大厂商密集发布模型、推理服务和安全更新，标志着行业正从“模型竞赛”转向“评估与部署基础设施”的竞争。",
       "count": 27
     },
     "cctv": {
@@ -627,6 +627,15 @@
           "source": "Global Times",
           "category": "cctv",
           "pub_date": "Tue, 28 Apr 2026 10:36:40 GMT"
+        },
+        {
+          "id": "81e4ab13e256",
+          "title": "Sanders splits with Washington on AI arms race with China",
+          "link": "https://www.axios.com/2026/04/30/bernie-sanders-ai-arms-race-china",
+          "description": "Article URL: https://www.axios.com/2026/04/30/bernie-sanders-ai-arms-race-china Comments URL: https://news.ycombinator.com/item?id=47973725 Points: 1 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 01 May 2026 11:54:35 +0000"
         },
         {
           "id": "2c5ef9e640e5",
@@ -861,18 +870,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Tue, 28 Apr 2026 09:19:48 +0000"
-        },
-        {
-          "id": "347c1335bb2b",
-          "title": "Meta prepares to undo acquisition of Singapore-based Manus after China ban",
-          "link": "https://www.businesstimes.com.sg/international/global/meta-prepares-undo-acquisition-singapore-based-manus-after-china-ban-report",
-          "description": "Article URL: https://www.businesstimes.com.sg/international/global/meta-prepares-undo-acquisition-singapore-based-manus-after-china-ban-report Comments URL: https://news.ycombinator.com/item?id=47931663 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 28 Apr 2026 08:01:27 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中美科技与军事博弈加剧**：美国电信监管机构投票扩大对华技术打压，并指控中国进行“工业规模”AI模型蒸馏；同时，美海军陆战队将领警告中国在军事上已与美国平起平坐，未来冲突中亦是如此。\n2. **中国自主技术发展受挫与调整**：因百度自动驾驶系统故障，中国暂停发放自动驾驶许可；此外，中国科技巨头出现悄然裁员现象，芯片产业面临美国对第二大芯片制造商的设备出口限制。\n3. **中国在绿色与机器人领域取得突破**：中国新种植780亿棵树，显著影响水循环；太阳能面板出口量惊人；同时，中国正通过“具身智能”加速机器人产业转型，前哈佛科学家在中国重建脑机实验室。\n4. **中美贸易与产业摩擦持续**：中国推动欧盟各国放弃“欧洲制造”法案，否则将面临报复；苹果公司得益于中国市场和iPhone销售，季度盈利超预期。\n5. **中美舆论与安全博弈升温**：华盛顿枪击案嫌疑人致信家人，表达对美国政府的怨恨；美国指责中国进行AI模型蒸馏，并计划分享相关情报。\n\n今日最值得关注的发展是中美在科技、军事和产业领域的全面竞争持续升级，同时中国在绿色能源和机器人等自主技术领域展现出强劲发展势头。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中美科技竞争持续升级**：美国电信监管机构投票扩大对华技术打压，包括限制芯片设备对华出口、指控中国进行“工业规模AI模型蒸馏”，并警告中国在AI军备竞赛中与美国分庭抗礼；同时，美国芯片企业被要求暂停对华第二大芯片制造商的出货。\n2. **中国绿色发展与产业突破**：中国新种植780亿棵树，影响水循环系统；太阳能板出口量激增，全球市场占比显著提升；具身智能（Embodied AI）成为中国推动机器人产业转型的重要路径。\n3. **科技企业动态与政策调整**：百度自动驾驶许可因故障暂停；苹果Q2财报超预期，得益于中国市场和iPhone销售；中国科技巨头悄然裁员；前哈佛科学家在中国重建脑机实验室。\n4. **中欧贸易摩擦加剧**：中国推动欧盟各国放弃“欧洲制造”法案，否则将面临报复措施；中美军事力量对比方面，美海军陆战队将军警告中国在潜在冲突中已与美国平起平坐。\n5. **社会安全与舆论关注**：美国华盛顿特区嘉年华枪击案嫌疑人向媒体透露对政府的不满；中国科技领域“芯片炒作”被指仅为推理层面，引发对行业泡沫的担忧。\n\n**今日最值得关注的发展**：中美在AI与半导体领域的对抗进一步白热化，美国从出口管制到技术指控全面施压，而中国则在绿色能源与机器人产业加速自主替代，科技博弈格局日趋复杂。",
       "count": 28
     }
   }
