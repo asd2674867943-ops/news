@@ -163,14 +163,15 @@ def main():
 
     os.makedirs(DATA_DIR, exist_ok=True)
 
-    result = {
-        "date": today,
-        "categories": {
-            "tech": [],
-            "ai": [],
-            "cctv": [],
-        }
+   result = {
+    "date": today,
+    "generated_at": datetime.datetime.now().isoformat(),
+    "categories": {
+        "tech": {"articles": [], "summary": "", "count": 0},
+        "ai": {"articles": [], "summary": "", "count": 0},
+        "cctv": {"articles": [], "summary": "", "count": 0},
     }
+}
 
     for cat, sources in RSS_SOURCES.items():
         print(f"\n📡 {cat} ...")
