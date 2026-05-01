@@ -157,7 +157,10 @@ def parse_rss(xml_text, source_name, category):
 pub_date = ""
 
 for tag in ("pubDate", "published", "atom:published", "updated", "dc:date"):
-    ...
+    el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
+    if el is not None and el.text:
+        pub_date = el.text.strip()
+        break
 
 # ⭐ 在这里加
 days_limit = 5 if category == "cctv" else 2
