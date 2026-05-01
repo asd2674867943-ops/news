@@ -270,11 +270,9 @@ def parse_rss(xml_text, source_name, category):
             print(f"     跳过旧链接: {title[:30]} {link}")
             continue
 
-        if category == "cctv" and link:
-            if not _page_date_is_recent(link, days=days_limit):
-                print(f"     跳过页面日期不合格: {title[:30]}")
-                continue
-
+    if category == "cctv" and link:
+    if not _page_date_is_recent(link, days=days_limit):
+        print(f"     ⚠ 页面时间异常，但保留: {title[:30]}")
         desc = ""
 
         for tag in ("description", "summary", "atom:summary", "content:encoded", "atom:content"):
