@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T11:07:10.298688",
+  "generated_at": "2026-05-01T11:19:58.569355",
   "categories": {
     "tech": {
       "articles": [
@@ -363,577 +363,10 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 29 Apr 2026 17:52:52 +0000"
-        },
-        {
-          "id": "d641d329fff5",
-          "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
-          "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-          "description": "Article URL: https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/ Comments URL: https://news.ycombinator.com/item?id=47973108 Points: 22 # Comments: 4",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 10:28:12 +0000"
-        },
-        {
-          "id": "8364a87c2aaf",
-          "title": "Show HN: Perfect Bluetooth MIDI for Windows",
-          "link": "https://news.ycombinator.com/item?id=47972888",
-          "description": "Hi HN, I'm Erwin. I built a small free open-source utility that bridges Bluetooth LE MIDI keyboards into the new Windows MIDI Services stack so any DAW or Web MIDI app can use them as if they were wired. I bought a Roland FP-90X piano partly because it had Bluetooth MIDI. On my Windows 11 PC, pairing succeeded, but my DAW couldn't see the keyboard, and notes I sent from the PC never made the piano sing. After a regrettable number of evenings, I'd separated this into three independent bugs stacked on top of each other. The first one is the famous one: Windows only natively exposes BLE-MIDI thro",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 09:52:15 +0000"
-        },
-        {
-          "id": "ab8092db1346",
-          "title": "The Rotary Un-Smartphone",
-          "link": "https://skysedge.com/telecom/RUSP/index.html",
-          "description": "Article URL: https://skysedge.com/telecom/RUSP/index.html Comments URL: https://news.ycombinator.com/item?id=47972807 Points: 16 # Comments: 1",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 09:39:07 +0000"
-        },
-        {
-          "id": "6fbac5f438b5",
-          "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-          "link": "https://github.com/darrylmorley/whatcable",
-          "description": "USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer. WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc. Built in Swift/SwiftUI. Open source, free, no tracking. GitHub: https://github.com/darrylmorley/whatcable Comments URL: https://news.ycombinator.com/item?id=47972511 Points: 87 # Comments: 20",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 08:43:45 +0000"
-        },
-        {
-          "id": "0e33223898e5",
-          "title": "Grok 4.3",
-          "link": "https://docs.x.ai/developers/models/grok-4.3",
-          "description": "Article URL: https://docs.x.ai/developers/models/grok-4.3 Comments URL: https://news.ycombinator.com/item?id=47972447 Points: 93 # Comments: 101",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 08:29:31 +0000"
-        },
-        {
-          "id": "51f5a05750bf",
-          "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
-          "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
-          "description": "Article URL: https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw== Comments URL: https://news.ycombinator.com/item?id=47972213 Points: 57 # Comments: 16",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 07:44:17 +0000"
-        },
-        {
-          "id": "35b3621c869a",
-          "title": "If I could make my own GitHub",
-          "link": "https://matduggan.com/if-i-could-make-my-own-github/",
-          "description": "Article URL: https://matduggan.com/if-i-could-make-my-own-github/ Comments URL: https://news.ycombinator.com/item?id=47971771 Points: 64 # Comments: 44",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 06:21:01 +0000"
-        },
-        {
-          "id": "e2dced6d50dc",
-          "title": "Your Biggest Vulnerability is your Shitty Compensation",
-          "link": "https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/",
-          "description": "Article URL: https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/ Comments URL: https://news.ycombinator.com/item?id=47971134 Points: 33 # Comments: 14",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 03:53:44 +0000"
-        },
-        {
-          "id": "22d61d6f54b4",
-          "title": "OpenWarp",
-          "link": "https://openwarp.zerx.dev",
-          "description": "Article URL: https://openwarp.zerx.dev Comments URL: https://news.ycombinator.com/item?id=47970622 Points: 101 # Comments: 80",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 02:10:46 +0000"
-        },
-        {
-          "id": "460ad57408de",
-          "title": "The Hearts of the Super Nintendo (2024)",
-          "link": "https://fabiensanglard.net/snes_hearts/",
-          "description": "Article URL: https://fabiensanglard.net/snes_hearts/ Comments URL: https://news.ycombinator.com/item?id=47970578 Points: 30 # Comments: 5",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 02:02:11 +0000"
-        },
-        {
-          "id": "1f4a30f1dffe",
-          "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
-          "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-          "description": "Article URL: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/ Comments URL: https://news.ycombinator.com/item?id=47969288 Points: 109 # Comments: 47",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 22:48:51 +0000"
-        },
-        {
-          "id": "4e0f134243fb",
-          "title": "Can I disable all data collection from my vehicle?",
-          "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-          "description": "Article URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle Comments URL: https://news.ycombinator.com/item?id=47967786 Points: 635 # Comments: 263",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 20:27:22 +0000"
-        },
-        {
-          "id": "8c4723365130",
-          "title": "Full-Text Search with DuckDB",
-          "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-          "description": "Article URL: https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html Comments URL: https://news.ycombinator.com/item?id=47966254 Points: 142 # Comments: 31",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 18:14:18 +0000"
-        },
-        {
-          "id": "76578337de8e",
-          "title": "I built a Game Boy emulator in F#",
-          "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-          "description": "Article URL: https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/ Comments URL: https://news.ycombinator.com/item?id=47965503 Points: 282 # Comments: 66",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 17:14:21 +0000"
-        },
-        {
-          "id": "8d077e978742",
-          "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-          "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-          "description": "Recent: Copy Fail - https://news.ycombinator.com/item?id=47952181 - April 2026 (466 comments) Comments URL: https://news.ycombinator.com/item?id=47965108 Points: 510 # Comments: 399",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 16:43:47 +0000"
-        },
-        {
-          "id": "ae1fe53c3bc6",
-          "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-          "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-          "description": "Article URL: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/ Comments URL: https://news.ycombinator.com/item?id=47965060 Points: 608 # Comments: 203",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 16:41:00 +0000"
-        },
-        {
-          "id": "510ebe3eb7bf",
-          "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-          "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-          "description": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 398 # Comments: 142",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 16:09:26 +0000"
-        },
-        {
-          "id": "2a8b896ebbbd",
-          "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-          "link": "https://twitter.com/theo/status/2049645973350363168",
-          "description": "https://xcancel.com/theo/status/2049645973350363168 Comments URL: https://news.ycombinator.com/item?id=47963204 Points: 1175 # Comments: 644",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 14:36:58 +0000"
-        },
-        {
-          "id": "2ae0c5af8aa1",
-          "title": "How an oil refinery works",
-          "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-          "description": "Article URL: https://www.construction-physics.com/p/how-an-oil-refinery-works Comments URL: https://news.ycombinator.com/item?id=47962548 Points: 428 # Comments: 135",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 13:54:20 +0000"
-        },
-        {
-          "id": "af98a726aa6e",
-          "title": "Microsoft's Xbox mode starts making its way to Windows 11 PCs",
-          "link": "https://www.engadget.com/2161816/microsoft-xbox-mode-windows-11-rollout/",
-          "description": "Xbox mode brings a console-like interface to Windows 11.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 11:01:00 +0000"
-        },
-        {
-          "id": "6a6b20b5693f",
-          "title": "Toilet maker Toto is here to help with the RAM crisis",
-          "link": "https://www.engadget.com/2161815/toto-profits-from-ram-crisis/",
-          "description": "It&#39;s pledged to invest more into its division making ceramics used in the production of NAND memory.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 10:44:34 +0000"
-        },
-        {
-          "id": "ffbead78bef5",
-          "title": "Meta says it may withdraw its apps from New Mexico if judge agrees to the state's demands",
-          "link": "https://www.engadget.com/2161607/meta-says-it-may-withdraw-its-apps-from-new-mexico-if-judge-agrees-to-the-states-demands/",
-          "description": "Welcome to the Land of Enchantment.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 21:13:42 +0000"
-        },
-        {
-          "id": "f123a58329c1",
-          "title": "Modder releases loader to turn the PS5 into a Linux system",
-          "link": "https://www.engadget.com/2161587/modder-releases-loader-to-turn-the-ps5-into-a-linux-system/",
-          "description": "Linux is having a very busy year.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 20:49:53 +0000"
-        },
-        {
-          "id": "c2b6167cb15a",
-          "title": "Prime Video will stream three Duke basketball games next season",
-          "link": "https://www.engadget.com/2161567/prime-video-will-stream-three-duke-basketball-games-next-season/",
-          "description": "This marks Amazon&#39;s first streaming deal with a college team.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 20:25:46 +0000"
-        },
-        {
-          "id": "da0c3cb57660",
-          "title": "You can now choose which games use Quick Resume on Xbox",
-          "link": "https://www.engadget.com/2161516/you-can-now-choose-which-games-use-quick-resume-on-xbox/",
-          "description": "The option is part of a collection of updates Microsoft is making to consoles and the Xbox PC app.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 19:48:57 +0000"
-        },
-        {
-          "id": "afa28292b15f",
-          "title": "The minimalist Light Phone III will soon support a curated set of third-party apps",
-          "link": "https://www.engadget.com/2161468/the-minimalist-light-phone-iii-will-soon-support-a-curated-set-of-third-party-apps/",
-          "description": "An SDK will allow developers to start building non-commercial tools soon.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 19:04:22 +0000"
-        },
-        {
-          "id": "348dcf7e094d",
-          "title": "City of None is the next game from the co-creator of Celeste",
-          "link": "https://www.engadget.com/2161453/city-of-none-is-the-next-game-from-the-co-creator-of-celeste/",
-          "description": "Extremely OK Games is publishing the project.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 18:51:41 +0000"
-        },
-        {
-          "id": "f3e4f976c4e8",
-          "title": "Anbernic's swiveling retro handheld will be available May 11",
-          "link": "https://www.engadget.com/2161434/anbernics-swiveling-retro-handheld-will-be-available-may-11/",
-          "description": "The RG Rotate starts at just $88.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 18:33:41 +0000"
-        },
-        {
-          "id": "f698f7457137",
-          "title": "LG's UltraGear evo 5K gaming monitor is available to pre-order",
-          "link": "https://www.engadget.com/2161419/lgs-ultragear-evo-5k-gaming-monitor-is-available-to-pre-order/",
-          "description": "The monitor uses a Mini LED screen and supports AI upscaling for lower resolution content.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 18:24:08 +0000"
-        },
-        {
-          "id": "f16593be339c",
-          "title": "Senate Judiciary Committee unanimously approves AI chatbot age verification",
-          "link": "https://www.engadget.com/2161370/senate-judiciary-committee-unanimously-approves-ai-chatbot-age-verification/",
-          "description": "It's a rare moment of working across the aisle.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 17:43:10 +0000"
-        },
-        {
-          "id": "f7592a0e06f0",
-          "title": "Subnautica 2 will be in early access May 14, at long last",
-          "link": "https://www.engadget.com/2161367/subnautica-2-will-be-in-early-access-may-14-at-long-last/",
-          "description": "The hotly anticipated sequel has been the subject of all kinds of drama.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 17:35:50 +0000"
-        },
-        {
-          "id": "c5e5e857fdbb",
-          "title": "Age of Empires II: Definitive Edition arrives on Mac next month",
-          "link": "https://www.engadget.com/2161345/age-of-empires-ii-definitive-edition-arrives-on-mac-next-month/",
-          "description": "Wololo.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 17:18:35 +0000"
-        },
-        {
-          "id": "8032914f918c",
-          "title": "Amazon's AI-generated shopping experts now let you ask questions",
-          "link": "https://www.engadget.com/2161331/amazon-s-ai-generated-shopping-experts-now-let-you-ask-questions/",
-          "description": "It's an expansion of the mobile app's \"Hear the Highlights\" feature.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 17:11:30 +0000"
-        },
-        {
-          "id": "bef65e2ac00c",
-          "title": "Atomfall is the latest indie game being turned into a TV show",
-          "link": "https://www.engadget.com/2161301/atomfall-is-the-latest-indie-game-being-turned-into-a-tv-show/",
-          "description": "The extremely British action RPG should translate well to an episodic format.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 16:46:54 +0000"
-        },
-        {
-          "id": "3e97dc4658c9",
-          "title": "The ROG Xbox Ally X is getting some updates, including Automatic Super Resolution",
-          "link": "https://www.engadget.com/2160776/the-rog-xbox-ally-x-is-getting-some-updates-including-automatic-super-resolution/",
-          "description": "Xbox Insiders can preview the new tech today.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 16:00:00 +0000"
-        },
-        {
-          "id": "0ae5ea60b228",
-          "title": "ChatGPT developed a goblin obsession after OpenAI tried to make it nerdy",
-          "link": "https://www.engadget.com/2161234/chatgpt-developed-a-goblin-obsession-after-openai-tried-to-make-it-nerdy/",
-          "description": "A warning for all you nerds out there.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 15:42:28 +0000"
-        },
-        {
-          "id": "a09f762ee018",
-          "title": "The upcoming Resident Evil movie looks legit scary in its first trailer",
-          "link": "https://www.engadget.com/2161212/the-upcoming-resident-evil-movie-looks-legit-scary-in-its-first-trailer/",
-          "description": "Zach Cregger&#39;s take on the video game source material hits theaters on September 18.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 15:28:24 +0000"
-        },
-        {
-          "id": "bc62f411b2a7",
-          "title": "Star Wars: Galactic Racer lands on PC, PS5 and Xbox Series X/S on October 6",
-          "link": "https://www.engadget.com/2161135/star-wars-galactic-racer-lands-on-pc-ps5-and-xbox-october-6/",
-          "description": "A $160 physical collector&#39;s edition includes a rad-looking landspeeder model.",
-          "source": "Engadget",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 14:20:38 +0000"
-        },
-        {
-          "id": "383158dfec3a",
-          "title": "Best AirPods of 2026: Expert tested and reviewed",
-          "link": "https://www.zdnet.com/article/best-airpods/",
-          "description": "I've worn every pair of headphones in Apple's catalog to help you find your iPhone's new best friend.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 11:00:48 GMT"
-        },
-        {
-          "id": "0b9357aea738",
-          "title": "I ditched my laptop for XR headsets, tablets, and phones - and learned an important lesson",
-          "link": "https://www.zdnet.com/article/i-ditched-laptop-for-xr-headset-tablet-phone-what-i-learned/",
-          "description": "Content creation isn't limited to just desktops and laptops these days. Here are a few other devices I've been using to funnel my creative juices.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 10:30:38 GMT"
-        },
-        {
-          "id": "f5223d327cb4",
-          "title": "Moving from AI pilots to business-wide value requires a superhighway - how to ramp up",
-          "link": "https://www.zdnet.com/article/moving-from-ai-pilots-to-business-wide-value-accenture-research/",
-          "description": "Accenture's latest research finds that companies must demonstrate sustained early wins from AI investments to build momentum. The key is shifting from siloed AI to systemic AI.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 10:00:45 GMT"
-        },
-        {
-          "id": "f6ab5537b7a9",
-          "title": "4 interior designers told us what smart tech you should actually buy",
-          "link": "https://www.zdnet.com/article/4-interior-designers-told-us-what-smart-tech-you-should-actually-buy/",
-          "description": "Interior designers and decorators share their picks for the best smart home products that both look sleek and offer useful features.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 09:01:00 GMT"
-        },
-        {
-          "id": "b74eaf51244f",
-          "title": "Forget productivity: Here are 5 strategic shifts that drive real AI value",
-          "link": "https://www.zdnet.com/article/strategic-shifts-drive-real-ai-value/",
-          "description": "Everyone talks about increasing productivity with AI tools. Here's how to deliver actual value.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 09:00:44 GMT"
-        },
-        {
-          "id": "48f324d37711",
-          "title": "Your TV can sound a lot better: 7 easy but unexpected ways to improve audio quality",
-          "link": "https://www.zdnet.com/article/how-to-fix-tv-audio-sound/",
-          "description": "Getting great sound from your TV doesn't have to cost a fortune. These are my tried-and-true TV audio tricks.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 02:01:10 GMT"
-        },
-        {
-          "id": "34e0ce578f08",
-          "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - this model was better",
-          "link": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/",
-          "description": "When you're driving, both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's modest abilities. Here's which one is better.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 02:00:50 GMT"
-        },
-        {
-          "id": "c3074ca03ec4",
-          "title": "My dad needed a new desktop PC - here's why this Dell was the smartest choice",
-          "link": "https://www.zdnet.com/article/dell-24-inch-aio-2026-review/",
-          "description": "Dell's new 24-inch AiO is a compact, easy-to-use desktop with reliable performance and great speakers, but some expected limitations.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 00:31:15 GMT"
-        },
-        {
-          "id": "c0be901b4631",
-          "title": "Amazon confirmed Prime Day 2026 is coming earlier. Here's everything to know now",
-          "link": "https://www.zdnet.com/article/amazon-prime-day-2026-faq/",
-          "description": "Amazon's summer Prime Day event will officially be held in June this year, not July. Here's what to know so far.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 20:17:50 GMT"
-        },
-        {
-          "id": "85b9bb52699c",
-          "title": "Thousands of readers bought these 10 useful tools and gadgets (No. 5 gets weird)",
-          "link": "https://www.zdnet.com/article/most-popular-products-from-our-readers-2026/",
-          "description": "From Bluetooth trackers to (checks notes) a smart insect bite healer, these are the top gadgets our readers have actually purchased in 2026 so far.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 17:51:53 GMT"
-        },
-        {
-          "id": "de6e43155203",
-          "title": "After testing this Linux laptop, I understand why MacBooks are the superior choice",
-          "link": "https://www.zdnet.com/article/tuxedo-infinitybook-max-15-review/",
-          "description": "The new Tuxedo InfinityBook Max 15 is an impressive Linux laptop for everyday use, with a few concerns.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 17:30:52 GMT"
-        },
-        {
-          "id": "639edb713124",
-          "title": "Motorola Razr Ultra (2026) vs. Samsung Galaxy Z Flip 7: I tried both, and there's a clear winner",
-          "link": "https://www.zdnet.com/article/samsung-galaxy-z-flip-7-vs-motorola-razr-ultra-2026/",
-          "description": "Samsung focuses on durability and AI, while the new Motorola phone is all about the hardware. Here's which one I think is better.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 17:13:09 GMT"
-        },
-        {
-          "id": "c9b2e66f8910",
-          "title": "Anthropic's new Claude Security tool scans your codebase for flaws - and helps you decide what to fix first",
-          "link": "https://www.zdnet.com/article/anthropic-claude-security-ai-tool-scans-codebase-for-flaws/",
-          "description": "It uses Opus 4.7 to scan, validate, and generate patches, helping fix dangerous flaws before they can be exploited.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 17:00:00 GMT"
-        },
-        {
-          "id": "1b38b1ebcaab",
-          "title": "Sony vs. Bose: My buying advice after listening to flagship headphones from both brands",
-          "link": "https://www.zdnet.com/article/sony-vs-bose-headphones-2026/",
-          "description": "Sony and Bose make best-in-class headphones, but my extended time with the latest flagship models reveals their true strengths and weaknesses.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 15:52:00 GMT"
-        },
-        {
-          "id": "0a3990a8b55b",
-          "title": "T-Mobile will give you the latest Apple Watch SE for free - how to qualify for the deal",
-          "link": "https://www.zdnet.com/article/apple-watch-se-3-tmobile-deal/",
-          "description": "The carrier is offering the new Apple Watch SE 3 at no retail cost when you add a line.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 15:01:12 GMT"
-        },
-        {
-          "id": "5a7be497d2be",
-          "title": "I asked ChatGPT Images 2.0 to redesign my app UIs - and wow",
-          "link": "https://www.zdnet.com/article/i-asked-chatgpt-to-redesign-my-apps-wow-results/",
-          "description": "ChatGPT analyzed two of my apps, flagged issues, and generated new mockups. It's a game-changer.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 14:18:00 GMT"
-        },
-        {
-          "id": "acf0c2f97021",
-          "title": "I fixed my Wi-Fi dead zones at home with these 6 simple changes",
-          "link": "https://www.zdnet.com/article/how-i-fix-home-wifi-dead-zones/",
-          "description": "I struggled with Wi-Fi dead spots for years. Here's what finally worked.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 13:59:37 GMT"
-        },
-        {
-          "id": "dda5ac8cd23b",
-          "title": "Samsung Galaxy vs. Google Pixel: My take after testing dozens of phones from both brands",
-          "link": "https://www.zdnet.com/article/samsung-galaxy-vs-google-pixel-phones/",
-          "description": "Samsung and Google make some of the best Android phones, but they're very different. Here's when to choose a Galaxy or a Pixel.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 13:06:00 GMT"
-        },
-        {
-          "id": "445a8cbde39a",
-          "title": "I stopped this common charging habit that was quietly killing my iPhone's battery",
-          "link": "https://www.zdnet.com/article/stopped-common-charging-habit-killing-iphone-battery/",
-          "description": "By charging my iPhone in this one spot, I was damaging my battery and shortening its lifespan. Here's what I do now to avoid it.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 12:20:00 GMT"
-        },
-        {
-          "id": "decb17c3f510",
-          "title": "The best cloud phone systems of 2026: Expert tested and reviewed",
-          "link": "https://www.zdnet.com/article/best-cloud-phone-systems/",
-          "description": "I tested the best cloud phone systems hands-on, compared pricing, AI features, and real user feedback to help you pick the right one for your team.",
-          "source": "ZDNet",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 09:01:00 GMT"
-        },
-        {
-          "id": "600059b9f8b9",
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "link": "https://sspai.com/post/109266",
-          "description": "📅本周新预告《暗影蜘蛛侠》正式预告4月26日，剧集《暗影蜘蛛侠》发布了黑白和彩色双版本正式预告，将于5月27日上线PrimeVideo。尼古拉斯·凯奇领衔主演，聚焦1930年代纽约的一个上了年纪、倒霉 ... 查看全文",
-          "source": "少数派",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 17:00:00 +0800"
-        },
-        {
-          "id": "29c47c94e8bf",
-          "title": "本月玩什么｜朋友收藏、识质存在、沙罗周期",
-          "link": "https://sspai.com/post/109257",
-          "description": "假期预防无聊，先来找点玩的。 查看全文",
-          "source": "少数派",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 17:30:00 +0800"
-        },
-        {
-          "id": "cfbe1f7980a4",
-          "title": "五一假期将至，用 iPhone 轻松搞定假日出行",
-          "link": "https://sspai.com/post/88452",
-          "description": "五一假期将至，我相信有很多派友们都会抓住难得的长假机会，策划一场期盼许久的旅行。曾几何时，我们出门旅游时要带上相机、纸质地图、旅行攻略（比如说LonelyPlanet）、纸质车票、钱包、现金等一堆东西 ... 查看全文",
-          "source": "少数派",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 14:49:33 +0800"
-        },
-        {
-          "id": "0c0047f9be51",
-          "title": "关于中年和中年危机的一些思考",
-          "link": "https://sspai.com/post/108451",
-          "description": "关于「中年」这个极其宏大的话题，虽然可写的方面很多，但我不想把话题铺的太满。我写这篇文章本身的核心目的，不是为了说出些什么道理，而是只是想表达自己当下的一种人生处境，同时抛砖引玉，让更多的朋友去分享自己的中年收获和困境。只要有一瞬间觉得自己并不孤单，这篇文章的目的就达到了。 查看全文",
-          "source": "少数派",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 10:17:59 +0800"
-        },
-        {
-          "id": "42a8ecde8e20",
-          "title": "派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等",
-          "link": "https://sspai.com/post/109235",
-          "description": "Framework 推出 RTX 5070 GPU 显卡模块、蚂蚁集团百灵大模型开源 Ling-2.6-flash 等。 查看全文",
-          "source": "少数派",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 09:16:28 +0800"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI与科技巨头动态**：ChatGPT Images 2.0在印度走红但全球反响一般；苹果在库克卸任之际创下销售纪录，但面临芯片短缺风险；苹果对AI驱动的Mac需求感到意外；OpenAI与Anthropic均在调整AI模型使用限制，xAI被曝使用OpenAI模型训练Grok。\n\n2. **企业融资与估值**：YC校友企业Skio以1.05亿美元现金出售（仅融资800万）；Anthropic可能在未来两周内完成估值超9000亿美元的融资轮；法律AI初创公司Legora估值达56亿美元，与Harvey竞争加剧；Rivian将佐治亚工厂的DOE贷款缩减至45亿美元。\n\n3. **安全与风险事件**：黑客正在积极利用cPanel漏洞，影响数百万网站；OpenAI宣布与Yubico合作，为ChatGPT账户推出高级安全功能。\n\n4. **汽车与出行领域**：法拉第未来向创始人贾跃亭关联公司支付750万美元；谷歌Gemini AI助手将接入数百万辆汽车。\n\n5. **社交媒体与平台更新**：TikTok推出“校园中心”功能，支持大学群聊和信息流。\n\n**最值得关注的发展**：Anthropic可能以超9000亿美元估值融资，反映出AI赛道资本热潮仍在持续，同时xAI被曝使用OpenAI模型训练Grok，引发行业对AI训练数据与竞争合规的广泛讨论。",
-      "count": 103
+      "summary": "今日科技动态摘要\n\n1. **AI竞争加剧**：OpenAI与Anthropic在AI模型限制上相互指责，同时Anthropic可能以超900亿美元估值融资；OpenAI则与Yubico合作提升ChatGPT账户安全。\n2. **苹果动态**：蒂姆·库克卸任后苹果销售额创纪录，但面临芯片短缺威胁；苹果对AI驱动Mac需求感到意外。\n3. **AI与法律科技**：法律AI初创公司Legora估值达56亿美元，与Harvey的竞争升温；另一AI初创BioticsAI讨论医疗领域FDA审批与融资挑战。\n4. **汽车与出行**：Rivian将佐治亚工厂贷款缩减至45亿美元；法拉第未来向创始人贾跃亭关联公司支付750万美元；谷歌Gemini AI将搭载于数百万辆汽车。\n5. **安全与平台**：黑客正积极利用cPanel漏洞影响数百万网站；TikTok推出大学群聊与信息流功能“Campus Hub”。\n\n今日最值得关注的发展是AI领域融资与竞争白热化，Anthropic或超900亿美元估值的潜在融资轮，以及OpenAI与Anthropic之间的限制策略博弈，凸显出AI行业头部企业争夺市场与资源的激烈态势。",
+      "count": 40
     },
     "ai": {
       "articles": [
@@ -954,10 +387,235 @@
           "source": "Hugging Face",
           "category": "ai",
           "pub_date": "Wed, 29 Apr 2026 15:01:48 GMT"
+        },
+        {
+          "id": "1ecdbe6c06a3",
+          "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+          "link": "https://huggingface.co/blog/inference-providers-deepinfra",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 29 Apr 2026 00:00:00 GMT"
+        },
+        {
+          "id": "c50cd22220f4",
+          "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 28 Apr 2026 15:58:57 GMT"
+        },
+        {
+          "id": "a6a6453c155c",
+          "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+          "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Mon, 27 Apr 2026 00:00:00 GMT"
+        },
+        {
+          "id": "9ace747dfaee",
+          "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+          "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+          "description": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 28 Apr 2026 16:00:00 +0000"
+        },
+        {
+          "id": "894b5d4f5ab7",
+          "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+          "description": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 27 Apr 2026 13:00:00 +0000"
+        },
+        {
+          "id": "1095fa78a9ff",
+          "title": "8 Gemini tips for organizing your space (and life)",
+          "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+          "description": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 24 Apr 2026 19:00:00 +0000"
+        },
+        {
+          "id": "f79931fd2634",
+          "title": "Introducing Advanced Account Security",
+          "link": "https://openai.com/index/advanced-account-security",
+          "description": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 30 Apr 2026 00:00:00 GMT"
+        },
+        {
+          "id": "d7598dda6535",
+          "title": "Where the goblins came from",
+          "link": "https://openai.com/index/where-the-goblins-came-from",
+          "description": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 29 Apr 2026 20:00:00 GMT"
+        },
+        {
+          "id": "3b130b3c0251",
+          "title": "Building the compute infrastructure for the Intelligence Age",
+          "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+          "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 29 Apr 2026 15:00:00 GMT"
+        },
+        {
+          "id": "619ae5ddc68a",
+          "title": "Cybersecurity in the Intelligence Age",
+          "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+          "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 29 Apr 2026 04:00:00 GMT"
+        },
+        {
+          "id": "2d2bf7d758ff",
+          "title": "Our commitment to community safety",
+          "link": "https://openai.com/index/our-commitment-to-community-safety",
+          "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 28 Apr 2026 00:00:00 GMT"
+        },
+        {
+          "id": "b574854aaa8f",
+          "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+          "link": "https://openai.com/index/openai-on-aws",
+          "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 28 Apr 2026 00:00:00 GMT"
+        },
+        {
+          "id": "5af0558eee9f",
+          "title": "OpenAI available at FedRAMP Moderate",
+          "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+          "description": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 27 Apr 2026 14:00:00 GMT"
+        },
+        {
+          "id": "48280f34d2ec",
+          "title": "The next phase of the Microsoft OpenAI partnership",
+          "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+          "description": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 27 Apr 2026 06:00:00 GMT"
+        },
+        {
+          "id": "11dfc50721b1",
+          "title": "An open-source spec for orchestration: Symphony",
+          "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
+          "description": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 27 Apr 2026 00:00:00 GMT"
+        },
+        {
+          "id": "5bb800288141",
+          "title": "Choco automates food distribution with AI agents",
+          "link": "https://openai.com/index/choco",
+          "description": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 27 Apr 2026 00:00:00 GMT"
+        },
+        {
+          "id": "55859da6800e",
+          "title": "Our principles",
+          "link": "https://openai.com/index/our-principles",
+          "description": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Sun, 26 Apr 2026 16:00:00 GMT"
+        },
+        {
+          "id": "a9923f114738",
+          "title": "GCC Establishes Working Group to Decide on AI/LLM Policy",
+          "link": "https://www.phoronix.com/news/GCC-Working-Group-AI-Policy",
+          "description": "Article URL: https://www.phoronix.com/news/GCC-Working-Group-AI-Policy Comments URL: https://news.ycombinator.com/item?id=47898043 Points: 2 # Comments: 0",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Sat, 25 Apr 2026 02:18:46 +0000"
+        },
+        {
+          "id": "f1e927997fda",
+          "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+          "link": "https://www.qbitai.com/2026/05/412577.html",
+          "description": "真机部署“零微调”",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 01 May 2026 06:28:46 +0000"
+        },
+        {
+          "id": "9ed06459dc7c",
+          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "link": "https://www.qbitai.com/2026/05/412447.html",
+          "description": "瓜多到吃不完",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 01 May 2026 06:21:38 +0000"
+        },
+        {
+          "id": "2b923209b744",
+          "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
+          "link": "https://www.qbitai.com/2026/04/412041.html",
+          "description": "牵引中国汽车“走出去”、“走上去”",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 30 Apr 2026 12:04:32 +0000"
+        },
+        {
+          "id": "ce0fcf75ba3a",
+          "title": "10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市",
+          "link": "https://www.qbitai.com/2026/04/411963.html",
+          "description": "三大技术尖点+五大全面引领",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 30 Apr 2026 08:36:50 +0000"
+        },
+        {
+          "id": "cfbf950aacd9",
+          "title": "IMO/IOI奖牌得主18000人追踪：1500倍概率成亿万富翁",
+          "link": "https://www.qbitai.com/2026/04/411964.html",
+          "description": "MIT是奥赛天才的第一目的地",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 30 Apr 2026 08:23:39 +0000"
+        },
+        {
+          "id": "3bd5adc9233f",
+          "title": "为智能体可信协作提供新方案 蚂蚁数科登顶以太坊全球基准评测",
+          "link": "https://www.qbitai.com/2026/04/411959.html",
+          "description": "已投入自主研发超过 10 年",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 30 Apr 2026 07:27:07 +0000"
+        },
+        {
+          "id": "6c9e20db6420",
+          "title": "阿里发布数字员工产品QoderWake，可承担工程师、运营、销售等岗位角色",
+          "link": "https://www.qbitai.com/2026/04/411955.html",
+          "description": "根据自身业务流程定制专属数字员工",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 30 Apr 2026 07:24:29 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AI评估成为新的算力瓶颈**：Hugging Face指出，随着模型规模增长，对AI系统进行有效评估所需的计算资源正逐渐取代训练本身，成为新的性能瓶颈。\n2. **Granite 4.1大语言模型技术细节公开**：Hugging Face发布了Granite 4.1系列LLM的构建方法，详细介绍了其训练架构、数据策略及优化过程。\n\n今日最值得关注的发展是：AI评估环节的计算需求激增，可能重塑行业对算力分配和模型迭代效率的认知。",
-      "count": 2
+      "summary": "今日AI动态摘要\n\n1. **AI评估成为新计算瓶颈**：Hugging Face指出，随着模型性能提升，评估（eval）环节正取代训练成为算力消耗的主要瓶颈。\n2. **多模态与长上下文模型发布**：NVIDIA推出Nemotron 3 Nano Omni，支持文档、音频和视频的长上下文多模态智能；Hugging Face发布Granite 4.1系列LLM及DeepInfra推理服务。\n3. **谷歌与OpenAI功能更新**：谷歌翻译迎来20周年新特性，推出Gemini空间整理技巧及AI Agents编程课程；OpenAI强化账户安全，并宣布模型、Codex及托管Agents登陆AWS，同时达到FedRAMP Moderate合规标准。\n4. **安全与基础设施并重**：OpenAI连发多文，强调网络安全、社区安全承诺，并探讨为“智能时代”建设计算基础设施。\n5. **AI应用开发工具新进展**：OpenAI推出Privacy Filter助力可扩展Web应用开发；谷歌与Kaggle合作推出AI Agents Vibe Coding课程。\n\n**最值得关注的发展**：AI评估正成为新的算力瓶颈，而多模态模型（如NVIDIA Nemotron 3 Nano Omni）与云服务集成（OpenAI登陆AWS）标志着AI基础设施正从训练转向推理与安全合规的全面竞争。",
+      "count": 27
     },
     "cctv": {
       "articles": [
@@ -966,13 +624,256 @@
           "title": "DC gala shooting suspect voices grievances against US administration in writings to family: media reports",
           "link": "https://www.globaltimes.cn/page/202604/1359873.shtml",
           "description": "",
-          "source": "环球时报",
+          "source": "Global Times",
           "category": "cctv",
           "pub_date": "Tue, 28 Apr 2026 10:36:40 GMT"
+        },
+        {
+          "id": "2c5ef9e640e5",
+          "title": "China Planted 78B New Trees Affecting Its Water Cycle",
+          "link": "https://www.popularmechanics.com/science/environment/a71126116/china-reforesting-changes-hydrology/",
+          "description": "Article URL: https://www.popularmechanics.com/science/environment/a71126116/china-reforesting-changes-hydrology/ Comments URL: https://news.ycombinator.com/item?id=47972031 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 01 May 2026 07:14:43 +0000"
+        },
+        {
+          "id": "da57bfc47c33",
+          "title": "US telecom agency votes to expand tech crackdown on China",
+          "link": "https://www.reuters.com/business/media-telecom/us-telecom-agency-votes-expand-tech-crackdown-china-2026-04-30/",
+          "description": "Article URL: https://www.reuters.com/business/media-telecom/us-telecom-agency-votes-expand-tech-crackdown-china-2026-04-30/ Comments URL: https://news.ycombinator.com/item?id=47971589 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 01 May 2026 05:36:26 +0000"
+        },
+        {
+          "id": "1f491c85a7ae",
+          "title": "China Suspends Autonomous Driving Permits After Baidu Outage",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-29/china-suspends-new-autonomous-driving-permits-after-baidu-outage",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-04-29/china-suspends-new-autonomous-driving-permits-after-baidu-outage Comments URL: https://news.ycombinator.com/item?id=47968407 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 30 Apr 2026 21:24:58 +0000"
+        },
+        {
+          "id": "6dca458b4e9d",
+          "title": "Apple beats on Q2 earnings, thanks to China and iPhone sales",
+          "link": "https://finance.yahoo.com/video/apple-beats-on-q2-earnings-thanks-to-china--iphone-sales-204052273.html",
+          "description": "Article URL: https://finance.yahoo.com/video/apple-beats-on-q2-earnings-thanks-to-china--iphone-sales-204052273.html Comments URL: https://news.ycombinator.com/item?id=47968227 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 30 Apr 2026 21:06:13 +0000"
+        },
+        {
+          "id": "ef74e2678e53",
+          "title": "Embodied AI: China's ambitious path to transform its robotics industry",
+          "link": "https://merics.org/en/report/embodied-ai-chinas-ambitious-path-transform-its-robotics-industry",
+          "description": "Article URL: https://merics.org/en/report/embodied-ai-chinas-ambitious-path-transform-its-robotics-industry Comments URL: https://news.ycombinator.com/item?id=47968124 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 30 Apr 2026 20:56:28 +0000"
+        },
+        {
+          "id": "cf948380d8d9",
+          "title": "Convicted former Harvard scientist rebuilds brain computer lab in China",
+          "link": "https://www.reuters.com/world/china/convicted-former-harvard-scientist-rebuilds-brain-computer-lab-china-2026-04-30/",
+          "description": "Article URL: https://www.reuters.com/world/china/convicted-former-harvard-scientist-rebuilds-brain-computer-lab-china-2026-04-30/ Comments URL: https://news.ycombinator.com/item?id=47965930 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 30 Apr 2026 17:48:46 +0000"
+        },
+        {
+          "id": "4b3538d6b47d",
+          "title": "China Is America's Equal Now and in Any Future Fight, Marine General Warns",
+          "link": "https://www.twz.com/sea/china-is-americas-military-equal-now-and-in-any-future-fight-marine-general-warns",
+          "description": "Article URL: https://www.twz.com/sea/china-is-americas-military-equal-now-and-in-any-future-fight-marine-general-warns Comments URL: https://news.ycombinator.com/item?id=47965796 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 30 Apr 2026 17:39:06 +0000"
+        },
+        {
+          "id": "37ec57ed0cbe",
+          "title": "China pushes EU capitals to scrap 'Made in Europe' law or face retaliation",
+          "link": "https://www.euronews.com/my-europe/2026/04/29/china-pushes-eu-capitals-to-scrap-made-in-europe-law-or-face-retaliation",
+          "description": "Article URL: https://www.euronews.com/my-europe/2026/04/29/china-pushes-eu-capitals-to-scrap-made-in-europe-law-or-face-retaliation Comments URL: https://news.ycombinator.com/item?id=47964848 Points: 7 # Comments: 5",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 30 Apr 2026 16:26:07 +0000"
+        },
+        {
+          "id": "be21e9ad3941",
+          "title": "The quiet layoffs China's tech giants",
+          "link": "https://restofworld.org/2026/china-tech-layoffs-alibaba-baidu-ai-pivot/",
+          "description": "Article URL: https://restofworld.org/2026/china-tech-layoffs-alibaba-baidu-ai-pivot/ Comments URL: https://news.ycombinator.com/item?id=47961205 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 30 Apr 2026 12:03:28 +0000"
+        },
+        {
+          "id": "c15b84e28e4a",
+          "title": "US orders chip equipment companies to halt some shipments to China #2 chipmaker",
+          "link": "https://www.reuters.com/world/china/us-orders-chip-equipment-companies-halt-some-shipments-hua-hong-chinas-second-2026-04-28/",
+          "description": "Article URL: https://www.reuters.com/world/china/us-orders-chip-equipment-companies-halt-some-shipments-hua-hong-chinas-second-2026-04-28/ Comments URL: https://news.ycombinator.com/item?id=47959224 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 30 Apr 2026 07:10:54 +0000"
+        },
+        {
+          "id": "07af6d17484c",
+          "title": "The China chip hype seems to be inference only. Is Jensen's worry true?",
+          "link": "https://twitter.com/natolambert/status/2049634340561436966",
+          "description": "Article URL: https://twitter.com/natolambert/status/2049634340561436966 Comments URL: https://news.ycombinator.com/item?id=47957307 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 30 Apr 2026 02:17:52 +0000"
+        },
+        {
+          "id": "08c36850b398",
+          "title": "China Is Selling So Many Solar Panels That Your Jaw Will Drop",
+          "link": "https://futurism.com/science-energy/iran-war-solar-china",
+          "description": "Article URL: https://futurism.com/science-energy/iran-war-solar-china Comments URL: https://news.ycombinator.com/item?id=47955544 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 29 Apr 2026 22:26:05 +0000"
+        },
+        {
+          "id": "f1a4ab6bb105",
+          "title": "US accuses China of industrial-scale AI model distillation, will share Intel",
+          "link": "https://thenextweb.com/news/us-white-house-ai-model-distillation-china-theft",
+          "description": "Article URL: https://thenextweb.com/news/us-white-house-ai-model-distillation-china-theft Comments URL: https://news.ycombinator.com/item?id=47954796 Points: 11 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 29 Apr 2026 21:16:35 +0000"
+        },
+        {
+          "id": "44fcadcfc039",
+          "title": "China Is America's Military Equal Now and in Future Fights, Marine General Warns",
+          "link": "https://www.twz.com/sea/china-is-americas-military-equal-now-and-in-any-future-fight-marine-general-warns",
+          "description": "Article URL: https://www.twz.com/sea/china-is-americas-military-equal-now-and-in-any-future-fight-marine-general-warns Comments URL: https://news.ycombinator.com/item?id=47954669 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 29 Apr 2026 21:06:47 +0000"
+        },
+        {
+          "id": "d29ca620d3ea",
+          "title": "I got stood up by an AI agent, and tracked down its human owner in China",
+          "link": "https://restofworld.org/2026/ai-agent-china-one-person-company/",
+          "description": "Article URL: https://restofworld.org/2026/ai-agent-china-one-person-company/ Comments URL: https://news.ycombinator.com/item?id=47951194 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 29 Apr 2026 17:02:14 +0000"
+        },
+        {
+          "id": "cafc20923de0",
+          "title": "The U.S. Wants to Ban China's High-Tech Cars, They're Already Here in El Paso",
+          "link": "https://www.wsj.com/business/autos/chinese-cars-byd-geely-u-s-mexico-be0dea28",
+          "description": "Article URL: https://www.wsj.com/business/autos/chinese-cars-byd-geely-u-s-mexico-be0dea28 Comments URL: https://news.ycombinator.com/item?id=47947220 Points: 4 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 29 Apr 2026 12:10:28 +0000"
+        },
+        {
+          "id": "336e86c3a1ce",
+          "title": "China freezes new robotaxi licenses after Baidu chaos",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+          "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos Comments URL: https://news.ycombinator.com/item?id=47946991 Points: 2 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 29 Apr 2026 11:46:06 +0000"
+        },
+        {
+          "id": "675d812aaf4f",
+          "title": "China's Meta Backlash Renders Manus Model 'Officially Dead'",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-29/china-s-meta-backlash-renders-manus-model-officially-dead",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-04-29/china-s-meta-backlash-renders-manus-model-officially-dead Comments URL: https://news.ycombinator.com/item?id=47946062 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 29 Apr 2026 09:35:36 +0000"
+        },
+        {
+          "id": "fea68df2af44",
+          "title": "Our first paying user found us from China in 4 days – zero marketing",
+          "link": "https://mfkvault.com",
+          "description": "Article URL: https://mfkvault.com Comments URL: https://news.ycombinator.com/item?id=47945453 Points: 7 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 29 Apr 2026 08:09:30 +0000"
+        },
+        {
+          "id": "08c5040d75d7",
+          "title": "U.S. Wants to Ban China's High-Tech Cars, but They're Already Here in El Paso",
+          "link": "https://www.wsj.com/business/autos/chinese-cars-byd-geely-u-s-mexico-be0dea28",
+          "description": "Article URL: https://www.wsj.com/business/autos/chinese-cars-byd-geely-u-s-mexico-be0dea28 Comments URL: https://news.ycombinator.com/item?id=47943181 Points: 7 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 29 Apr 2026 01:36:05 +0000"
+        },
+        {
+          "id": "abc2747ad3fe",
+          "title": "Why China's Affordable AI Is a Worry for Silicon Valley",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-27/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-04-27/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals Comments URL: https://news.ycombinator.com/item?id=47940086 Points: 19 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 28 Apr 2026 20:17:26 +0000"
+        },
+        {
+          "id": "3261944ecabd",
+          "title": "US State Department upgrades AI theft accusations to target China AI companies",
+          "link": "https://www.chinapulse.com/data-news/2026/04/27/extraction-and-distillation-us-state-department-upgrades-ai-theft-accusations-to-target-chinas-deepseek-moonshot-ai-and-minimax/",
+          "description": "Article URL: https://www.chinapulse.com/data-news/2026/04/27/extraction-and-distillation-us-state-department-upgrades-ai-theft-accusations-to-target-chinas-deepseek-moonshot-ai-and-minimax/ Comments URL: https://news.ycombinator.com/item?id=47939762 Points: 7 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 28 Apr 2026 19:55:57 +0000"
+        },
+        {
+          "id": "1c53b18cf34a",
+          "title": "Meta Is Preparing to Have to Undo Its Manus Acquisition After China Ban",
+          "link": "https://www.wsj.com/tech/ai/meta-is-preparing-to-have-to-undo-its-manus-acquisition-after-china-ban-a4ffbefb",
+          "description": "Article URL: https://www.wsj.com/tech/ai/meta-is-preparing-to-have-to-undo-its-manus-acquisition-after-china-ban-a4ffbefb Comments URL: https://news.ycombinator.com/item?id=47936057 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 28 Apr 2026 15:41:20 +0000"
+        },
+        {
+          "id": "0ea4f0e49f07",
+          "title": "Tracking China's mass surveillance capabilities via abandoned online dashboards",
+          "link": "https://netaskari.substack.com/p/tracking-chinas-mass-surveillance",
+          "description": "Article URL: https://netaskari.substack.com/p/tracking-chinas-mass-surveillance Comments URL: https://news.ycombinator.com/item?id=47933239 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 28 Apr 2026 11:56:36 +0000"
+        },
+        {
+          "id": "73b71ab78867",
+          "title": "China blocks Meta's $2B Manus deal after months-long probe",
+          "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+          "description": "Article URL: https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/ Comments URL: https://news.ycombinator.com/item?id=47932467 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 28 Apr 2026 10:13:04 +0000"
+        },
+        {
+          "id": "bb41d5937374",
+          "title": "China surpasses US in research spending",
+          "link": "https://theconversation.com/china-surpasses-us-in-research-spending-the-consequences-extend-far-beyond-scientific-ranking-and-clout-280543",
+          "description": "Article URL: https://theconversation.com/china-surpasses-us-in-research-spending-the-consequences-extend-far-beyond-scientific-ranking-and-clout-280543 Comments URL: https://news.ycombinator.com/item?id=47932147 Points: 5 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 28 Apr 2026 09:19:48 +0000"
+        },
+        {
+          "id": "347c1335bb2b",
+          "title": "Meta prepares to undo acquisition of Singapore-based Manus after China ban",
+          "link": "https://www.businesstimes.com.sg/international/global/meta-prepares-undo-acquisition-singapore-based-manus-after-china-ban-report",
+          "description": "Article URL: https://www.businesstimes.com.sg/international/global/meta-prepares-undo-acquisition-singapore-based-manus-after-china-ban-report Comments URL: https://news.ycombinator.com/item?id=47931663 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 28 Apr 2026 08:01:27 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 美国华盛顿特区枪击案嫌疑人在写给家人的信件中表达了对美国政府的不满与怨愤。  \n2. 该事件由外媒报道，引发对美社会矛盾及枪支暴力问题的关注。  \n3. 嫌疑人动机涉及个人对政府政策的强烈不满，反映出美国国内治理困境。  \n\n今日最值得关注的发展是：美国社会矛盾再次以暴力事件形式显现，嫌疑人通过书面方式公开表达对政府的对抗情绪，凸显其国内深层治理问题。",
-      "count": 1
+      "summary": "今日新闻联播动态摘要\n\n1. **中美科技与军事博弈加剧**：美国电信监管机构投票扩大对华技术打压，并指控中国进行“工业规模”AI模型蒸馏；同时，美海军陆战队将领警告中国在军事上已与美国平起平坐，未来冲突中亦是如此。\n2. **中国自主技术发展受挫与调整**：因百度自动驾驶系统故障，中国暂停发放自动驾驶许可；此外，中国科技巨头出现悄然裁员现象，芯片产业面临美国对第二大芯片制造商的设备出口限制。\n3. **中国在绿色与机器人领域取得突破**：中国新种植780亿棵树，显著影响水循环；太阳能面板出口量惊人；同时，中国正通过“具身智能”加速机器人产业转型，前哈佛科学家在中国重建脑机实验室。\n4. **中美贸易与产业摩擦持续**：中国推动欧盟各国放弃“欧洲制造”法案，否则将面临报复；苹果公司得益于中国市场和iPhone销售，季度盈利超预期。\n5. **中美舆论与安全博弈升温**：华盛顿枪击案嫌疑人致信家人，表达对美国政府的怨恨；美国指责中国进行AI模型蒸馏，并计划分享相关情报。\n\n今日最值得关注的发展是中美在科技、军事和产业领域的全面竞争持续升级，同时中国在绿色能源和机器人等自主技术领域展现出强劲发展势头。",
+      "count": 28
     }
   }
 }
