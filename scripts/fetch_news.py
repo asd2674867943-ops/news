@@ -2,7 +2,9 @@
 """
 新闻聚合抓取脚本
 抓取科技/AI新闻 + 新闻联播，使用 DeepSeek API 总结
-新增功能：严格限制仅抓取“今日”与“昨日”的新闻，不限制具体条数
+科技/AI：最近2天
+新闻联播：最近5天
+历史数据文件：只保留最近2天
 """
 
 import os
@@ -14,47 +16,44 @@ import re
 import urllib.request
 import urllib.error
 import xml.etree.ElementTree as ET
-from email.utils import parsedate_to_datetime # 新增：用于解析 RSS/Atom 的标准时间
+from email.utils import parsedate_to_datetime
 
 DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs", "data")
 MAX_DAYS = 2
 
-# ============================================================
-# RSS 源配置（2026年4月验证可用）
-# ============================================================
 RSS_SOURCES = {
     "tech": [
-        {"name": "The Verge",       "url": "https://www.theverge.com/rss/index.xml",              "lang": "en"},
-        {"name": "Ars Technica",    "url": "https://feeds.arstechnica.com/arstechnica/index",      "lang": "en"},
-        {"name": "Hacker News",     "url": "https://hnrss.org/frontpage",                          "lang": "en"},
-        {"name": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/",               "lang": "en"},
-        {"name": "少数派",          "url": "https://sspai.com/feed",                               "lang": "zh"},
-        {"name": "InfoQ中文",       "url": "https://feed.infoq.com/cn/",                           "lang": "zh"},
+        {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "lang": "en"},
+        {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index", "lang": "en"},
+        {"name": "Hacker News", "url": "https://hnrss.org/frontpage", "lang": "en"},
+        {"name": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/", "lang": "en"},
+        {"name": "少数派", "url": "https://sspai.com/feed", "lang": "zh"},
+        {"name": "InfoQ中文", "url": "https://feed.infoq.com/cn/", "lang": "zh"},
     ],
     "ai": [
-        {"name": "The Batch",        "url": "https://www.deeplearning.ai/the-batch/feed/",         "lang": "en"},
-        {"name": "Hugging Face",     "url": "https://huggingface.co/blog/feed.xml",                "lang": "en"},
-        {"name": "Import AI",        "url": "https://importai.substack.com/feed",                  "lang": "en"},
-        {"name": "HN-AI",            "url": "https://hnrss.org/newest?q=AI+LLM&count=20",          "lang": "en"},
-        {"name": "量子位",           "url": "https://www.qbitai.com/feed",                         "lang": "zh"},
-        {"name": "机器之心",         "url": "https://www.jiqizhixin.com/rss",                      "lang": "zh"},
+        {"name": "The Batch", "url": "https://www.deeplearning.ai/the-batch/feed/", "lang": "en"},
+        {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "lang": "en"},
+        {"name": "Import AI", "url": "https://importai.substack.com/feed", "lang": "en"},
+        {"name": "HN-AI", "url": "https://hnrss.org/newest?q=AI+LLM&count=20", "lang": "en"},
+        {"name": "量子位", "url": "https://www.qbitai.com/feed", "lang": "zh"},
+        {"name": "机器之心", "url": "https://www.jiqizhixin.com/rss", "lang": "zh"},
     ],
     "cctv": [
-        {"name": "人民网-要闻",     "url": "http://www.people.com.cn/rss/politics.xml",            "lang": "zh"},
-        {"name": "人民网-科技",     "url": "http://www.people.com.cn/rss/IT.xml",                  "lang": "zh"},
-        {"name": "Global Times",    "url": "https://www.globaltimes.cn/rss/outbrain.xml",          "lang": "en"},
-        {"name": "China Daily",     "url": "http://www.chinadaily.com.cn/rss/china_rss.xml",       "lang": "en"},
+        {"name": "人民网-要闻", "url": "http://www.people.com.cn/rss/politics.xml", "lang": "zh"},
+        {"name": "Global Times", "url": "https://www.globaltimes.cn/rss/outbrain.xml", "lang": "en"},
+        {"name": "China Daily", "url": "http://www.chinadaily.com.cn/rss/china_rss.xml", "lang": "en"},
     ]
 }
 
 USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Safari/605.1.15",
     "Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0",
-    "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html)",
 ]
+
 _ua_idx = 0
+
 
 def next_ua():
     global _ua_idx
@@ -62,8 +61,8 @@ def next_ua():
     _ua_idx += 1
     return ua
 
+
 def fetch_rss(url, timeout=20):
-    """抓取 RSS feed，失败自动重试一次"""
     for attempt in range(2):
         try:
             req = urllib.request.Request(url, headers={
@@ -91,6 +90,7 @@ def fetch_rss(url, timeout=20):
             return None
     return None
 
+
 def _clean_html(text):
     if not text:
         return ""
@@ -98,8 +98,8 @@ def _clean_html(text):
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 
+
 def _try_parse_xml(xml_text):
-    """解析 XML，损坏时自动清理非法字符后重试"""
     try:
         return ET.fromstring(xml_text)
     except ET.ParseError:
@@ -109,9 +109,14 @@ def _try_parse_xml(xml_text):
         except ET.ParseError:
             return None
 
+
 def _is_recent(date_str, days=2):
+    """
+    判断新闻是否在最近 days 天内。
+    没日期/日期解析失败时默认保留，避免 RSS 源不规范导致整栏为空。
+    """
     if not date_str:
-        return True  # 放过无日期（避免空数据）
+        return True
 
     try:
         dt = parsedate_to_datetime(date_str)
@@ -120,7 +125,7 @@ def _is_recent(date_str, days=2):
             clean_str = date_str.replace("Z", "+00:00")
             dt = datetime.datetime.fromisoformat(clean_str)
         except Exception:
-            return True  # 解析失败也放过
+            return True
 
     if dt.tzinfo is not None:
         dt = dt.astimezone(datetime.timezone.utc)
@@ -131,45 +136,42 @@ def _is_recent(date_str, days=2):
     cutoff = now - datetime.timedelta(days=days)
 
     return dt >= cutoff
+
+
 def parse_rss(xml_text, source_name, category):
-    """解析 RSS/Atom，返回近期文章列表"""
     items = []
+
     if not xml_text:
         return items
 
     root = _try_parse_xml(xml_text)
+
     if root is None:
         print(f"  ⚠ XML 无法解析，跳过 {source_name}")
         return items
 
     ns = {
-        "atom":    "http://www.w3.org/2005/Atom",
+        "atom": "http://www.w3.org/2005/Atom",
         "content": "http://purl.org/rss/1.0/modules/content/",
-        "dc":      "http://purl.org/dc/elements/1.1/",
+        "dc": "http://purl.org/dc/elements/1.1/",
     }
 
     entries = root.findall(".//atom:entry", ns) or root.findall(".//item")
 
-    # 取消切片限制，遍历所有的条目
     for entry in entries:
-        # 发布时间（最先获取，以便及时过滤跳过）
-       # 发布时间
-pub_date = ""
+        pub_date = ""
 
-for tag in ("pubDate", "published", "atom:published", "updated", "dc:date"):
-    el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
-    if el is not None and el.text:
-        pub_date = el.text.strip()
-        break
+        for tag in ("pubDate", "published", "atom:published", "updated", "dc:date"):
+            el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
+            if el is not None and el.text:
+                pub_date = el.text.strip()
+                break
 
-# ⭐ 在这里加
-days_limit = 5 if category == "cctv" else 2
+        days_limit = 5 if category == "cctv" else 2
 
-# 时间过滤
-if not _is_recent(pub_date, days=days_limit):
-    continue
+        if not _is_recent(pub_date, days=days_limit):
+            continue
 
-        # 标题
         title = ""
         for tag in ("title", "atom:title"):
             el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
@@ -177,17 +179,16 @@ if not _is_recent(pub_date, days=days_limit):
                 title = _clean_html(el.text)
                 break
 
-        # 链接
         link = ""
         link_el = entry.find("link")
         if link_el is not None:
             link = (link_el.get("href") or link_el.text or "").strip()
+
         if not link:
             al = entry.find("atom:link", ns)
             if al is not None:
                 link = al.get("href", "").strip()
 
-        # 摘要
         desc = ""
         for tag in ("description", "summary", "atom:summary", "content:encoded", "atom:content"):
             el = entry.find(tag, ns) if ":" in tag else entry.find(tag)
@@ -208,6 +209,7 @@ if not _is_recent(pub_date, days=days_limit):
 
     return items
 
+
 def call_deepseek(prompt, max_tokens=1500):
     if not DEEPSEEK_API_KEY:
         return "（未配置 DeepSeek API Key，跳过 AI 总结）"
@@ -227,6 +229,7 @@ def call_deepseek(prompt, max_tokens=1500):
             "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
         }
     )
+
     try:
         with urllib.request.urlopen(req, timeout=40) as resp:
             result = json.loads(resp.read().decode("utf-8"))
@@ -235,16 +238,15 @@ def call_deepseek(prompt, max_tokens=1500):
         print(f"  ⚠ DeepSeek API 错误: {e}")
         return "（AI 总结暂时不可用）"
 
+
 def summarize_news(articles, category_name):
     if not articles:
         return "今日暂无相关新闻。"
 
-    # 这里由于不再限制数量，如果新闻条数非常多，可能超出 AI 总结的 token 上限
-    # 所以在提交给 AI 总结时，我们还是截取最具代表性的前 15 条标题即可，但不影响最终保存的列表
     titles_text = "\n".join([f"- {a['title']} ({a['source']})" for a in articles[:15]])
 
-    if category_name == "cctv":
-        prompt = f"""以下是今日国内外要闻标题，请用简洁的中文总结，提炼3-5个核心内容：
+    if category_name == "新闻联播":
+        prompt = f"""以下是最近国内外要闻标题，请用简洁的中文总结，提炼3-5个核心内容：
 
 {titles_text}
 
@@ -273,10 +275,13 @@ def summarize_news(articles, category_name):
     print(f"  → 调用 DeepSeek 总结 {category_name}...")
     return call_deepseek(prompt)
 
+
 def clean_old_data():
     if not os.path.exists(DATA_DIR):
         return
+
     cutoff = datetime.date.today() - datetime.timedelta(days=MAX_DAYS)
+
     for fname in os.listdir(DATA_DIR):
         if fname.startswith("news_") and fname.endswith(".json"):
             try:
@@ -287,10 +292,13 @@ def clean_old_data():
             except Exception:
                 pass
 
+
 def get_date_list():
     dates = []
+
     if not os.path.exists(DATA_DIR):
         return dates
+
     for fname in sorted(os.listdir(DATA_DIR), reverse=True):
         if fname.startswith("news_") and fname.endswith(".json"):
             try:
@@ -298,13 +306,16 @@ def get_date_list():
                 dates.append(fname[5:15])
             except Exception:
                 pass
+
     return dates[:MAX_DAYS]
+
 
 def main():
     today = datetime.date.today().isoformat()
-    print(f"\n{'='*50}")
+
+    print(f"\n{'=' * 50}")
     print(f"📰 新闻聚合开始 - {today}")
-    print(f"{'='*50}")
+    print(f"{'=' * 50}")
 
     os.makedirs(DATA_DIR, exist_ok=True)
 
@@ -313,12 +324,16 @@ def main():
         "generated_at": datetime.datetime.now().isoformat(),
         "categories": {
             "tech": {"articles": [], "summary": "", "count": 0},
-            "ai":   {"articles": [], "summary": "", "count": 0},
+            "ai": {"articles": [], "summary": "", "count": 0},
             "cctv": {"articles": [], "summary": "", "count": 0},
         }
     }
 
-    cat_labels = {"tech": "科技", "ai": "AI", "cctv": "新闻联播"}
+    cat_labels = {
+        "tech": "科技",
+        "ai": "AI",
+        "cctv": "新闻联播"
+    }
 
     for cat, sources in RSS_SOURCES.items():
         print(f"\n📡 抓取 {cat_labels[cat]} 新闻...")
@@ -334,12 +349,12 @@ def main():
 
         seen = set()
         unique = []
+
         for a in all_articles:
             if a["id"] not in seen:
                 seen.add(a["id"])
                 unique.append(a)
 
-        # 取消原有 [:30] 的切片限制，保留所有近期新闻
         result["categories"][cat]["articles"] = unique
         result["categories"][cat]["count"] = len(unique)
 
@@ -347,22 +362,28 @@ def main():
         result["categories"][cat]["summary"] = summarize_news(unique, cat_labels[cat])
 
     out_path = os.path.join(DATA_DIR, f"news_{today}.json")
+
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
+
     print(f"\n✅ 今日数据已保存: {out_path}")
 
     clean_old_data()
 
     dates = get_date_list()
+
     index = {
         "latest": today,
         "dates": dates,
         "updated_at": datetime.datetime.now().isoformat(),
     }
+
     with open(os.path.join(DATA_DIR, "index.json"), "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
+
     print(f"📋 索引更新完成，共 {len(dates)} 天数据")
-    print(f"\n{'='*50}\n✨ 抓取完成！\n{'='*50}\n")
+    print(f"\n{'=' * 50}\n✨ 抓取完成！\n{'=' * 50}\n")
+
 
 if __name__ == "__main__":
     main()
