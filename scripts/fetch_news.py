@@ -494,7 +494,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()")
+    main())
 
 DATA_DIR = os.path.join(
     os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
