@@ -1,9 +1,45 @@
 {
   "date": "2026-05-02",
-  "generated_at": "2026-05-02T14:50:43.973003",
+  "generated_at": "2026-05-02T22:51:15.335621",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "36deca78f33d",
+          "title": "AI-generated actors and scripts are now ineligible for Oscars",
+          "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+          "description": "Bad news for Tilly Norwood.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 02 May 2026 21:54:58 +0000"
+        },
+        {
+          "id": "5e7e51744c2c",
+          "title": "Farewell, Jeeves: Ask.com shuts down",
+          "link": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+          "description": "Owner IAC says it's discontinuing its search business.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 02 May 2026 21:11:28 +0000"
+        },
+        {
+          "id": "5b1fb16d8bf7",
+          "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
+          "link": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
+          "description": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 02 May 2026 17:05:41 +0000"
+        },
+        {
+          "id": "54f44a742bda",
+          "title": "The best AI dictation apps, tested and ranked",
+          "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+          "description": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 02 May 2026 16:00:00 +0000"
+        },
         {
           "id": "6c7f1fab2739",
           "title": "Beyond Lovable and Mistral: 21 European startups to watch",
@@ -149,40 +185,13 @@
           "pub_date": "Thu, 30 Apr 2026 20:14:47 +0000"
         },
         {
-          "id": "8ab386f88b46",
-          "title": "Rivian downsizes DOE loan to $4.5B for Georgia factory",
-          "link": "https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-of-georgia-factory/",
-          "description": "Rivian has reworked its loan deal with the Department of Energy and now expects to borrow $4.5 billion to build its new factory in Georgia, down from the original amount of $6.6 billion.",
-          "source": "TechCrunch",
+          "id": "cde6c10aac15",
+          "title": "Research roundup: 6 cool science stories we almost missed",
+          "link": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/",
+          "description": "Crushing soda cans for science, why dolphins swim so fast, how urine helps mushrooms communicate, and more",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 20:02:02 +0000"
-        },
-        {
-          "id": "2e6f029f2581",
-          "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites",
-          "link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
-          "description": "Web hosts are scrambling to fix the bug under active attack by hackers. One company said hackers have been abusing the bug for months.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 19:36:53 +0000"
-        },
-        {
-          "id": "cca984391b30",
-          "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-          "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-          "description": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 19:27:41 +0000"
-        },
-        {
-          "id": "708a1d445460",
-          "title": "EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting",
-          "link": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/",
-          "description": "The perpetually struggling EV company made the payments while being investigated by the SEC. That four-year probe was ultimately closed in March.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 18:56:59 +0000"
+          "pub_date": "Sat, 02 May 2026 14:23:31 +0000"
         },
         {
           "id": "279cc026c996",
@@ -354,18 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 21:35:02 +0000"
-        },
-        {
-          "id": "398a81b9b998",
-          "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
-          "link": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
-          "description": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 21:11:51 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI与自动驾驶领域加速布局**：Uber计划将其数百万司机转化为自动驾驶公司的传感器网络；Meta收购一家机器人初创公司以强化其人形AI愿景；Anthropic可能在未来两周内以9000亿美元以上估值进行新一轮融资，同时Coatue计划购买土地建设数据中心，可能为Anthropic提供服务。\n\n2. **科技巨头与国防AI合作**：五角大楼与Nvidia、微软、AWS签署协议，在机密网络上部署AI系统，显示AI在国家安全领域的应用加速。\n\n3. **企业融资与并购活跃**：Musely从General Catalyst获得3.6亿美元融资且未稀释股权；Y Combinator校友企业Skio以1.05亿美元现金出售，仅融资800万美元；Replit创始人表示不愿出售公司，并谈及Cursor交易和与苹果的竞争。\n\n4. **苹果动态**：蒂姆·库克即将卸任之际，苹果创下销售纪录，但面临芯片短缺威胁；同时苹果对AI驱动的Mac需求感到意外。\n\n5. **其他重要事件**：Ubuntu服务因DDoS攻击中断；Reddit搜索功能终于被用户广泛使用；ChatGPT图像生成2.0在印度受欢迎但在其他地区表现一般；马斯克与奥特曼的法律争端仍在持续。\n\n**今日最值得关注的发展**：AI与自动驾驶、国防、数据中心等领域的资本与战略布局加速，显示出科技行业正围绕AI展开新一轮资源争夺与基础设施建设。",
+      "summary": "今日科技动态摘要\n\n1. **奥斯卡规则更新**：AI生成的演员和剧本将不再具备参评奥斯卡奖的资格。\n2. **Ask.com关闭**：老牌问答网站Ask.com正式停止服务。\n3. **Netflix推迟《纳尼亚》电影**：格蕾塔·葛韦格执导的《纳尼亚》电影延期至2027年，将先进行大规模院线上映。\n4. **Uber计划将司机作为自动驾驶传感器网络**：Uber希望将数百万司机转化为自动驾驶公司的传感器数据收集网格。\n5. **Meta收购机器人初创公司**：Meta收购一家机器人公司，以加强其在人形机器人AI领域的布局。\n\n今日最值得关注的发展是AI生成内容被排除在奥斯卡评选之外，标志着娱乐行业对AI创作影响力的正式限制。",
       "count": 40
     },
     "ai": {
@@ -596,7 +596,7 @@
           "pub_date": "Thu, 30 Apr 2026 12:04:32 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AI评估成为新计算瓶颈**：Hugging Face指出，AI模型评估（evals）正取代训练成为计算资源的主要消耗点，凸显了评估环节的重要性与挑战。\n2. **多款新模型发布**：包括IBM的Granite 4.1 LLM、NVIDIA的Nemotron 3 Nano Omni（长上下文多模态模型），以及DeepInfra在Hugging Face上推出的推理服务，展示了模型多样性与应用扩展。\n3. **云与安全合作深化**：OpenAI与AWS合作推出Codex、托管代理及FedRAMP Moderate合规服务，同时微软宣布双方合作进入新阶段，强调企业级安全与云集成。\n4. **AI安全与隐私工具升级**：OpenAI推出高级账户安全功能，并发布社区安全承诺；同时有教程介绍如何用OpenAI隐私过滤器构建可扩展网页应用。\n5. **AI教育与应用普及**：Google庆祝翻译20周年并推出新功能，联合Kaggle开设AI Agents编程课程，推动开发者学习与工具应用。\n\n**总结**：今日AI动态聚焦于评估效率、模型多样化、云安全合作及开发者教育，其中最值得关注的是AI评估成为新计算瓶颈，预示行业重心将从训练转向系统化测试与验证。",
+      "summary": "今日AI动态摘要\n\n1. **AI评估（Evals）成为新的计算瓶颈**：Hugging Face指出，随着AI模型复杂度提升，评估环节对算力的需求正成为新的关键瓶颈。\n2. **多款新模型与平台发布**：包括IBM的Granite 4.1 LLM、NVIDIA的Nemotron 3 Nano Omni（长上下文多模态模型），以及DeepInfra在Hugging Face上推出的推理服务。\n3. **OpenAI与微软、AWS深化合作**：OpenAI模型、Codex及托管Agent登陆AWS，同时实现FedRAMP Moderate合规，并宣布与微软合作进入新阶段，强化企业级安全与云基础设施。\n4. **Google AI新动态**：庆祝Google翻译20周年并推出新功能；联合Kaggle推出AI Agent Vibe Coding课程，推动开发者生态建设。\n5. **OpenAI安全与基础设施升级**：推出高级账户安全功能、强调社区安全承诺，并发布关于智能时代计算基础设施与网络安全的博客，为“智能时代”构建底层支持。\n\n**总结**：今日最值得关注的是AI评估成为新算力瓶颈，以及OpenAI通过AWS、FedRAMP和微软合作加速企业级部署，标志着AI从模型竞赛转向基础设施与安全合规的全面竞争。",
       "count": 25
     },
     "cctv": {
@@ -611,10 +611,19 @@
           "pub_date": "Tue, 28 Apr 2026 10:36:40 GMT"
         },
         {
+          "id": "8358d0860e79",
+          "title": "Is China decoupling on food?",
+          "link": "https://www.ft.com/content/637215a5-4814-49c4-ae24-c6a96adb56cf",
+          "description": "Article URL: https://www.ft.com/content/637215a5-4814-49c4-ae24-c6a96adb56cf Comments URL: https://news.ycombinator.com/item?id=47988676 Points: 2 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 02 May 2026 17:50:47 +0000"
+        },
+        {
           "id": "2384cfa5592d",
           "title": "Tired of high costs, some Americans are importing homes straight from China",
           "link": "https://www.cnn.com/2026/04/25/business/china-imports-americans-homebuilding-costs",
-          "description": "Article URL: https://www.cnn.com/2026/04/25/business/china-imports-americans-homebuilding-costs Comments URL: https://news.ycombinator.com/item?id=47986166 Points: 2 # Comments: 0",
+          "description": "Article URL: https://www.cnn.com/2026/04/25/business/china-imports-americans-homebuilding-costs Comments URL: https://news.ycombinator.com/item?id=47986166 Points: 3 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 02 May 2026 13:18:41 +0000"
@@ -834,18 +843,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 29 Apr 2026 01:36:05 +0000"
-        },
-        {
-          "id": "abc2747ad3fe",
-          "title": "Why China's Affordable AI Is a Worry for Silicon Valley",
-          "link": "https://www.bloomberg.com/news/articles/2026-04-27/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-04-27/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals Comments URL: https://news.ycombinator.com/item?id=47940086 Points: 19 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 28 Apr 2026 20:17:26 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中美科技与安全博弈加剧**：美国联邦调查局网络负责人指责中国“黑客雇佣生态系统”失控；美国电信监管机构投票扩大对华技术打压；美军高级将领警告中国已成为美国在军事上的平等对手。同时，美国参议员桑德斯在人工智能军备竞赛问题上与华盛顿主流立场分歧。\n\n2. **中国科技产业动态**：中国暂停自动驾驶许可审批（受百度事故影响）；苹果公司第二季度财报超预期，得益于中国市场和iPhone销售；中国正推进“具身智能”以转型机器人产业；中国科技巨头出现低调裁员现象。\n\n3. **国际法律与贸易摩擦**：英国法院判决三星向中国中兴通讯支付3.92亿美元专利费；中国推动欧盟各国放弃“欧洲制造”法案，否则将面临报复措施。\n\n4. **环境与基础设施**：中国种植780亿棵新树，影响水循环系统；一名前哈佛科学家因重建脑机实验室在中国被定罪。\n\n5. **社会与文化议题**：美国华盛顿特区枪击案嫌犯在给家人的信中表达对美国政府的不满；部分美国人因生活成本高昂，开始从中国进口房屋；中国千年缠足习俗的成因探讨。\n\n**今日最值得关注的发展**：中美在科技、网络与军事领域的对抗持续升级，同时中国在人工智能、机器人及国际专利诉讼中展现技术自主与法律反击能力。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中美科技与经济博弈加剧**：美国联邦通信委员会投票扩大对中国科技打压，同时有美军高级将领警告中国已成为美国在军事上的平等对手；此外，苹果公司第二季度财报显示其业绩得益于中国市场和iPhone销量，而中国则暂停了自动驾驶许可审批（因百度事故），并推动欧盟放弃“欧洲制造”法规。\n\n2. **中国在科技与产业领域取得突破**：中国正大力发展具身智能机器人产业，前哈佛大学科学家在中国重建脑机实验室，英国法院判决三星向中兴通讯支付3.92亿美元专利费，显示中国在人工智能、脑机接口和通信技术领域的竞争力提升。\n\n3. **中国环境与民生议题受关注**：中国种植780亿棵新树影响水循环，同时有外媒讨论中国是否在粮食上“脱钩”，以及历史上缠足为何持续千年等社会文化议题。\n\n4. **中美关系中的争议与分歧**：美国联邦调查局网络主管称中国“黑客生态系统失控”，而华盛顿枪击案嫌疑人写信抱怨美国政府，参议员桑德斯在人工智能军备竞赛问题上与华盛顿立场分裂。\n\n5. **国际经贸与消费趋势**：部分美国民众因国内成本高昂，开始从中国进口房屋；中国向欧盟施压要求废除“欧洲制造”法律，否则将采取报复措施。\n\n**今日最值得关注的发展**：中美在科技、军事、网络等多领域博弈持续升级，同时中国在人工智能、通信专利等关键技术上展现自主突破能力，国际格局中的竞争与合作态势愈发复杂。",
       "count": 27
     }
   }
