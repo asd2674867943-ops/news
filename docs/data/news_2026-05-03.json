@@ -1,9 +1,36 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T14:51:09.004761",
+  "generated_at": "2026-05-03T22:51:24.396026",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "086c414dbc57",
+          "title": "‘This is fine’ creator says AI startup stole his art",
+          "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+          "description": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 03 May 2026 20:16:51 +0000"
+        },
+        {
+          "id": "f58c20c96578",
+          "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+          "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+          "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 03 May 2026 18:00:09 +0000"
+        },
+        {
+          "id": "c986b7f4ac56",
+          "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+          "link": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
+          "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 03 May 2026 16:05:00 +0000"
+        },
         {
           "id": "d49549837b77",
           "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
@@ -156,33 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 30 Apr 2026 23:59:15 +0000"
-        },
-        {
-          "id": "fb059fecd119",
-          "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
-          "link": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
-          "description": "Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 23:58:52 +0000"
-        },
-        {
-          "id": "0e02a854bcc9",
-          "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-          "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-          "description": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 23:07:56 +0000"
-        },
-        {
-          "id": "2df4d77ecf80",
-          "title": "Apple was surprised by AI-driven demand for Macs",
-          "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
-          "description": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 22:12:52 +0000"
         },
         {
           "id": "cde6c10aac15",
@@ -338,34 +338,34 @@
           "pub_date": "Fri, 01 May 2026 11:00:15 +0000"
         },
         {
-          "id": "358d0709200e",
-          "title": "Trump nominates Fox News doctor to be the next surgeon general",
-          "link": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
-          "description": "Trump lashes out at Cassidy while announcing his new nomination.",
-          "source": "Ars Technica",
+          "id": "0be3f4c54d97",
+          "title": "Make Your Own Microforest",
+          "link": "https://ambrook.com/offrange/environment/a-forest-in-your-pocket",
+          "description": "Article URL: https://ambrook.com/offrange/environment/a-forest-in-your-pocket Comments URL: https://news.ycombinator.com/item?id=48000507 Points: 34 # Comments: 7",
+          "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 22:09:36 +0000"
+          "pub_date": "Sun, 03 May 2026 19:31:35 +0000"
         },
         {
-          "id": "be88dea88261",
-          "title": "US falls below Ukraine in press freedom as global autocracy takes hold",
-          "link": "https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/",
-          "description": "\"In 25 years, the average score... has never been so low.\"",
-          "source": "Ars Technica",
+          "id": "44427d16701a",
+          "title": "Flock repeatedly flags 76-year old Grandmother for arrest, erroring zero for \"O\"",
+          "link": "https://guessingheadlights.com/colorado-grandma-keeps-getting-pulled-over-because-police-cameras-cannot-tell-the-difference-between-a-zero-and-the-letter-o/",
+          "description": "Article URL: https://guessingheadlights.com/colorado-grandma-keeps-getting-pulled-over-because-police-cameras-cannot-tell-the-difference-between-a-zero-and-the-letter-o/ Comments URL: https://news.ycombinator.com/item?id=48000420 Points: 18 # Comments: 2",
+          "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 21:53:48 +0000"
+          "pub_date": "Sun, 03 May 2026 19:23:20 +0000"
         },
         {
-          "id": "300ae2769caf",
-          "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
-          "link": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
-          "description": "\"We had serious inbound attempts to the cosmodrome that day.\"",
-          "source": "Ars Technica",
+          "id": "517fa6088bb9",
+          "title": "Statue of a man blinded by a flag put up by Banksy in central London",
+          "link": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+          "description": "Article URL: https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/ Comments URL: https://news.ycombinator.com/item?id=48000152 Points: 197 # Comments: 167",
+          "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Thu, 30 Apr 2026 21:35:02 +0000"
+          "pub_date": "Sun, 03 May 2026 18:54:28 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI与内容创作规范**：奥斯卡宣布AI生成的演员和剧本将不具备评奖资格，强调对原创性与人类创作的保护。\n2. **科技巨头布局AI与机器人**：Meta收购机器人初创公司以推进人形AI研发；Uber计划将数百万司机转化为自动驾驶公司的传感器网络；五角大楼与Nvidia、微软、AWS合作在机密网络部署AI。\n3. **企业动态与市场变化**：Ask.com正式关闭服务；Netflix推迟格蕾塔·葛韦格执导的《纳尼亚》电影至2027年以推动院线发行；Musely获General Catalyst 3.6亿美元融资但未出让股权。\n4. **基础设施与安全威胁**：Coatue计划收购土地建设数据中心（可能用于Anthropic）；Ubuntu服务因DDoS攻击导致中断。\n5. **新兴技术与创业生态**：Replit创始人谈与Cursor交易、对抗苹果及不倾向出售公司；21家欧洲初创公司值得关注（超越Lovable和Mistral）；最佳AI听写应用测试排名发布。\n\n**今日最值得关注**：AI与人类创作的边界正在被重新定义（奥斯卡新规），同时科技巨头加速AI、机器人及基础设施的军备竞赛，而传统服务（Ask.com）的落幕与新兴融资（Musely）形成鲜明对比。",
+      "summary": "今日科技动态摘要\n\n1. **AI与艺术版权争议**：《This is fine》漫画创作者指控某AI初创公司未经授权使用其作品，引发关于AI训练数据版权问题的讨论。\n2. **AI医疗诊断表现突出**：哈佛大学研究显示，AI在急诊室诊断中的准确率超过两名人类医生，凸显AI在医疗领域的潜力。\n3. **自动驾驶与监管挑战**：TechCrunch探讨如何对无人驾驶出租车开罚单，反映自动驾驶技术商业化中的法律与责任难题。\n4. **AI内容被奥斯卡排除**：奥斯卡宣布AI生成的演员和剧本不再具备参赛资格，明确对AI创作内容的行业限制。\n5. **科技巨头布局AI基础设施**：五角大楼与Nvidia、微软、AWS签约，在机密网络中部署AI；Meta收购机器人初创公司强化人形AI；Coatue计划购地建设数据中心（可能为Anthropic服务），显示AI领域投资与军事应用加速。\n\n**今日最值得关注的发展**：AI在医疗诊断中的准确率超越人类医生，同时AI艺术版权争议和奥斯卡的明确限制，共同凸显了AI技术正从工具性应用向伦理与法律规范层面深化影响。",
       "count": 40
     },
     "ai": {
@@ -524,15 +524,6 @@
           "pub_date": "Mon, 27 Apr 2026 00:00:00 GMT"
         },
         {
-          "id": "55859da6800e",
-          "title": "Our principles",
-          "link": "https://openai.com/index/our-principles",
-          "description": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Sun, 26 Apr 2026 16:00:00 GMT"
-        },
-        {
           "id": "04918c5f773b",
           "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
           "link": "https://www.qbitai.com/2026/05/412080.html",
@@ -623,8 +614,8 @@
           "pub_date": "Fri, 01 May 2026 06:21:38 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AI评估成为新算力瓶颈**：Hugging Face指出，AI模型评估（eval）正取代训练成为计算资源的主要消耗环节。\n2. **多款新模型发布**：包括IBM的Granite 4.1系列、NVIDIA的Nemotron 3 Nano Omni（长上下文多模态模型），以及OpenAI模型通过Codex和托管智能体登陆AWS。\n3. **平台与安全合作升级**：OpenAI推出高级账户安全功能、FedRAMP Moderate认证，并与微软宣布合作新阶段；Google翻译迎来20周年，并联合Kaggle推出AI智能体编程课程。\n4. **基础设施与网络安全**：OpenAI强调为“智能时代”建设计算基础设施，并发布网络安全与社区安全承诺。\n\n**今日最值得关注的发展**：AI评估成为新计算瓶颈，意味着行业焦点正从训练转向模型质量验证，或将重塑算力分配格局。",
-      "count": 28
+      "summary": "今日AI动态摘要\n\n1. **AI评估成为新计算瓶颈**：Hugging Face指出，AI模型评估（evals）正逐渐取代训练，成为算力消耗的新瓶颈，凸显评估环节在模型开发中的重要性。\n2. **多款新模型与推理服务发布**：包括IBM的Granite 4.1 LLM、NVIDIA的Nemotron 3 Nano Omni（支持长上下文多模态处理），以及DeepInfra在Hugging Face上推出的推理服务，推动模型能力与部署效率提升。\n3. **OpenAI与谷歌多领域更新**：OpenAI推出高级账户安全、与AWS及微软深化合作（包括Codex、托管代理、FedRAMP合规），谷歌则庆祝翻译服务20周年并推出AI Agents编程课程，聚焦安全、企业应用与开发者教育。\n\n今日最值得关注的发展是：AI评估正成为新的算力瓶颈，同时NVIDIA与多家厂商密集发布多模态大模型及推理服务，标志着AI基础设施从训练向评估、部署与安全合规的全面扩展。",
+      "count": 27
     },
     "cctv": {
       "articles": [
@@ -638,10 +629,37 @@
           "pub_date": "Tue, 28 Apr 2026 10:36:40 GMT"
         },
         {
+          "id": "dbf8f39ebc6c",
+          "title": "Jensen says Nvidia now has 'zero percent' market share in China",
+          "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-says-nvidia-now-has-zero-percent-market-share-in-china-says-us-export-policy-has-already-largely-backfired",
+          "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-says-nvidia-now-has-zero-percent-market-share-in-china-says-us-export-policy-has-already-largely-backfired Comments URL: https://news.ycombinator.com/item?id=48001399 Points: 7 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 03 May 2026 20:57:43 +0000"
+        },
+        {
+          "id": "238e6263883e",
+          "title": "How A.I. Is Transforming China's Entertainment Industry",
+          "link": "https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html",
+          "description": "Article URL: https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html Comments URL: https://news.ycombinator.com/item?id=48001134 Points: 2 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 03 May 2026 20:31:00 +0000"
+        },
+        {
+          "id": "2a358cd208c8",
+          "title": "China became addicted to its tobacco monopoly",
+          "link": "https://www.theexamination.org/articles/how-china-became-addicted-to-its-tobacco-monopoly",
+          "description": "Article URL: https://www.theexamination.org/articles/how-china-became-addicted-to-its-tobacco-monopoly Comments URL: https://news.ycombinator.com/item?id=47998365 Points: 7 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 03 May 2026 16:08:47 +0000"
+        },
+        {
           "id": "088229a4f41a",
           "title": "Should we be scared of China's surpluses?",
           "link": "https://jzmazlish.substack.com/p/should-we-be-scared-of-chinas-surpluses",
-          "description": "Article URL: https://jzmazlish.substack.com/p/should-we-be-scared-of-chinas-surpluses Comments URL: https://news.ycombinator.com/item?id=47997166 Points: 1 # Comments: 0",
+          "description": "Article URL: https://jzmazlish.substack.com/p/should-we-be-scared-of-chinas-surpluses Comments URL: https://news.ycombinator.com/item?id=47997166 Points: 3 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sun, 03 May 2026 14:15:50 +0000"
@@ -843,36 +861,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 29 Apr 2026 21:06:47 +0000"
-        },
-        {
-          "id": "d29ca620d3ea",
-          "title": "I got stood up by an AI agent, and tracked down its human owner in China",
-          "link": "https://restofworld.org/2026/ai-agent-china-one-person-company/",
-          "description": "Article URL: https://restofworld.org/2026/ai-agent-china-one-person-company/ Comments URL: https://news.ycombinator.com/item?id=47951194 Points: 6 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 29 Apr 2026 17:02:14 +0000"
-        },
-        {
-          "id": "cafc20923de0",
-          "title": "The U.S. Wants to Ban China's High-Tech Cars, They're Already Here in El Paso",
-          "link": "https://www.wsj.com/business/autos/chinese-cars-byd-geely-u-s-mexico-be0dea28",
-          "description": "Article URL: https://www.wsj.com/business/autos/chinese-cars-byd-geely-u-s-mexico-be0dea28 Comments URL: https://news.ycombinator.com/item?id=47947220 Points: 4 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 29 Apr 2026 12:10:28 +0000"
-        },
-        {
-          "id": "336e86c3a1ce",
-          "title": "China freezes new robotaxi licenses after Baidu chaos",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
-          "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos Comments URL: https://news.ycombinator.com/item?id=47946991 Points: 2 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 29 Apr 2026 11:46:06 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. [中美科技与贸易摩擦] 美国联邦通信委员会投票扩大对华技术打压，同时美国联邦调查局网络部门负责人无端指责中国“黑客雇佣生态系统失控”；苹果公司第二季度财报显示其业绩得益于中国市场和iPhone销售。\n2. [中国制造与全球供应链] “中国制造即义乌制造”凸显中国在全球供应链中的核心地位；部分美国消费者因国内成本高昂，开始直接从中国进口房屋。\n3. [中国科技发展与国际合作] 英国法院裁定三星需向中国中兴通讯支付3.92亿美元专利费；前哈佛科学家在中国重建脑机实验室；中国暂停自动驾驶许可审批（因百度事故）引发行业关注。\n4. [中国环境与生态行动] 中国种植780亿棵新树引发对水循环影响的讨论；美国媒体质疑中国粮食自给政策是否导致“脱钩”。\n5. [国际舆论与涉华不实报道] 美国媒体炒作“中国取消最大数字人权会议”及“裹脚千年”等议题；美国参议员桑德斯在人工智能军备竞赛问题上与华盛顿主流对华强硬立场出现分歧。\n\n今日最值得关注的发展是：中美科技博弈持续升级，美国在扩大对华技术打压的同时，中国企业在全球专利诉讼和供应链中展现韧性，而部分美国政界人士开始在对华AI军备竞赛等议题上出现立场分化。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中美科技竞争与市场变化**：英伟达CEO黄仁勋表示，该公司在中国市场已“零份额”；美国FBI网络负责人称中国黑客雇佣生态系统“失控”；美国议员桑德斯在人工智能军备竞赛问题上与官方立场分歧。\n2. **中国娱乐产业与人工智能发展**：人工智能正深刻改变中国娱乐产业；前哈佛科学家在中国重建脑机实验室；中国植树780亿棵影响水循环。\n3. **国际贸易与专利争端**：英国法院裁定三星向中国中兴通讯支付3.92亿美元专利费；部分美国人因高成本直接从中国进口房屋。\n4. **中国政策与社会议题**：中国烟草垄断引发成瘾问题；中国是否在食品领域“脱钩”引发讨论；美国枪击案嫌犯在信件中表达对美国政府的不满。\n5. **国际舆论与形象争议**：中国压力导致最大数字人权会议取消；中国为何缠足千年（历史话题）；“中国制造”即“义乌制造”现象。\n\n**今日最值得关注的发展**：中美科技竞争加剧，英伟达在华市场份额归零，同时人工智能在中国娱乐与科研领域加速应用，凸显技术博弈与自主创新的双重挑战。",
       "count": 27
     }
   }
