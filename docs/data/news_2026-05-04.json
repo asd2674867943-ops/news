@@ -1,9 +1,81 @@
 {
   "date": "2026-05-04",
-  "generated_at": "2026-05-04T16:02:47.909429",
+  "generated_at": "2026-05-04T22:59:50.339708",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "03cb1322d178",
+          "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+          "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+          "description": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 04 May 2026 22:21:32 +0000"
+        },
+        {
+          "id": "46c68151c6ed",
+          "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+          "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+          "description": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 04 May 2026 21:53:21 +0000"
+        },
+        {
+          "id": "6e3a38e1a38d",
+          "title": "Image AI models now drive app growth, beating chatbot upgrades",
+          "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+          "description": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 04 May 2026 19:12:49 +0000"
+        },
+        {
+          "id": "66db92afdfc7",
+          "title": "Katie Haun raises $1B for new venture funds",
+          "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+          "description": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 04 May 2026 19:12:15 +0000"
+        },
+        {
+          "id": "7ae6795b9105",
+          "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
+          "link": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
+          "description": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 04 May 2026 18:02:18 +0000"
+        },
+        {
+          "id": "4d5cc82877a2",
+          "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+          "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+          "description": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 04 May 2026 16:57:47 +0000"
+        },
+        {
+          "id": "34269f2a9f7a",
+          "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+          "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+          "description": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 04 May 2026 16:45:55 +0000"
+        },
+        {
+          "id": "499f1cbbae24",
+          "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+          "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+          "description": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 04 May 2026 16:36:03 +0000"
+        },
         {
           "id": "757a98b25ea0",
           "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
@@ -59,8 +131,8 @@
           "pub_date": "Mon, 04 May 2026 13:00:00 +0000"
         },
         {
-          "id": "4ac3fdb4fa90",
-          "title": "Doordash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+          "id": "e29312e9bd7a",
+          "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
           "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
           "description": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
           "source": "TechCrunch",
@@ -80,14 +152,14 @@
           "id": "5b36eae83d52",
           "title": "Nicolas Sauvage is betting on the boring parts of AI",
           "link": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
-          "description": "The portfolio he has assembled since 2019 is dotted with technologies that have become more widely interesting to VCs over the last year:",
+          "description": "The portfolio he has assembled since 2019 is dotted with technologies that have become more widely interesting to VCs over the last year.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Mon, 04 May 2026 07:10:18 +0000"
         },
         {
-          "id": "6e3e06b11f31",
-          "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+          "id": "da4fedfa70f1",
+          "title": "We’ll take it: A TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
           "link": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
           "description": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process.",
           "source": "TechCrunch",
@@ -113,76 +185,58 @@
           "pub_date": "Sun, 03 May 2026 18:00:09 +0000"
         },
         {
-          "id": "c986b7f4ac56",
-          "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
-          "link": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
-          "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-          "source": "TechCrunch",
+          "id": "50774e507511",
+          "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
+          "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
+          "description": "\"To be clear: Notepad++ has never released a macOS version.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sun, 03 May 2026 16:05:00 +0000"
+          "pub_date": "Mon, 04 May 2026 21:38:37 +0000"
         },
         {
-          "id": "d49549837b77",
-          "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
-          "link": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
-          "description": "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket.",
-          "source": "TechCrunch",
+          "id": "87b90344a138",
+          "title": "Canadian election databases use \"canary traps\"—and they work",
+          "link": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
+          "description": "Intentional errors can be useful.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sun, 03 May 2026 13:00:00 +0000"
+          "pub_date": "Mon, 04 May 2026 19:45:57 +0000"
         },
         {
-          "id": "36deca78f33d",
-          "title": "AI-generated actors and scripts are now ineligible for Oscars",
-          "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-          "description": "Bad news for Tilly Norwood.",
-          "source": "TechCrunch",
+          "id": "34c2476e6170",
+          "title": "Influential study touting ChatGPT in education retracted over red flags",
+          "link": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
+          "description": "The retracted study on ChatGPT in education was already cited hundreds of times.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sat, 02 May 2026 21:54:58 +0000"
+          "pub_date": "Mon, 04 May 2026 19:03:39 +0000"
         },
         {
-          "id": "5e7e51744c2c",
-          "title": "Farewell, Jeeves: Ask.com shuts down",
-          "link": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
-          "description": "Owner IAC says it's discontinuing its search business.",
-          "source": "TechCrunch",
+          "id": "8b5df07e2793",
+          "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
+          "link": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+          "description": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sat, 02 May 2026 21:11:28 +0000"
+          "pub_date": "Mon, 04 May 2026 17:57:46 +0000"
         },
         {
-          "id": "5b1fb16d8bf7",
-          "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
-          "link": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
-          "description": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
-          "source": "TechCrunch",
+          "id": "770854df25ae",
+          "title": "F1 in Miami: That's what it looks like when an upgrade works",
+          "link": "https://arstechnica.com/cars/2026/05/f1-in-miami-thats-what-it-looks-like-when-an-upgrade-works/",
+          "description": "2026's Formula 1 championship now looks far from a foregone thing.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sat, 02 May 2026 17:05:41 +0000"
+          "pub_date": "Mon, 04 May 2026 17:47:05 +0000"
         },
         {
-          "id": "54f44a742bda",
-          "title": "The best AI dictation apps, tested and ranked",
-          "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-          "description": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-          "source": "TechCrunch",
+          "id": "999d61522744",
+          "title": "AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.",
+          "link": "https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/",
+          "description": "Fixed Rate Link being added now; Display Stream Compression coming soon.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sat, 02 May 2026 16:00:00 +0000"
-        },
-        {
-          "id": "6c7f1fab2739",
-          "title": "Beyond Lovable and Mistral: 21 European startups to watch",
-          "link": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
-          "description": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Sat, 02 May 2026 14:00:00 +0000"
-        },
-        {
-          "id": "5b9be29b2056",
-          "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
-          "link": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-          "description": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Sat, 02 May 2026 06:36:28 +0000"
+          "pub_date": "Mon, 04 May 2026 16:26:49 +0000"
         },
         {
           "id": "ab1153e131de",
@@ -248,124 +302,70 @@
           "pub_date": "Sat, 02 May 2026 11:30:26 +0000"
         },
         {
-          "id": "ac554056515d",
-          "title": "Study: AI models that consider users' feelings are more likely to make errors",
-          "link": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
-          "description": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.”",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 22:23:36 +0000"
-        },
-        {
-          "id": "9e9cd0d08184",
-          "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
-          "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
-          "description": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 22:00:59 +0000"
-        },
-        {
-          "id": "6d464716e351",
-          "title": "Man dies covered in necrotic lesions after amoebas eat him alive",
-          "link": "https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/",
-          "description": "Doctors suspect three factors, each unremarkable on its own, contributed to his fate.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 21:05:37 +0000"
-        },
-        {
-          "id": "440494d7065e",
-          "title": "Ubuntu infrastructure has been down for more than a day",
-          "link": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
-          "description": "The outage has hampered communication concerning a critical vulnerability that gives root.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 19:12:26 +0000"
-        },
-        {
-          "id": "a2c2046f1124",
-          "title": "Senators ban themselves from prediction markets after candidates bet on own races",
-          "link": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
-          "description": "Senator decries \"blatant, brazen corruption,\" wants to target Trump admin next.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 17:51:24 +0000"
-        },
-        {
-          "id": "27013811ac9d",
-          "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
-          "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
-          "description": "More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 17:36:29 +0000"
-        },
-        {
-          "id": "553177e48b5c",
-          "title": "Amazon stuck with months of repairs after drone strikes on data centers",
-          "link": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
-          "description": "AWS stops billing Middle East cloud customers as repairs to war damage drag on.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 17:09:59 +0000"
-        },
-        {
-          "id": "eb7c9e19b53e",
-          "title": "Scorpions go terminator mode and reinforce their weapons with metal",
-          "link": "https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/",
-          "description": "Different hunting patterns seem to dictate different distributions of metal.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 01 May 2026 16:24:45 +0000"
-        },
-        {
-          "id": "0ecaa55f2ce2",
-          "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
-          "link": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
-          "description": "Article URL: https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/ Comments URL: https://news.ycombinator.com/item?id=48009697 Points: 101 # Comments: 70",
+          "id": "5f848c8e7811",
+          "title": "What do we lose when AI does our work?",
+          "link": "https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/",
+          "description": "Article URL: https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/ Comments URL: https://news.ycombinator.com/item?id=48015548 Points: 13 # Comments: 2",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Mon, 04 May 2026 15:10:41 +0000"
+          "pub_date": "Mon, 04 May 2026 21:57:56 +0000"
         },
         {
-          "id": "4f7977b30a72",
-          "title": "Pomiferous: The most extensive apples (pommes) database",
-          "link": "https://pomiferous.com/",
-          "description": "Article URL: https://pomiferous.com/ Comments URL: https://news.ycombinator.com/item?id=48009441 Points: 4 # Comments: 0",
+          "id": "1e0471b1ff41",
+          "title": "Agent Skills",
+          "link": "https://addyosmani.com/blog/agent-skills/",
+          "description": "Article URL: https://addyosmani.com/blog/agent-skills/ Comments URL: https://news.ycombinator.com/item?id=48015397 Points: 9 # Comments: 1",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Mon, 04 May 2026 14:47:41 +0000"
+          "pub_date": "Mon, 04 May 2026 21:40:42 +0000"
         },
         {
-          "id": "fa211f82b408",
-          "title": "Redis array: short story of a long development process",
-          "link": "https://antirez.com/news/164",
-          "description": "Article URL: https://antirez.com/news/164 Comments URL: https://news.ycombinator.com/item?id=48009172 Points: 56 # Comments: 6",
+          "id": "5f4899b96ccd",
+          "title": "'Point of no return': New Orleans relocation must start now due to sea level",
+          "link": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis",
+          "description": "Article URL: https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis Comments URL: https://news.ycombinator.com/item?id=48015218 Points: 19 # Comments: 6",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Mon, 04 May 2026 14:23:07 +0000"
+          "pub_date": "Mon, 04 May 2026 21:25:55 +0000"
         },
         {
-          "id": "ed73884781fd",
-          "title": "How Monero's proof of work works",
-          "link": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
-          "description": "Article URL: https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works Comments URL: https://news.ycombinator.com/item?id=48009020 Points: 53 # Comments: 29",
+          "id": "7f05e252f92d",
+          "title": "Pulitzer Prize Winners 2026",
+          "link": "https://www.pulitzer.org/prize-winners-by-year/2026",
+          "description": "Article URL: https://www.pulitzer.org/prize-winners-by-year/2026 Comments URL: https://news.ycombinator.com/item?id=48015097 Points: 21 # Comments: 7",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Mon, 04 May 2026 14:10:50 +0000"
+          "pub_date": "Mon, 04 May 2026 21:14:38 +0000"
         },
         {
-          "id": "3d9f614f21cd",
-          "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
-          "link": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
-          "description": "Article URL: https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html Comments URL: https://news.ycombinator.com/item?id=48008326 Points: 87 # Comments: 41",
+          "id": "d525ba1c989e",
+          "title": "Formatting a 25M-line codebase overnight",
+          "link": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+          "description": "Article URL: https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story Comments URL: https://news.ycombinator.com/item?id=48014325 Points: 80 # Comments: 41",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Mon, 04 May 2026 13:13:52 +0000"
+          "pub_date": "Mon, 04 May 2026 20:11:53 +0000"
+        },
+        {
+          "id": "51f5ddd339ca",
+          "title": "Transformers Are Inherently Succinct",
+          "link": "https://arxiv.org/abs/2510.19315",
+          "description": "Article URL: https://arxiv.org/abs/2510.19315 Comments URL: https://news.ycombinator.com/item?id=48014197 Points: 15 # Comments: 6",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 04 May 2026 20:03:08 +0000"
+        },
+        {
+          "id": "e9c2dece1375",
+          "title": "How OpenAI delivers low-latency voice AI at scale",
+          "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+          "description": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 161 # Comments: 67",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 04 May 2026 19:42:47 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI企业服务与医疗突破**：Anthropic和OpenAI均推出企业级AI服务合资项目；哈佛研究表明，AI在急诊室诊断中的准确率超过两名人类医生。  \n2. **平台与物流变革**：X关闭社区功能后，Acorn推出创作者主导的替代方案；亚马逊向所有企业开放其全球物流网络。  \n3. **新兴技术应用**：DoorDash引入AI工具加速商家入驻和菜品图片编辑；Ouster推出可替代摄像头的彩色激光雷达；Barocal通过挤压塑料晶体实现食物饮料冷却。  \n4. **数据隐私与法律争议**：美国医疗市场将公民身份和种族数据共享给广告技术巨头；“This is fine”创作者指控AI初创公司盗用其艺术作品。  \n5. **行业规则与市场动态**：奥斯卡宣布AI生成的演员和剧本不具备参评资格；TikTok用户发起众筹收购破产边缘的Spirit Airlines。  \n\n**今日最值得关注的发展**：AI在医疗诊断中展现超越人类医生的准确性，同时企业级AI服务加速落地，但数据隐私和版权争议也日益尖锐。",
+      "summary": "今日科技动态摘要\n\n1. **安全漏洞与黑客攻击**：美国政府警告Linux系统存在严重“CopyFail”漏洞，同时黑客正大规模利用cPanel漏洞控制数千个网站，凸显系统安全风险加剧。\n2. **AI企业融资与上市热潮**：OpenAI合作伙伴Cerebras即将进行大规模IPO；Katie Haun为新风投基金筹集10亿美元；企业AI服务公司Sierra获9.5亿美元融资，显示AI领域资本持续涌入。\n3. **AI驱动应用增长与竞争**：图像AI模型正成为应用增长的主要动力，超越聊天机器人升级；Anthropic与OpenAI均推出企业AI服务合资项目，企业级AI市场竞争白热化。\n4. **行业动态与争议**：Elon Musk在OpenAI审判中唯一的AI专家证人担忧AGI军备竞赛；Musk被指控在和解要求后向OpenAI高管发送威胁短信；X关闭“社区”功能后，Acorn推出替代方案让创作者掌握控制权。\n5. **其他重要进展**：Amazon向所有企业开放全球物流网络；DoorDash引入AI工具加速商家入驻和菜品图片编辑；美国医疗保健市场被曝与广告技术公司共享公民和种族数据。\n\n**今日最值得关注的发展**：AI企业融资与上市热潮持续升温，同时大规模安全漏洞与黑客攻击事件频发，凸显技术快速演进中机遇与风险并存的局面。",
       "count": 40
     },
     "ai": {
@@ -407,6 +407,24 @@
           "pub_date": "Tue, 28 Apr 2026 15:58:57 GMT"
         },
         {
+          "id": "5aaf16da1f2d",
+          "title": "The latest AI news we announced in April 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+          "description": "Here are Google’s latest AI updates from April 2026",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 04 May 2026 17:00:00 +0000"
+        },
+        {
+          "id": "de0c3898bb37",
+          "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+          "description": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 04 May 2026 15:30:00 +0000"
+        },
+        {
           "id": "9ace747dfaee",
           "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
           "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
@@ -414,6 +432,15 @@
           "source": "Google AI Blog",
           "category": "ai",
           "pub_date": "Tue, 28 Apr 2026 16:00:00 +0000"
+        },
+        {
+          "id": "e509bce12345",
+          "title": "How OpenAI delivers low-latency voice AI at scale",
+          "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+          "description": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 04 May 2026 00:00:00 GMT"
         },
         {
           "id": "f79931fd2634",
@@ -452,19 +479,19 @@
           "pub_date": "Wed, 29 Apr 2026 04:00:00 GMT"
         },
         {
-          "id": "2d2bf7d758ff",
-          "title": "Our commitment to community safety",
-          "link": "https://openai.com/index/our-commitment-to-community-safety",
-          "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+          "id": "b574854aaa8f",
+          "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+          "link": "https://openai.com/index/openai-on-aws",
+          "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Tue, 28 Apr 2026 00:00:00 GMT"
         },
         {
-          "id": "b574854aaa8f",
-          "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-          "link": "https://openai.com/index/openai-on-aws",
-          "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+          "id": "2d2bf7d758ff",
+          "title": "Our commitment to community safety",
+          "link": "https://openai.com/index/our-commitment-to-community-safety",
+          "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Tue, 28 Apr 2026 00:00:00 GMT"
@@ -560,8 +587,8 @@
           "pub_date": "Fri, 01 May 2026 06:28:46 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AI评估（Evals）成为新计算瓶颈**：Hugging Face指出，随着模型能力提升，评估环节对算力的需求正成为新的限制因素。\n2. **多款新模型与框架发布**：包括IBM的Granite 4.1 LLM、NVIDIA的Nemotron 3 Nano Omni（长上下文多模态模型），以及面向具身智能的高效仿真框架。\n3. **平台安全与基础设施升级**：OpenAI推出高级账户安全功能、强调社区安全承诺，并公布为“智能时代”建设的计算基础设施；同时其模型、Codex及托管智能体登陆AWS。\n4. **AI行业动态与争议**：马斯克与OpenAI对簿公堂引发硅谷热议；DeepSeek版“Claude Code”在GitHub获2.3k星；有文章调侃1930年代的“AI”概念重现竞争。\n5. **Google Translate迎来20周年**：发布趣味事实、使用技巧及新功能。\n\n**今日最值得关注的发展**：AI评估正成为新的算力瓶颈，同时多家厂商密集发布新模型与平台安全升级，标志着行业从“模型竞赛”转向“评估与安全基础设施”的竞争。",
-      "count": 21
+      "summary": "今日AI动态摘要\n\n1. **AI评估（Evals）成为新的算力瓶颈**：Hugging Face指出，随着模型能力提升，评估过程对计算资源的需求激增，正取代训练成为新的算力瓶颈。\n2. **多家厂商发布新模型与平台更新**：包括IBM的Granite 4.1 LLM、NVIDIA的Nemotron 3 Nano Omni（长上下文多模态模型），以及DeepInfra接入Hugging Face推理平台，OpenAI模型与Codex、托管Agent也登陆AWS。\n3. **降低延迟与提升安全性的技术进展**：Google Gemini API引入Webhooks以减少长任务延迟；OpenAI推出低延迟语音AI规模化方案、高级账户安全功能，并强调网络安全在智能时代的重要性。\n4. **应用与工具拓展**：谷歌翻译庆祝20周年并推出新功能；开源社区出现“DeepSeek版Claude Code”项目（GitHub 2.3k星），进一步丰富AI开发工具链。\n\n**今日最值得关注的发展**：AI评估正取代训练成为新的算力瓶颈，这一趋势将深刻影响未来模型开发与部署的资源分配策略。",
+      "count": 24
     },
     "cctv": {
       "articles": [
@@ -575,7 +602,7 @@
           "pub_date": "Tue, 28 Apr 2026 10:36:40 GMT"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 美国华盛顿特区一起枪击事件的嫌疑人在写给家人的信件中，表达了对美国政府的不满和抱怨，相关细节由媒体报道披露。\n2. 该事件引发外界对嫌疑人动机及美国社会矛盾的新关注。\n3. 目前案件仍在调查中，尚无进一步官方回应。\n\n总结：今日最值得关注的发展是，美国一起枪击案嫌疑人通过家书公开表达对政府的不满，折射出美国社会内部紧张情绪。",
+      "summary": "今日新闻联播动态摘要\n\n1. [重点] 美国华盛顿特区枪击案嫌疑人通过信件向家人表达对美国政府的不满，相关媒体报道其作案动机与政治情绪有关。\n2. [重点] 该事件引发对美国国内社会矛盾及枪支暴力问题的关注，折射出部分民众对政府政策的负面情绪。\n3. [重点] 国际媒体持续追踪案件细节，强调此类事件对美国社会稳定的潜在影响。\n\n今日最值得关注的发展：美国DC枪击案嫌犯自述对政府不满，凸显美国国内治理困境与枪支暴力问题的深层关联。",
       "count": 1
     }
   }
