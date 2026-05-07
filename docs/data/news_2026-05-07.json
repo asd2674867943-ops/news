@@ -1,9 +1,153 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T16:06:50.954079",
+  "generated_at": "2026-05-07T23:03:23.093593",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "cf701e41c862",
+          "title": "OpenAI launches new voice intelligence features in its API",
+          "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+          "description": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 22:24:50 +0000"
+        },
+        {
+          "id": "888818936792",
+          "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+          "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+          "description": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 21:49:24 +0000"
+        },
+        {
+          "id": "7bb8fa9c78ef",
+          "title": "Disney looking to make a unified ‘super app,’ report says",
+          "link": "https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/",
+          "description": "Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 21:40:10 +0000"
+        },
+        {
+          "id": "950b74adbb90",
+          "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+          "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+          "description": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 21:02:11 +0000"
+        },
+        {
+          "id": "329b2bf29831",
+          "title": "Hackers deface school login pages after claiming another Instructure hack",
+          "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
+          "description": "The cybercrime group ShinyHunters claimed to have hacked Instructure again, defacing the login pages of several Instructure customer schools with an extortion message.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 20:59:09 +0000"
+        },
+        {
+          "id": "c39759ece3f6",
+          "title": "Gusto hits $1B revenue, a figure that brings it closer to public markets",
+          "link": "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/",
+          "description": "Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 20:41:27 +0000"
+        },
+        {
+          "id": "be5dc2f7eb6a",
+          "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+          "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+          "description": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 20:20:20 +0000"
+        },
+        {
+          "id": "c184c2de7ad8",
+          "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark",
+          "link": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/",
+          "description": "The new benchmark rating applies to 2026 Tesla Model Y vehicles assembled on or after November 12, 2025.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 20:10:48 +0000"
+        },
+        {
+          "id": "6b627a09b43d",
+          "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+          "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+          "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 19:57:59 +0000"
+        },
+        {
+          "id": "d50626feb31f",
+          "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+          "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+          "description": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 19:21:21 +0000"
+        },
+        {
+          "id": "f50cbdef51e1",
+          "title": "Bumble is getting rid of the swipe, CEO says",
+          "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+          "description": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 19:06:17 +0000"
+        },
+        {
+          "id": "4044441c06ba",
+          "title": "Tome, another Goodreads book-tracker rival, shuts down",
+          "link": "https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/",
+          "description": "Built on the back of the sizable and influential BookTok community -- creators who discuss and review books on TikTok -- the app offered readers a place to chronicle and rate their books, get recommendations, and even add photos of things like favorite quotes or memes, or share playlists that match the book's vibes.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 18:38:58 +0000"
+        },
+        {
+          "id": "0096407b000e",
+          "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
+          "link": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
+          "description": "Stockholm-based vibe-coding platform Lovable is offering employees an automatic 10% raise as a way to sidestep classic corporate politics.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 18:36:29 +0000"
+        },
+        {
+          "id": "3655565ba7c9",
+          "title": "Hackers hack victims hacked by other hackers",
+          "link": "https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/",
+          "description": "An unknown group of hackers is breaking into systems previously breached by the cybercrime group TeamPCP. Once inside, the hackers immediately kick out TeamPCP and remove its hacking tools from the victims’ systems.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 18:28:52 +0000"
+        },
+        {
+          "id": "791c7f8f0676",
+          "title": "Kalshi doubles valuation in 5 months, hitting $22B",
+          "link": "https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/",
+          "description": "Prediction market startup Kalshi has raised a $1 billion Series F round led by Coatue.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 18:02:59 +0000"
+        },
+        {
+          "id": "6cbf72faefc8",
+          "title": "Jeff Bezos rep leaves Slate Auto’s board",
+          "link": "https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/",
+          "description": "Melinda Lewison's departure raises questions about Bezos' support and involvement with the startup at a time when the Amazon founder is now apparently focused on robotics at his new startup, Project Prometheus.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 07 May 2026 17:54:46 +0000"
+        },
         {
           "id": "964515e0cb46",
           "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
@@ -26,7 +170,7 @@
           "id": "07932769b3b6",
           "title": "Google unveils Whoop-like screenless Fitbit Air",
           "link": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/",
-          "description": "The device comes with health and fitness tracking like 24/7 heart rate, heart rhythm monitoring with Afib alerts, SpO2, resting heart rate, heart rate variability, sleep stages and duration, and more.",
+          "description": "The device comes with health and fitness tracking like 24/7 heart rate, heart rhythm monitoring with A-fib alerts, SpO2, resting heart rate, heart rate variability, sleep stages and duration, and more.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 07 May 2026 15:17:38 +0000"
@@ -35,154 +179,37 @@
           "id": "475ca12a76e6",
           "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
           "link": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
-          "description": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100K equity-free, and more opportunities for major scaling impact. Pre-Series A founders — and anyone who knows a startup worth backing — this is your reminder: the deadline is approaching fast, and the [&#8230;]",
+          "description": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportunities for major scaling impact.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 07 May 2026 15:00:00 +0000"
         },
         {
-          "id": "cd6c3fb6b748",
-          "title": "Police arrest SMS blaster crew that sent malicious messages to thousands across Toronto",
-          "link": "https://techcrunch.com/2026/05/07/police-arrest-sms-blaster-crew-that-sent-malicious-messages-to-thousands-across-toronto/",
-          "description": "Toronto police said this is the \"first known instance\" of an SMS blaster being used in Canada.",
-          "source": "TechCrunch",
+          "id": "f1fb6642a6f2",
+          "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
+          "link": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
+          "description": "Lawsuit accuses DHS of plugging DNA database into ICE surveillance machine.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 07 May 2026 14:49:02 +0000"
+          "pub_date": "Thu, 07 May 2026 21:35:01 +0000"
         },
         {
-          "id": "2ca2e3bb1f83",
-          "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
-          "link": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
-          "description": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does.",
-          "source": "TechCrunch",
+          "id": "ca5487acdbac",
+          "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+          "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+          "description": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 07 May 2026 14:30:00 +0000"
+          "pub_date": "Thu, 07 May 2026 19:18:16 +0000"
         },
         {
-          "id": "afedd0bd3b68",
-          "title": "India’s first space tech unicorn emerges as Skyroot gears up for orbital launch",
-          "link": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
-          "description": "Skyroot's valuation has more than doubled since 2023 as the Indian rocket startup prepares for the country's first private orbital launch.",
-          "source": "TechCrunch",
+          "id": "faf6b1cde834",
+          "title": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit",
+          "link": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/",
+          "description": "The $100 Fitbit Air is available for preorder today.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 07 May 2026 14:28:35 +0000"
-        },
-        {
-          "id": "1a0c8b5e0b51",
-          "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-          "description": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 07 May 2026 14:00:00 +0000"
-        },
-        {
-          "id": "cc1ead114a7e",
-          "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
-          "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-          "description": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 07 May 2026 13:44:25 +0000"
-        },
-        {
-          "id": "ce72908bb7bb",
-          "title": "Spotify wants to become the home for AI-generated personal audio",
-          "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
-          "description": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 07 May 2026 13:00:00 +0000"
-        },
-        {
-          "id": "7ce110442548",
-          "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
-          "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
-          "description": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 07 May 2026 12:20:04 +0000"
-        },
-        {
-          "id": "f3638ddc7526",
-          "title": "Five architects of the AI economy explain where the wheels are coming off",
-          "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-          "description": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 07 May 2026 05:25:10 +0000"
-        },
-        {
-          "id": "f6fc00f44210",
-          "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
-          "link": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
-          "description": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 06 May 2026 22:30:00 +0000"
-        },
-        {
-          "id": "6b1a2b0487f6",
-          "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-          "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-          "description": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 06 May 2026 21:57:56 +0000"
-        },
-        {
-          "id": "01c96dd0fe1a",
-          "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-          "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-          "description": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 06 May 2026 21:43:24 +0000"
-        },
-        {
-          "id": "77cd9b5c39a7",
-          "title": "Is xAI a neocloud now?",
-          "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-          "description": "xAI's real business may be more about building data centers than training AI models.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 06 May 2026 21:32:55 +0000"
-        },
-        {
-          "id": "06b729426958",
-          "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
-          "link": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
-          "description": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 06 May 2026 20:39:16 +0000"
-        },
-        {
-          "id": "d3f33ed19dff",
-          "title": "Microsoft’s AI data center push is colliding with its clean power goals",
-          "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
-          "description": "The push for new data centers at Microsoft is putting its key clean power goals at risk.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 06 May 2026 19:57:31 +0000"
-        },
-        {
-          "id": "27bec6c5a660",
-          "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
-          "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
-          "description": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before they go public.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 06 May 2026 19:10:09 +0000"
-        },
-        {
-          "id": "2d2237e7b578",
-          "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-          "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-          "description": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 06 May 2026 18:23:54 +0000"
+          "pub_date": "Thu, 07 May 2026 14:00:50 +0000"
         },
         {
           "id": "f026a4cca930",
@@ -336,36 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 06 May 2026 14:30:47 +0000"
-        },
-        {
-          "id": "74d3be719114",
-          "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
-          "link": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
-          "description": "A celebration of the tweaks and customizations that make life easier at the CLI.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 06 May 2026 13:32:47 +0000"
-        },
-        {
-          "id": "f181a4c38576",
-          "title": "More than just an SUV? Rivian is working on more R2 variants.",
-          "link": "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
-          "description": "Without giving much away, CEO RJ Scaringe teased the idea of an R2 pickup and an R2X.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 06 May 2026 12:48:53 +0000"
-        },
-        {
-          "id": "a440fbe2535c",
-          "title": "OpenAI president forced to read his personal diary entries to jury",
-          "link": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
-          "description": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 05 May 2026 22:28:12 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI与网络安全领域新动向**：Anthropic的“Mythos”项目重塑了Firefox的网络安全策略；Google推出每月9.99美元的AI健康教练（5月19日上线）及类似Whoop的无屏幕Fitbit Air设备；Spotify计划成为AI生成个人音频的枢纽，其AI DJ新增法语、德语、意大利语和巴西葡萄牙语支持。\n\n2. **创业与融资热点**：中国Moonshot AI以200亿美元估值融资20亿美元，反映开源AI需求激增；印度太空科技初创公司Skyroot成为该国首个太空独角兽，正筹备轨道发射；印度初创公司Pronto凭借20分钟路演获得Lachy Groom投资；Snap与Perplexity的4亿美元合作“友好终止”。\n\n3. **科技活动与机会**：TechCrunch Disrupt 2026展览面向1万名决策者开放；Startup Battlefield 200申请截止至5月27日，提供风投对接、全球曝光、报道及10万美元奖金；Disrupt 2026第二张通行证限时五折优惠（仅剩2天）。\n\n4. **监管与安全事件**：多伦多警方逮捕利用短信群发设备向数千人发送恶意信息的犯罪团伙。\n\n5. **行业观点与趋势**：五位AI经济架构师探讨当前发展瓶颈；Barry Diller表示信任Sam Altman，但认为在通用人工智能（AGI）逼近时“信任已无关紧要”。\n\n**总结**：今日最值得关注的是AI应用加速落地（健康、音频、网络安全）与资本持续涌入开源AI及太空科技领域，同时行业开始反思AGI临近下的信任与监管挑战。",
+      "summary": "今日科技动态摘要\n\n1. OpenAI推出API新语音智能功能，并引入“可信联系人”安全机制以应对自伤风险，同时马斯克诉讼案使其安全记录受到审视。\n2. Kodiak AI以大幅折价融资1亿美元，股价暴跌37%；Kalshi在5个月内估值翻倍至220亿美元。\n3. 迪士尼计划打造统一“超级应用”；Gusto营收突破10亿美元，接近上市门槛；特斯拉Model Y成为首款符合美国新辅助驾驶安全标准的车型。\n4. 黑客在声称再次攻击Instructure后，篡改学校登录页面；另出现“黑客被其他黑客攻击”的连环事件。\n5. Bumble CEO称将取消滑动匹配功能；Stockholm AI初创公司Pit成为新星；Mac版Perplexity个人电脑全面开放；Goodreads竞争者Tome关闭；Lovable的自动加薪10%被探讨能否改善企业文化。\n\n今日最值得关注的发展：OpenAI在语音功能和安全机制上双重推进，同时面临法律与安全审视，凸显AI行业在创新与监管间的激烈博弈。",
       "count": 40
     },
     "ai": {
@@ -425,6 +425,15 @@
           "pub_date": "Mon, 04 May 2026 15:30:00 +0000"
         },
         {
+          "id": "04be5ff7d43b",
+          "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+          "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+          "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 07 May 2026 13:00:00 GMT"
+        },
+        {
           "id": "9ee1b69fefe0",
           "title": "Parloa builds service agents customers want to talk to",
           "link": "https://openai.com/index/parloa",
@@ -432,6 +441,51 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 07 May 2026 11:00:00 GMT"
+        },
+        {
+          "id": "6d7c3f78861e",
+          "title": "Advancing voice intelligence with new models in the API",
+          "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+          "description": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 07 May 2026 10:00:00 GMT"
+        },
+        {
+          "id": "25bb4e07d24b",
+          "title": "Introducing Trusted Contact in ChatGPT",
+          "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+          "description": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 07 May 2026 00:00:00 GMT"
+        },
+        {
+          "id": "4f24933fe961",
+          "title": "Testing ads in ChatGPT",
+          "link": "https://openai.com/index/testing-ads-in-chatgpt",
+          "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 07 May 2026 00:00:00 GMT"
+        },
+        {
+          "id": "d49e7963a953",
+          "title": "How frontier firms are pulling ahead",
+          "link": "https://openai.com/index/introducing-b2b-signals",
+          "description": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 06 May 2026 00:00:00 GMT"
+        },
+        {
+          "id": "cc01c1a818e5",
+          "title": "Introducing ChatGPT Futures: Class of 2026",
+          "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+          "description": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 06 May 2026 00:00:00 GMT"
         },
         {
           "id": "0a78eb4721f9",
@@ -452,28 +506,10 @@
           "pub_date": "Wed, 06 May 2026 00:00:00 GMT"
         },
         {
-          "id": "8caef3dd23ab",
-          "title": "How frontier enterprises are building an AI advantage",
-          "link": "https://openai.com/index/introducing-b2b-signals",
-          "description": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 06 May 2026 00:00:00 GMT"
-        },
-        {
-          "id": "cc01c1a818e5",
-          "title": "Introducing ChatGPT Futures: Class of 2026",
-          "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-          "description": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 06 May 2026 00:00:00 GMT"
-        },
-        {
-          "id": "0c33c2e5f703",
-          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-          "link": "https://openai.com/index/gpt-5-5-instant",
-          "description": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+          "id": "639f6bb60297",
+          "title": "GPT-5.5 Instant System Card",
+          "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+          "description": "",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Tue, 05 May 2026 10:00:00 GMT"
@@ -488,10 +524,10 @@
           "pub_date": "Tue, 05 May 2026 10:00:00 GMT"
         },
         {
-          "id": "639f6bb60297",
-          "title": "GPT-5.5 Instant System Card",
-          "link": "https://openai.com/index/gpt-5-5-instant-system-card",
-          "description": "",
+          "id": "0c33c2e5f703",
+          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+          "link": "https://openai.com/index/gpt-5-5-instant",
+          "description": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Tue, 05 May 2026 10:00:00 GMT"
@@ -522,6 +558,15 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Mon, 04 May 2026 00:00:00 GMT"
+        },
+        {
+          "id": "f47056ac3cb6",
+          "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
+          "link": "https://www.qbitai.com/2026/05/413912.html",
+          "description": "背靠国内最大ComfyUI生态",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 07 May 2026 15:54:00 +0000"
         },
         {
           "id": "5423d0c89938",
@@ -594,28 +639,10 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Thu, 07 May 2026 01:13:33 +0000"
-        },
-        {
-          "id": "168e925f1e24",
-          "title": "AI PPT，这次是真不用返工了",
-          "link": "https://www.qbitai.com/2026/05/413296.html",
-          "description": "实测讯飞智文Vision Agent",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Wed, 06 May 2026 10:28:10 +0000"
-        },
-        {
-          "id": "5a5acc85b306",
-          "title": "香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马",
-          "link": "https://www.qbitai.com/2026/05/413264.html",
-          "description": "40小时干完广告公司一年的活",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Wed, 06 May 2026 09:24:27 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **模型与平台更新**：vLLM从V0到V1版本强调强化学习中的正确性优先；OpenAI发布GPT-5.5 Instant，主打更智能、清晰与个性化，并同步推出系统卡与广告购买新方式。\n2. **行业合作与竞赛**：Google与XPRIZE及Range Media Partners合作，设立350万美元的“未来愿景”电影竞赛；OpenAI推出ChatGPT Futures（2026届）项目，聚焦前沿企业如何构建AI优势。\n3. **企业应用案例**：Parloa、Singular Bank、Uber等企业分别利用OpenAI的GPT、Codex及ChatGPT构建客服代理、提升银行工作效率及优化出行服务体验。\n4. **技术优化与基础设施**：Google在Gemini API中引入Webhooks以减少长期运行任务的摩擦与延迟；OpenAI提出MRC（多路径可靠连接）以解锁大规模AI训练网络。\n5. **AI评测与工具**：Hugging Face为Open ASR排行榜添加“Benchmaxxer Repellant”机制；Google搜索新增5条园艺技巧建议。\n\n**今日最值得关注的发展**：OpenAI发布GPT-5.5 Instant并同步推出系统卡与广告新功能，标志着模型性能与商业化进程的同步加速。",
-      "count": 27
+      "summary": "今日AI动态摘要\n\n1. **模型迭代与安全性**：vLLM从V0到V1版本强调RL中先确保正确性再修正；OpenAI推出GPT-5.5及GPT-5.5-Cyber模型，用于扩展网络可信访问。\n2. **语音与搜索技术**：OpenAI在API中推出新语音智能模型；Hugging Face为开放ASR排行榜增加防作弊机制；Google搜索新增园艺技巧功能。\n3. **AI应用与商业化**：Uber、Singular Bank、Parloa等企业利用OpenAI模型提升服务效率；ChatGPT开始测试广告、推出可信联系人功能及“Futures: Class of 2026”计划。\n4. **行业竞赛与合作**：Google与XPRIZE合作设立350万美元未来视觉电影竞赛；OpenAI分析前沿AI公司如何拉开差距。\n5. **开发者工具优化**：Gemini API新增Webhooks功能，降低长期运行任务的延迟与摩擦。\n\n**今日最值得关注的发展**：OpenAI密集发布GPT-5.5系列、ChatGPT广告测试及可信联系人功能，标志着其从技术研发向商业化与用户信任体系同步加速推进。",
+      "count": 30
     },
     "cctv": {
       "articles": [
@@ -629,10 +656,19 @@
           "pub_date": "Tue, 28 Apr 2026 10:36:40 GMT"
         },
         {
+          "id": "375a486b1a6e",
+          "title": "China's youth are ditching the rat race",
+          "link": "https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk",
+          "description": "Article URL: https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk Comments URL: https://news.ycombinator.com/item?id=48055996 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 07 May 2026 22:32:23 +0000"
+        },
+        {
           "id": "4ee63c9f86de",
           "title": "What the hell is happening in China?",
           "link": "https://ladanuzhna.xyz/writing/what-is-happening-in-china/",
-          "description": "Article URL: https://ladanuzhna.xyz/writing/what-is-happening-in-china/ Comments URL: https://news.ycombinator.com/item?id=48051089 Points: 1 # Comments: 0",
+          "description": "Article URL: https://ladanuzhna.xyz/writing/what-is-happening-in-china/ Comments URL: https://news.ycombinator.com/item?id=48051089 Points: 5 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 07 May 2026 16:06:11 +0000"
@@ -641,7 +677,7 @@
           "id": "88b070334be5",
           "title": "China's Unwinding of the Manus Deal Highlights a Key US Advantage",
           "link": "https://thediplomat.com/2026/05/chinas-unwinding-of-the-manus-deal-highlights-a-key-us-advantage/",
-          "description": "Article URL: https://thediplomat.com/2026/05/chinas-unwinding-of-the-manus-deal-highlights-a-key-us-advantage/ Comments URL: https://news.ycombinator.com/item?id=48050101 Points: 1 # Comments: 1",
+          "description": "Article URL: https://thediplomat.com/2026/05/chinas-unwinding-of-the-manus-deal-highlights-a-key-us-advantage/ Comments URL: https://news.ycombinator.com/item?id=48050101 Points: 2 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 07 May 2026 14:45:15 +0000"
@@ -870,18 +906,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sun, 03 May 2026 16:08:47 +0000"
-        },
-        {
-          "id": "088229a4f41a",
-          "title": "Should we be scared of China's surpluses?",
-          "link": "https://jzmazlish.substack.com/p/should-we-be-scared-of-chinas-surpluses",
-          "description": "Article URL: https://jzmazlish.substack.com/p/should-we-be-scared-of-chinas-surpluses Comments URL: https://news.ycombinator.com/item?id=47997166 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 03 May 2026 14:15:50 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中美科技与安全博弈**：美国与中国正寻求为人工智能（AI）竞争设置“护栏”，以避免危机升级；荷兰情报机构警告中国网络能力已与美国持平；美国媒体揭露美科技巨头参与中国“数字警察国家”建设。\n\n2. **中国科技企业动态**：中国计划以500亿美元估值投资深度求索（DeepSeek），该公司同时接近450亿美元估值，中国“大基金”牵头投资谈判；字节跳动在中国测试AI应用“豆包”的付费订阅功能。\n\n3. **中美经济与产业关系**：福特正就出售部分欧盟工厂给中国吉利进行“非常深入”的谈判；三星因市场份额萎缩将退出中国家电销售；超微电脑联合创始人被指走私价值25亿美元的英伟达芯片服务器至中国。\n\n4. **中国航空安全事件**：中国东方航空MU5735航班事故相关美国国家运输安全委员会（NTSB）文件被披露。\n\n5. **中美共同挑战**：有分析指出中美面临一个共同对手，但并非苏联；中国与巴布亚新几内亚的“马努斯协议”解除凸显美国一项关键优势。\n\n**今日最值得关注的发展**：中美在AI领域的竞争与管控成为焦点，同时中国科技企业估值飙升与产业调整并行，反映出技术自主与地缘经济博弈的复杂态势。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中美关系与科技竞争**：中美双方正寻求为人工智能（AI）竞争设立“护栏”，防止危机升级；同时有报道称，中国网络能力已与美国相当，荷兰情报机构对此发出警告。此外，中美在应对共同敌人方面存在合作空间。\n\n2. **中国科技与市场动态**：中国计划以约500亿美元估值投资DeepSeek，字节跳动旗下AI产品“豆包”在中国测试付费订阅模式；三星因市场份额萎缩退出中国家电销售，福特正与吉利就出售部分欧盟工厂进行“非常深入”的谈判。\n\n3. **社会与舆论焦点**：中国青年正逐渐远离“内卷”竞争；美国华盛顿特区枪击案嫌犯在写给家人的信中表达对美国政府的不满；有外媒报道称中国正在退出“马努斯协议”，凸显美国某项优势。\n\n4. **国际与安全议题**：中国东方航空MU5735航班相关NTSB文件被披露；美国AP揭露美国科技巨头在中国“数字警察国家”中的角色；中国在AI领域的投资与商业化进程加速推进。\n\n今日最值得关注的发展是：中美在AI领域竞相设立规则与投资，同时中国本土AI企业DeepSeek估值大幅攀升，反映全球科技竞争格局正加速演变。",
       "count": 29
     }
   }
