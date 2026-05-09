@@ -1,9 +1,45 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-09T14:53:03.408262",
+  "generated_at": "2026-05-09T22:53:22.263527",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "12813cbc6432",
+          "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+          "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 09 May 2026 21:45:00 +0000"
+        },
+        {
+          "id": "bb54678afe99",
+          "title": "Fintech startup Parker files for bankruptcy",
+          "link": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
+          "description": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 09 May 2026 20:32:17 +0000"
+        },
+        {
+          "id": "776f78ce8d69",
+          "title": "GM agrees to pay $12.75M in California driver privacy settlement",
+          "link": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
+          "description": "General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 09 May 2026 19:05:30 +0000"
+        },
+        {
+          "id": "2eb29c52d9af",
+          "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
+          "link": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
+          "description": "In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 09 May 2026 15:45:00 +0000"
+        },
         {
           "id": "c6c3492e73ea",
           "title": "Nvidia has already committed $40B to equity AI deals this year",
@@ -147,42 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 08 May 2026 13:21:34 +0000"
-        },
-        {
-          "id": "f66699e1e359",
-          "title": "The biggest US power grid is under strain from AI — and no one is happy",
-          "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
-          "description": "PJM Interconnection — which oversees the grid for some of the densest data center developments on Earth — wants to overhaul itself. Not everyone thinks it's up to the task.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 08 May 2026 13:00:00 +0000"
-        },
-        {
-          "id": "378aba0373a8",
-          "title": "Airbnb says AI now writes 60% of its new code",
-          "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
-          "description": "Airbnb also said its customer support AI bot now handles 40% of issues without escalating to a human agent.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 08 May 2026 12:49:16 +0000"
-        },
-        {
-          "id": "a6a03aad9ed5",
-          "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
-          "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-          "description": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 08 May 2026 04:42:29 +0000"
-        },
-        {
-          "id": "379ec02b8f3f",
-          "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
-          "link": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
-          "description": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 07 May 2026 23:11:43 +0000"
         },
         {
           "id": "666af39da60b",
@@ -365,19 +365,19 @@
           "pub_date": "Thu, 07 May 2026 21:35:01 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **Nvidia豪掷400亿美元布局AI**：今年已承诺通过股权投资投入400亿美元，显示其对人工智能领域的持续重注。\n2. **甲骨文裁员谈判失败**：被裁员工试图协商更优的遣散方案，但遭到公司明确拒绝。\n3. **科技巨头效仿TikTok**：亚马逊Prime Video跟随Netflix和迪士尼，在应用中新增短视频“Clips”功能。\n4. **AI导致岗位消失与收入创新高并存**：Cloudflare表示AI已使1100个岗位过时，但公司营收同时创下历史新高。\n5. **自动驾驶与网络安全风险凸显**：Uber合作伙伴Avride因自动驾驶事故被调查；波兰称黑客入侵水处理厂，美国面临同样威胁。\n\n**今日最值得关注**：Nvidia在AI领域的巨额投资与Cloudflare的“AI取代岗位”现象，共同揭示了科技行业在AI浪潮中“重金投入与岗位消亡并行”的深刻结构性变革。",
+      "summary": "今日科技动态摘要\n\n1. **AI行业投资与影响**：英伟达今年已承诺向AI股权交易投入400亿美元，同时Cloudflare表示AI导致1100个岗位被淘汰，尽管公司收入创历史新高。\n2. **企业动态与破产**：金融科技初创公司Parker申请破产；保时捷因公司重组关闭了电动自行车、电池和软件子公司；英特尔复兴之路比表面更复杂。\n3. **隐私与安全**：通用汽车因加州驾驶员隐私问题支付1275万美元和解金；波兰称黑客入侵水处理厂，美国面临同样威胁；美国国防承包商因向俄罗斯中介出售黑客工具被判赔偿前雇主1000万美元。\n4. **产品与市场变化**：Prime Video效仿Netflix和迪士尼，在应用中新增类似TikTok的“片段”功能；富士Instax Wide 400相机在保持拍立得简洁性的同时扩展了画幅；旧金山房地产市场出现异常波动。\n5. **劳工与法律纠纷**：被裁员的甲骨文员工试图协商更优遣散费遭拒绝；Uber合作伙伴Avride因自动驾驶事故正接受调查。\n\n今日最值得关注的发展：英伟达以400亿美元AI投资领跑行业，而AI技术同时加速了就业替代，凸显技术变革的双刃剑效应。",
       "count": 40
     },
     "ai": {
       "articles": [
         {
-          "id": "886ae56ab745",
-          "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-          "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+          "id": "247618cf0e8d",
+          "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+          "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
           "description": "",
           "source": "Hugging Face",
           "category": "ai",
-          "pub_date": "Fri, 08 May 2026 17:41:05 GMT"
+          "pub_date": "Sat, 09 May 2026 18:09:28 GMT"
         },
         {
           "id": "2b6fa7d209af",
@@ -641,7 +641,7 @@
           "pub_date": "Sat, 09 May 2026 10:29:31 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **网络安全与专业化模型**：Hugging Face发布CyberSecQwen-4B，强调防御性网络需要小型、专用、可本地运行的模型；OpenAI则推出GPT-5.5及GPT-5.5-Cyber，扩展网络领域的可信访问能力。\n2. **模型架构与优化**：Hugging Face推出EMO预训练方法，通过混合专家实现模块化；vLLM从V0到V1的更新聚焦强化学习中的正确性优先原则，并改进ASR排行榜的防作弊机制。\n3. **AI应用与创意结合**：Google展示创意人士用AI为小企业制作广告的效果，推出搜索园艺技巧新功能，并联合XPRIZE发起350万美元未来视觉电影竞赛；OpenAI在ChatGPT中测试广告、引入可信联系人，并发布Parloa服务代理等语音智能新模型。\n4. **开发者工具与效率提升**：Google Gemini API新增Webhooks功能，减少长时间运行任务的延迟与摩擦；OpenAI持续优化Codex运行安全性，并更新API中的语音智能模型。\n5. **行业动态与未来方向**：Google总结2026年4月AI新闻，OpenAI探索广告模式与用户信任机制，整体趋势指向专业化、安全化与创意落地的融合。\n\n**今日最值得关注的发展**：网络安全与AI的结合成为焦点，多机构同时推出面向防御场景的专业化小模型，标志着AI正从通用能力向垂直安全领域深度渗透。",
+      "summary": "今日AI动态摘要\n\n1. **医疗AI与隐私保护**：OncoAgent提出双层多智能体框架，用于隐私保护的肿瘤临床决策支持（Hugging Face）；OpenAI推出GPT-5.5及网络安全专用版本，强化可信访问与网络防御能力。\n2. **模型与架构创新**：EMO通过预训练混合专家模型实现新兴模块化能力；vLLM从V0到V1版本强调强化学习中“修正先于纠错”的设计理念。\n3. **AI应用与工具扩展**：Google发布AI辅助小企业广告创意案例、搜索园艺技巧、与XPRIZE合作推出350万美元未来视觉电影竞赛；OpenAI在API中新增语音智能模型、Webhooks支持长时任务，并测试ChatGPT广告及“可信联系人”功能。\n4. **开放性与评测优化**：Hugging Face在ASR语音识别排行榜中加入“Benchmaxxer”反作弊机制，提升评测公平性。\n5. **安全与可靠性**：OpenAI分享Codex安全运行经验，强调在强化学习与部署中确保模型行为的正确性与一致性。\n\n**今日最值得关注的发展**：多家机构在医疗、语音、网络安全等垂直领域推出隐私保护与可信访问的AI框架，同时通过反作弊机制和模型安全实践，推动AI从能力突破向可信落地迈进。",
       "count": 30
     },
     "cctv": {
@@ -663,6 +663,33 @@
           "source": "Global Times",
           "category": "cctv",
           "pub_date": "Tue, 28 Apr 2026 10:36:40 GMT"
+        },
+        {
+          "id": "222415838d4f",
+          "title": "America's A.I. Is Futuristic. China Is Just Making It Work",
+          "link": "https://www.nytimes.com/2026/05/09/opinion/ai-china-america-race.html",
+          "description": "Article URL: https://www.nytimes.com/2026/05/09/opinion/ai-china-america-race.html Comments URL: https://news.ycombinator.com/item?id=48077338 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 09 May 2026 19:02:39 +0000"
+        },
+        {
+          "id": "b3268689c30c",
+          "title": "From phones to humanoid robots: China's supply chain eyes next growth curve",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3352212/phones-robots-chinas-supply-chain-eyes-next-growth-curve-humanoid",
+          "description": "Article URL: https://www.scmp.com/tech/tech-trends/article/3352212/phones-robots-chinas-supply-chain-eyes-next-growth-curve-humanoid Comments URL: https://news.ycombinator.com/item?id=48076428 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 09 May 2026 17:03:12 +0000"
+        },
+        {
+          "id": "94f8869e6d86",
+          "title": "US companies enabled brutal mass detention and surveillance in China [video]",
+          "link": "https://www.youtube.com/watch?v=vGYd6emyk-0",
+          "description": "Article URL: https://www.youtube.com/watch?v=vGYd6emyk-0 Comments URL: https://news.ycombinator.com/item?id=48076158 Points: 7 # Comments: 17",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 09 May 2026 16:25:27 +0000"
         },
         {
           "id": "c0c4d3876bc6",
@@ -888,36 +915,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Tue, 05 May 2026 04:46:37 +0000"
-        },
-        {
-          "id": "31c85f93f95e",
-          "title": "China is an engineers' country, but US and Germany are now lawyers' countries",
-          "link": "https://www.globaltimes.cn/page/202605/1360255.shtml",
-          "description": "Article URL: https://www.globaltimes.cn/page/202605/1360255.shtml Comments URL: https://news.ycombinator.com/item?id=48015487 Points: 5 # Comments: 4",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 04 May 2026 21:50:22 +0000"
-        },
-        {
-          "id": "34dc7aa466e1",
-          "title": "Two worlds collide: the regulatory battlefield hanging over EU-China ties",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3352351/two-worlds-collide-regulatory-battlefield-hanging-over-eus-ties-china",
-          "description": "Article URL: https://www.scmp.com/news/china/diplomacy/article/3352351/two-worlds-collide-regulatory-battlefield-hanging-over-eus-ties-china Comments URL: https://news.ycombinator.com/item?id=48012950 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 04 May 2026 18:37:01 +0000"
-        },
-        {
-          "id": "238e6263883e",
-          "title": "How A.I. Is Transforming China's Entertainment Industry",
-          "link": "https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html",
-          "description": "Article URL: https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html Comments URL: https://news.ycombinator.com/item?id=48012605 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 04 May 2026 18:13:54 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **东京审判与历史叙事**：全球时报报道指出，东京审判驳斥了靖国神社的扭曲历史观，强调国际社会对二战历史真相的坚守。\n2. **中国清洁技术优势凸显**：伊朗战争引发的全球能源危机，凸显了中国在清洁技术领域的领先地位，进一步增强了其在国际能源转型中的竞争力。\n3. **中国AI产业加速发展**：中国本土AI公司DeepSeek以450亿美元估值寻求融资，同时中国推出首台双核原子量子计算机“汉原2号”，显示在人工智能和量子计算领域的自主创新突破。\n4. **中美AI竞争与合作**：中美双方正在寻求建立“护栏”，以防止人工智能领域的竞争升级为危机，体现两国在技术治理上的博弈与协调。\n5. **中国社会与市场动态**：中国年轻人正逐渐远离“内卷”竞争，同时三星因市场份额萎缩退出中国家电销售，反映消费趋势与市场格局变化。\n\n今日最值得关注的发展：中国在AI与量子计算领域的自主突破，以及清洁技术在全球能源危机中的战略优势，正成为国际竞争中的关键变量。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国科技自主创新加速发展**：包括中国推出首台双核原子量子计算机“汉原二号”、AI公司DeepSeek以450亿美元估值寻求融资，以及中国AI实验室内部进展的报道，凸显中国在量子计算和人工智能领域的自主研发能力。\n\n2. **中美科技竞争与博弈**：多篇报道聚焦中美在AI领域的竞争态势，如美国推动AI护栏以防止危机升级、中国供应链从手机向人形机器人转型，以及美国对中国科技发展的关注与限制。\n\n3. **国际事件与地缘政治**：东京审判揭露靖国神社的错误叙事、伊朗战争引发的全球能源危机凸显中国清洁技术优势，以及美国国内枪击事件反映社会矛盾，显示中国在国际事务中的立场与影响力。\n\n4. **中国青年与经济发展**：报道中国年轻人“逃离内卷”的社会现象，以及从白银、丝绸到国家关系的明清历史分析，展现中国社会结构变迁与历史纵深。\n\n5. **美国对华指控与事实澄清**：针对美国媒体所谓“中国大规模拘留与监控”的指控，相关视频报道予以反驳，强调中国法治与人权保障的实际情况。\n\n**今日最值得关注的发展**：中国在量子计算与AI领域的连续突破，以及中美围绕AI技术主导权的博弈持续升级，凸显中国正加速从“应用创新”向“核心技术自主”转型。",
       "count": 30
     }
   }
