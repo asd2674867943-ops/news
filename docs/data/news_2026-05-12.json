@@ -1,14 +1,167 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T16:20:35.282993",
+  "generated_at": "2026-05-12T23:06:33.282025",
   "categories": {
     "tech": {
       "articles": [
         {
+          "id": "0b73db82c90e",
+          "title": "Kevin Hartz’s A* just closed its third fund with $450 million",
+          "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+          "description": "Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 18:45:05 +0000"
+        },
+        {
+          "id": "1e219f5c16c3",
+          "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+          "link": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
+          "description": "Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 18:14:58 +0000"
+        },
+        {
+          "id": "44acdc7888f2",
+          "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+          "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+          "description": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 18:05:15 +0000"
+        },
+        {
+          "id": "ca94840a16a2",
+          "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+          "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+          "description": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 17:36:34 +0000"
+        },
+        {
+          "id": "5c921d4f19c2",
+          "title": "Potholes cost cities millions: This company is using AI and trucks to fix them",
+          "link": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
+          "description": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 17:33:29 +0000"
+        },
+        {
+          "id": "bd78785900b1",
+          "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+          "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+          "description": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 17:30:57 +0000"
+        },
+        {
+          "id": "05402219cd66",
+          "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+          "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+          "description": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 17:01:00 +0000"
+        },
+        {
+          "id": "6610ac927594",
+          "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+          "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+          "description": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 17:00:00 +0000"
+        },
+        {
+          "id": "a4bfeeb2ec56",
+          "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+          "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+          "description": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 17:00:00 +0000"
+        },
+        {
+          "id": "d9a1b1c85f83",
+          "title": "Android adds a feature to stop you from doomscrolling",
+          "link": "https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/",
+          "description": "Google’s new Android feature, Pause Point, forces you to wait before opening distracting apps in an effort to curb addictive scrolling habits.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 17:00:00 +0000"
+        },
+        {
+          "id": "78223cebd6c1",
+          "title": "Google unveils Googlebook, a new line of AI-native laptops",
+          "link": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
+          "description": "The company says Googlebooks, which are launching this fall, are the first laptops designed from the ground up for Gemini Intelligence to offer personal and proactive help.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 17:00:00 +0000"
+        },
+        {
+          "id": "297933151a4b",
+          "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
+          "link": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
+          "description": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order to get a custom dashboard that you can add and resize on your home screen.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 17:00:00 +0000"
+        },
+        {
+          "id": "cfa627b8ac99",
+          "title": "Google brings agentic AI and vibe-coded widgets to Android",
+          "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+          "description": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 17:00:00 +0000"
+        },
+        {
+          "id": "c9a9fee7cd26",
+          "title": "Google launches new Android security feature to help uncover spyware attacks",
+          "link": "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/",
+          "description": "Intrusion Logging is a new part of Android’s Advanced Protection Mode, which aims to help protect human rights activists, journalists, and dissidents from government spyware attack and law enforcement forensic devices.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 17:00:00 +0000"
+        },
+        {
+          "id": "1d7d62ccf93a",
+          "title": "Indigo brings the open social web to one app",
+          "link": "https://techcrunch.com/2026/05/12/indigo-brings-the-open-social-web-to-one-app/",
+          "description": "Indigo's new social app lets you cross-post to the open social web, including Mastodon and Bluesky, and browse a unified timeline.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 16:46:03 +0000"
+        },
+        {
+          "id": "5a3a4d187562",
+          "title": "US bank discloses security lapse after sharing customer data with AI app",
+          "link": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
+          "description": "Community Bank, which operates in Pennsylvania, Ohio, and West Virginia, disclosed a cybersecurity incident that exposed customers’ names, dates of birth, and Social Security numbers.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 16:36:44 +0000"
+        },
+        {
+          "id": "33a176d9e2fa",
+          "title": "Threads tests a Meta AI integration that works similarly to Grok",
+          "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+          "description": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 12 May 2026 16:34:36 +0000"
+        },
+        {
           "id": "42e260ea3daa",
           "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
           "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
-          "description": "The round valued the three-year-old startup at $725 million.",
+          "description": "As bad actors weaponize AI to exploit software vulnerabilities at unprecedented speed, companies are increasingly recognizing the need to bolster their cybersecurity defenses. The round valued the three-year-old startup at $725 million.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Tue, 12 May 2026 15:07:37 +0000"
@@ -32,157 +185,76 @@
           "pub_date": "Tue, 12 May 2026 13:34:04 +0000"
         },
         {
-          "id": "4ce75a52242b",
-          "title": "Dessn raises $6M for its production focused design tool",
-          "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
-          "description": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
-          "source": "TechCrunch",
+          "id": "d89b2057cd57",
+          "title": "The newest AI boom pitch: Host a mini data center at your home",
+          "link": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+          "description": "The plan aims to speed up AI compute deployment while compensating residents.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 12 May 2026 13:00:00 +0000"
+          "pub_date": "Tue, 12 May 2026 21:59:03 +0000"
         },
         {
-          "id": "bfdefe8842c3",
-          "title": "TikTok now wants to be the place you book the trip you just saw on TikTok",
-          "link": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
-          "description": "TikTok is systematically converting its discovery engine into a transaction layer, which both deepens user retention and opens entirely new revenue streams for its new owners.",
-          "source": "TechCrunch",
+          "id": "955e176487d6",
+          "title": "FDA chief resigns after Trump admin forced approval of fruity e-cigs",
+          "link": "https://arstechnica.com/health/2026/05/fda-chief-resigns-after-trump-admin-forced-approval-of-fruity-e-cigs/",
+          "description": "Makary reportedly spent his year bucking Trump admin and making industry enemies.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 12 May 2026 13:00:00 +0000"
+          "pub_date": "Tue, 12 May 2026 21:26:47 +0000"
         },
         {
-          "id": "a37de5e1517f",
-          "title": "AI is turning connected cars into pothole-finding machines",
-          "link": "https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/",
-          "description": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
-          "source": "TechCrunch",
+          "id": "c4d23471939e",
+          "title": "Twin brothers wipe 96 gov't databases minutes after being fired",
+          "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+          "description": "A case study in why credentials are revoked before firings.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 12 May 2026 13:00:00 +0000"
+          "pub_date": "Tue, 12 May 2026 19:12:07 +0000"
         },
         {
-          "id": "7cad51fa9fb4",
-          "title": "Spotify’s launches a Wrapped-style recap of your entire listening history",
-          "link": "https://techcrunch.com/2026/05/12/spotifys-launches-a-wrapped-style-recap-of-your-entire-listening-history/",
-          "description": "Spotify's new feature will show you the number of unique songs that you listened to until now",
-          "source": "TechCrunch",
+          "id": "c5afe3e6042c",
+          "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
+          "link": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
+          "description": "Teen trusted ChatGPT to help him “safely” experiment with drugs, logs show.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 12 May 2026 12:44:00 +0000"
+          "pub_date": "Tue, 12 May 2026 19:00:25 +0000"
         },
         {
-          "id": "3c74a38d0a65",
-          "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-          "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-          "description": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
-          "source": "TechCrunch",
+          "id": "8c19616f25a7",
+          "title": "Microsoft will lean on your CPU to speed up Windows 11's apps and animations",
+          "link": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
+          "description": "\"All modern operating systems do this, including macOS and Linux.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 12 May 2026 11:30:00 +0000"
+          "pub_date": "Tue, 12 May 2026 17:49:21 +0000"
         },
         {
-          "id": "1ba75f7f2a5a",
-          "title": "Amazon launches 30-minute delivery across the U.S.",
-          "link": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
-          "description": "Amazon says its new ultra-fast delivery option brings groceries, household essentials, and other items to customers’ doors in 30 minutes.",
-          "source": "TechCrunch",
+          "id": "27b7eeea4db8",
+          "title": "eBay rejects GameStop's $56B offer: \"Your proposal is neither credible nor attractive\"",
+          "link": "https://arstechnica.com/tech-policy/2026/05/ebay-rejects-gamestops-56b-offer-your-proposal-is-neither-credible-nor-attractive/",
+          "description": "eBay board doubts GameStop's ability to buy and operate the much larger firm.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 12 May 2026 10:00:00 +0000"
+          "pub_date": "Tue, 12 May 2026 17:18:04 +0000"
         },
         {
-          "id": "189ea2bfea25",
-          "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-          "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-          "description": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
-          "source": "TechCrunch",
+          "id": "d968fe005f45",
+          "title": "Google's Android-powered laptops are called Googlebooks, and they're coming this year",
+          "link": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
+          "description": "Google has revealed its vision for the AI laptop of tomorrow.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 12 May 2026 04:52:35 +0000"
+          "pub_date": "Tue, 12 May 2026 17:00:49 +0000"
         },
         {
-          "id": "619a36e6a10d",
-          "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-          "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-          "description": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-          "source": "TechCrunch",
+          "id": "a8f0c42b636b",
+          "title": "Android is getting a big AI overhaul in 2026",
+          "link": "https://arstechnica.com/gadgets/2026/05/google-says-android-is-getting-a-big-ai-overhaul-in-2026/",
+          "description": "Google has big plans for Android in 2026, and most of it is AI.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 12 May 2026 00:09:01 +0000"
-        },
-        {
-          "id": "de8f1ab3a22e",
-          "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-          "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-          "description": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 11 May 2026 23:04:10 +0000"
-        },
-        {
-          "id": "8a79a2987db2",
-          "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
-          "link": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
-          "description": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 11 May 2026 21:59:34 +0000"
-        },
-        {
-          "id": "2fe4cf2a8180",
-          "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
-          "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
-          "description": "Five-year old European military drone startup Helsing is close to raising another monster round.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 11 May 2026 17:38:32 +0000"
-        },
-        {
-          "id": "c95c23d2d8fb",
-          "title": "Bravo is creating unscripted microdramas for the Peacock app",
-          "link": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
-          "description": "As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that it is launching two unscripted Bravo microdramas, which will stream in the Peacock app.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 11 May 2026 17:14:01 +0000"
-        },
-        {
-          "id": "970e4cc24859",
-          "title": "Digg tries again, this time as an AI news aggregator",
-          "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-          "description": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 11 May 2026 17:02:35 +0000"
-        },
-        {
-          "id": "047600a333b0",
-          "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
-          "link": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/",
-          "description": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 11 May 2026 16:00:00 +0000"
-        },
-        {
-          "id": "06172c8e510c",
-          "title": "NYT’s Wordle to become a TV game show",
-          "link": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
-          "description": "This will be the first time that The Times has collaborated with a TV broadcaster for an entertainment-based program, representing yet another pivot in the media company's attempt to build a sustainable digital subscription business as print revenue continues to decline.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 11 May 2026 14:23:25 +0000"
-        },
-        {
-          "id": "5a7254d36a9f",
-          "title": "TikTok launches an ad-free subscription plan in the UK",
-          "link": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
-          "description": "Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 11 May 2026 14:05:47 +0000"
-        },
-        {
-          "id": "0cd11b03625b",
-          "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-          "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-          "description": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 11 May 2026 13:00:00 +0000"
+          "pub_date": "Tue, 12 May 2026 17:00:41 +0000"
         },
         {
           "id": "4cee9c5f27ed",
@@ -291,81 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Mon, 11 May 2026 15:20:09 +0000"
-        },
-        {
-          "id": "7dc7866dad2e",
-          "title": "A promising Indian launch startup nears its first orbital test flight",
-          "link": "https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/",
-          "description": "\"We wanted to get to an orbital launch vehicle in a few years.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 11 May 2026 13:53:24 +0000"
-        },
-        {
-          "id": "68edaa652dd6",
-          "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits",
-          "link": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/",
-          "description": "Cable firm Cox's Supreme Court win may help all tech providers, not just ISPs.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 11 May 2026 11:00:33 +0000"
-        },
-        {
-          "id": "da5fa41621a1",
-          "title": "Do you take after your dad’s RNA?",
-          "link": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
-          "description": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sun, 10 May 2026 11:15:44 +0000"
-        },
-        {
-          "id": "65640cc1ee48",
-          "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
-          "link": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
-          "description": "Fortunately, it happened early in the morning, so nobody was around.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sun, 10 May 2026 11:00:53 +0000"
-        },
-        {
-          "id": "2b4ec7af98fd",
-          "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible Comments URL: https://news.ycombinator.com/item?id=48110021 Points: 29 # Comments: 11",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 12 May 2026 15:49:47 +0000"
-        },
-        {
-          "id": "7f5534202632",
-          "title": "The Future of Obsidian Plugins",
-          "link": "https://obsidian.md/blog/future-of-plugins/",
-          "description": "Article URL: https://obsidian.md/blog/future-of-plugins/ Comments URL: https://news.ycombinator.com/item?id=48109970 Points: 11 # Comments: 1",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 12 May 2026 15:45:54 +0000"
-        },
-        {
-          "id": "be1950fa9999",
-          "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-          "link": "https://voker.ai",
-          "description": "Hey HN, we're Alex and Tyler, co-founders of Voker.ai ( https://voker.ai/ ), an agent analytics platform for AI product teams. Voker gives full visibility into what users are asking of your agents, and whether your agents are delivering, without having to dig through logs. Our main product is a lightweight SDK that is LLM stack agnostic and purpose-built for agent products. Agent Engineers and AI product teams don’t have the right level of visibility into agent performance in production, which results in bad user experiences, churn, and hundreds of hours wasted with spot checks to find and deb",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 12 May 2026 15:45:20 +0000"
-        },
-        {
-          "id": "0ae42a15a7cb",
-          "title": "Operation: Epic Furious",
-          "link": "https://www.epicfurious.com/",
-          "description": "Article URL: https://www.epicfurious.com/ Comments URL: https://news.ycombinator.com/item?id=48109519 Points: 48 # Comments: 7",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 12 May 2026 15:13:01 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **网络安全与AI防御**：Exaforce获1.25亿美元B轮融资，开发实时拦截网络攻击的AI系统；Instructure与两次入侵其系统的黑客达成和解协议，凸显企业安全挑战。\n2. **自动驾驶与AI应用拓展**：Waymo因车辆漏水问题发起召回；AI技术正将联网汽车转化为自动探测路面坑洼的工具，提升道路维护效率。\n3. **AI语音与硬件整合**：AI语音初创公司Vapi在击败40多家竞争对手赢得亚马逊Ring订单后，估值达5亿美元；Thinking Machines致力于开发能“边听边答”的对话AI。\n4. **科技巨头战略调整**：通用汽车裁减数百名IT员工，转而招聘AI技能更强的员工；Robinhood借助AI热潮筹备旗下第二家零售企业的IPO。\n5. **数字服务与内容创新**：亚马逊在美国推出30分钟送达服务；TikTok计划将平台打造成用户“即看即订”的旅行预订入口；Bravo为Peacock应用制作无脚本微短剧。\n\n**今日最值得关注的发展**：AI技术正从网络安全、自动驾驶到语音交互全面渗透，同时引发科技巨头的人才结构剧变与商业模式创新。",
+      "summary": "今日科技动态摘要\n\n1. **投资与创业动态**：Kevin Hartz 的 A* 基金完成第三期募资，规模达4.5亿美元；前特斯拉高管兼Heron Power CEO Drew Baglino 创立了一家热泵初创公司；Anthropic 警告投资者警惕二级平台交易其股份的风险。\n\n2. **AI与法律行业**：AI法律服务领域持续升温，Anthropic 也加入其中；同时，AI 语音输入和智能助手功能进一步扩展，如 Google 在 Gboard 中加入 Gemini 驱动的语音输入，可能对相关初创公司造成冲击。\n\n3. **Google 重大发布**：Google 在 Android 发布会上推出多项新功能，包括 AI 原生笔记本“Googlebook”、可自定义的“Create My Widget”功能（支持“vibe-coding”方式制作小部件）、以及防沉迷的“停止无意识刷屏”功能。此外，Google 还与 SpaceX 探讨将数据中心送入轨道的计划。\n\n4. **安全与隐私**：Google 推出新的 Android 安全功能，帮助用户发现间谍软件攻击；同时，Android 新增防沉迷功能，旨在减少用户无目的刷屏行为。\n\n5. **新兴技术与基础设施**：一家公司利用AI和卡车技术修复城市道路坑洼问题，有望节省城市数百万美元；此外，Indigo 推出一款整合开放社交网络的统一应用。\n\n**今日最值得关注的发展**：Google 在 Android 发布会上集中展示了多项 AI 驱动的创新功能，特别是 AI 原生笔记本和“vibe-coding”小部件，标志着 AI 与移动操作系统深度融合的新阶段。",
       "count": 40
     },
     "ai": {
@@ -434,6 +434,42 @@
           "pub_date": "Wed, 06 May 2026 16:00:00 +0000"
         },
         {
+          "id": "ca607676dc25",
+          "title": "How finance teams use Codex",
+          "link": "https://openai.com/academy/how-finance-teams-use-codex",
+          "description": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 12 May 2026 15:00:00 GMT"
+        },
+        {
+          "id": "7fd3a970fb69",
+          "title": "How NVIDIA engineers and researchers build with Codex",
+          "link": "https://openai.com/index/nvidia",
+          "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 12 May 2026 00:00:00 GMT"
+        },
+        {
+          "id": "822cdcbaec68",
+          "title": "What Parameter Golf taught us about AI-assisted research",
+          "link": "https://openai.com/index/what-parameter-golf-taught-us",
+          "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 12 May 2026 00:00:00 GMT"
+        },
+        {
+          "id": "b7a47efb98b3",
+          "title": "AutoScout24 scales engineering with AI-powered workflows",
+          "link": "https://openai.com/index/autoscout24",
+          "description": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 12 May 2026 00:00:00 GMT"
+        },
+        {
           "id": "ed1ae7ef3d36",
           "title": "How ChatGPT adoption broadened in early 2026",
           "link": "https://openai.com/signals/research/2026q1-update",
@@ -443,19 +479,19 @@
           "pub_date": "Mon, 11 May 2026 15:00:00 GMT"
         },
         {
-          "id": "44b15791fbcb",
-          "title": "OpenAI Campus Network: Student club interest form",
-          "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-          "description": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+          "id": "f7db3f0ea671",
+          "title": "How enterprises are scaling AI",
+          "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+          "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Mon, 11 May 2026 10:00:00 GMT"
         },
         {
-          "id": "f7db3f0ea671",
-          "title": "How enterprises are scaling AI",
-          "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-          "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+          "id": "44b15791fbcb",
+          "title": "OpenAI Campus Network: Student club interest form",
+          "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "description": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Mon, 11 May 2026 10:00:00 GMT"
@@ -542,10 +578,10 @@
           "pub_date": "Wed, 06 May 2026 08:00:00 GMT"
         },
         {
-          "id": "1a7cc92aa182",
-          "title": "Uber uses OpenAI to help people earn smarter and book faster",
-          "link": "https://openai.com/index/uber",
-          "description": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+          "id": "cc01c1a818e5",
+          "title": "Introducing ChatGPT Futures: Class of 2026",
+          "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+          "description": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 06 May 2026 00:00:00 GMT"
@@ -569,10 +605,10 @@
           "pub_date": "Wed, 06 May 2026 00:00:00 GMT"
         },
         {
-          "id": "cc01c1a818e5",
-          "title": "Introducing ChatGPT Futures: Class of 2026",
-          "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-          "description": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+          "id": "1a7cc92aa182",
+          "title": "Uber uses OpenAI to help people earn smarter and book faster",
+          "link": "https://openai.com/index/uber",
+          "description": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 06 May 2026 00:00:00 GMT"
@@ -603,45 +639,9 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Tue, 12 May 2026 09:35:29 +0000"
-        },
-        {
-          "id": "cfc7af6f21c8",
-          "title": "AI第一金主黄仁勋：日均花掉20亿",
-          "link": "https://www.qbitai.com/2026/05/416540.html",
-          "description": "“AI御三家”都投了",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Tue, 12 May 2026 08:03:52 +0000"
-        },
-        {
-          "id": "879119cf6219",
-          "title": "龙虾退烧后，荣耀给它造了一个宇宙",
-          "link": "https://www.qbitai.com/2026/05/416081.html",
-          "description": "OpenClaw 不缺掌声了，它缺的是一个能长期生长的硬件生态。",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Tue, 12 May 2026 07:17:58 +0000"
-        },
-        {
-          "id": "b41a02b499fb",
-          "title": "Markdown要凉…卡帕西也站HTML了",
-          "link": "https://www.qbitai.com/2026/05/416339.html",
-          "description": "去质疑一切吧",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Tue, 12 May 2026 07:08:08 +0000"
-        },
-        {
-          "id": "edf634a1948c",
-          "title": "估值200亿美元！可灵AI被曝剥离快手单独融资",
-          "link": "https://www.qbitai.com/2026/05/416056.html",
-          "description": "快手，可能要亲手拆出第二家“快手”了。",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Tue, 12 May 2026 06:06:38 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AWS与Hugging Face合作推进基础模型训练与推理**：介绍了在AWS上构建基础模型训练和推理的模块化方法，并探讨了混合专家模型（EMO）的预训练技术，旨在提升模型的模块化能力。\n2. **OpenAI多领域扩展与部署**：包括ChatGPT在2026年初的广泛采用、企业级AI规模化部署、推出DeployCo帮助企业构建智能应用，以及通过GPT-5.5和GPT-5.5-Cyber增强网络安全的可信访问能力。\n3. **Google AI应用落地与功能更新**：AI驱动的Google Finance扩展至欧洲、创意人士用AI为小企业制作广告、搜索功能新增5项园艺技巧，以及语音智能API的模型升级。\n4. **AI模型性能与安全性优化**：vLLM从V0到V1的强化学习正确性改进、Open ASR排行榜添加防作弊机制（Benchmaxxer Repellant），以及OpenAI安全运行Codex的经验分享。\n5. **企业与客户交互智能化**：Parla通过AI构建用户愿意交流的服务代理，以及OpenAI在API中推出新型语音智能模型。\n\n**今日最值得关注的发展**：OpenAI通过DeployCo、GPT-5.5系列及语音模型升级，全面加速企业级AI部署与安全应用，同时Google在金融、广告和搜索领域深化AI落地，标志着AI正从技术实验转向规模化商业与生活场景渗透。",
+      "summary": "今日AI动态摘要\n\n1. **AWS与Hugging Face合作**：介绍了在AWS上构建和训练基础模型的模块化方法，包括混合专家模型（EMO）的预训练技术，以及vLLM从V0到V1的强化学习正确性改进。\n2. **Google AI扩展应用场景**：AI驱动的Google Finance扩展至欧洲；创意人士利用AI为小企业制作广告；搜索功能新增5项园艺技巧。\n3. **OpenAI多领域进展**：金融团队与NVIDIA工程师利用Codex提升工作效率；AutoScout24通过AI工作流实现工程规模化；ChatGPT在2026年初的采用率扩大；企业级AI扩展实践。\n4. **开源与评测动态**：Hugging Face在开放ASR排行榜中引入“Benchmaxxer Repellant”机制，以提升评测准确性与公平性。\n5. **OpenAI新举措**：推出DeployCo帮助企业围绕智能构建业务，并启动校园网络学生俱乐部兴趣征集。\n\n**今日最值得关注的发展**：OpenAI发布DeployCo及企业AI规模化实践，标志着AI从工具向企业级基础设施的全面转型。",
       "count": 30
     },
     "cctv": {
@@ -656,7 +656,7 @@
           "pub_date": "Fri, 08 May 2026 00:00:00 GMT"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 东京审判揭露了靖国神社歪曲历史、颠倒黑白的错误叙事。\n2. 强调国际社会对日本军国主义罪行的正义审判与历史定论。\n3. 批评靖国神社及其相关叙事试图美化侵略历史、误导公众认知。\n\n今日最值得关注的发展是：东京审判的历史真相再次被强调，以正视听，驳斥靖国神社的错误历史观。",
+      "summary": "今日新闻联播动态摘要\n\n1. 东京审判揭露靖国神社歪曲历史事实的错误叙事。\n2. 强调国际社会对日本军国主义侵略历史的正义审判与正确认知。\n3. 反对任何美化侵略、否认历史罪行的行径。\n\n今日最值得关注的发展：东京审判作为历史定论，有力驳斥了靖国神社对历史的颠倒与篡改。",
       "count": 1
     }
   }
