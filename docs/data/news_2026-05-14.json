@@ -1,9 +1,108 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T16:10:04.693740",
+  "generated_at": "2026-05-14T23:01:30.701906",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "d4d3b91799a2",
+          "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+          "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+          "description": "Here's what the biggest tech court case of the year is all about.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 14 May 2026 22:47:51 +0000"
+        },
+        {
+          "id": "a89bd5fe2731",
+          "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+          "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+          "description": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 14 May 2026 21:30:44 +0000"
+        },
+        {
+          "id": "788df6572ff4",
+          "title": "OpenAI says Codex is coming to your phone",
+          "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+          "description": "The update gives users enhanced flexibility over how they can manage their workflows.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 14 May 2026 20:58:55 +0000"
+        },
+        {
+          "id": "ca0f1ea6364c",
+          "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
+          "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+          "description": "Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 14 May 2026 20:43:03 +0000"
+        },
+        {
+          "id": "52f83aa36500",
+          "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
+          "link": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
+          "description": "Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet ten years ago before agreeing to hear Cerebras' pitch.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 14 May 2026 20:23:03 +0000"
+        },
+        {
+          "id": "dfe09b41f2b4",
+          "title": "What happens when AI starts building itself?",
+          "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+          "description": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 14 May 2026 19:57:20 +0000"
+        },
+        {
+          "id": "84dd148f36b3",
+          "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+          "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+          "description": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 14 May 2026 19:12:03 +0000"
+        },
+        {
+          "id": "ede62fab4b8a",
+          "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+          "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+          "description": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 14 May 2026 19:05:01 +0000"
+        },
+        {
+          "id": "04783472ae3f",
+          "title": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
+          "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
+          "description": "Short-form video is built for mobile, so it may seem counterintuitive, but it's true: YouTube Shorts are becoming quite popular on the big screen.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 14 May 2026 18:56:43 +0000"
+        },
+        {
+          "id": "272119f1562b",
+          "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+          "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+          "description": "A year ago, it looked like this day would never happen for Cerebras.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 14 May 2026 16:30:02 +0000"
+        },
+        {
+          "id": "8f5fb4e23758",
+          "title": "OpenAI says hackers stole some data after latest code security issue",
+          "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+          "description": "OpenAI said the damage was limited to the employees’ devices and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 14 May 2026 16:25:20 +0000"
+        },
         {
           "id": "f32bd65cb0b6",
           "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
@@ -14,8 +113,8 @@
           "pub_date": "Thu, 14 May 2026 15:42:18 +0000"
         },
         {
-          "id": "b48b5cbe90a8",
-          "title": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, imploded",
+          "id": "4b4f7b2f78b2",
+          "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
           "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
           "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
           "source": "TechCrunch",
@@ -26,7 +125,7 @@
           "id": "0ba289dbb8fa",
           "title": "How to turn off Instagram’s new Instants feature and retract photos you accidentally shared",
           "link": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/",
-          "description": "While the Meta-owned social network billed Instants as a new format to share real-life moments as they’re happening, many users are looking for a way to turn off the feature, especially those who have ended up accidentally sending images to others not fully understanding how the feature works.",
+          "description": "While the Meta-owned social network billed Instants as a new format to share real-life moments as they’re happening, many users are looking for a way to turn off the feature, especially those who have accidentally sent images to others, not fully understanding how the feature works.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 14 May 2026 15:06:39 +0000"
@@ -50,10 +149,10 @@
           "pub_date": "Thu, 14 May 2026 14:01:14 +0000"
         },
         {
-          "id": "6e4222056885",
-          "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+          "id": "12bbc40fcc64",
+          "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
           "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
-          "description": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
+          "description": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 14 May 2026 14:00:00 +0000"
@@ -71,7 +170,7 @@
           "id": "fa97e1425507",
           "title": "Uber to open 2 campuses in India to support product development, operations",
           "link": "https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/",
-          "description": "Uber plans to open two new engineering campuses with a capacity of nearly 10,000 people in India by the end of 2027.",
+          "description": "The expansion comes as Uber seeks new growth areas beyond ride-hailing and invests more heavily in AI, automation, and autonomous vehicle technologies.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 14 May 2026 13:43:27 +0000"
@@ -80,109 +179,100 @@
           "id": "84c034beb426",
           "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
           "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-          "description": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+          "description": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers,\" Campbell Brown said at StrictlyVC.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 14 May 2026 06:05:31 +0000"
         },
         {
-          "id": "486e1283d1fd",
-          "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-          "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-          "description": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
-          "source": "TechCrunch",
+          "id": "47d3b45645d1",
+          "title": "Men use \"vocal fry\" more than women, counter to stereotype",
+          "link": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
+          "description": "Study suggests \"the bias is real but socially constructed, rather than grounded in how women actually sound.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 14 May 2026 05:24:39 +0000"
+          "pub_date": "Thu, 14 May 2026 21:32:29 +0000"
         },
         {
-          "id": "f1b23b32bcbb",
-          "title": "Notion just turned its workspace into a hub for AI agents",
-          "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-          "description": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-          "source": "TechCrunch",
+          "id": "5a549ac66b40",
+          "title": "Fired hacker twins forget to end Teams recording, capture own crimes",
+          "link": "https://arstechnica.com/tech-policy/2026/05/fired-hacker-twins-forget-to-end-teams-recording-capture-own-crimes/",
+          "description": "One little mystery—solved.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 13 May 2026 21:45:09 +0000"
+          "pub_date": "Thu, 14 May 2026 21:02:53 +0000"
         },
         {
-          "id": "2e429e35604a",
-          "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-          "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-          "description": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
-          "source": "TechCrunch",
+          "id": "2b1a4ad37801",
+          "title": "Cell phone users can't stop incriminating themselves",
+          "link": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
+          "description": "People confide almost everything to their phones.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 13 May 2026 19:49:42 +0000"
+          "pub_date": "Thu, 14 May 2026 19:27:50 +0000"
         },
         {
-          "id": "a8fbce6bc7a2",
-          "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-          "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-          "description": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
-          "source": "TechCrunch",
+          "id": "f0705e3ad0f0",
+          "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
+          "link": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
+          "description": "Town’s 49,000 California residents compete with Nevada data centers for energy.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 13 May 2026 19:28:06 +0000"
+          "pub_date": "Thu, 14 May 2026 19:17:28 +0000"
         },
         {
-          "id": "9238a0446aef",
-          "title": "This is what some of the world’s largest banks of malware look like stacked as hard drives",
-          "link": "https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/",
-          "description": "What would some of the world's largest repositories of malware look like if they were stacked as hard drives, one on top of the other?",
-          "source": "TechCrunch",
+          "id": "a47373c2f714",
+          "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
+          "link": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
+          "description": "FSR 4.1 running on RDNA3 or RDNA2 GPUs may take a bigger performance hit.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 13 May 2026 18:12:29 +0000"
+          "pub_date": "Thu, 14 May 2026 18:55:54 +0000"
         },
         {
-          "id": "c3f059542c56",
-          "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
-          "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
-          "description": "Fervo Energy's IPO was upsized several times after potential investors asked why the enhanced geothermal startup wasn't raising more money.",
-          "source": "TechCrunch",
+          "id": "e6badeade751",
+          "title": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
+          "link": "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
+          "description": "Trump admin wants to let Musk pay $1.5M fine to settle $150 million Twitter suit.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 13 May 2026 17:42:20 +0000"
+          "pub_date": "Thu, 14 May 2026 18:45:01 +0000"
         },
         {
-          "id": "36759bd0def5",
-          "title": "X launches a History tab for bookmarks, likes, videos, and articles",
-          "link": "https://techcrunch.com/2026/05/13/x-launches-a-history-tab-for-bookmarks-likes-videos-and-articles/",
-          "description": "X’s new History tab combines bookmarks, likes, watched videos, and read articles into a single place, expanding the app’s role as a save-it-for-later tool.",
-          "source": "TechCrunch",
+          "id": "7895f9a3afed",
+          "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+          "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+          "description": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 13 May 2026 17:16:32 +0000"
+          "pub_date": "Thu, 14 May 2026 18:32:01 +0000"
         },
         {
-          "id": "15ca47767d78",
-          "title": "Instagram’s new ‘Instants’ feature combines elements from Snapchat and BeReal",
-          "link": "https://techcrunch.com/2026/05/13/instagrams-new-instants-feature-combines-elements-from-snapchat-and-bereal/",
-          "description": "The feature lets users share disappearing photos with their close friends or mutual followers that can be viewed only once and remain available for 24 hours.",
-          "source": "TechCrunch",
+          "id": "782a5a56a791",
+          "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
+          "link": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+          "description": "Made-up therapy referrals, incorrect prescriptions among the common mistakes.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 13 May 2026 16:57:40 +0000"
+          "pub_date": "Thu, 14 May 2026 17:28:43 +0000"
         },
         {
-          "id": "f3d4d6e96bd3",
-          "title": "Rivian spinoff Mind Robotics raises another $400M",
-          "link": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
-          "description": "Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.",
-          "source": "TechCrunch",
+          "id": "66da9722cacc",
+          "title": "Vaporware or not? Aptera assembles its first five validation models.",
+          "link": "https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/",
+          "description": "The three-wheel, two-seat EV has been in development since 2006.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 13 May 2026 16:34:21 +0000"
+          "pub_date": "Thu, 14 May 2026 17:06:23 +0000"
         },
         {
-          "id": "877df9b1443c",
-          "title": "Who trusts Sam Altman?",
-          "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-          "description": "\"I believe I am an honest and trustworthy businessperson,\" Altman testified in federal court.",
-          "source": "TechCrunch",
+          "id": "acaec087fa51",
+          "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+          "link": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+          "description": "Layoffs are \"not a savings-driven restructure,\" CFO says.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 13 May 2026 16:31:04 +0000"
-        },
-        {
-          "id": "0c8649411117",
-          "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
-          "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-          "description": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 13 May 2026 16:22:01 +0000"
+          "pub_date": "Thu, 14 May 2026 16:47:43 +0000"
         },
         {
           "id": "44592687820d",
@@ -273,103 +363,22 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 13 May 2026 18:37:29 +0000"
-        },
-        {
-          "id": "22fd55b9f6f0",
-          "title": "A new US military wargame series began by simulating a nuclear weapon in orbit",
-          "link": "https://arstechnica.com/space/2026/05/a-new-us-military-wargame-series-began-by-simulating-a-nuclear-weapon-in-orbit/",
-          "description": "US officials have said a nuclear detonation would render portions of low-Earth orbit useless for up to a year.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 13 May 2026 18:04:33 +0000"
-        },
-        {
-          "id": "81d0bb4c4f29",
-          "title": "Neanderthals drilled cavities to treat a toothache 59,000 years ago",
-          "link": "https://arstechnica.com/science/2026/05/neanderthals-drilled-cavities-to-treat-a-toothache-59000-years-ago/",
-          "description": "“Every time I go to the dentist, I think about that guy,” researcher says.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 13 May 2026 18:00:33 +0000"
-        },
-        {
-          "id": "bc556a21ec30",
-          "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
-          "link": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
-          "description": "\"Very painful\": Altman relives his Muskian reaction to losing control over OpenAI.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 13 May 2026 17:48:05 +0000"
-        },
-        {
-          "id": "29afc134f891",
-          "title": "Windows Update is getting better at saving your PC from buggy drivers",
-          "link": "https://arstechnica.com/gadgets/2026/05/windows-update-is-getting-better-at-saving-your-pc-from-buggy-drivers/",
-          "description": "Driver recovery can automate what used to be an irritating manual process.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 13 May 2026 17:20:01 +0000"
-        },
-        {
-          "id": "838bd338b676",
-          "title": "Amazon devices chief says a new smartphone is “just not the goal”",
-          "link": "https://arstechnica.com/gadgets/2026/05/amazon-exec-downplays-new-fire-phone-rumors-no-clear-path-that-makes-sense/",
-          "description": "\"We know what customers need right now.”",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 13 May 2026 17:06:57 +0000"
-        },
-        {
-          "id": "365c8febc45a",
-          "title": "Anthropic blames dystopian sci-fi for training AI models to act “evil”",
-          "link": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
-          "description": "But training on \"synthetic stories\" that model good AI behavior can help.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 13 May 2026 16:31:18 +0000"
-        },
-        {
-          "id": "6b3649fb11a0",
-          "title": "Gravitational lens shows a galaxy just 800 million years post-Big Bang",
-          "link": "https://arstechnica.com/science/2026/05/gravitational-lens-shows-a-galaxy-just-800-million-years-post-big-bang/",
-          "description": "Early galaxy has elements produced by the Universe's first supernovae.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 13 May 2026 15:53:20 +0000"
-        },
-        {
-          "id": "7ffee79d88e2",
-          "title": "Blue Origin may need external funding to hit ambitious launch targets",
-          "link": "https://arstechnica.com/space/2026/05/blue-origin-may-need-external-funding-to-hit-ambitious-launch-targets/",
-          "description": "Are the pockets of Jeff Bezos not as deep as everyone thinks?",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 13 May 2026 14:20:04 +0000"
-        },
-        {
-          "id": "e16ed245439c",
-          "title": "Daredevil: Born Again S2 gives us a darker, grittier canvas",
-          "link": "https://arstechnica.com/culture/2026/05/daredevil-born-again-s2-gives-us-a-darker-grittier-canvas/",
-          "description": "Cinematographer Hillary Fyfe Spera on how she kept things visually fresh for Born Again ’s second season.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 13 May 2026 13:15:19 +0000"
-        },
-        {
-          "id": "f1a3e89590d6",
-          "title": "Rivian adds a new onboard AI assistant to its latest software update",
-          "link": "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/",
-          "description": "The Rivian Assistant is available for both Gen1 and Gen2 hardware.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 13 May 2026 12:45:30 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **跨平台内容分发与AI工具升级**：Spotify将采用苹果的新视频播客技术，方便创作者跨平台分发内容；Notion将工作空间升级为AI代理中心，Anthropic则预测AI未来能主动预判用户需求。\n2. **AI驱动下的企业战略调整**：思科裁员近4000人，将资源转向AI领域并实现“创纪录季度营收”；地热初创公司Fervo Energy因AI数据中心需求推动，IPO首日股价大涨33%。\n3. **投融资与创业生态动态**：Khosla Ventures向曾经历创业失败的Ian Crosby注资1000万美元；AI数据供应平台Wirestock获2300万美元融资；创业大赛“Startup Battlefield 200”申请将于5月27日截止。\n4. **网络安全与隐私风险**：间谍软件调查人员曝光俄罗斯政府黑客试图劫持Signal账户；Instagram推出新“Instants”功能，用户可撤回误发照片。\n5. **全球科技基础设施扩张**：Uber将在印度开设两个园区支持产品开发与运营；马斯克的xAI在密西西比州数据中心未经监管运行近50台燃气轮机。\n\n**今日最值得关注的发展**：AI正从内容分发工具（Spotify、Notion）到基础设施（思科裁员转向AI、地热能源受AI需求驱动）全面重塑科技行业，同时伴随网络安全风险加剧（Signal账户劫持）与争议性扩张（xAI能源使用未受监管）。",
+      "summary": "今日科技动态摘要\n\n1. **OpenAI与马斯克法律战及安全事件**：马斯克诉奥特曼案进入陪审团裁决阶段；OpenAI遭遇代码安全漏洞导致数据被盗；同时OpenAI计划对苹果采取法律行动，并宣布Codex编程工具将登陆手机端。\n2. **AI行业重大资本与人事变动**：Cerebras以55亿美元估值上市首日暴涨108%，其早期投资人Benchmark及风投Eric Vishria获利丰厚；马斯克的SpaceXAI合并后员工持续流失；Khosla Ventures投资1000万美元支持前Bench创始人Ian Crosby的新项目。\n3. **AI自主进化与硬件新趋势**：探讨AI开始自我构建的潜在影响；Lovable投资的初创公司试图将“氛围编程”理念引入硬件领域；开发者推出Clawdmeter工具，可将Claude代码使用统计转化为桌面仪表盘。\n4. **平台内容与安全动态**：YouTube Shorts电视端月观看量达20亿小时；Spotify将采用苹果新视频播客技术以简化跨平台分发；Instagram推出Instants功能并支持撤回误发照片。\n5. **网络安全与间谍活动**：间谍软件调查人员揭露俄罗斯政府黑客试图劫持Signal账户，引发对通讯安全的新担忧。\n\n**今日最值得关注的发展**：Cerebras以55亿美元估值成功上市并暴涨108%，成为2026年首个大型科技IPO，标志着AI芯片领域在资本市场的重大突破。",
       "count": 40
     },
     "ai": {
       "articles": [
+        {
+          "id": "1852debd4425",
+          "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Thu, 14 May 2026 18:55:01 GMT"
+        },
         {
           "id": "f06569787845",
           "title": "Unlocking asynchronicity in continuous batching",
@@ -416,6 +425,24 @@
           "pub_date": "Fri, 08 May 2026 15:00:00 +0000"
         },
         {
+          "id": "21e0f2731c38",
+          "title": "Work with Codex from anywhere",
+          "link": "https://openai.com/index/work-with-codex-from-anywhere",
+          "description": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 14 May 2026 13:00:00 GMT"
+        },
+        {
+          "id": "c8758917e7fd",
+          "title": "Helping ChatGPT better recognize context in sensitive conversations",
+          "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+          "description": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 14 May 2026 00:00:00 GMT"
+        },
+        {
           "id": "db5394d08245",
           "title": "Building a safe, effective sandbox to enable Codex on Windows",
           "link": "https://openai.com/index/building-codex-windows-sandbox",
@@ -443,15 +470,6 @@
           "pub_date": "Tue, 12 May 2026 15:00:00 GMT"
         },
         {
-          "id": "822cdcbaec68",
-          "title": "What Parameter Golf taught us about AI-assisted research",
-          "link": "https://openai.com/index/what-parameter-golf-taught-us",
-          "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Tue, 12 May 2026 00:00:00 GMT"
-        },
-        {
           "id": "b7a47efb98b3",
           "title": "AutoScout24 scales engineering with AI-powered workflows",
           "link": "https://openai.com/index/autoscout24",
@@ -470,6 +488,15 @@
           "pub_date": "Tue, 12 May 2026 00:00:00 GMT"
         },
         {
+          "id": "822cdcbaec68",
+          "title": "What Parameter Golf taught us about AI-assisted research",
+          "link": "https://openai.com/index/what-parameter-golf-taught-us",
+          "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 12 May 2026 00:00:00 GMT"
+        },
+        {
           "id": "ed1ae7ef3d36",
           "title": "How ChatGPT adoption broadened in early 2026",
           "link": "https://openai.com/signals/research/2026q1-update",
@@ -479,19 +506,19 @@
           "pub_date": "Mon, 11 May 2026 15:00:00 GMT"
         },
         {
-          "id": "44b15791fbcb",
-          "title": "OpenAI Campus Network: Student club interest form",
-          "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-          "description": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+          "id": "f7db3f0ea671",
+          "title": "How enterprises are scaling AI",
+          "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+          "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Mon, 11 May 2026 10:00:00 GMT"
         },
         {
-          "id": "f7db3f0ea671",
-          "title": "How enterprises are scaling AI",
-          "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-          "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+          "id": "44b15791fbcb",
+          "title": "OpenAI Campus Network: Student club interest form",
+          "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "description": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Mon, 11 May 2026 10:00:00 GMT"
@@ -605,8 +632,8 @@
           "pub_date": "Wed, 13 May 2026 15:54:59 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **模型训练与推理技术进展**：Hugging Face发布多篇技术文章，涉及连续批处理中的异步机制、AWS上基础模型训练与推理的构建模块，以及基于混合专家模型（MoE）的预训练方法EMO，旨在提升模型模块化与效率。\n\n2. **AI在商业与金融领域的应用**：Google AI宣布其AI驱动的Google Finance功能扩展至欧洲，并展示创意人士利用AI为小企业制作广告的案例，强调AI在商业场景中的实用价值。\n\n3. **OpenAI多领域生态扩展**：OpenAI推出多项新举措，包括为Windows环境构建安全的Codex沙箱、应对npm供应链攻击、发布金融团队使用Codex的案例、探讨AI辅助研究中的“参数高尔夫”现象，以及AutoScout24等企业通过AI工作流提升工程效率。\n\n4. **企业AI规模化与部署**：OpenAI发布企业如何规模化采用AI的案例，并成立DeployCo公司，专门帮助企业围绕智能技术构建业务，同时公布ChatGPT在2026年初的采用趋势及校园网络计划。\n\n5. **安全与社区建设**：OpenAI在应对安全事件（如TanStack供应链攻击）的同时，推动开发者社区参与（如学生俱乐部兴趣表），强调在扩展AI能力时兼顾安全与生态健康。\n\n**最值得关注的发展**：OpenAI成立DeployCo并推出多项企业级AI应用案例，标志着AI正从技术实验阶段全面转向规模化商业落地与行业定制化服务。",
-      "count": 26
+      "summary": "今日AI动态摘要\n\n1. **开源多语言嵌入模型发布**：IBM推出Granite Embedding Multilingual R2，支持32K上下文长度，在低于1亿参数的模型中达到最佳检索质量，采用Apache 2.0开源协议。\n2. **AI工具与平台扩展**：Google AI将AI驱动的Google Finance功能扩展至欧洲；OpenAI展示Codex在金融、工程、广告创意等领域的应用，并推出跨平台工作能力及Windows安全沙箱。\n3. **模型训练与推理优化**：Hugging Face发布连续批处理异步化方案、AWS基础模型训练与推理构建模块，以及EMO预训练混合专家模型，推动模块化与效率提升。\n4. **安全与供应链防护**：OpenAI回应TanStack npm供应链攻击，并强调在敏感对话中提升ChatGPT上下文识别能力，同时构建安全的Codex Windows运行环境。\n5. **AI应用案例与趋势**：AutoScout24通过AI工作流扩展工程能力；NVIDIA工程师利用Codex开发；ChatGPT在2026年初用户群体进一步拓宽，显示AI助手普及加速。\n\n**今日最值得关注的发展是：开源社区与商业巨头同步发力多模态、长上下文及安全可控的AI基础能力，同时AI工具正从技术圈渗透至金融、广告、汽车等垂直行业的实际业务中。**",
+      "count": 29
     },
     "cctv": {
       "articles": [
@@ -618,10 +645,271 @@
           "source": "Global Times",
           "category": "cctv",
           "pub_date": "Fri, 08 May 2026 00:00:00 GMT"
+        },
+        {
+          "id": "df160662439a",
+          "title": "Pentagon's 'Deal Team Six' Aims to Challenge China's Grip on Rare Earth Power",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-14/pentagon-aims-to-break-china-rare-earths-grip-with-critical-minerals-plan",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-05-14/pentagon-aims-to-break-china-rare-earths-grip-with-critical-minerals-plan Comments URL: https://news.ycombinator.com/item?id=48141579 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 21:34:36 +0000"
+        },
+        {
+          "id": "7ee9c880ba2b",
+          "title": "The tortoise and the hare: will China beat the US in the race back to the moon?",
+          "link": "https://www.theguardian.com/science/2026/apr/26/china-us-space-race-moon",
+          "description": "Article URL: https://www.theguardian.com/science/2026/apr/26/china-us-space-race-moon Comments URL: https://news.ycombinator.com/item?id=48139145 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 18:19:14 +0000"
+        },
+        {
+          "id": "f2374e14c1f3",
+          "title": "US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough",
+          "link": "https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/",
+          "description": "Article URL: https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/ Comments URL: https://news.ycombinator.com/item?id=48138714 Points: 9 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 17:47:37 +0000"
+        },
+        {
+          "id": "eab0ca6fe6fe",
+          "title": "US/China relationship, effect of Iran war on China economy and geopolitics",
+          "link": "https://www.tabletmag.com/sections/news/articles/strange-trip-trump-china-iran",
+          "description": "Article URL: https://www.tabletmag.com/sections/news/articles/strange-trip-trump-china-iran Comments URL: https://news.ycombinator.com/item?id=48136651 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 15:14:37 +0000"
+        },
+        {
+          "id": "060264055d7d",
+          "title": "China's Grey Market for Cheap Claude Tokens",
+          "link": "https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in",
+          "description": "Article URL: https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in Comments URL: https://news.ycombinator.com/item?id=48135938 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 14:28:16 +0000"
+        },
+        {
+          "id": "410247682088",
+          "title": "US/China talks to make sure non-state actors don't get a hold of these AI models",
+          "link": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+          "description": "Article URL: https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html Comments URL: https://news.ycombinator.com/item?id=48133572 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 10:46:39 +0000"
+        },
+        {
+          "id": "14a749147271",
+          "title": "Officially, Marco Rubio is still banned from China. So how is he in Beijing?",
+          "link": "https://www.washingtonpost.com/world/2026/05/14/officially-marco-rubio-is-still-banned-china-so-how-is-he-beijing/",
+          "description": "Article URL: https://www.washingtonpost.com/world/2026/05/14/officially-marco-rubio-is-still-banned-china-so-how-is-he-beijing/ Comments URL: https://news.ycombinator.com/item?id=48133425 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 10:26:05 +0000"
+        },
+        {
+          "id": "bf69809897db",
+          "title": "China moves to regulate digital humans - Reuters",
+          "link": "https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/",
+          "description": "Article URL: https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/ Comments URL: https://news.ycombinator.com/item?id=48130044 Points: 3 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 01:27:53 +0000"
+        },
+        {
+          "id": "bfb81021d7c1",
+          "title": "Trump's Disappearing China Hawks",
+          "link": "https://www.politico.com/news/2026/05/13/trump-disappearing-china-hawks-00919051",
+          "description": "Article URL: https://www.politico.com/news/2026/05/13/trump-disappearing-china-hawks-00919051 Comments URL: https://news.ycombinator.com/item?id=48129662 Points: 6 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 00:38:22 +0000"
+        },
+        {
+          "id": "88c3ee656b7c",
+          "title": "Open AI Floats Idea of Global AI Governance Body with US, China",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-13/openai-floats-idea-of-global-ai-governance-body-with-us-china",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-05-13/openai-floats-idea-of-global-ai-governance-body-with-us-china Comments URL: https://news.ycombinator.com/item?id=48128304 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 22:13:45 +0000"
+        },
+        {
+          "id": "455a5f93b1e8",
+          "title": "Why Jet Engines Aren't \"Made in China\"",
+          "link": "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china",
+          "description": "Article URL: https://aakash.substack.com/p/why-jet-engines-arent-made-in-china Comments URL: https://news.ycombinator.com/item?id=48126614 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 19:54:57 +0000"
+        },
+        {
+          "id": "3f54e7c7baff",
+          "title": "China's NEV penetration hits historic 61.4% in April as ICE sales collapse",
+          "link": "https://carnewschina.com/2026/05/13/chinas-nev-penetration-hits-historic-61-4-in-april-as-ice-sales-collapse/",
+          "description": "Article URL: https://carnewschina.com/2026/05/13/chinas-nev-penetration-hits-historic-61-4-in-april-as-ice-sales-collapse/ Comments URL: https://news.ycombinator.com/item?id=48126440 Points: 11 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 19:38:44 +0000"
+        },
+        {
+          "id": "6d03728d83e7",
+          "title": "China to Invest in DeepSeek at $50B Valuation",
+          "link": "https://www.wsj.com/tech/ai/china-to-invest-in-deepseek-at-50-billion-valuation-045041d0",
+          "description": "Article URL: https://www.wsj.com/tech/ai/china-to-invest-in-deepseek-at-50-billion-valuation-045041d0 Comments URL: https://news.ycombinator.com/item?id=48125918 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 18:54:59 +0000"
+        },
+        {
+          "id": "4dbfaef3493a",
+          "title": "Elon Musk and Jensen Huang Among CEOs Joining Trump on China Trip",
+          "link": "https://www.bbc.com/news/articles/c5yx757w048o",
+          "description": "Article URL: https://www.bbc.com/news/articles/c5yx757w048o Comments URL: https://news.ycombinator.com/item?id=48123019 Points: 4 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 15:13:48 +0000"
+        },
+        {
+          "id": "a49a2301722b",
+          "title": "China criticizes US chip equipment bill in run-up to Beijing talks",
+          "link": "https://www.reuters.com/legal/government/china-criticizes-us-chip-equipment-bill-run-up-beijing-talks-2026-05-13/",
+          "description": "Article URL: https://www.reuters.com/legal/government/china-criticizes-us-chip-equipment-bill-run-up-beijing-talks-2026-05-13/ Comments URL: https://news.ycombinator.com/item?id=48122158 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 14:11:44 +0000"
+        },
+        {
+          "id": "2352518788f3",
+          "title": "California mayor resigns, admitting to being an agent for China",
+          "link": "https://time.com/article/2026/05/12/arcadia-california-mayor-eileen-wang-agent-china/",
+          "description": "Article URL: https://time.com/article/2026/05/12/arcadia-california-mayor-eileen-wang-agent-china/ Comments URL: https://news.ycombinator.com/item?id=48121911 Points: 12 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 13:52:34 +0000"
+        },
+        {
+          "id": "bdf3beba698f",
+          "title": "California Mayor Resigns, Admitting to Being an Agent for China",
+          "link": "https://twitter.com/time/status/2054147083821801678",
+          "description": "Article URL: https://twitter.com/time/status/2054147083821801678 Comments URL: https://news.ycombinator.com/item?id=48121876 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 13:49:26 +0000"
+        },
+        {
+          "id": "c060e178ed34",
+          "title": "Linguistic workaround allows Marco Rubio to travel to China",
+          "link": "https://www.theguardian.com/us-news/2026/may/13/marco-rubio-china-visit-new-character-name-trump-summit",
+          "description": "Article URL: https://www.theguardian.com/us-news/2026/may/13/marco-rubio-china-visit-new-character-name-trump-summit Comments URL: https://news.ycombinator.com/item?id=48121754 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 13:38:06 +0000"
+        },
+        {
+          "id": "bc7f01402e53",
+          "title": "China is going dark to develop its own Mythos",
+          "link": "https://www.politico.eu/article/china-is-going-dark-to-develop-its-own-mythos-german-cyber-chief-fears/",
+          "description": "Article URL: https://www.politico.eu/article/china-is-going-dark-to-develop-its-own-mythos-german-cyber-chief-fears/ Comments URL: https://news.ycombinator.com/item?id=48119717 Points: 2 # Comments: 5",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 09:34:33 +0000"
+        },
+        {
+          "id": "a435321a6935",
+          "title": "China Edges Past U.S. in Global Approval Ratings",
+          "link": "https://news.gallup.com/poll/707945/china-edges-past-global-approval-ratings.aspx",
+          "description": "Article URL: https://news.gallup.com/poll/707945/china-edges-past-global-approval-ratings.aspx Comments URL: https://news.ycombinator.com/item?id=48119399 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 08:50:26 +0000"
+        },
+        {
+          "id": "c23a7c7169cd",
+          "title": "Xi Is Planning for China's Final Victory over the U.S.",
+          "link": "https://www.nytimes.com/2026/05/13/opinion/xi-trump-summit-china-us.html",
+          "description": "Article URL: https://www.nytimes.com/2026/05/13/opinion/xi-trump-summit-china-us.html Comments URL: https://news.ycombinator.com/item?id=48119332 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 08:41:59 +0000"
+        },
+        {
+          "id": "d6168d3e0bf6",
+          "title": "Trump Says Nvidia CEO Jensen Huang Is Flying with Him to China",
+          "link": "https://www.forbes.com/sites/siladityaray/2026/05/13/trump-says-nvidia-ceo-jensen-huang-is-flying-with-him-to-china-refuting-reports-of-his-exclusion/",
+          "description": "Article URL: https://www.forbes.com/sites/siladityaray/2026/05/13/trump-says-nvidia-ceo-jensen-huang-is-flying-with-him-to-china-refuting-reports-of-his-exclusion/ Comments URL: https://news.ycombinator.com/item?id=48118610 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 06:49:11 +0000"
+        },
+        {
+          "id": "83bcc8ffbdb1",
+          "title": "California Mayor Resigns, Admitting to Being an Agent for China",
+          "link": "https://time.com/article/2026/05/12/arcadia-california-mayor-eileen-wang-agent-china/",
+          "description": "Article URL: https://time.com/article/2026/05/12/arcadia-california-mayor-eileen-wang-agent-china/ Comments URL: https://news.ycombinator.com/item?id=48110441 Points: 21 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 12 May 2026 16:23:23 +0000"
+        },
+        {
+          "id": "a86e81599b27",
+          "title": "The gutting of USAID has left a void China will not fill",
+          "link": "https://www.economist.com/asia/2026/05/07/the-gutting-of-usaid-has-left-a-void-china-will-not-fill",
+          "description": "Article URL: https://www.economist.com/asia/2026/05/07/the-gutting-of-usaid-has-left-a-void-china-will-not-fill Comments URL: https://news.ycombinator.com/item?id=48108273 Points: 13 # Comments: 13",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 12 May 2026 13:49:23 +0000"
+        },
+        {
+          "id": "528021c403a5",
+          "title": "China knows that governing new tech can be harder than inventing it",
+          "link": "https://www.economist.com/china/2026/05/11/china-knows-that-governing-new-tech-can-be-harder-than-inventing-it",
+          "description": "Article URL: https://www.economist.com/china/2026/05/11/china-knows-that-governing-new-tech-can-be-harder-than-inventing-it Comments URL: https://news.ycombinator.com/item?id=48107830 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 12 May 2026 13:15:32 +0000"
+        },
+        {
+          "id": "107e0f1528d0",
+          "title": "China knows that governing new tech can be harder than inventing it",
+          "link": "https://economist.com/china/2026/05/11/china-knows-that-governing-new-tech-can-be-harder-than-inventing-itfromTheEconomist",
+          "description": "Article URL: https://economist.com/china/2026/05/11/china-knows-that-governing-new-tech-can-be-harder-than-inventing-itfromTheEconomist Comments URL: https://news.ycombinator.com/item?id=48107816 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 12 May 2026 13:14:31 +0000"
+        },
+        {
+          "id": "a0b9b686824e",
+          "title": "Unitree GD01: China's $537k rideable transformer robot is now in production",
+          "link": "https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/",
+          "description": "Article URL: https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/ Comments URL: https://news.ycombinator.com/item?id=48106114 Points: 103 # Comments: 80",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 12 May 2026 09:49:26 +0000"
+        },
+        {
+          "id": "1f18f083847a",
+          "title": "The Software Layer of China-US Tech Diplomacy",
+          "link": "https://thediplomat.com/2026/05/the-software-layer-of-china-us-tech-diplomacy/",
+          "description": "Article URL: https://thediplomat.com/2026/05/the-software-layer-of-china-us-tech-diplomacy/ Comments URL: https://news.ycombinator.com/item?id=48104494 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 12 May 2026 05:22:00 +0000"
+        },
+        {
+          "id": "0b24bf5533c7",
+          "title": "Notes from inside China's AI labs",
+          "link": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+          "description": "Article URL: https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs Comments URL: https://news.ycombinator.com/item?id=48103434 Points: 2 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 12 May 2026 02:19:23 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 东京审判揭露靖国神社歪曲历史叙事，强调国际社会对日本军国主义罪行的正义审判。\n2. 靖国神社的负面历史叙事被进一步批驳，凸显历史真相不容篡改。\n3. 国际舆论关注日本对侵略历史的错误态度，呼吁正视历史。\n\n今日最值得关注的发展：东京审判相关报道有力驳斥了靖国神社对历史的颠倒，重申了二战战后国际秩序的历史正义性。",
-      "count": 1
+      "summary": "今日新闻联播动态摘要\n\n1. **中美关系与科技竞争**：美国批准向10家中国公司出售H200芯片，英伟达CEO寻求突破；同时，美国提出“六号交易团队”计划以挑战中国在稀土领域的主导地位，并推动中美对话以防止非国家行为体获取AI模型。\n\n2. **国际政治与外交动态**：美国国务卿马尔科·鲁比奥虽被禁止入境中国，但出现在北京引发关注；特朗普团队中的对华鹰派人物减少，而多位CEO（包括马斯克和英伟达CEO）随特朗普访华，显示经贸关系微妙变化。\n\n3. **中国科技与产业进展**：中国新能源汽车渗透率在4月达到历史性的61.4%，传统燃油车销量大幅下滑；中国计划以500亿美元估值投资DeepSeek，并开始规范数字人技术发展。\n\n4. **地缘政治与安全议题**：伊朗战争对中国经济和地缘政治的影响被关注；东京审判揭露靖国神社的扭曲历史叙事；中美在月球探索竞赛中展开较量。\n\n5. **全球治理与AI监管**：OpenAI提出建立包括中美在内的全球AI治理机构；中美就确保非国家行为体不获取先进AI模型进行谈判。\n\n**今日最值得关注的发展**：中美在科技与稀土领域的竞争加剧，同时双方高层对话与商业合作仍在推进，显示出复杂博弈中的务实一面。",
+      "count": 30
     }
   }
 }
