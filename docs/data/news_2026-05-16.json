@@ -1,9 +1,63 @@
 {
   "date": "2026-05-16",
-  "generated_at": "2026-05-16T14:58:04.321945",
+  "generated_at": "2026-05-16T22:53:50.501013",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "07ccc4281d47",
+          "title": "The haves and have nots of the AI gold rush",
+          "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+          "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 16 May 2026 20:17:16 +0000"
+        },
+        {
+          "id": "3f55744cb07a",
+          "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+          "link": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+          "description": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 16 May 2026 19:26:14 +0000"
+        },
+        {
+          "id": "c3f022db5593",
+          "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+          "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+          "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 16 May 2026 18:54:28 +0000"
+        },
+        {
+          "id": "d7f39cf68d69",
+          "title": "The offline desk gadget that actually got me to sit up straight",
+          "link": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
+          "description": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 16 May 2026 16:00:00 +0000"
+        },
+        {
+          "id": "6e1dc07ad21c",
+          "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+          "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+          "description": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 16 May 2026 15:33:33 +0000"
+        },
+        {
+          "id": "71ca39287a28",
+          "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
+          "link": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
+          "description": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 16 May 2026 15:00:00 +0000"
+        },
         {
           "id": "53b13a8fe46c",
           "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
@@ -129,60 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 15 May 2026 11:24:12 +0000"
-        },
-        {
-          "id": "d4d3b91799a2",
-          "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-          "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-          "description": "Here's what the biggest tech court case of the year is all about.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 14 May 2026 22:47:51 +0000"
-        },
-        {
-          "id": "a89bd5fe2731",
-          "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-          "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-          "description": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 14 May 2026 21:30:44 +0000"
-        },
-        {
-          "id": "788df6572ff4",
-          "title": "OpenAI says Codex is coming to your phone",
-          "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-          "description": "The update gives users enhanced flexibility over how they can manage their workflows.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 14 May 2026 20:58:55 +0000"
-        },
-        {
-          "id": "ca0f1ea6364c",
-          "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
-          "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
-          "description": "Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 14 May 2026 20:43:03 +0000"
-        },
-        {
-          "id": "52f83aa36500",
-          "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
-          "link": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
-          "description": "Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet 10 years ago before agreeing to hear Cerebras' pitch.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 14 May 2026 20:23:03 +0000"
-        },
-        {
-          "id": "dfe09b41f2b4",
-          "title": "What happens when AI starts building itself?",
-          "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-          "description": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 14 May 2026 19:57:20 +0000"
         },
         {
           "id": "ba32411f3433",
@@ -365,7 +365,7 @@
           "pub_date": "Fri, 15 May 2026 11:00:44 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI与能源矛盾加剧**：美国最大电网电价飙升76%，硅谷“度假区”因AI需求激增面临能源供应压力；特斯拉披露两起Robotaxi远程操控事故，暴露自动驾驶技术瓶颈。\n2. **企业战略转向**：GoPro宣布转型国防领域，Runway从影视制作转向挑战谷歌AI，OpenAI推出绑定银行账户的个人财务ChatGPT功能。\n3. **数据安全与隐私风险**：酒店入住系统泄露百万护照及驾照信息；美国要求空军一号访华人员销毁礼物、手机及一次性设备，凸显数据管控升级。\n4. **资本与融资动态**：RJ Scaringe旗下三家公司累计融资超120亿美元仍受追捧，印度Uber对手Rapido以30亿美元估值融资2.4亿，Meridian Ventures设立3500万美元基金专注MBA创业者。\n5. **科技法律与行业争议**：马斯克诉奥特曼案即将开庭，陪审团将裁定关键争议；General Catalyst发布“风投钓鱼帖”成功激怒a16z等同行。\n\n**今日最值得关注**：AI驱动能源需求与电网压力形成系统性矛盾，叠加自动驾驶事故、企业国防化转型，科技行业正从“增长至上”转向“安全与可持续性”优先的新阶段。",
+      "summary": "今日科技动态摘要\n\n1. **AI行业两极分化加剧**：AI淘金热中，赢家与输家差距显著，如AI芯片公司Cerebras曾月烧800万美元险些倒闭，而OpenAI联合创始人Greg Brockman转任产品战略负责人，同时OpenAI推出可连接银行账户的个人理财ChatGPT功能。\n\n2. **学术与出版规范更新**：论文预印本平台ArXiv宣布，若作者完全依赖AI生成内容，将被禁发一年；同时，亚马逊停止对旧款Kindle的支持，用户转而通过越狱方式继续使用设备。\n\n3. **初创与融资动态**：营销操作系统Nectar Social获3000万美元A轮融资，由Menlo领投；企业家RJ Scaringe通过三家初创公司累计融资超120亿美元，仍受投资者追捧。\n\n4. **基础设施与能源挑战**：硅谷度假区在AI需求推高电价之际急需新能源供应商，美国最大电网电价上涨76%，监管机构对此提出质疑；特斯拉披露两起涉及远程操作员的Robotaxi事故。\n\n5. **数据安全与政策事件**：某酒店入住系统泄露超百万份护照及驾照信息；美国要求乘坐空军一号的旅客在从中国返程后丢弃礼品、徽章及一次性手机，引发关注。\n\n**今日最值得关注的发展**：AI技术加速渗透金融与学术领域，但伴随数据泄露、能源危机及行业分化等严峻挑战，科技巨头与初创企业正面临更复杂的监管与生存压力。",
       "count": 40
     },
     "ai": {
@@ -641,7 +641,7 @@
           "pub_date": "Fri, 15 May 2026 10:14:54 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **开源多语言嵌入模型发布**：IBM发布Granite Embedding Multilingual R2，支持32K上下文窗口，采用Apache 2.0开源协议，在子1亿参数规模模型中实现最佳检索质量。\n2. **AI基础设施与部署进展**：AWS推出基础模型训练与推理构建模块；Hugging Face探索连续批处理中的异步机制，提升推理效率。\n3. **OpenAI产品生态扩展**：OpenAI与马耳他合作向全体公民提供ChatGPT Plus；ChatGPT新增个人理财功能；推出Codex在销售、数据科学、业务运营等场景的实践案例，并加强敏感对话上下文识别与Windows沙箱安全。\n4. **企业级AI代理与安全事件**：Databricks将GPT-5.5引入企业代理工作流；OpenAI回应TanStack npm供应链攻击，强调供应链安全。\n\n**今日最值得关注的发展**：开源多语言嵌入模型Granite Embedding Multilingual R2的发布，以Apache 2.0协议和32K上下文窗口，显著降低了高质量多语言检索的门槛。",
+      "summary": "今日AI动态摘要\n\n1. **开源多语言嵌入模型发布**：IBM发布Granite Embedding Multilingual R2，支持32K上下文长度，在Apache 2.0许可下开源，宣称在参数量低于1亿的模型中检索质量最佳。\n2. **AI基础设施与部署优化**：Hugging Face探讨连续批处理中的异步技术，AWS发布基础模型训练与推理的构建模块，推动AI系统效率提升。\n3. **OpenAI产品生态扩展**：OpenAI与马耳他合作向全体公民提供ChatGPT Plus；推出ChatGPT个人财务管理功能；并发布多篇关于Codex在销售、数据科学、业务运营等团队中的应用案例，以及敏感对话上下文识别改进和Windows沙箱安全方案。\n4. **企业级AI代理工作流**：Databricks将GPT-5.5引入企业代理工作流，Sea公司展望基于Codex的代理软件开发未来。\n5. **安全与供应链事件**：OpenAI回应TanStack npm供应链攻击事件，强调软件供应链安全。\n\n**今日最值得关注的发展**：IBM推出开源多语言嵌入模型Granite，在极小参数量下实现顶尖检索质量，有望推动低成本、高精度的多语言AI应用普及。",
       "count": 30
     },
     "cctv": {
@@ -654,10 +654,271 @@
           "source": "Global Times",
           "category": "cctv",
           "pub_date": "Fri, 08 May 2026 00:00:00 GMT"
+        },
+        {
+          "id": "9017af06c4df",
+          "title": "The mysterious disappearance of growth in US manufacturing: Was it China shock?",
+          "link": "https://www.aeaweb.org/articles?id=10.1257/pandp.20261041",
+          "description": "Article URL: https://www.aeaweb.org/articles?id=10.1257/pandp.20261041 Comments URL: https://news.ycombinator.com/item?id=48164464 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 16 May 2026 22:51:22 +0000"
+        },
+        {
+          "id": "466eaf0f0b23",
+          "title": "Dutch government objects to proposed US law restricting ASML's China exports",
+          "link": "https://www.reuters.com/world/asia-pacific/dutch-government-objects-proposed-us-law-restricting-asmls-china-exports-2026-05-14/",
+          "description": "Article URL: https://www.reuters.com/world/asia-pacific/dutch-government-objects-proposed-us-law-restricting-asmls-china-exports-2026-05-14/ Comments URL: https://news.ycombinator.com/item?id=48163998 Points: 10 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 16 May 2026 21:31:31 +0000"
+        },
+        {
+          "id": "f40e75fefe7b",
+          "title": "China wants more robots but not fewer workers",
+          "link": "https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers",
+          "description": "Article URL: https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers Comments URL: https://news.ycombinator.com/item?id=48162744 Points: 1 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 16 May 2026 18:55:53 +0000"
+        },
+        {
+          "id": "eaafcef7459d",
+          "title": "Is America in decline and China rising? Not for long",
+          "link": "https://www.nytimes.com/2026/05/16/opinion/america-china-xi-peak.html",
+          "description": "Article URL: https://www.nytimes.com/2026/05/16/opinion/america-china-xi-peak.html Comments URL: https://news.ycombinator.com/item?id=48161361 Points: 7 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 16 May 2026 16:03:50 +0000"
+        },
+        {
+          "id": "f2374e14c1f3",
+          "title": "US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough",
+          "link": "https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/",
+          "description": "Article URL: https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/ Comments URL: https://news.ycombinator.com/item?id=48161173 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 16 May 2026 15:43:33 +0000"
+        },
+        {
+          "id": "e76c77a4e9e0",
+          "title": "A message from kurdistan – my love for China and DeepSeek",
+          "link": "https://old.reddit.com/r/DeepSeek/comments/1tadbm6/a_message_from_kurdistan_my_love_for_china_and/",
+          "description": "Article URL: https://old.reddit.com/r/DeepSeek/comments/1tadbm6/a_message_from_kurdistan_my_love_for_china_and/ Comments URL: https://news.ycombinator.com/item?id=48157820 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 16 May 2026 07:47:48 +0000"
+        },
+        {
+          "id": "e0d0c36d6223",
+          "title": "Is China using fentanyl as a weapon against the United States?",
+          "link": "https://en.unav.edu/web/global-affairs/esta-china-usando-el-fentanilo-como-arma-contra-estados-unidos",
+          "description": "Article URL: https://en.unav.edu/web/global-affairs/esta-china-usando-el-fentanilo-como-arma-contra-estados-unidos Comments URL: https://news.ycombinator.com/item?id=48155729 Points: 19 # Comments: 15",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 16 May 2026 00:44:33 +0000"
+        },
+        {
+          "id": "ea12b71edff5",
+          "title": "China's unfinished buildings have created stranded assets with substantial costs",
+          "link": "https://www.cell.com/one-earth/fulltext/S2590-3322(26)00050-3",
+          "description": "Article URL: https://www.cell.com/one-earth/fulltext/S2590-3322(26)00050-3 Comments URL: https://news.ycombinator.com/item?id=48155728 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 16 May 2026 00:44:28 +0000"
+        },
+        {
+          "id": "572bf9db1dba",
+          "title": "China Sought Access to Anthropic's Newest A.I. The Answer Was No.",
+          "link": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
+          "description": "Article URL: https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html Comments URL: https://news.ycombinator.com/item?id=48153953 Points: 4 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 15 May 2026 21:14:23 +0000"
+        },
+        {
+          "id": "ffca5e1bbc58",
+          "title": "Taiwan's chips power the global economy. China holds the leverage",
+          "link": "https://restofworld.org/2026/china-taiwan-tsmc-semiconductor-economic-risk/",
+          "description": "Article URL: https://restofworld.org/2026/china-taiwan-tsmc-semiconductor-economic-risk/ Comments URL: https://news.ycombinator.com/item?id=48152506 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 15 May 2026 19:02:39 +0000"
+        },
+        {
+          "id": "3dfb85172a9b",
+          "title": "Travelers on Air Force One ordered to throw away gifts, phones after China trip",
+          "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
+          "description": "Article URL: https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/ Comments URL: https://news.ycombinator.com/item?id=48151863 Points: 24 # Comments: 32",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 15 May 2026 18:11:03 +0000"
+        },
+        {
+          "id": "66c24460c3ce",
+          "title": "Trump leaves China with no agreement but cites 'good' talks with Xi",
+          "link": "https://www.nbcnews.com/politics/donald-trump/trump-leaves-china-no-agreement-thorny-issues-cites-good-talks-xi-rcna344054",
+          "description": "Article URL: https://www.nbcnews.com/politics/donald-trump/trump-leaves-china-no-agreement-thorny-issues-cites-good-talks-xi-rcna344054 Comments URL: https://news.ycombinator.com/item?id=48151844 Points: 5 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 15 May 2026 18:08:50 +0000"
+        },
+        {
+          "id": "8b5a90088ab8",
+          "title": "The Download: China's AI drama factory and the WHO's missing health targets",
+          "link": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+          "description": "Article URL: https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/ Comments URL: https://news.ycombinator.com/item?id=48151043 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 15 May 2026 17:02:00 +0000"
+        },
+        {
+          "id": "514dd1cdc8ef",
+          "title": "How banned AI chips end up in China",
+          "link": "https://www.the-substrate.net/p/how-banned-ai-chips-end-up-in-china",
+          "description": "Article URL: https://www.the-substrate.net/p/how-banned-ai-chips-end-up-in-china Comments URL: https://news.ycombinator.com/item?id=48150524 Points: 4 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 15 May 2026 16:22:57 +0000"
+        },
+        {
+          "id": "f518f15dfaef",
+          "title": "Anthropic urges Uncle Sam to kneecap China's AI ambitions before 2028",
+          "link": "https://www.theregister.com/ai-ml/2026/05/15/anthropic-urges-uncle-sam-to-kneecap-chinas-ai-ambitions-before-2028/5241201",
+          "description": "Article URL: https://www.theregister.com/ai-ml/2026/05/15/anthropic-urges-uncle-sam-to-kneecap-chinas-ai-ambitions-before-2028/5241201 Comments URL: https://news.ycombinator.com/item?id=48149540 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 15 May 2026 14:59:17 +0000"
+        },
+        {
+          "id": "d7a11cd3c83f",
+          "title": "Coal is rising in China's clean energy transition",
+          "link": "https://thediplomat.com/2026/04/coal-is-rising-in-chinas-clean-energy-transition/",
+          "description": "Article URL: https://thediplomat.com/2026/04/coal-is-rising-in-chinas-clean-energy-transition/ Comments URL: https://news.ycombinator.com/item?id=48147140 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 15 May 2026 11:09:23 +0000"
+        },
+        {
+          "id": "0d652c9ac2f1",
+          "title": "Musk's China trip during OpenAI trial prompts apology from his lawyer",
+          "link": "https://www.cnbc.com/2026/05/14/musk-lawyer-trial-jury-china-trip-openai-altman.html",
+          "description": "Article URL: https://www.cnbc.com/2026/05/14/musk-lawyer-trial-jury-china-trip-openai-altman.html Comments URL: https://news.ycombinator.com/item?id=48144249 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 15 May 2026 03:32:48 +0000"
+        },
+        {
+          "id": "b8ba52beca65",
+          "title": "The Efficiency Moat: Why China Is Beating the U.S. on AI and Everything Else",
+          "link": "https://www.thebignewsletter.com/p/the-efficiency-moat-why-china-is",
+          "description": "Article URL: https://www.thebignewsletter.com/p/the-efficiency-moat-why-china-is Comments URL: https://news.ycombinator.com/item?id=48143761 Points: 8 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 15 May 2026 02:17:00 +0000"
+        },
+        {
+          "id": "df160662439a",
+          "title": "Pentagon's 'Deal Team Six' Aims to Challenge China's Grip on Rare Earth Power",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-14/pentagon-aims-to-break-china-rare-earths-grip-with-critical-minerals-plan",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-05-14/pentagon-aims-to-break-china-rare-earths-grip-with-critical-minerals-plan Comments URL: https://news.ycombinator.com/item?id=48141579 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 21:34:36 +0000"
+        },
+        {
+          "id": "7ee9c880ba2b",
+          "title": "The tortoise and the hare: will China beat the US in the race back to the moon?",
+          "link": "https://www.theguardian.com/science/2026/apr/26/china-us-space-race-moon",
+          "description": "Article URL: https://www.theguardian.com/science/2026/apr/26/china-us-space-race-moon Comments URL: https://news.ycombinator.com/item?id=48139145 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 18:19:14 +0000"
+        },
+        {
+          "id": "eab0ca6fe6fe",
+          "title": "US/China relationship, effect of Iran war on China economy and geopolitics",
+          "link": "https://www.tabletmag.com/sections/news/articles/strange-trip-trump-china-iran",
+          "description": "Article URL: https://www.tabletmag.com/sections/news/articles/strange-trip-trump-china-iran Comments URL: https://news.ycombinator.com/item?id=48136651 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 15:14:37 +0000"
+        },
+        {
+          "id": "060264055d7d",
+          "title": "China's Grey Market for Cheap Claude Tokens",
+          "link": "https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in",
+          "description": "Article URL: https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in Comments URL: https://news.ycombinator.com/item?id=48135938 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 14:28:16 +0000"
+        },
+        {
+          "id": "410247682088",
+          "title": "US/China talks to make sure non-state actors don't get a hold of these AI models",
+          "link": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+          "description": "Article URL: https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html Comments URL: https://news.ycombinator.com/item?id=48133572 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 10:46:39 +0000"
+        },
+        {
+          "id": "14a749147271",
+          "title": "Officially, Marco Rubio is still banned from China. So how is he in Beijing?",
+          "link": "https://www.washingtonpost.com/world/2026/05/14/officially-marco-rubio-is-still-banned-china-so-how-is-he-beijing/",
+          "description": "Article URL: https://www.washingtonpost.com/world/2026/05/14/officially-marco-rubio-is-still-banned-china-so-how-is-he-beijing/ Comments URL: https://news.ycombinator.com/item?id=48133425 Points: 8 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 10:26:05 +0000"
+        },
+        {
+          "id": "bf69809897db",
+          "title": "China moves to regulate digital humans - Reuters",
+          "link": "https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/",
+          "description": "Article URL: https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/ Comments URL: https://news.ycombinator.com/item?id=48130044 Points: 3 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 01:27:53 +0000"
+        },
+        {
+          "id": "bfb81021d7c1",
+          "title": "Trump's Disappearing China Hawks",
+          "link": "https://www.politico.com/news/2026/05/13/trump-disappearing-china-hawks-00919051",
+          "description": "Article URL: https://www.politico.com/news/2026/05/13/trump-disappearing-china-hawks-00919051 Comments URL: https://news.ycombinator.com/item?id=48129662 Points: 7 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 14 May 2026 00:38:22 +0000"
+        },
+        {
+          "id": "88c3ee656b7c",
+          "title": "Open AI Floats Idea of Global AI Governance Body with US, China",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-13/openai-floats-idea-of-global-ai-governance-body-with-us-china",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-05-13/openai-floats-idea-of-global-ai-governance-body-with-us-china Comments URL: https://news.ycombinator.com/item?id=48128304 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 22:13:45 +0000"
+        },
+        {
+          "id": "455a5f93b1e8",
+          "title": "Why Jet Engines Aren't \"Made in China\"",
+          "link": "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china",
+          "description": "Article URL: https://aakash.substack.com/p/why-jet-engines-arent-made-in-china Comments URL: https://news.ycombinator.com/item?id=48126614 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 19:54:57 +0000"
+        },
+        {
+          "id": "3f54e7c7baff",
+          "title": "China's NEV penetration hits historic 61.4% in April as ICE sales collapse",
+          "link": "https://carnewschina.com/2026/05/13/chinas-nev-penetration-hits-historic-61-4-in-april-as-ice-sales-collapse/",
+          "description": "Article URL: https://carnewschina.com/2026/05/13/chinas-nev-penetration-hits-historic-61-4-in-april-as-ice-sales-collapse/ Comments URL: https://news.ycombinator.com/item?id=48126440 Points: 11 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 13 May 2026 19:38:44 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 东京审判揭露靖国神社歪曲历史叙事：国际媒体强调东京审判的历史正义性，批判靖国神社对侵略历史的错误解读。\n2. 历史真相不容篡改：通过东京审判的史实，驳斥日本右翼势力对二战罪行的美化与否认。\n3. 国际社会应警惕历史修正主义：呼吁各国正视历史，防止类似靖国神社的“颠倒叙事”误导公众认知。\n\n今日最值得关注的发展：东京审判作为国际正义的象征，持续为揭露日本右翼势力歪曲历史的行为提供有力证据。",
-      "count": 1
+      "summary": "今日新闻联播动态摘要\n\n1. **历史与叙事争议**：东京审判揭露靖国神社歪曲历史，驳斥其错误叙事。  \n2. **中美科技与贸易摩擦**：荷兰政府反对美国限制ASML对华出口的法律；美国批准向10家中国公司出售H200芯片，英伟达CEO寻求突破；中国试图获取Anthropic最新AI技术遭拒，但存在违规芯片流入中国的现象。  \n3. **中国经济与产业动态**：中国推动机器人产业但保障就业；未完工建筑导致大量“搁浅资产”；台湾芯片产业依赖中国大陆杠杆。  \n4. **中美外交与安全议题**：特朗普访华未达成协议但称会谈“良好”；美国空军一号人员访华后被迫丢弃礼品和手机；中方驳斥“芬太尼武器化”指控。  \n5. **国际视角与观察**：美国制造业增长“神秘消失”被质疑与中国冲击有关；美国衰落与中国崛起是否长期化引发讨论；库尔德地区人士表达对华友好及对DeepSeek的喜爱。  \n\n**今日最值得关注的发展**：中美科技博弈持续升级，美国一面限制高端芯片对华出口，一面批准部分销售，反映出其政策矛盾与对华技术依赖的复杂局面。",
+      "count": 30
     }
   }
 }
