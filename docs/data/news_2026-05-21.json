@@ -1,12 +1,93 @@
 {
   "date": "2026-05-21",
-  "generated_at": "2026-05-21T16:39:11.987839",
+  "generated_at": "2026-05-21T23:07:30.222286",
   "categories": {
     "tech": {
       "articles": [
         {
-          "id": "d2f9dec3b49b",
-          "title": "This young startup is taking on a fragrance industry that hasn’t changed in a almost half century",
+          "id": "9316b2fb3bd2",
+          "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+          "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+          "description": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 21 May 2026 21:39:03 +0000"
+        },
+        {
+          "id": "3b8cf4c493bd",
+          "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
+          "link": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
+          "description": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 21 May 2026 21:13:23 +0000"
+        },
+        {
+          "id": "4b815873dc62",
+          "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
+          "link": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
+          "description": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 21 May 2026 21:00:42 +0000"
+        },
+        {
+          "id": "42c9fa540346",
+          "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+          "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+          "description": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 21 May 2026 19:45:00 +0000"
+        },
+        {
+          "id": "1e9efe70f7cd",
+          "title": "Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX",
+          "link": "https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/",
+          "description": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 21 May 2026 19:35:21 +0000"
+        },
+        {
+          "id": "5d304db1d625",
+          "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
+          "link": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
+          "description": "First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service’s users that they have now been identified.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 21 May 2026 19:33:39 +0000"
+        },
+        {
+          "id": "44ddff98f58d",
+          "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+          "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+          "description": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 21 May 2026 19:19:05 +0000"
+        },
+        {
+          "id": "bd17abeb4265",
+          "title": "Convective Capital raises an $85 million fund to build disaster resilience",
+          "link": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+          "description": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 21 May 2026 17:41:20 +0000"
+        },
+        {
+          "id": "4dc7e21053fa",
+          "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+          "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+          "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 21 May 2026 17:30:45 +0000"
+        },
+        {
+          "id": "b101caf1ecdc",
+          "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
           "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
           "description": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
           "source": "TechCrunch",
@@ -17,7 +98,7 @@
           "id": "dd39931fc74b",
           "title": "Spotify takes on Google’s NotebookLM with its new app",
           "link": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-          "description": "Spotify is releasing the new desktop app as a research preview in more than 20 markets",
+          "description": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 21 May 2026 15:27:00 +0000"
@@ -50,15 +131,6 @@
           "pub_date": "Thu, 21 May 2026 15:26:00 +0000"
         },
         {
-          "id": "4b815873dc62",
-          "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
-          "link": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
-          "description": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 21 May 2026 15:02:57 +0000"
-        },
-        {
           "id": "2960fa560e54",
           "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
           "link": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
@@ -77,10 +149,10 @@
           "pub_date": "Thu, 21 May 2026 14:00:00 +0000"
         },
         {
-          "id": "1c24680f2c2b",
-          "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
+          "id": "0a616f31617a",
+          "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
           "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-          "description": "Brett Adcock's new AI startup is now valued at $6 billion by its investors.",
+          "description": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 21 May 2026 14:00:00 +0000"
@@ -98,7 +170,7 @@
           "id": "a4c3aa245631",
           "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
           "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-          "description": "The AI agents are coming. A lot of them.",
+          "description": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 21 May 2026 13:52:23 +0000"
@@ -113,76 +185,67 @@
           "pub_date": "Thu, 21 May 2026 13:46:07 +0000"
         },
         {
-          "id": "eee9a3626733",
-          "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-          "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-          "description": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
-          "source": "TechCrunch",
+          "id": "e346bf7f2c3b",
+          "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
+          "link": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
+          "description": "\"The move to AcuRite NOW has not been as smooth as some customers expected ...\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 13:38:42 +0000"
+          "pub_date": "Thu, 21 May 2026 22:26:34 +0000"
         },
         {
-          "id": "91e2ac025f86",
-          "title": "Flipper unveils a Linux-powered networking gadget built for hackers and tinkerers",
-          "link": "https://techcrunch.com/2026/05/21/flipper-unveils-a-linux-powered-networking-gadget-built-for-hackers-and-tinkerers/",
-          "description": "Flipper Devices said that the new gadget is in development and the base model will cost under $350",
-          "source": "TechCrunch",
+          "id": "1bd0bf2bb726",
+          "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+          "link": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+          "description": "SpaceX IPO filing pitches orbital data centers as Grok lags rival AI services.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 13:25:37 +0000"
+          "pub_date": "Thu, 21 May 2026 21:51:26 +0000"
         },
         {
-          "id": "76a720419397",
-          "title": "Scammers are abusing an internal Microsoft account to send spam links",
-          "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-          "description": "The loophole allows spammers and scammers to send emails from a legitimate Microsoft email address typically used for sending genuine account alerts.",
-          "source": "TechCrunch",
+          "id": "61d93397dcdd",
+          "title": "AT&T sues California in attempt to shut off old phone network",
+          "link": "https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/",
+          "description": "AT&#038;T asks a court and the FCC to block California phone requirements.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 11:42:57 +0000"
+          "pub_date": "Thu, 21 May 2026 21:10:01 +0000"
         },
         {
-          "id": "a1c59baa9773",
-          "title": "Beauty booking startup Fresha hits $1B valuation with KKR backing",
-          "link": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
-          "description": "Beauty and wellness booking marketplace Fresha says it has raised $80 million investment from KKR’s Next Generation Technology Growth fund, KKR's growth equity arm.",
-          "source": "TechCrunch",
+          "id": "62d09947cdf6",
+          "title": "JWST maps the weather on a hot gas giant 700 light-years away",
+          "link": "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/",
+          "description": "The differences seen here could be throwing off how we study planetary atmospheres.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 11:00:00 +0000"
+          "pub_date": "Thu, 21 May 2026 19:26:03 +0000"
         },
         {
-          "id": "9e69761feb75",
-          "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
-          "link": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
-          "description": "The company said its plans will range from 1 GB over 7 days to 20 GB over 30 days. Initially, the launch will make the eSIM product available in 29 countries.",
-          "source": "TechCrunch",
+          "id": "0840e243d96e",
+          "title": "Zillow loses thousands of listings in fight over “hidden” homes",
+          "link": "https://arstechnica.com/tech-policy/2026/05/zillow-loses-access-to-thousands-of-home-listings-amid-bitter-legal-feud/",
+          "description": "Zillow asked for a preliminary injunction as real estate industry fight heats up.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 06:00:00 +0000"
+          "pub_date": "Thu, 21 May 2026 18:35:38 +0000"
         },
         {
-          "id": "69f00caf05be",
-          "title": "General Catalyst just led a $63M bet on India’s travel payments market",
-          "link": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
-          "description": "Scapia, an Indian startup that combines travel booking with co-branded credit cards and mobile payments, said the deal doubles its valuation.",
-          "source": "TechCrunch",
+          "id": "c078fbbed6ee",
+          "title": "Stunning aerial footage still best thing about Top Gun at 40",
+          "link": "https://arstechnica.com/culture/2026/05/top-gun-turns-40/",
+          "description": "Tony Scott's 1986 blockbuster and the 2022 sequel are the best recruitment tools the US Navy could hope for.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 05:52:38 +0000"
+          "pub_date": "Thu, 21 May 2026 16:42:43 +0000"
         },
         {
-          "id": "88491aa1d9c6",
-          "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
-          "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
-          "description": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.",
-          "source": "TechCrunch",
+          "id": "e4d722a3cf00",
+          "title": "Uh-oh, the International Space Station is leaking again",
+          "link": "https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/",
+          "description": "\"This further confirms the wisdom of the current policy of retiring the ISS in 2030.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 04:00:00 +0000"
-        },
-        {
-          "id": "fd55ecea1a5c",
-          "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-          "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-          "description": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 21 May 2026 00:28:31 +0000"
+          "pub_date": "Thu, 21 May 2026 16:07:17 +0000"
         },
         {
           "id": "5186decfa829",
@@ -300,72 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 20 May 2026 18:38:05 +0000"
-        },
-        {
-          "id": "efe8ee90efe6",
-          "title": "Minnesota prohibits prediction markets, promptly gets sued by Trump admin",
-          "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-prohibits-prediction-markets-promptly-gets-sued-by-trump-admin/",
-          "description": "State law makes it a felony to create, operate, or advertise prediction markets.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 20 May 2026 18:20:56 +0000"
-        },
-        {
-          "id": "d04b0301c446",
-          "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-          "link": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-          "description": "Google's AI search evolution is accelerating at I/O 2026.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 20 May 2026 17:31:04 +0000"
-        },
-        {
-          "id": "8c3ec8407263",
-          "title": "Man jailed for posting Trump meme wins $835,000 settlement",
-          "link": "https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/",
-          "description": "Sheriff loses fight with man he jailed for 37 days for posting a Trump meme on Facebook.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 20 May 2026 14:50:40 +0000"
-        },
-        {
-          "id": "766af0e67d6e",
-          "title": "Russia's plan to advertise on rockets and spacecraft takes off",
-          "link": "https://arstechnica.com/space/2026/05/russias-plan-to-advertise-on-rockets-and-spacecraft-takes-off/",
-          "description": "We now pause for a word from our sponsors.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 20 May 2026 14:28:57 +0000"
-        },
-        {
-          "id": "19f718892ba9",
-          "title": "Yearslong fight over users' right to tweak smart TV software heads to trial",
-          "link": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/",
-          "description": "Access to TV OS's source code could allow users to limit ads, tracking.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 20 May 2026 13:32:49 +0000"
-        },
-        {
-          "id": "5570950b1c97",
-          "title": "China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting",
-          "link": "https://arstechnica.com/tech-policy/2026/05/china-banned-rtx-5090d-v2-while-nvidia-ceo-jensen-huang-was-visiting/",
-          "description": "The chip was added to a list of banned goods at China’s customs checkpoints last Friday.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 20 May 2026 13:10:15 +0000"
-        },
-        {
-          "id": "41f72d56e3fb",
-          "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
-          "link": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-          "description": "Figure AI's 24/7 livestream showcases human soft spot for humanoid robots.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 20 May 2026 11:00:34 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **Spotify密集推出多项AI功能**：包括类似Google NotebookLM的新应用、AI驱动的播客问答与简报生成、基于ElevenLabs的有声书创作工具，以及为顶级粉丝预留演唱会门票以提升用户参与度。\n2. **AI创业与投资活跃**：初创公司Hark获7亿美元A轮融资，打造神秘的“通用”AI界面；由Tony Robbins和Calm前员工创立的The Path致力于提供更安全的AI心理治疗；AI被用于铝回收行业以应对价格上涨。\n3. **自动驾驶领域新进展**：Waymo因亚特兰大暴雨导致机器人出租车涉水而暂停服务；Wayve的自动驾驶技术将搭载于Stellantis在美国生产的汽车。\n4. **科技巨头与平台动态**：谷歌向消费者推销AI代理生态系统但面临接受度挑战；微软内部账户被骗子滥用发送垃圾链接；纽约市长通过Twitch与市民互动。\n5. **新兴应用与设备**：Maka Kids推出以儿童健康为导向的流媒体应用，而非以用户粘性为目标；Flipper发布专为黑客和极客设计的Linux网络工具。\n\n今日最值得关注的发展是**Spotify正通过AI工具全面重塑音频内容创作与分发生态**，同时**Hark的巨额融资和Wayve的自动驾驶落地**也显示出AI与出行领域的持续突破。",
+      "summary": "今日科技动态摘要\n\n1. **SpaceX IPO受益者分析**：报道指出，SpaceX若进行IPO，最大受益者将是埃隆·马斯克及其核心圈内少数人，而非普通投资者。\n2. **Waymo自动驾驶遇阻**：Waymo因自动驾驶出租车在施工区域和洪水等复杂环境中表现不佳，暂停了高速公路服务及亚特兰大运营，凸显技术瓶颈。\n3. **Spotify与AI音乐创新**：Spotify与环球音乐达成协议，允许粉丝制作AI翻唱和混音；同时推出AI驱动的播客问答、简报生成及有声书创作工具，并计划为顶级粉丝预留演唱会门票，以提升用户参与度。\n4. **科技监管与安全动态**：特朗普推迟AI安全行政令，称其语言可能阻碍创新；执法机构关闭了被二十多个勒索软件团伙使用的VPN服务，加强网络安全打击。\n5. **新兴领域与行业变革**：Convective Capital筹集8500万美元基金用于抗灾技术；一家初创公司挑战近半世纪未变的香水行业；此外，多个搜索引擎在谷歌信誉下滑背景下值得尝试。\n\n**今日最值得关注的发展**：Waymo自动驾驶在复杂环境中的持续失败，暴露了当前自动驾驶技术应对现实挑战的局限，而Spotify则通过AI与粉丝互动策略，积极重塑音乐与播客生态。",
       "count": 40
     },
     "ai": {
@@ -414,15 +414,6 @@
           "source": "Hugging Face",
           "category": "ai",
           "pub_date": "Mon, 18 May 2026 14:12:58 GMT"
-        },
-        {
-          "id": "1852debd4425",
-          "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-          "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-          "description": "",
-          "source": "Hugging Face",
-          "category": "ai",
-          "pub_date": "Thu, 14 May 2026 18:55:01 GMT"
         },
         {
           "id": "5f97fe9883b1",
@@ -515,13 +506,13 @@
           "pub_date": "Tue, 19 May 2026 17:45:00 +0000"
         },
         {
-          "id": "fce8bd3e94a9",
-          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-          "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-          "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+          "id": "9c9a1f1b90d4",
+          "title": "AdventHealth advances whole-person care with OpenAI",
+          "link": "https://openai.com/index/adventhealth",
+          "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
           "source": "OpenAI Blog",
           "category": "ai",
-          "pub_date": "Wed, 20 May 2026 00:00:00 GMT"
+          "pub_date": "Thu, 21 May 2026 12:00:00 GMT"
         },
         {
           "id": "bf4a80326361",
@@ -537,6 +528,15 @@
           "title": "The next phase of OpenAI’s Education for Countries",
           "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
           "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 20 May 2026 00:00:00 GMT"
+        },
+        {
+          "id": "fce8bd3e94a9",
+          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+          "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 20 May 2026 00:00:00 GMT"
@@ -587,10 +587,10 @@
           "pub_date": "Fri, 15 May 2026 00:00:00 GMT"
         },
         {
-          "id": "a8873186839e",
-          "title": "How data science teams use Codex",
-          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "description": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "id": "71a8ceba9d5f",
+          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+          "link": "https://openai.com/index/databricks",
+          "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Fri, 15 May 2026 00:00:00 GMT"
@@ -614,22 +614,13 @@
           "pub_date": "Fri, 15 May 2026 00:00:00 GMT"
         },
         {
-          "id": "71a8ceba9d5f",
-          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-          "link": "https://openai.com/index/databricks",
-          "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+          "id": "a8873186839e",
+          "title": "How data science teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "description": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Fri, 15 May 2026 00:00:00 GMT"
-        },
-        {
-          "id": "c56053b02f91",
-          "title": "Sea's View on the Future of Agentic Software Development with Codex",
-          "link": "https://openai.com/index/sea-david-chen",
-          "description": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Thu, 14 May 2026 20:30:00 GMT"
         },
         {
           "id": "36a34b283092",
@@ -639,9 +630,18 @@
           "source": "VentureBeat AI",
           "category": "ai",
           "pub_date": "Tue, 19 May 2026 17:45:00 GMT"
+        },
+        {
+          "id": "cf2ee655618c",
+          "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
+          "link": "https://www.qbitai.com/2026/05/422068.html",
+          "description": "最大提升体现在指令遵循能力上",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 21 May 2026 09:48:42 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **Google I/O 2026 发布多项重大更新**：包括Gemini 3.5（具备行动能力的边界智能）、AI搜索新模式（改变美国用户搜索方式）、新Agent时代（Gemini代理时代）、Workspace新功能，以及100项大会公告。\n2. **开源/社区模型密集迭代**：OlmoEarth v1.1（更高效的地球观测模型）、Ettin Reranker系列（排序模型）、Granite Embedding Multilingual R2（开源Apache 2.0多语言嵌入，32K上下文，亚亿级最佳检索质量）发布。\n3. **特定领域模型与应用进展**：NVIDIA Cosmos Predict 2.5支持LoRA/DoRA微调（机器人视频生成）、PaddleOCR 3.5集成Transformers后端（OCR与文档解析）、Open Agent排行榜发布。\n4. **Google Beam与社区投资**：推出改善群组会议的实验功能，并宣布在密苏里州的新社区投资。\n\n**今日最值得关注的发展**：Google I/O 2026正式进入“Agentic Gemini时代”，Gemini 3.5首次赋予模型行动能力，标志着AI从被动对话向主动执行任务的范式转变。",
+      "summary": "今日AI动态摘要\n\n1. **Google I/O 2026重磅发布**：推出Gemini 3.5模型，强调“前沿智能+行动能力”；同时宣布AI搜索新时代、Google Workspace新功能、AI订阅服务更新，以及AI模式改变美国用户搜索方式。\n2. **开源模型与工具更新**：包括更高效的遥感模型OlmoEarth v1.1、新型重排序模型Ettin Reranker Family、基于LoRA/DoRA微调的机器人视频生成模型（NVIDIA Cosmos Predict 2.5），以及支持Transformers后端的OCR工具PaddleOCR 3.5。\n3. **社区与实验性项目**：Hugging Face推出开放智能体排行榜；Google在密苏里州宣布新的社区投资；Google Beam推出改善群组会议的新实验。\n\n**今日最值得关注的发展**：Google I/O 2026正式宣告进入“智能体Gemini时代”，Gemini 3.5模型将智能与行动能力结合，标志着AI从“回答问题”向“自主执行任务”的关键跃迁。",
       "count": 30
     },
     "cctv": {
@@ -654,6 +654,24 @@
           "source": "Global Times",
           "category": "cctv",
           "pub_date": "Fri, 08 May 2026 00:00:00 GMT"
+        },
+        {
+          "id": "c48de0c66d8c",
+          "title": "China sinks 2k servers beneath the ocean as AI power demands push ...",
+          "link": "https://www.techradar.com/pro/china-unveils-worlds-first-underwater-data-center-2-000-server-facility-is-powered-by-offshore-wind-and-cooled-by-the-sea-making-it-one-of-the-most-efficient-around",
+          "description": "Article URL: https://www.techradar.com/pro/china-unveils-worlds-first-underwater-data-center-2-000-server-facility-is-powered-by-offshore-wind-and-cooled-by-the-sea-making-it-one-of-the-most-efficient-around Comments URL: https://news.ycombinator.com/item?id=48229531 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 21 May 2026 22:20:01 +0000"
+        },
+        {
+          "id": "01d6f1d7cc6d",
+          "title": "Tesla Announces Rollout of Fully Self-Driving Tech in China",
+          "link": "https://www.wsj.com/business/autos/tesla-announces-rollout-of-fully-self-driving-tech-in-china-2711fdb2",
+          "description": "Article URL: https://www.wsj.com/business/autos/tesla-announces-rollout-of-fully-self-driving-tech-in-china-2711fdb2 Comments URL: https://news.ycombinator.com/item?id=48229363 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 21 May 2026 22:00:39 +0000"
         },
         {
           "id": "6299fee48e5d",
@@ -713,7 +731,7 @@
           "id": "98a2e24aabd1",
           "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
           "link": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
-          "description": "Article URL: https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained Comments URL: https://news.ycombinator.com/item?id=48211409 Points: 187 # Comments: 112",
+          "description": "Article URL: https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained Comments URL: https://news.ycombinator.com/item?id=48211409 Points: 193 # Comments: 119",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 20 May 2026 17:48:52 +0000"
@@ -722,7 +740,7 @@
           "id": "a77d41b544ba",
           "title": "Boarding China's Last Bus",
           "link": "https://asteriskmag.com/issues/14/chinas-last-bus",
-          "description": "Article URL: https://asteriskmag.com/issues/14/chinas-last-bus Comments URL: https://news.ycombinator.com/item?id=48211009 Points: 3 # Comments: 0",
+          "description": "Article URL: https://asteriskmag.com/issues/14/chinas-last-bus Comments URL: https://news.ycombinator.com/item?id=48211009 Points: 5 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 20 May 2026 17:20:12 +0000"
@@ -875,7 +893,7 @@
           "id": "86257debcf56",
           "title": "How to buy cheap Claude tokens in China",
           "link": "https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in",
-          "description": "Article URL: https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in Comments URL: https://news.ycombinator.com/item?id=48165492 Points: 37 # Comments: 10",
+          "description": "Article URL: https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in Comments URL: https://news.ycombinator.com/item?id=48165492 Points: 38 # Comments: 10",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sun, 17 May 2026 02:11:57 +0000"
@@ -897,27 +915,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 16 May 2026 21:31:31 +0000"
-        },
-        {
-          "id": "f40e75fefe7b",
-          "title": "China wants more robots but not fewer workers",
-          "link": "https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers",
-          "description": "Article URL: https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers Comments URL: https://news.ycombinator.com/item?id=48162744 Points: 2 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 16 May 2026 18:55:53 +0000"
-        },
-        {
-          "id": "eaafcef7459d",
-          "title": "Is America in decline and China rising? Not for long",
-          "link": "https://www.nytimes.com/2026/05/16/opinion/america-china-xi-peak.html",
-          "description": "Article URL: https://www.nytimes.com/2026/05/16/opinion/america-china-xi-peak.html Comments URL: https://news.ycombinator.com/item?id=48161361 Points: 8 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 16 May 2026 16:03:50 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **历史与主权叙事**：国际媒体关注东京审判对靖国神社错误历史观的驳斥，强调中国在历史正义问题上的立场。\n2. **科技自主与竞争**：中国在人工智能芯片市场取得突破，英伟达承认已“基本让出”中国市场给华为；中国还正式定义并开始治理“代理式AI”，并强调AI发展需兼顾就业保护。\n3. **前沿技术应用**：中欧合作航天器成功发射，用于研究地球“无形保护层”；中国部署首个风能冷却、海洋降温的水下数据中心，展示绿色科技创新。\n4. **资源与地缘战略**：中国稀土杠杆作用持续增强；美国前总统特朗普开启对华“脱钩”政策，但分析指出俄罗斯在乌克兰战事失利已引起中国关注。\n5. **安全与监控争议**：有报道称中国对在华外国人实施大规模监控，但相关“废弃演示面板”曝光后引发争议；同时，中国科学家钱学森“美国失去、中国获得”的导弹天才故事被再次提及。\n\n**今日最值得关注的发展**：中国在AI芯片、代理式AI治理及绿色数据中心等前沿科技领域加速自主创新与规则制定，同时通过历史叙事和资源战略巩固国际话语权，反映出“科技自立”与“安全发展”并重的政策导向。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国在AI领域取得多重进展**：包括定义并开始治理“代理式AI”、强调AI发展需兼顾就业保障，以及Nvidia承认其在中国AI芯片市场已“基本让位”给华为。\n2. **中国科技与产业新动向**：特斯拉宣布将在华推出全自动驾驶技术；中国将2000台服务器部署至海底，以满足AI算力需求；欧洲与中国联合发射航天器，用于研究地球“无形护甲”（磁场）。\n3. **历史与战略议题**：《环球时报》报道称东京审判揭露了靖国神社的错误历史叙事；中国稀土杠杆作用持续增强；前导弹专家钱学森的故事被重新提及，凸显人才与科技竞争。\n4. **国际与安全关注**：有报道称中国存在针对外国人的大规模监控（基于废弃演示仪表盘）；CNN分析认为俄罗斯在乌克兰失利，中国已关注此趋势，并建议特朗普应对；中国对Nvidia 5090D V2芯片实施禁令，而CEO黄仁勋当时正在中国。\n5. **文化与历史探索**：报道提及“中世纪中国失落的海洋帝国”以及“登上中国最后一班巴士”等主题，展现对中国历史与当代社会变迁的观察。\n\n**今日最值得关注的发展**：中国在AI领域正加速自主技术布局与治理规则制定，同时通过海底服务器、全自动驾驶落地等举措，推动科技与产业深度融合。",
       "count": 30
     }
   }
