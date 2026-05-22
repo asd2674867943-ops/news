@@ -1,9 +1,72 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T16:27:05.195360",
+  "generated_at": "2026-05-22T23:06:58.994195",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "fb2a50730f34",
+          "title": "AI is being used to resurrect the voices of dead pilots",
+          "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+          "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 22 May 2026 23:03:33 +0000"
+        },
+        {
+          "id": "beed27952892",
+          "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+          "link": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+          "description": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 22 May 2026 22:55:57 +0000"
+        },
+        {
+          "id": "cddc0a66d96a",
+          "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
+          "link": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
+          "description": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 22 May 2026 21:37:17 +0000"
+        },
+        {
+          "id": "c6cc3fa05d40",
+          "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+          "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+          "description": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 22 May 2026 21:02:36 +0000"
+        },
+        {
+          "id": "a404c57a6ade",
+          "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+          "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+          "description": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 22 May 2026 20:40:48 +0000"
+        },
+        {
+          "id": "3959a6162fba",
+          "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
+          "link": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
+          "description": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 22 May 2026 16:28:06 +0000"
+        },
+        {
+          "id": "75e275613b5a",
+          "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
+          "link": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
+          "description": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 22 May 2026 16:27:57 +0000"
+        },
         {
           "id": "0b4352d889cb",
           "title": "Spotify’s AI bet: more of everything, less of what you want",
@@ -35,10 +98,19 @@
           "id": "85bcefeaa430",
           "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
           "link": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
-          "description": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform, and was evaluating whether it needs to notify customers.",
+          "description": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform and was evaluating whether it needs to notify customers.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 22 May 2026 14:30:52 +0000"
+        },
+        {
+          "id": "6bc71dc1c5bd",
+          "title": "SpaceX files to go public, and the math requires a little faith",
+          "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+          "description": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony, and a valuation target that would make it the largest IPO in American [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 22 May 2026 14:30:00 +0000"
         },
         {
           "id": "173ce1158280",
@@ -59,19 +131,19 @@
           "pub_date": "Fri, 22 May 2026 14:03:35 +0000"
         },
         {
-          "id": "48618ce6c508",
-          "title": "Audio generation app Huxe, founded by former NotebookLM developers, shuts down",
+          "id": "c5a33fe166cd",
+          "title": "Audio-generation app Huxe, founded by former NotebookLM developers, shuts down",
           "link": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
-          "description": "Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month",
+          "description": "Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 22 May 2026 13:48:03 +0000"
         },
         {
-          "id": "5fb88a8f7b28",
-          "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+          "id": "f7fc93918469",
+          "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
           "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
-          "description": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages",
+          "description": "The partnership is a potential testing ground for both companies to gauge the appetite for an India-focused chatbot.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 22 May 2026 06:41:28 +0000"
@@ -113,76 +185,121 @@
           "pub_date": "Thu, 21 May 2026 21:13:23 +0000"
         },
         {
-          "id": "4b815873dc62",
-          "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
-          "link": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
-          "description": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
-          "source": "TechCrunch",
+          "id": "a8a819f59e10",
+          "title": "First-generation Chromecast users stressed by devices suddenly failing",
+          "link": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
+          "description": "Google tells Ars it fixed the first-gen Chromecast bug.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 21:00:42 +0000"
+          "pub_date": "Fri, 22 May 2026 21:42:59 +0000"
         },
         {
-          "id": "42c9fa540346",
-          "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-          "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-          "description": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-          "source": "TechCrunch",
+          "id": "980fabda3698",
+          "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
+          "link": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
+          "description": "FCC seeks opinions on whether ABC show's decisions are \"based on newsworthiness.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 19:45:00 +0000"
+          "pub_date": "Fri, 22 May 2026 21:10:46 +0000"
         },
         {
-          "id": "9e5fc8627a7c",
-          "title": "How Elon Musk will increase his power through the SpaceX IPO",
-          "link": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
-          "description": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.",
-          "source": "TechCrunch",
+          "id": "e089ad6051fd",
+          "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
+          "link": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+          "description": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 19:35:21 +0000"
+          "pub_date": "Fri, 22 May 2026 19:39:04 +0000"
         },
         {
-          "id": "5d304db1d625",
-          "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
-          "link": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
-          "description": "First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service’s users that they have now been identified.",
-          "source": "TechCrunch",
+          "id": "5c187a5f750d",
+          "title": "The Boys is dead. Long live Vought Rising.",
+          "link": "https://arstechnica.com/culture/2026/05/the-boys-is-dead-long-live-vought-rising/",
+          "description": "\"There's a brighter future. All we need to do is take it.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 19:33:39 +0000"
+          "pub_date": "Fri, 22 May 2026 19:02:48 +0000"
         },
         {
-          "id": "44ddff98f58d",
-          "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-          "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-          "description": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-          "source": "TechCrunch",
+          "id": "fa8af1b438b9",
+          "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
+          "link": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
+          "description": "Law enforcement intercepted VPN traffic, seized domains, and arrested its operator.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 19:19:05 +0000"
+          "pub_date": "Fri, 22 May 2026 18:43:54 +0000"
         },
         {
-          "id": "bd17abeb4265",
-          "title": "Convective Capital raises an $85 million fund to build disaster resilience",
-          "link": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
-          "description": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
-          "source": "TechCrunch",
+          "id": "8d8e263df5f2",
+          "title": "Review: The Mandalorian and Grogu is ... fine",
+          "link": "https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/",
+          "description": "The plot is predictable, the fight scenes are meh, but you can't beat the charm of that little green Grogu.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 17:41:20 +0000"
+          "pub_date": "Fri, 22 May 2026 18:30:06 +0000"
         },
         {
-          "id": "4dc7e21053fa",
-          "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-          "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-          "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-          "source": "TechCrunch",
+          "id": "cfa75c0d6a9d",
+          "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+          "link": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+          "description": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 17:30:45 +0000"
+          "pub_date": "Fri, 22 May 2026 18:13:05 +0000"
         },
         {
-          "id": "b101caf1ecdc",
-          "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
-          "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
-          "description": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
-          "source": "TechCrunch",
+          "id": "a1876e342e5f",
+          "title": "Before it comes down, what should be saved from the International Space Station?",
+          "link": "https://arstechnica.com/space/2026/05/before-it-comes-down-what-should-be-saved-from-the-international-space-station/",
+          "description": "What went up cannot all come down (for museum display).",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 21 May 2026 16:00:00 +0000"
+          "pub_date": "Fri, 22 May 2026 17:59:29 +0000"
+        },
+        {
+          "id": "8b8af88a2c09",
+          "title": "Marketer that claimed it could tap devices for ad targeting will pay $880K settlement",
+          "link": "https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/",
+          "description": "Two additional marketing companies will also pay $25,000 each.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 22 May 2026 17:48:03 +0000"
+        },
+        {
+          "id": "af1d866b5000",
+          "title": "Soaring solar and a surge in hydro push more coal off the US grid",
+          "link": "https://arstechnica.com/science/2026/05/soaring-solar-and-a-surge-in-hydro-push-more-coal-off-the-us-grid/",
+          "description": "The first data from 2026 seem to indicate that last year was an oddity.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 22 May 2026 17:22:42 +0000"
+        },
+        {
+          "id": "cfd4ed4d29df",
+          "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
+          "link": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+          "description": "Trump delays AI safety testing EO, claiming it would be an innovation “blocker.”",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 22 May 2026 16:51:40 +0000"
+        },
+        {
+          "id": "4fd63fe2cfb1",
+          "title": "The Steam Controller’s “drop-in” charger almost started a fire for this owner",
+          "link": "https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/",
+          "description": "Keep the charging puck’s exposed pins far away from anything metal.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 22 May 2026 16:24:11 +0000"
+        },
+        {
+          "id": "6b7b861e7a3f",
+          "title": "NASA undertakes major reorganization to reduce bureaucracy and move faster",
+          "link": "https://arstechnica.com/space/2026/05/to-achieve-major-goals-nasa-seeks-to-streamline-its-organization/",
+          "description": "\"It is imperative to concentrate resources towards the highest priority objectives.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 22 May 2026 14:28:42 +0000"
         },
         {
           "id": "f212a220fdee",
@@ -246,126 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Thu, 21 May 2026 22:26:34 +0000"
-        },
-        {
-          "id": "1bd0bf2bb726",
-          "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
-          "link": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
-          "description": "SpaceX IPO filing pitches orbital data centers as Grok lags rival AI services.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 21 May 2026 21:51:26 +0000"
-        },
-        {
-          "id": "61d93397dcdd",
-          "title": "AT&T sues California in attempt to shut off old phone network",
-          "link": "https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/",
-          "description": "AT&#038;T asks a court and the FCC to block California phone requirements.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 21 May 2026 21:10:01 +0000"
-        },
-        {
-          "id": "62d09947cdf6",
-          "title": "JWST maps the weather on a hot gas giant 700 light-years away",
-          "link": "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/",
-          "description": "The differences seen here could be throwing off how we study planetary atmospheres.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 21 May 2026 19:26:03 +0000"
-        },
-        {
-          "id": "0840e243d96e",
-          "title": "Zillow loses thousands of listings in fight over “hidden” homes",
-          "link": "https://arstechnica.com/tech-policy/2026/05/zillow-loses-access-to-thousands-of-home-listings-amid-bitter-legal-feud/",
-          "description": "Zillow asked for a preliminary injunction as real estate industry fight heats up.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 21 May 2026 18:35:38 +0000"
-        },
-        {
-          "id": "c078fbbed6ee",
-          "title": "Stunning aerial footage still best thing about Top Gun at 40",
-          "link": "https://arstechnica.com/culture/2026/05/top-gun-turns-40/",
-          "description": "Tony Scott's 1986 blockbuster and the 2022 sequel are the best recruitment tools the US Navy could hope for.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 21 May 2026 16:42:43 +0000"
-        },
-        {
-          "id": "e4d722a3cf00",
-          "title": "Uh-oh, the International Space Station is leaking again",
-          "link": "https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/",
-          "description": "\"This further confirms the wisdom of the current policy of retiring the ISS in 2030.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 21 May 2026 16:07:17 +0000"
-        },
-        {
-          "id": "5186decfa829",
-          "title": "US government takes $2 billion equity stake in nine quantum computing firms",
-          "link": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-          "description": "Beneficiaries include startup backed by firm with links to the Trump family.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 21 May 2026 13:48:38 +0000"
-        },
-        {
-          "id": "5cb363b760ce",
-          "title": "Plug-in hybrids get plugged in more than you might think",
-          "link": "https://arstechnica.com/cars/2026/05/plug-in-hybrids-get-plugged-in-more-than-you-might-think/",
-          "description": "Toyota is the latest automaker to report PHEV charging stats, and they're encouraging.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 21 May 2026 13:34:53 +0000"
-        },
-        {
-          "id": "59d98e09520a",
-          "title": "These clever active beam headlights are finally coming to America",
-          "link": "https://arstechnica.com/cars/2026/05/these-clever-active-beam-headlights-are-finally-coming-to-america/",
-          "description": "The 2027 Audi Q9's digital matrix lights satisfy new NHTSA rules on minimizing glare.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 21 May 2026 13:00:09 +0000"
-        },
-        {
-          "id": "1cff19a40be3",
-          "title": "Famously secret about its finances, SpaceX opens its books for the first time",
-          "link": "https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/",
-          "description": "\"We believe we have identified the largest TAM in human history.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 20 May 2026 23:02:49 +0000"
-        },
-        {
-          "id": "b3021d179cf2",
-          "title": "Trump admin didn't want Ebola-exposed Americans, sent them to Berlin, Prague",
-          "link": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
-          "description": "Officials denied refusing entry, but dodged questions on why Americans didn't return.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 20 May 2026 21:58:01 +0000"
-        },
-        {
-          "id": "31b132bc5f15",
-          "title": "NASA's Psyche spacecraft returns unfamiliar views of a familiar world",
-          "link": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/",
-          "description": "\"As a bonus, it captured Mars images from a rare perspective.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 20 May 2026 21:26:57 +0000"
-        },
-        {
-          "id": "957d8aa32716",
-          "title": "Masters of the Universe final trailer brings the '80s nostalgia",
-          "link": "https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/",
-          "description": "\"You are he who will restore peace to Eternia.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 20 May 2026 20:29:39 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI应用与监管动向**：Spotify加大AI投入，但用户反馈体验偏离需求；同时与环球音乐达成协议，允许粉丝制作AI翻唱和混音。谷歌AI眼镜测试接近成熟，但搜索功能出现异常（屏蔽“disregard”一词）。音频生成应用Huxe（由前NotebookLM开发者创立）宣布关闭。\n\n2. **数据隐私与安全事件**：特朗普移动（Trump Mobile）确认用户数据泄露，包括电话号码和家庭住址。Meta低调推出类Reddit应用Forum，引发对数据收集方式的关注。\n\n3. **自动驾驶与航天动态**：Waymo因自动驾驶出租车在洪水和施工区域表现不佳，暂停在四个城市的扩展及高速公路服务。SpaceX首次星舰V3发射在最后一刻取消，其IPO预计将使马斯克及其核心圈子大幅受益。\n\n4. **智能硬件与新兴市场**：智能戒指制造商Oura提交IPO申请。芬兰手机厂商HMD为新机型预装印度AI聊天机器人，以拓展当地市场。\n\n5. **政界与平台互动**：纽约市长Zohran Mamdani通过Twitch直播与市民交流，显示政界利用新兴平台直接沟通的趋势。\n\n**今日最值得关注的发展**：AI应用在商业合作（如音乐翻唱）与用户体验之间的平衡问题日益凸显，同时数据泄露与自动驾驶安全事件持续引发对科技企业责任与监管的讨论。",
+      "summary": "今日科技动态摘要\n\n1. **AI技术应用**：AI被用于复活已故飞行员的语音，引发技术与伦理讨论。\n2. **航天进展**：SpaceX首次发射星舰V3但回收失败，蓝色起源获准在4月事故后重新发射新格伦火箭。\n3. **企业上市动态**：SpaceX与智能戒指公司Oura均提交上市申请，引发市场关注。\n4. **平台与法规争议**：苹果坚持Epic诉讼不应改变App Store规则；Meta低调推出类Reddit应用“Forum”。\n5. **数据安全与隐私**：特朗普移动公司确认用户数据泄露，包括电话号码和家庭地址。\n\n今日最值得关注的发展是SpaceX与Oura相继申请上市，标志商业航天与可穿戴健康设备领域进入资本市场新阶段。",
       "count": 40
     },
     "ai": {
@@ -423,6 +423,15 @@
           "source": "Hugging Face",
           "category": "ai",
           "pub_date": "Mon, 18 May 2026 14:12:58 GMT"
+        },
+        {
+          "id": "9b8edf7c31aa",
+          "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+          "description": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 22 May 2026 18:00:00 +0000"
         },
         {
           "id": "5f97fe9883b1",
@@ -519,6 +528,15 @@
           "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
           "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
           "description": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 22 May 2026 00:00:00 GMT"
+        },
+        {
+          "id": "745430d5e259",
+          "title": "How Virgin Atlantic ships faster with Codex",
+          "link": "https://openai.com/index/virgin-atlantic",
+          "description": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Fri, 22 May 2026 00:00:00 GMT"
@@ -621,31 +639,67 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Fri, 22 May 2026 08:25:25 +0000"
-        },
-        {
-          "id": "98b440792836",
-          "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
-          "link": "https://www.qbitai.com/2026/05/422624.html",
-          "description": "DeepSeek Code is Coming",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 22 May 2026 07:16:39 +0000"
-        },
-        {
-          "id": "e3897fab5fc4",
-          "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-          "link": "https://www.qbitai.com/2026/05/422615.html",
-          "description": "一个AI统一入口，搞定所有",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 22 May 2026 06:38:04 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **模型专业化与效率提升**：Hugging Face 发布多篇研究，强调在AI采购中应重视专业化（如OlmoEarth v1.1地球观测模型、Ettin Reranker排序模型），而非仅追求规模；同时推出PaddleOCR 3.5，支持基于Transformers的OCR与文档解析任务。\n2. **智能体与机器人技术进展**：NVIDIA Cosmos Predict 2.5结合LoRA/DoRA微调技术用于机器人视频生成；Hugging Face发布开放智能体排行榜，推动智能体性能评估；Google I/O 2026宣布进入“智能体Gemini时代”，并推出Gemini 3.5模型，强调其具备行动能力的“前沿智能”。\n3. **搜索引擎与工作空间革新**：Google在I/O 2026上宣布AI搜索进入新时代（AI Mode改变美国用户搜索方式），同时推出Workspace新功能（如更高效的创建与任务完成），并改进Google Beam群组会议体验。\n4. **社区投资与开源生态**：Google宣布在密苏里州进行新的社区投资，Hugging Face持续推动开源模型与工具（如开放式智能体排行榜、地球观测模型家族），强化AI民主化。\n\n今日最值得关注的发展：Google I/O 2026正式宣告“智能体Gemini时代”到来，Gemini 3.5模型与AI搜索的深度融合，标志着AI从被动回答向主动行动的关键转变。",
+      "summary": "今日AI动态摘要\n\n1. **AI模型专业化与效率突破**：Hugging Face发布多项技术进展，包括强调专业化优于规模的AI采购策略、更高效的地球观测模型OlmoEarth v1.1、新型Ettin Reranker排序模型，以及基于LoRA/DoRA微调的机器人视频生成技术。\n2. **文档处理与智能体技术更新**：PaddleOCR 3.5引入Transformers后端支持OCR与文档解析；同时推出开放智能体排行榜，推动AI自主系统评估。\n3. **Google I/O 2026聚焦智能体与搜索变革**：宣布进入“智能体Gemini时代”，发布Gemini 3.5（具备行动能力的边界智能），并推出AI模式改变美国用户搜索方式、Google Workspace新增创作与效率功能，以及Google Beam会议优化实验。\n4. **社区与生态投资**：Google宣布在密苏里州进行新的社区投资，并汇总了I/O 2026期间公布的100项创新成果。\n\n**今日最值得关注**：Google I/O 2026正式宣告“智能体Gemini时代”到来，Gemini 3.5的发布标志着AI从被动响应向主动行动的范式转变。",
       "count": 30
     },
     "cctv": {
       "articles": [
+        {
+          "id": "cb2f08958a33",
+          "title": "Two Loops: How China's Open AI Strategy Reinforces Its Industrial Dominance [pdf]",
+          "link": "https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf",
+          "description": "Article URL: https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf Comments URL: https://news.ycombinator.com/item?id=48242468 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 22 May 2026 22:32:29 +0000"
+        },
+        {
+          "id": "55a37268ad8a",
+          "title": "Battle over WiseTech AI job cuts intensifies amid China staff accusations",
+          "link": "https://www.afr.com/technology/wisetech-ai-redundancy-fight-worsens-with-china-accusations-20260521-p5zzm8",
+          "description": "Article URL: https://www.afr.com/technology/wisetech-ai-redundancy-fight-worsens-with-china-accusations-20260521-p5zzm8 Comments URL: https://news.ycombinator.com/item?id=48242158 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 22 May 2026 21:53:07 +0000"
+        },
+        {
+          "id": "d50e73400b68",
+          "title": "China: What I Learned from the AI Labs, Robotics Startups and Academia",
+          "link": "https://matthewdwhite.substack.com/p/eight-days-in-china-what-i-learned",
+          "description": "Article URL: https://matthewdwhite.substack.com/p/eight-days-in-china-what-i-learned Comments URL: https://news.ycombinator.com/item?id=48241130 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 22 May 2026 20:22:49 +0000"
+        },
+        {
+          "id": "344ed91da8aa",
+          "title": "Notes on AI, Labor, and China",
+          "link": "https://jasmi.news/p/party-in-the-permanent-underclass",
+          "description": "Article URL: https://jasmi.news/p/party-in-the-permanent-underclass Comments URL: https://news.ycombinator.com/item?id=48240952 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 22 May 2026 20:10:02 +0000"
+        },
+        {
+          "id": "1812434cc070",
+          "title": "The aftermath of Trump-Xi summit: comparing U.S. and China announcements",
+          "link": "https://www.npr.org/2026/05/22/g-s1-123647/comparing-u-s-and-china-announcements",
+          "description": "Article URL: https://www.npr.org/2026/05/22/g-s1-123647/comparing-u-s-and-china-announcements Comments URL: https://news.ycombinator.com/item?id=48240089 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 22 May 2026 19:08:55 +0000"
+        },
+        {
+          "id": "44c4281d6565",
+          "title": "How much US compute is China renting from the cloud?",
+          "link": "https://www.the-substrate.net/p/how-much-us-compute-is-china-renting",
+          "description": "Article URL: https://www.the-substrate.net/p/how-much-us-compute-is-china-renting Comments URL: https://news.ycombinator.com/item?id=48239244 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 22 May 2026 18:03:40 +0000"
+        },
         {
           "id": "5d1f8ee96e29",
           "title": "China's AI optimism isn't what it seems",
@@ -668,7 +722,7 @@
           "id": "17b2e7421054",
           "title": "China's AI optimism isn't what it seems",
           "link": "https://www.chinatalk.media/p/chinas-ai-optimism-isnt-what-it-seems",
-          "description": "Article URL: https://www.chinatalk.media/p/chinas-ai-optimism-isnt-what-it-seems Comments URL: https://news.ycombinator.com/item?id=48235237 Points: 3 # Comments: 0",
+          "description": "Article URL: https://www.chinatalk.media/p/chinas-ai-optimism-isnt-what-it-seems Comments URL: https://news.ycombinator.com/item?id=48235237 Points: 5 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 22 May 2026 12:56:34 +0000"
@@ -758,19 +812,10 @@
           "id": "98a2e24aabd1",
           "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
           "link": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
-          "description": "Article URL: https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained Comments URL: https://news.ycombinator.com/item?id=48211409 Points: 196 # Comments: 122",
+          "description": "Article URL: https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained Comments URL: https://news.ycombinator.com/item?id=48211409 Points: 196 # Comments: 123",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 20 May 2026 17:48:52 +0000"
-        },
-        {
-          "id": "344ed91da8aa",
-          "title": "Notes on AI, Labor, and China",
-          "link": "https://jasmi.news/p/party-in-the-permanent-underclass",
-          "description": "Article URL: https://jasmi.news/p/party-in-the-permanent-underclass Comments URL: https://news.ycombinator.com/item?id=48209244 Points: 2 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 20 May 2026 15:20:44 +0000"
         },
         {
           "id": "2b19ce80a6bf",
@@ -852,54 +897,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Mon, 18 May 2026 17:15:25 +0000"
-        },
-        {
-          "id": "559cf7c47b24",
-          "title": "How China's Shadow AI API Market Works",
-          "link": "https://www.vincentschmalbach.com/chinas-shadow-api-market/",
-          "description": "Article URL: https://www.vincentschmalbach.com/chinas-shadow-api-market/ Comments URL: https://news.ycombinator.com/item?id=48177492 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 18 May 2026 10:13:06 +0000"
-        },
-        {
-          "id": "8081d2aea87c",
-          "title": "AI super-apps are remaking China's internet",
-          "link": "https://www.economist.com/business/2026/05/17/ai-super-apps-are-remaking-chinas-internet",
-          "description": "Article URL: https://www.economist.com/business/2026/05/17/ai-super-apps-are-remaking-chinas-internet Comments URL: https://news.ycombinator.com/item?id=48176712 Points: 6 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 18 May 2026 08:09:34 +0000"
-        },
-        {
-          "id": "060ce45aeb97",
-          "title": "Australia orders China-linked investors to sell Northern Minerals stake",
-          "link": "https://www.reuters.com/business/australia-treasurer-orders-six-shareholders-divest-northern-minerals-2026-05-17/",
-          "description": "Article URL: https://www.reuters.com/business/australia-treasurer-orders-six-shareholders-divest-northern-minerals-2026-05-17/ Comments URL: https://news.ycombinator.com/item?id=48176573 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 18 May 2026 07:42:50 +0000"
-        },
-        {
-          "id": "ffd703f30789",
-          "title": "Three's a party: US, China, and now Russia are on the prowl in GEO",
-          "link": "https://arstechnica.com/space/2026/05/threes-a-party-us-china-and-now-russia-are-on-the-prowl-in-geo/",
-          "description": "Article URL: https://arstechnica.com/space/2026/05/threes-a-party-us-china-and-now-russia-are-on-the-prowl-in-geo/ Comments URL: https://news.ycombinator.com/item?id=48176567 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 18 May 2026 07:41:20 +0000"
-        },
-        {
-          "id": "6e4e42cf8ebf",
-          "title": "China's Invisible Hand Is Distorting Global Oil Markets – Oilprice.com",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Chinas-Invisible-Hand-Is-Distorting-Global-Oil-Markets.html",
-          "description": "Article URL: https://oilprice.com/Energy/Crude-Oil/Chinas-Invisible-Hand-Is-Distorting-Global-Oil-Markets.html Comments URL: https://news.ycombinator.com/item?id=48168801 Points: 5 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 17 May 2026 13:34:20 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **人工智能发展与治理**：中国在AI领域展现复杂态势，一方面积极推动技术发展并关注就业影响，另一方面已开始定义和监管“代理式AI”，同时面临美国芯片出口限制及本土企业华为在AI芯片市场的竞争。\n2. **科技与产业突破**：中国在多个前沿领域取得进展，包括将2000台服务器部署海底以支撑AI算力需求、特斯拉宣布在华推出全自动驾驶技术，以及中欧合作发射卫星研究地球“隐形磁场”。\n3. **国际投资与竞争格局**：中国超越美国成为德国最大外国投资者，同时英伟达承认已基本放弃中国AI芯片市场，而中国则禁止英伟达5090D V2芯片销售，显示科技博弈持续升级。\n4. **历史与人才话题**：报道提及中国中世纪失落的海洋帝国，以及钱学森作为“美国失去、中国获得”的导弹天才，凸显中国科技发展的人才与历史纵深。\n5. **社会与安全议题**：有报道揭露中国对外国人实施大规模监控的废弃演示面板，引发隐私与安全讨论。\n\n今日最值得关注的发展：中国在AI领域加速自主化进程，既通过海底服务器等基础设施强化算力，又通过监管界定技术边界，同时在中美芯片博弈中进一步收紧对英伟达的限制，科技主权争夺日趋激烈。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国AI战略与产业主导地位**：多篇报道聚焦中国开放型AI战略如何强化工业主导权，包括AI实验室、机器人初创企业和学术界的实地观察，以及中国对“代理式AI”的命名、定义与监管启动。\n2. **中美科技竞争与芯片博弈**：英伟达承认在AI芯片市场“基本让位”给华为；美国云服务被中国租用的计算资源规模引发关注；特朗普与习近平峰会后中美各自公告的对比分析。\n3. **中国AI发展现状与争议**：有分析指出中国AI乐观情绪并非表面所见；WiseTech公司因AI裁员在中国员工中引发指控与劳资冲突；中国将2000台服务器沉入海底以满足AI电力需求。\n4. **中国对外投资与科技合作**：中国超越美国成为德国最大外国投资者；欧中联合发射航天器研究地球“隐形护盾”；特斯拉宣布在中国全面推广全自动驾驶技术。\n\n**今日最值得关注的发展**：中国正通过开放AI战略、芯片自主化（英伟达退让华为）及前沿技术布局（海底服务器、代理式AI监管），在多维度加速构建全球科技竞争新格局。",
       "count": 28
     }
   }
