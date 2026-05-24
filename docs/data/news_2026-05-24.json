@@ -1,9 +1,45 @@
 {
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T15:05:35.506618",
+  "generated_at": "2026-05-24T23:01:54.263015",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "4b0e2b970885",
+          "title": "Everyone is navigating AI security in real time — even Google",
+          "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+          "description": "We're in the transition period -- all of us.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 24 May 2026 21:39:21 +0000"
+        },
+        {
+          "id": "06c4f7389573",
+          "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+          "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+          "description": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 24 May 2026 19:00:00 +0000"
+        },
+        {
+          "id": "9634ef1f8238",
+          "title": "6 kitchen gadgets that make adulting feel easier",
+          "link": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+          "description": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 24 May 2026 17:00:00 +0000"
+        },
+        {
+          "id": "702b8004a7f7",
+          "title": "TechCrunch Mobility: Robotaxi reality check",
+          "link": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
+          "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 24 May 2026 16:05:00 +0000"
+        },
         {
           "id": "c2607305b336",
           "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
@@ -147,42 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 22 May 2026 16:18:10 +0000"
-        },
-        {
-          "id": "0dad06afda9b",
-          "title": "You can no longer Google the word ‘disregard’",
-          "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-          "description": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 22 May 2026 16:16:48 +0000"
-        },
-        {
-          "id": "951da97da111",
-          "title": "We tried Google’s AI glasses and they’re almost there",
-          "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-          "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 22 May 2026 15:37:15 +0000"
-        },
-        {
-          "id": "85bcefeaa430",
-          "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
-          "link": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
-          "description": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform and was evaluating whether it needs to notify customers.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 22 May 2026 14:30:52 +0000"
-        },
-        {
-          "id": "6bc71dc1c5bd",
-          "title": "SpaceX files to go public, and the math requires a little faith",
-          "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-          "description": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony, and a valuation target that would make it the largest IPO in American [&#8230;]",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 22 May 2026 14:30:00 +0000"
         },
         {
           "id": "ce619a31eb8c",
@@ -365,7 +365,7 @@
           "pub_date": "Fri, 22 May 2026 14:05:56 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **可穿戴设备与数字健康**：亚马逊Bee穿戴设备引发用户好奇与不安；Dreamie闹钟帮助用户戒除睡前使用手机的习惯，强调科技对睡眠习惯的干预。\n2. **太空探索进展**：SpaceX首次发射Starship V3但助推器回收失败；Blue Origin获准在4月事故后重新发射New Glenn火箭，太空竞赛持续升温。\n3. **AI应用与争议**：法拉利利用IBM AI打造F1超级粉丝；AI技术被用于“复活”已故飞行员的声音，引发伦理讨论；VC与创始人通过夸大“ARR”数据吹捧AI初创公司。\n4. **清洁能源与市场动态**：印度屋顶太阳能市场吸引风投，SolarSquare拟融资6000万美元；马斯克被曝已放弃地球太阳能业务；核能初创公司Deep Fission再次宣布上市计划。\n5. **科技公司法律与安全**：苹果回应Epic诉讼，反对修改App Store规则；Kash Patel服装品牌官网遭黑客攻击后关闭；手机与App新增防间谍软件功能。\n\n**今日最值得关注**：AI技术在商业与伦理层面的双重突破——从复活逝者声音到重塑体育粉丝体验，正加速渗透社会敏感领域，引发对技术边界的深刻反思。",
+      "summary": "今日科技动态摘要\n\n1. **AI安全与争议**：谷歌等公司正实时应对AI安全挑战；AI被用于复活已故飞行员的声音，引发伦理讨论；Ferrari利用IBM的AI打造F1超级粉丝。\n2. **可穿戴与智能设备**：Xreal与谷歌合作称已掌握智能眼镜技术；亚马逊Bee可穿戴设备让人既好奇又不安；Dreamie闹钟帮助用户戒掉睡前玩手机；多款手机功能可帮助防范间谍软件。\n3. **太空探索进展**：SpaceX首次发射星舰V3但助推器回收失败；Blue Origin在4月事故后获准重启巨型火箭New Glenn飞行。\n4. **新能源与创业动态**：Elon Musk放弃地球太阳能业务；印度屋顶太阳能市场吸引风投，SolarSquare正洽谈融资6000万美元；柏林初创公司Peec年化营收数月内翻倍至1000万美元。\n5. **科技生活与出行**：6款厨房小工具让成年人生活更轻松；TechCrunch Mobility栏目对自动驾驶出租车现状进行现实检验；Deep Fission核能初创公司再次宣布上市引发疑问。\n\n**今日最值得关注**：AI安全与伦理争议持续升温，从语音复活到太空探索，技术应用边界正被不断挑战。",
       "count": 40
     },
     "ai": {
@@ -641,7 +641,7 @@
           "pub_date": "Sun, 24 May 2026 06:14:05 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **Google I/O 2026重磅发布**：进入“智能体Gemini时代”，推出Gemini 3.5模型（具备行动能力的前沿智能），并宣布AI模式改变美国用户搜索方式、Google Workspace新增创作与效率工具、Google Beam改进群组会议体验，同时公布在密苏里州的新社区投资等100项更新。\n2. **文本生成速度突破**：Nemotron-Labs发布扩散语言模型，旨在实现“光速级”文本生成，显著提升生成效率。\n3. **AI采购新视角**：提出“专业化优于规模”战略，指出多数AI采购决策忽视了这一关键变量，强调针对特定场景的垂直模型可能比通用大模型更具性价比。\n4. **地球观测与文档解析模型更新**：OlmoEarth v1.1发布更高效的地球观测模型族；PaddleOCR 3.5集成Transformers后端，支持OCR与文档解析任务。\n5. **检索排序与智能体新工具**：推出Ettin重排序模型族（优化信息检索排序）；开放智能体排行榜（Open Agent Leaderboard），用于评估AI代理性能。\n\n**今日最值得关注的发展**：Google I/O 2026正式宣告“智能体Gemini时代”到来，Gemini 3.5的“行动能力”标志着AI从被动回答向主动执行任务的重大转变。",
+      "summary": "今日AI动态摘要\n\n1. **Google I/O 2026 发布重磅更新**：包括Gemini 3.5模型（具备行动能力的尖端智能）、AI搜索模式变革、Workspace新功能，以及100项技术发布，标志着“智能体Gemini时代”的到来。\n2. **Nemotron-Labs扩散语言模型**：提出接近光速的文本生成技术，显著提升大模型推理效率。\n3. **AI采购新视角**：研究指出“专业化优于规模化”，强调在AI决策中关注专业能力而非单纯追求模型规模。\n4. **开源模型与工具集中发布**：包括OlmoEarth v1.1高效地球观测模型、Ettin Reranker系列排序模型、PaddleOCR 3.5（支持Transformers后端）以及开放Agent排行榜。\n5. **Google Beam与社区投资**：推出改善群组会议的新实验，并宣布在密苏里州的新社区投资计划。\n\n**今日最值得关注**：Google I/O 2026以“智能体Gemini时代”为核心，发布Gemini 3.5等多款产品，标志着AI从对话式交互向主动执行任务的重大转型。",
       "count": 30
     },
     "cctv": {
@@ -650,7 +650,7 @@
           "id": "cd8a453de2b8",
           "title": "I Left the U.S. for Shenzhen, China — Here's How Much It Costs",
           "link": "https://www.youtube.com/watch?v=IuVr8hqWG0o",
-          "description": "Article URL: https://www.youtube.com/watch?v=IuVr8hqWG0o Comments URL: https://news.ycombinator.com/item?id=48257424 Points: 1 # Comments: 0",
+          "description": "Article URL: https://www.youtube.com/watch?v=IuVr8hqWG0o Comments URL: https://news.ycombinator.com/item?id=48257424 Points: 1 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sun, 24 May 2026 14:11:09 +0000"
@@ -812,7 +812,7 @@
           "id": "17b2e7421054",
           "title": "China's AI optimism isn't what it seems",
           "link": "https://www.chinatalk.media/p/chinas-ai-optimism-isnt-what-it-seems",
-          "description": "Article URL: https://www.chinatalk.media/p/chinas-ai-optimism-isnt-what-it-seems Comments URL: https://news.ycombinator.com/item?id=48235237 Points: 5 # Comments: 0",
+          "description": "Article URL: https://www.chinatalk.media/p/chinas-ai-optimism-isnt-what-it-seems Comments URL: https://news.ycombinator.com/item?id=48235237 Points: 7 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 22 May 2026 12:56:34 +0000"
@@ -908,7 +908,7 @@
           "pub_date": "Wed, 20 May 2026 17:48:52 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **人工智能与科技竞争**：中国在AI大模型领域虽落后于美国，但前腾讯AI负责人认为仍有取胜机会；中国通过开源AI策略强化工业主导地位，AI超级应用正在重塑中国互联网生态；特斯拉在华将FSD更名为“特斯拉辅助驾驶”，名称更符合实际。\n\n2. **中美关系与贸易博弈**：特朗普与习近平峰会后，中美双方各自发布声明，对比两国立场；中国取消对非洲的关税，以在美中竞争中争取战略优势。\n\n3. **军事与国防发展**：中国第四艘航空母舰的建造进展引发关注，新型超级航母正在浮现。\n\n4. **国内安全与事故**：中国某煤矿发生瓦斯爆炸，死亡人数升至90人；此外，有报道关注外国人在华大规模监控问题。\n\n5. **半导体与全球供应链**：AI芯片并非简单的美中对抗，而是涉及约30个国家的复杂全球产业链，凸显中国在芯片领域的多边依赖与竞争。\n\n今日最值得关注的发展是：中国正通过开源AI策略和取消对非洲关税等举措，在科技与贸易领域多线布局，以应对美国竞争并强化自身全球影响力。",
+      "summary": "今日新闻联播动态摘要\n\n1. **人工智能与科技竞争**：多篇报道聚焦中美在AI领域的博弈，包括中国在大型语言模型（LLM）竞赛中虽落后但仍有胜算、AI超级应用正重塑中国互联网生态、以及中国开放AI战略如何强化工业主导地位。同时，特斯拉在中国将FSD更名为“特斯拉辅助驾驶”，被认为更符合实际。\n\n2. **中非经贸与关税政策**：中国宣布取消对非洲国家的关税，旨在通过经贸合作应对美国竞争，显示中国在全球供应链和地缘经济中的主动布局。\n\n3. **国内安全与事故**：中国某煤矿发生瓦斯爆炸，死亡人数升至90人，引发对安全生产监管的再次关注。\n\n4. **军事与国防动态**：报道追踪中国第四艘航空母舰的建造进展，称新型超级航母正在浮现，体现中国海军力量持续增强。\n\n5. **核能发展与国际观察**：专题报道中国核能发展现状，同时有分析指出美国对华技术封锁（如芯片）已演变为涉及30个国家的全球供应链博弈。\n\n**今日最值得关注的发展**：中美在AI领域的竞争与协作趋势复杂化，中国通过开放战略和产业政策加速追赶，而特斯拉在中国市场的本土化调整也折射出技术话语权的微妙变化。",
       "count": 29
     }
   }
