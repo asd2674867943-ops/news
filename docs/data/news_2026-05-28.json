@@ -1,14 +1,113 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T17:34:39.279007",
+  "generated_at": "2026-05-28T23:21:45.773141",
   "categories": {
     "tech": {
       "articles": [
         {
+          "id": "7bb059da84ca",
+          "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
+          "link": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
+          "description": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 28 May 2026 23:01:52 +0000"
+        },
+        {
+          "id": "bb1690003689",
+          "title": "The internet is being rebuilt for machines",
+          "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+          "description": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 28 May 2026 21:24:01 +0000"
+        },
+        {
+          "id": "e08c13645c94",
+          "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
+          "link": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
+          "description": "The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 28 May 2026 20:29:00 +0000"
+        },
+        {
+          "id": "8f28c9133d1a",
+          "title": "Asana acquires no-code agent-builder StackAI",
+          "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+          "description": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 28 May 2026 20:06:07 +0000"
+        },
+        {
+          "id": "ce386e8dc2c2",
+          "title": "Bluesky embraces long-form content to counter X Articles",
+          "link": "https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/",
+          "description": "In its latest update, Bluesky is getting into long-form content.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 28 May 2026 19:27:07 +0000"
+        },
+        {
+          "id": "615cebe788c9",
+          "title": "Hackers are trying to steal Signal users’ backups in new wave of phishing attacks",
+          "link": "https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/",
+          "description": "A new hacking campaign is trying to trick Signal users to give up their secret recovery key, which can be used to access online backups containing past messages.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 28 May 2026 19:07:24 +0000"
+        },
+        {
+          "id": "3e54cf00dad3",
+          "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+          "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+          "description": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 28 May 2026 18:52:51 +0000"
+        },
+        {
+          "id": "1b145ac9978b",
+          "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+          "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+          "description": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 28 May 2026 18:32:25 +0000"
+        },
+        {
+          "id": "2a4885a3c14e",
+          "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
+          "link": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
+          "description": "CEO Ariel Katz argues that while AI can replicate workflow SaaS, it can't copy H1’s unique doctor data.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 28 May 2026 18:08:37 +0000"
+        },
+        {
+          "id": "f456418a2e18",
+          "title": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
+          "link": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/",
+          "description": "Pay Tel secured the publicly exposed data after security researchers discovered the leak containing callers' sensitive ID documents and inmate communications.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 28 May 2026 18:00:00 +0000"
+        },
+        {
+          "id": "4a41485c2498",
+          "title": "Why Paris may be the most important AI city outside Silicon Valley",
+          "link": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
+          "description": "Europe’s startup ecosystem has matured significantly; its founders are increasingly willing to scale companies domestically instead of immediately looking to relocate to the U.S.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 28 May 2026 17:35:30 +0000"
+        },
+        {
           "id": "519cc38f6305",
           "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
           "link": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
-          "description": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register here.",
+          "description": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 28 May 2026 17:30:00 +0000"
@@ -23,10 +122,10 @@
           "pub_date": "Thu, 28 May 2026 17:20:53 +0000"
         },
         {
-          "id": "8d213b0dc458",
-          "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth three weeks ago",
+          "id": "d8de8ff67e48",
+          "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago",
           "link": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
-          "description": "Insurance tech Corgi announced today an $106 million Series B1 raise, valuing the company at $2.6 billion, just three weeks after announcing a $160 million Series B.",
+          "description": "While startups raising back-to-back rounds at steep step-ups have become almost routine, a company whose valuation doubles in three weeks is unusual enough to raise questions, particularly given the investor set in both rounds is the same.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 28 May 2026 17:15:00 +0000"
@@ -50,8 +149,8 @@
           "pub_date": "Thu, 28 May 2026 16:52:48 +0000"
         },
         {
-          "id": "1e6e00aaf24c",
-          "title": "U.S. says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’",
+          "id": "b4780fb47830",
+          "title": "US says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’",
           "link": "https://techcrunch.com/2026/05/28/u-s-says-troops-were-targeted-with-location-data-as-senator-warns-ad-industry-is-a-national-security-threat/",
           "description": "One leading privacy lawmaker said it was time to \"start treating the adtech industry as a national security threat.\"",
           "source": "TechCrunch",
@@ -59,8 +158,8 @@
           "pub_date": "Thu, 28 May 2026 16:21:23 +0000"
         },
         {
-          "id": "9474db4092e9",
-          "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+          "id": "6f6ef36522fd",
+          "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
           "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
           "description": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
           "source": "TechCrunch",
@@ -77,112 +176,112 @@
           "pub_date": "Thu, 28 May 2026 15:35:43 +0000"
         },
         {
-          "id": "f0d4f9063bfa",
-          "title": "Slate Auto will start taking orders for its low-cost EV on June 24",
-          "link": "https://techcrunch.com/2026/05/28/slate-auto-will-start-taking-orders-for-its-low-cost-ev-on-june-24/",
-          "description": "The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 28 May 2026 15:34:10 +0000"
-        },
-        {
           "id": "5ec6149b12f3",
           "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
           "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-          "description": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+          "description": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 28 May 2026 14:45:13 +0000"
         },
         {
-          "id": "5261fc44c41c",
-          "title": "Rivian under investigation over rear suspension failures on R1 models",
-          "link": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
-          "description": "At least two owners have lost control of their vehicles after a critical suspension component broke. In both cases, the vehicles had been previously serviced.",
-          "source": "TechCrunch",
+          "id": "5aba5a2b5c45",
+          "title": "2027 Audi RS5 first drive: A performance PHEV with split personalities",
+          "link": "https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/",
+          "description": "Audi has developed an entirely new electric torque-vectoring rear differential.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 14:41:56 +0000"
+          "pub_date": "Thu, 28 May 2026 22:01:02 +0000"
         },
         {
-          "id": "6efa36dafdb6",
-          "title": "RSI is the new AGI — and it’s just as hard to pin down",
-          "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
-          "description": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
-          "source": "TechCrunch",
+          "id": "131a523cc956",
+          "title": "LLMs believe false statements even after explicit warnings that they're false",
+          "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+          "description": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 14:30:17 +0000"
+          "pub_date": "Thu, 28 May 2026 21:29:43 +0000"
         },
         {
-          "id": "059912244c8c",
-          "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
-          "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-          "description": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
-          "source": "TechCrunch",
+          "id": "5e0ca5847504",
+          "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+          "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+          "description": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 14:30:00 +0000"
+          "pub_date": "Thu, 28 May 2026 20:29:53 +0000"
         },
         {
-          "id": "5f34cf81c302",
-          "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
-          "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
-          "description": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
-          "source": "TechCrunch",
+          "id": "2d7d88dcbbee",
+          "title": "US healthcare still stupidly expensive, with pathetic outcomes, study finds",
+          "link": "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
+          "description": "There are strategies to improve healthcare, but US isn't trying them.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 14:28:47 +0000"
+          "pub_date": "Thu, 28 May 2026 20:18:54 +0000"
         },
         {
-          "id": "bbcc997d3450",
-          "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
-          "description": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
-          "source": "TechCrunch",
+          "id": "19d0eeb0cde8",
+          "title": "Researchers develop a new process to get lithium out of rocks",
+          "link": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
+          "description": "If it scales up, it can help us diversify our sources of a key element.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 14:00:00 +0000"
+          "pub_date": "Thu, 28 May 2026 19:30:04 +0000"
         },
         {
-          "id": "e21d513ee73b",
-          "title": "Visa invests in Replit to power agentic payments for developers",
-          "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-          "description": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
-          "source": "TechCrunch",
+          "id": "c2b7ae8956d6",
+          "title": "FBI says Google engineer used internal search data to win $1.2M on Polymarket",
+          "link": "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
+          "description": "FBI: Googler who knew outcome of bets in advance made $1.2M profit on Polymarket.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 14:00:00 +0000"
+          "pub_date": "Thu, 28 May 2026 19:01:54 +0000"
         },
         {
-          "id": "e9435226941f",
-          "title": "Has the hunt for AI compute uncovered the next Cerebras?",
-          "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
-          "description": "General Compute is betting SambaNova will be the next breakout chipmaker.",
-          "source": "TechCrunch",
+          "id": "c489ce198a4e",
+          "title": "A respectable port of Age of Empires II: Definitive Edition invades macOS",
+          "link": "https://arstechnica.com/gaming/2026/05/a-respectable-port-of-age-of-empires-ii-definitive-edition-invades-macos/",
+          "description": "The port seems solid, and all DLC is supported—but there's no crossplay, sadly.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 13:00:00 +0000"
+          "pub_date": "Thu, 28 May 2026 18:42:28 +0000"
         },
         {
-          "id": "54525f34d750",
-          "title": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399",
-          "link": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
-          "description": "The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery life, and more.",
-          "source": "TechCrunch",
+          "id": "5e9440489f97",
+          "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+          "link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+          "description": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 12:00:00 +0000"
+          "pub_date": "Thu, 28 May 2026 18:30:48 +0000"
         },
         {
-          "id": "bba32706eddf",
-          "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-          "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-          "description": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
-          "source": "TechCrunch",
+          "id": "6452b8678c10",
+          "title": "Amazon turns to Jeff Bezos' other company to do some heavy lifting",
+          "link": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
+          "description": "Amazon is turning a corner with its launch providers, but ULA's Vulcan remains grounded.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 07:00:00 +0000"
+          "pub_date": "Thu, 28 May 2026 18:17:41 +0000"
         },
         {
-          "id": "4e4b4c5b3062",
-          "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
-          "link": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
-          "description": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
-          "source": "TechCrunch",
+          "id": "85fbb4e0fd6e",
+          "title": "How pigeons exploit magnetic fields for navigation",
+          "link": "https://arstechnica.com/science/2026/05/how-pigeons-exploit-magnetic-fields-for-navigation/",
+          "description": "Iron-rich immune cells in the liver may act as sensors for magnetic fields, serving as an internal compass.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 00:45:37 +0000"
+          "pub_date": "Thu, 28 May 2026 18:00:22 +0000"
+        },
+        {
+          "id": "fc1f792767ea",
+          "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
+          "link": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
+          "description": "Intel's Arc B390 integrated GPU has offered impressive performance in laptops.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 28 May 2026 17:10:10 +0000"
         },
         {
           "id": "5c86cb747551",
@@ -264,108 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 27 May 2026 19:59:40 +0000"
-        },
-        {
-          "id": "dd99dfdd0b51",
-          "title": "Roku OS’s home screen now features a large, permanent ad",
-          "link": "https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/",
-          "description": "“I don't want recommendations! I know what I want to watch.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 27 May 2026 19:12:59 +0000"
-        },
-        {
-          "id": "0084ee2740f1",
-          "title": "Valve's Steam Deck is back in stock after months, but you won't like it",
-          "link": "https://arstechnica.com/gadgets/2026/05/valves-steam-deck-is-back-in-stock-after-months-but-you-wont-like-it/",
-          "description": "Four-year-old handheld is saddled with an unfortunately modern price tag.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 27 May 2026 19:02:21 +0000"
-        },
-        {
-          "id": "ab0f6b9e20b2",
-          "title": "Trump admin to block Ebola-exposed Americans from US, move them to Kenya",
-          "link": "https://arstechnica.com/health/2026/05/us-walls-itself-off-from-ebola-beefed-up-travel-ban-no-citizen-repatriation/",
-          "description": "Trump official asked CDC staff to volunteer to screen travelers at airports.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 27 May 2026 18:52:45 +0000"
-        },
-        {
-          "id": "6c2f60acf795",
-          "title": "\"Little red dot\" in early Universe is a naked supermassive black hole",
-          "link": "https://arstechnica.com/science/2026/05/little-red-dot-in-early-universe-is-a-naked-supermassive-black-hole/",
-          "description": "The black hole accounts for over two-thirds the mass of the object it inhabits.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 27 May 2026 18:37:57 +0000"
-        },
-        {
-          "id": "6869e3ae7fba",
-          "title": "US Space Force confirms SpaceX will build sensor-to-shooter targeting network",
-          "link": "https://arstechnica.com/space/2026/05/us-space-force-confirms-spacex-will-build-sensor-to-shooter-targeting-network/",
-          "description": "\"We aren’t trading speed for scale; we are demanding both,\" says the military's program manager.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 27 May 2026 18:19:51 +0000"
-        },
-        {
-          "id": "610a8468c009",
-          "title": "Disclosure Day final trailer features Spielberg himself",
-          "link": "https://arstechnica.com/culture/2026/05/disclosure-day-final-trailer-features-spielberg-himself/",
-          "description": "Director describes how his views on existence of aliens have changed, interspersed with footage from film.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 27 May 2026 17:51:07 +0000"
-        },
-        {
-          "id": "4f94a6c11041",
-          "title": "YouTube to begin automatically labeling AI videos",
-          "link": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-          "description": "AI videos that are animated, unrealistic, or only have a little AI may still hide their origins, though.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 27 May 2026 17:36:10 +0000"
-        },
-        {
-          "id": "5329edf951d0",
-          "title": "Smart light company Govee apologizes for “white supremacy” marketing imagery",
-          "link": "https://arstechnica.com/gadgets/2026/05/govee-says-it-mistakenly-licensed-white-supremacy-book-pic-to-sell-smart-lights/",
-          "description": "PR exec says Govee \"did not meet the standard required.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 27 May 2026 17:00:50 +0000"
-        },
-        {
-          "id": "5ad6c2f1ff4f",
-          "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
-          "link": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
-          "description": "Nvidia says the Control Panel's features have been migrated to the Nvidia app.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 27 May 2026 15:06:01 +0000"
-        },
-        {
-          "id": "e5071ff7a2e1",
-          "title": "Volvo gets US government approval to bypass Chinese connected-car ban",
-          "link": "https://arstechnica.com/cars/2026/05/volvo-gets-us-government-approval-to-bypass-chinese-connected-car-ban/",
-          "description": "The ban for model year 2027 onward began under Biden and has been enacted by Trump.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 27 May 2026 14:44:07 +0000"
-        },
-        {
-          "id": "a00919d22908",
-          "title": "Motorola's 2026 Razrs are almost worth buying just for their stunning looks… almost",
-          "link": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
-          "description": "Pretty little phones with pretty big price tags.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 27 May 2026 11:00:28 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI领域新进展**：Anthropic发布Opus 4.8，新增“动态工作流”工具；Oculus创始人创立的对话AI初创公司Sesame推出iOS应用；苹果新Siri应用曝光，意图与ChatGPT等竞争。\n2. **自动驾驶与电动汽车**：Waymo新款无人驾驶出租车由中国制造，已开始载客运营；Rivian因R1车型后悬挂故障被调查；低成本电动汽车公司Slate Auto将于6月24日开始接单。\n3. **初创公司融资与估值**：Corgi宣布以26亿美元估值完成1.06亿美元融资，三周内估值翻倍；TechCrunch Startup Battlefield 200申请截止日因需求火爆延长至6月8日。\n4. **科技活动与行业动态**：Strictly VC即将在洛杉矶举办；TechCrunch Disrupt 2026门票优惠最后两天；Databricks联合创始人将在该活动上探讨企业AI交易失败原因。\n5. **数据安全与行业警示**：美国政府称军方人员位置数据被用于定位，参议员警告广告行业构成“国家安全威胁”；YouTube新增AI推荐播客功能和“自动速度”播放。\n\n**今日最值得关注的发展**：Anthropic发布Opus 4.8及多家人工智能公司推出新产品，显示AI工具正加速向实用化、动态化演进；同时数据安全与自动驾驶领域的监管与风险问题持续升温。",
+      "summary": "今日科技动态摘要\n\n1. **AI与资本动态**：Anthropic完成65亿美元融资，估值逼近1万亿美元，并发布Opus 4.8模型及“动态工作流”工具；AI代币期货即将像黄金和石油一样可交易。\n2. **创业与投资**：Startup Battlefield 2026申请截止日延长至6月8日；Slate Auto将于6月24日公布电动汽车定价并开启预购；Asana收购无代码智能体构建平台StackAI；H1获CVS 4000万美元投资，显示SaaS初创公司仍具吸引力；Corgi以26亿美元估值完成1.06亿美元融资，三周内估值翻倍。\n3. **安全与隐私**：黑客发起新一轮钓鱼攻击，试图窃取Signal用户备份数据；监狱付费电话服务Pay Tel因安全漏洞泄露超30万呼叫者的驾照信息。\n4. **平台与内容演变**：Bluesky引入长文内容功能以对抗X平台的文章模式；互联网正被重构为机器服务的新基础设施。\n5. **区域与活动**：巴黎被认为可能是硅谷以外最重要的AI城市；StrictlyVC活动将于三周后在洛杉矶举办。\n\n**今日最值得关注的发展**：Anthropic以近万亿美元估值完成65亿美元融资并发布新一代模型，标志着AI领域的资本与技术创新竞争进入新阶段。",
       "count": 40
     },
     "ai": {
@@ -614,7 +614,7 @@
           "pub_date": "Wed, 27 May 2026 09:31:05 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AI前沿模型在IT任务基准测试中表现不佳**：ITBench-AA基准测试显示，前沿模型在企业IT代理任务中的得分低于50%，表明当前AI在复杂企业场景下的能力仍有显著局限。\n2. **开源与本地化AI进展显著**：Reachy Mini实现完全本地化运行；Warp押注基于GPT-5.5的开源开发；Hugging Face推出万亿参数模型的Delta权重同步方案，推动大型模型高效共享。\n3. **企业AI应用与治理加速落地**：Cisco与OpenAI联合推出企业工程助手Codex，并用于构建自我优化的税务代理；OpenAI发布前沿治理框架，并入选Gartner企业编码代理领导者。\n4. **速度与专业化成为关键趋势**：Nemotron-Labs推出类光速文本生成的扩散语言模型；同时强调“专业化优于规模”的战略，认为这一变量常被AI采购决策忽视。\n5. **2026年AI生态与信息治理并行发展**：Google I/O 2026总结12大重要时刻；OpenAI公布2026年选举信息保障措施，并与巴西媒体集团达成战略内容合作。\n\n**今日最值得关注的发展**：AI在专业企业任务中的表现仍低于预期，但开源协作、本地化部署与专业化策略正成为推动AI落地的核心方向。",
+      "summary": "今日AI动态摘要\n\n1. **AI Agent性能基准与工程实践**：ITBench-AA首次建立企业IT任务Agent基准，前沿模型得分不足50%；同时业界涌现多项Agent相关进展，如Cisco与OpenAI用Codex重新定义企业工程、OpenAI推出自改进税务Agent，以及Harness、Scaffold等Agent核心术语的规范化讨论。\n\n2. **模型创新与部署新趋势**：Nemotron-Labs推出接近光速的扩散语言模型文本生成；TRL通过Hub Bucket实现万亿参数模型增量权重同步；Reachy Mini机器人实现完全本地化运行，无需云端依赖。\n\n3. **战略与治理方向突破**：OpenAI发布前沿治理框架，并公布2026年选举信息与保障措施；业界提出“专业化优于规模”的AI采购新策略，强调垂直领域定制化价值；Google I/O 2026发布12项重大更新及Dialogues舞台内容。\n\n4. **企业合作与开源生态**：Warp押注GPT-5.5开源构建；OpenAI与巴西Grupo Folha、Grupo UOL达成战略内容合作；Gartner将OpenAI列为企业编码Agent领导者。\n\n**今日最值得关注的发展**：AI Agent在企业级任务中的表现仍存显著瓶颈（基准测试低于50%），但专业化、本地化、开源化与治理框架的同步推进，正为下一阶段实用化突破奠定基础。",
       "count": 27
     },
     "cctv": {
@@ -623,7 +623,7 @@
           "id": "d820aac804f6",
           "title": "The Impossible Partnership: Apple's Coming Reckoning with China",
           "link": "https://americanaffairsjournal.org/2026/05/the-impossible-partnership-apples-coming-reckoning-with-china/",
-          "description": "Article URL: https://americanaffairsjournal.org/2026/05/the-impossible-partnership-apples-coming-reckoning-with-china/ Comments URL: https://news.ycombinator.com/item?id=48312294 Points: 1 # Comments: 1",
+          "description": "Article URL: https://americanaffairsjournal.org/2026/05/the-impossible-partnership-apples-coming-reckoning-with-china/ Comments URL: https://news.ycombinator.com/item?id=48312294 Points: 3 # Comments: 2",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 28 May 2026 17:21:46 +0000"
@@ -632,7 +632,7 @@
           "id": "8fa6227492c3",
           "title": "The world's carmakers are struggling to compete with China",
           "link": "https://www.bbc.com/news/articles/c4g8vg72z43o",
-          "description": "Article URL: https://www.bbc.com/news/articles/c4g8vg72z43o Comments URL: https://news.ycombinator.com/item?id=48310093 Points: 2 # Comments: 0",
+          "description": "Article URL: https://www.bbc.com/news/articles/c4g8vg72z43o Comments URL: https://news.ycombinator.com/item?id=48310093 Points: 3 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 28 May 2026 15:12:10 +0000"
@@ -881,7 +881,7 @@
           "pub_date": "Sun, 24 May 2026 07:38:51 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中国社会保障改革与民生改善**：中国取消农民工户籍限制，推动社会保险体系改革；同时，太阳能扶贫项目提高了居民收入并降低了空气污染，体现了民生领域的积极进展。\n2. **科技自主创新与突破**：华为在芯片设计上取得突破，以应对美国制裁；中国研发人工智能代币期货市场，并升级全球最大监控网络，引入先进AI技术，展现科技自立自强。\n3. **国际竞争与合作动态**：全球汽车制造商难以与中国竞争；欧洲政界人士警告与中国对抗是“致命错误”；荷兰内阁成员声称中国可能对公交车安装“关闭开关”，反映外界对中国技术崛起的复杂态度。\n4. **人才与资源战略**：中国通过旅行限制留住顶尖AI人才；分析人士关注中国火箭残骸问题，但中国同时安装全球最大浮式风力涡轮机，显示在清洁能源领域的持续推进。\n5. **地缘政治与安全议题**：韩国拘留一名从中国乘橡皮艇逃离的异见人士；西方分析师讨论如何削弱中国的海军选择；中美AI竞争成为多国讨论焦点。\n\n**今日最值得关注的发展**：中国在科技自主创新（华为芯片突破、AI市场建设）与民生保障（社保改革、太阳能扶贫）方面同步推进，显示出在复杂国际环境下坚持高质量发展与科技自立自强的战略定力。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国深化社会保障改革**：取消农民工落户限制，推动社会保险体系整合，提升流动人口权益保障。  \n2. **科技自主突破与竞争**：华为展示芯片设计新进展，试图突破美国制裁；中国通过旅行限制保留顶尖AI人才，并推进AI代币期货市场建设。  \n3. **清洁能源与环保进展**：太阳能扶贫项目降低污染并提高收入；全球最大浮式风力涡轮机完成深海测试。  \n4. **国际产业与安全博弈**：全球车企面临中国竞争压力；荷兰官员称中国或对出口公交车启用“远程控制开关”；欧洲政客警告对华政策存在致命错误。  \n5. **监控与空间技术争议**：中国升级全球最大监控网络并融入AI技术；分析人士指中国火箭残骸问题持续恶化。  \n\n今日最值得关注的发展：中国在社会保障、AI人才管控及新能源技术上的多线推进，凸显其加速“内循环”与科技自主的战略重心，同时国际社会对华技术依赖与安全担忧同步上升。",
       "count": 29
     }
   }
