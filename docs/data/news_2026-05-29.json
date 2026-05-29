@@ -1,13 +1,49 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T17:34:53.879298",
+  "generated_at": "2026-05-29T23:18:51.473803",
   "categories": {
     "tech": {
       "articles": [
         {
-          "id": "f90ce43b6d16",
-          "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
-          "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+          "id": "9c9cc8bac577",
+          "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
+          "link": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
+          "description": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 29 May 2026 22:21:38 +0000"
+        },
+        {
+          "id": "b684bdc8db0d",
+          "title": "Coders are refusing to work without AI — and that could come back to bite them",
+          "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+          "description": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 29 May 2026 22:14:22 +0000"
+        },
+        {
+          "id": "51f48d9e2ae3",
+          "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+          "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 29 May 2026 18:49:19 +0000"
+        },
+        {
+          "id": "6ff53e4f4998",
+          "title": "What happens when companies become too AI-pilled?",
+          "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+          "description": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 29 May 2026 17:57:05 +0000"
+        },
+        {
+          "id": "71e8772b4a67",
+          "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+          "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
           "description": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
           "source": "TechCrunch",
           "category": "tech",
@@ -149,40 +185,58 @@
           "pub_date": "Thu, 28 May 2026 19:07:24 +0000"
         },
         {
-          "id": "3e54cf00dad3",
-          "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-          "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-          "description": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
-          "source": "TechCrunch",
+          "id": "3771cd375c6e",
+          "title": "Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there",
+          "link": "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
+          "description": "The US has previously built specialized facilities just for this purpose.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 18:52:51 +0000"
+          "pub_date": "Fri, 29 May 2026 21:17:09 +0000"
         },
         {
-          "id": "1b145ac9978b",
-          "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-          "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-          "description": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
-          "source": "TechCrunch",
+          "id": "3b58aa6941a1",
+          "title": "Botnet of more than 17 million devices dismantled",
+          "link": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+          "description": "The botnet was reportedly tied to a Russia-based residential proxy network.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 18:32:25 +0000"
+          "pub_date": "Fri, 29 May 2026 18:46:33 +0000"
         },
         {
-          "id": "2a4885a3c14e",
-          "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
-          "link": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
-          "description": "CEO Ariel Katz argues that while AI can replicate workflow SaaS, it can't copy H1’s unique doctor data.",
-          "source": "TechCrunch",
+          "id": "2de9de2c3e70",
+          "title": "Analysis of Texas measles outbreak shows just how dangerous virus is",
+          "link": "https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/",
+          "description": "About 1 in 5 cases were hospitalized and most of those developed complications.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 18:08:37 +0000"
+          "pub_date": "Fri, 29 May 2026 18:35:38 +0000"
         },
         {
-          "id": "f456418a2e18",
-          "title": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
-          "link": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/",
-          "description": "Pay Tel secured the publicly exposed data after security researchers discovered the leak containing callers' sensitive ID documents and inmate communications.",
-          "source": "TechCrunch",
+          "id": "c20fb7413519",
+          "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
+          "link": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
+          "description": "\"The crown is a weight that crushes. You'll do things that spell death for all involved.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 28 May 2026 18:00:00 +0000"
+          "pub_date": "Fri, 29 May 2026 18:21:44 +0000"
+        },
+        {
+          "id": "534a1dacb152",
+          "title": "Trump FCC warns all broadcasters to follow orders or be punished like ABC",
+          "link": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/",
+          "description": "ABC says early renewal for all stations is unprecedented, has no legitimate purpose.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 29 May 2026 18:09:43 +0000"
+        },
+        {
+          "id": "de6adce4d3a1",
+          "title": "DOJ sues states that rejected ICE requests for undercover license plates",
+          "link": "https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/",
+          "description": "DOJ keeps accusing ICE monitoring sites of doxing, but evidence remains scarce.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 29 May 2026 17:41:56 +0000"
         },
         {
           "id": "39c40ab6c894",
@@ -309,63 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Thu, 28 May 2026 18:42:28 +0000"
-        },
-        {
-          "id": "5e9440489f97",
-          "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
-          "link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-          "description": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 28 May 2026 18:30:48 +0000"
-        },
-        {
-          "id": "6452b8678c10",
-          "title": "Amazon turns to Jeff Bezos' other company to do some heavy lifting",
-          "link": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
-          "description": "Amazon is turning a corner with its launch providers, but ULA's Vulcan remains grounded.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 28 May 2026 18:17:41 +0000"
-        },
-        {
-          "id": "85fbb4e0fd6e",
-          "title": "How pigeons exploit magnetic fields for navigation",
-          "link": "https://arstechnica.com/science/2026/05/how-pigeons-exploit-magnetic-fields-for-navigation/",
-          "description": "Iron-rich immune cells in the liver may act as sensors for magnetic fields, serving as an internal compass.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 28 May 2026 18:00:22 +0000"
-        },
-        {
-          "id": "fc1f792767ea",
-          "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
-          "link": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
-          "description": "Intel's Arc B390 integrated GPU has offered impressive performance in laptops.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 28 May 2026 17:10:10 +0000"
-        },
-        {
-          "id": "5c86cb747551",
-          "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-          "link": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-          "description": "Here’s why Anthropic and OpenAI are on board with Illinois safety testing.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 28 May 2026 17:01:16 +0000"
-        },
-        {
-          "id": "cde8e75a15be",
-          "title": "Steam Deck sells out in North America within 24 hours of price hike",
-          "link": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
-          "description": "Europe, Australia, and Asia can still get it while the getting's good.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 28 May 2026 15:43:41 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI芯片与算力竞争加剧**：英伟达完成200亿美元非收购式人才整合后，AI芯片初创公司Groq据传正以更高估值融资6.5亿美元；另一家芯片初创公司获1.35亿美元投资，认为AI瓶颈在于内存而非算力。\n2. **企业AI应用与市场动态**：企业搜索公司Glean营收突破3亿美元，以“AI预算削减”为核心卖点；Asana收购无代码AI代理构建平台StackAI；Cognition CEO强调AI编程代理不应取代人类。\n3. **自动驾驶与太空探索进展**：Waymo在自动驾驶汽车注册量上领先，特斯拉落后；蓝色起源“新格伦”火箭在佛罗里达测试中爆炸。\n4. **科技活动与行业趋势**：TechCrunch Disrupt 2026申请及优惠购票进入最后24小时；Startup Battlefield 2026申请截止日期为6月8日；互联网正被重塑为面向机器的系统。\n5. **其他亮点**：微软因威胁对安全研究员提起刑事诉讼而遭批评；Kiwibit推出AI智能鸟 feeder；Bluesky推出长文功能对抗X平台文章；Slate Auto将于6月24日公布电动车定价并开启预订。\n\n今日最值得关注的发展是AI芯片领域竞争白热化，多家初创公司围绕算力与内存瓶颈展开差异化融资与布局。",
+      "summary": "今日科技动态摘要\n\n1. **SpaceX获65亿美元太空军合同**：在IPO前夕，SpaceX与美国太空军签署了价值65亿美元的合同，凸显其在航天领域的核心地位。\n2. **AI编程伦理与行业争议**：多篇报道聚焦AI对程序员的影响——部分开发者拒绝无AI辅助工作，但专家警告过度依赖可能带来风险；Cognition公司CEO表示AI编程代理不应取代人类。\n3. **芯片与人工智能硬件竞争加剧**：继英伟达200亿美元“非收购式招聘”后，AI芯片初创公司Groq拟融资6.5亿美元；另一家芯片初创获1.35亿美元投资，押注AI瓶颈在于内存而非算力。\n4. **微软威胁安全研究员遭批评**：微软因以刑事调查威胁一名安全研究员而引发争议，凸显科技巨头在安全披露与法律手段间的紧张关系。\n5. **自动驾驶与航天测试动态**：Waymo在自动驾驶车辆注册量上大幅领先特斯拉；蓝色起源的“新格伦”火箭在佛罗里达测试中爆炸，航天探索再遇挫折。\n\n**今日最值得关注的发展**：SpaceX在IPO前夕拿下巨额军事合同，标志着商业航天与国防深度融合的加速；同时，AI行业正从“狂热采用”转向对伦理风险、硬件瓶颈及企业过度依赖的理性反思。",
       "count": 40
     },
     "ai": {
@@ -425,6 +425,24 @@
           "pub_date": "Sat, 23 May 2026 00:02:03 GMT"
         },
         {
+          "id": "eb4b8a96cfd3",
+          "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+          "description": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 29 May 2026 19:00:00 +0000"
+        },
+        {
+          "id": "bbccba33aa9f",
+          "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+          "description": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 29 May 2026 17:30:00 +0000"
+        },
+        {
           "id": "14f1f412c115",
           "title": "Check out real-life AI prototypes from the Futures Lab.",
           "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
@@ -443,19 +461,19 @@
           "pub_date": "Thu, 28 May 2026 15:00:00 +0000"
         },
         {
-          "id": "9b8edf7c31aa",
-          "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-          "description": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
-          "source": "Google AI Blog",
-          "category": "ai",
-          "pub_date": "Fri, 22 May 2026 18:00:00 +0000"
-        },
-        {
           "id": "5db973058d4d",
           "title": "Boston Children’s uses AI to unlock new diagnoses",
           "link": "https://openai.com/index/boston-childrens-hospital",
           "description": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 29 May 2026 12:00:00 GMT"
+        },
+        {
+          "id": "0cac0a322fb6",
+          "title": "How Braintrust turns customer requests into code with Codex",
+          "link": "https://openai.com/index/braintrust",
+          "description": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Fri, 29 May 2026 12:00:00 GMT"
@@ -488,19 +506,19 @@
           "pub_date": "Thu, 28 May 2026 12:00:00 GMT"
         },
         {
-          "id": "3c549edbfcbf",
-          "title": "MUFG aims to become AI-native with OpenAI",
-          "link": "https://openai.com/index/mufg",
-          "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+          "id": "9b61a261c9ff",
+          "title": "OpenAI’s Frontier Governance Framework",
+          "link": "https://openai.com/index/openai-frontier-governance-framework",
+          "description": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 28 May 2026 00:00:00 GMT"
         },
         {
-          "id": "9b61a261c9ff",
-          "title": "OpenAI’s Frontier Governance Framework",
-          "link": "https://openai.com/index/openai-frontier-governance-framework",
-          "description": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+          "id": "3c549edbfcbf",
+          "title": "MUFG aims to become AI-native with OpenAI",
+          "link": "https://openai.com/index/mufg",
+          "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 28 May 2026 00:00:00 GMT"
@@ -524,19 +542,19 @@
           "pub_date": "Wed, 27 May 2026 07:00:00 GMT"
         },
         {
-          "id": "12bab45d5649",
-          "title": "Election information and safeguards in 2026",
-          "link": "https://openai.com/index/election-safeguards-2026",
-          "description": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+          "id": "518734b97dda",
+          "title": "Warp’s big bet on building open source with GPT-5.5",
+          "link": "https://openai.com/index/warp",
+          "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 27 May 2026 00:00:00 GMT"
         },
         {
-          "id": "518734b97dda",
-          "title": "Warp’s big bet on building open source with GPT-5.5",
-          "link": "https://openai.com/index/warp",
-          "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+          "id": "12bab45d5649",
+          "title": "Election information and safeguards in 2026",
+          "link": "https://openai.com/index/election-safeguards-2026",
+          "description": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 27 May 2026 00:00:00 GMT"
@@ -621,31 +639,31 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Fri, 29 May 2026 08:32:52 +0000"
-        },
-        {
-          "id": "f69d71c92f74",
-          "title": "刚刚，全球⾸个“事件级预测”具身智能世界模型来了！",
-          "link": "https://www.qbitai.com/2026/05/426366.html",
-          "description": "从按帧学动作，到按「事件」理解世界",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 29 May 2026 07:02:05 +0000"
-        },
-        {
-          "id": "c86a39eef035",
-          "title": "清华系团队给大模型织了一张“智能算力电网”",
-          "link": "https://www.qbitai.com/2026/05/426353.html",
-          "description": "单位Token成本降低40%",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 29 May 2026 02:47:09 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **PyTorch性能分析入门**：Hugging Face发布了《torch.profiler初学者指南》，帮助开发者优化PyTorch模型性能。\n2. **企业级AI代理任务基准测试**：IBM与Artificial Analysis联合推出ITBench-AA基准，结果显示前沿模型在企业IT代理任务中得分低于50%，凸显当前AI在复杂企业场景中的局限性。\n3. **AI模型与工具新进展**：包括Reachy Mini实现全本地化运行、Hugging Face推出万亿参数级Delta权重同步功能、Nemotron-Labs发布接近光速的扩散语言模型，以及Google AI展示真实AI原型。\n4. **AI行业应用与治理**：波士顿儿童医院利用AI解锁新诊断方法；OpenAI发布生物防御、可信第三方评估、前沿治理框架等多篇博客，强调AI的社会韧性建设与负责任部署；MUFG与Endava分别宣布与OpenAI合作，推动AI原生银行及代理型组织建设。\n\n今日最值得关注的发展：**企业级AI代理任务基准测试揭示前沿模型在真实IT场景中表现不足，同时开源社区与科技巨头在模型效率、本地化部署及行业治理上加速推进，AI实用化与责任化并重成为主旋律。**",
+      "summary": "今日AI动态摘要\n\n1. **PyTorch性能分析入门**：Hugging Face发布了《Profiling in PyTorch》系列第一部分，面向初学者介绍如何使用`torch.profiler`进行模型性能分析。\n2. **企业IT智能体基准测试**：Artificial Analysis与IBM联合推出ITBench-AA基准，结果显示前沿模型在企业IT任务中的得分低于50%，暴露了智能体在复杂企业场景中的不足。\n3. **多模态与端侧AI进展**：Reachy Mini机器人实现完全本地化运行；Nemotron-Labs推出类扩散语言模型，旨在实现接近光速的文本生成；Google展示Gemini Omni与Gemini 3.5的9个实际应用demo。\n4. **AI在医疗与生物防御中的应用**：波士顿儿童医院利用AI解锁新诊断方法；OpenAI与Rosalind Biodefense合作加强社会生物防御韧性；OpenAI发布可信第三方评估共享指南。\n5. **企业级AI代理与代码生成**：Endava与Braintrust分别利用OpenAI Codex构建智能体组织及将客户需求转化为代码；Hugging Face推出Delta Weight Sync技术，支持万亿参数模型的高效分发。\n\n**今日最值得关注的发展**：企业IT智能体基准测试揭示前沿模型在真实任务中表现不足，表明AI代理在复杂企业场景中的实用化仍面临重大挑战。",
       "count": 30
     },
     "cctv": {
       "articles": [
+        {
+          "id": "a51122b0b08c",
+          "title": "What Employers Need to Know About China's New Rules for Over-Age Employees",
+          "link": "https://www.littler.com/news-analysis/asap/beyond-retirement-what-employers-need-know-about-chinas-new-rules-over-age",
+          "description": "Article URL: https://www.littler.com/news-analysis/asap/beyond-retirement-what-employers-need-know-about-chinas-new-rules-over-age Comments URL: https://news.ycombinator.com/item?id=48330518 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 29 May 2026 23:06:11 +0000"
+        },
+        {
+          "id": "f2b4d3f203c4",
+          "title": "In remote desert, China building an anti-nuclear defense world has never seen",
+          "link": "https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/",
+          "description": "Article URL: https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/ Comments URL: https://news.ycombinator.com/item?id=48329873 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 29 May 2026 22:00:58 +0000"
+        },
         {
           "id": "d31ee3710bcb",
           "title": "Satellite images show China preparing expansion nuclear capabilities to hit US",
@@ -659,7 +677,7 @@
           "id": "ada5eec2eb32",
           "title": "Kevin O'leary claims China stirred data-center protests",
           "link": "https://www.washingtonpost.com/technology/2026/05/29/shark-tank-kevin-oleary-claims-china-stirred-data-center-protests/",
-          "description": "Article URL: https://www.washingtonpost.com/technology/2026/05/29/shark-tank-kevin-oleary-claims-china-stirred-data-center-protests/ Comments URL: https://news.ycombinator.com/item?id=48322159 Points: 2 # Comments: 3",
+          "description": "Article URL: https://www.washingtonpost.com/technology/2026/05/29/shark-tank-kevin-oleary-claims-china-stirred-data-center-protests/ Comments URL: https://news.ycombinator.com/item?id=48322159 Points: 3 # Comments: 3",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 29 May 2026 12:18:19 +0000"
@@ -888,27 +906,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Mon, 25 May 2026 12:17:02 +0000"
-        },
-        {
-          "id": "99289a02768d",
-          "title": "Successful Launch Spurs China Toward Crucial First for Moon Landing",
-          "link": "https://www.sciencealert.com/successful-launch-spurs-china-toward-crucial-first-for-moon-landing",
-          "description": "Article URL: https://www.sciencealert.com/successful-launch-spurs-china-toward-crucial-first-for-moon-landing Comments URL: https://news.ycombinator.com/item?id=48265188 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 25 May 2026 10:07:50 +0000"
-        },
-        {
-          "id": "d5c7c6b8058f",
-          "title": "China Launches Manned Spaceship on Mission Orbit Tiangong Space Station [video]",
-          "link": "https://www.youtube.com/watch?v=Qk-IZODWUzM",
-          "description": "Article URL: https://www.youtube.com/watch?v=Qk-IZODWUzM Comments URL: https://news.ycombinator.com/item?id=48262880 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 25 May 2026 02:25:41 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **军事与地缘安全**：多篇报道聚焦中国核力量与军事设施建设，包括卫星图像显示中国可能扩大核能力以应对美国、在核导弹发射井附近修建发射台，以及分析文章探讨如何限制中国的海上军事选项。\n2. **中美科技竞争**：华为宣布芯片设计突破以突破美国制裁，中国通过旅行限制留住顶尖AI人才，并发展AI代币期货市场，同时有评论认为苹果与中国合作关系面临挑战。\n3. **国际产业与经济博弈**：全球汽车制造商难以与中国竞争；欧洲被指与中国打交道犯下“致命错误”；荷兰官员称中国可能对公交车使用“远程关闭开关”；中国改革社保体系，取消农民工户籍限制。\n4. **国内社会治理与科技应用**：中国升级最大监控网络，引入先进AI技术；太阳能扶贫项目提升收入并降低空气污染；韩国拘留一名从中国乘橡皮艇出逃的异见人士。\n5. **数据与舆论争议**：美国企业家凯文·奥利里声称中国煽动数据中心抗议；美国节目分析称中国正通过限制人才流动保持AI领域优势。\n\n**今日最值得关注的发展**：中国在核设施、芯片、AI及监控等领域的自主能力持续强化，同时通过社保改革与扶贫项目推进内部治理，而国际社会对华博弈与争议性叙事同步升温。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国完善超龄劳动者用工规则**：针对超过法定退休年龄的劳动者，中国出台新规，明确雇主需注意的法律责任与合规要求，保障这一群体权益。\n\n2. **中国在偏远沙漠建设前所未有的反核防御设施**：卫星图像显示，中国正在沙漠地区推进反核防御工程，同时扩建核导弹发射井及相关发射场，引发外界对核能力发展的关注。\n\n3. **中国推动社保改革与户籍松绑**：全面取消农民工社保参保的户籍限制，进一步打破城乡二元结构，提升社会保障覆盖面与公平性。\n\n4. **中国在AI与半导体领域取得突破**：华为宣布芯片设计新进展，试图突破美国制裁；同时中国积极布局AI代币期货市场，并限制顶尖AI人才出境以保留核心技术。\n\n5. **国际舆论聚焦中国产业与地缘影响**：全球车企面临与中国竞争的压力，苹果在中国市场面临合作困境；欧洲政要警告对华政策失误，荷兰官员称中国可能对公交车启用“远程开关”功能。\n\n**今日最值得关注的发展**：中国在核防御与核能力建设上的双重动作，以及华为芯片突破所代表的科技自主化进程，成为国际社会聚焦的核心议题。",
       "count": 29
     }
   }
