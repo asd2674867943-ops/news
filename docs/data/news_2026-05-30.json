@@ -1,9 +1,63 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T15:09:36.121657",
+  "generated_at": "2026-05-30T23:03:44.603930",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "a5cf94429bea",
+          "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+          "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+          "description": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 30 May 2026 21:45:00 +0000"
+        },
+        {
+          "id": "714d65d4d706",
+          "title": "This weekend’s two biggest movies were both directed by YouTubers",
+          "link": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+          "description": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 30 May 2026 21:12:37 +0000"
+        },
+        {
+          "id": "ca689e4b5d01",
+          "title": "Snap alums unveil Ghost Angels fund",
+          "link": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+          "description": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 30 May 2026 17:00:00 +0000"
+        },
+        {
+          "id": "5a4875b3aeed",
+          "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+          "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+          "description": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 30 May 2026 16:30:00 +0000"
+        },
+        {
+          "id": "733291a0f53d",
+          "title": "Meta is reportedly developing an AI pendant",
+          "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+          "description": "Meta seems to be making big bets on AI-powered hardware.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 30 May 2026 15:59:58 +0000"
+        },
+        {
+          "id": "58b5e4527ad3",
+          "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+          "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+          "description": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 30 May 2026 15:30:00 +0000"
+        },
         {
           "id": "3c980036414f",
           "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
@@ -129,60 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 29 May 2026 14:15:00 +0000"
-        },
-        {
-          "id": "a398102d52cf",
-          "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
-          "link": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
-          "description": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 29 May 2026 14:00:00 +0000"
-        },
-        {
-          "id": "4407ed78bc76",
-          "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-          "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
-          "description": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 29 May 2026 13:00:00 +0000"
-        },
-        {
-          "id": "00780d543ba3",
-          "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
-          "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-          "description": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 29 May 2026 12:00:00 +0000"
-        },
-        {
-          "id": "771490274bb0",
-          "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
-          "link": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
-          "description": "The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 29 May 2026 01:22:16 +0000"
-        },
-        {
-          "id": "ea06200be79d",
-          "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
-          "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-          "description": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 29 May 2026 00:44:37 +0000"
-        },
-        {
-          "id": "0c30d631da5f",
-          "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
-          "link": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
-          "description": "A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 29 May 2026 00:14:35 +0000"
         },
         {
           "id": "54135eaf9b26",
@@ -365,7 +365,7 @@
           "pub_date": "Thu, 28 May 2026 20:18:54 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI行业狂热与反思**：多位顶级风投对AI热潮发表看法，同时有报道指出程序员拒绝无AI工作、企业过度依赖AI可能带来风险，以及AI编码代理不应取代人类。\n\n2. **浏览器与超级应用竞争**：2026年Chrome和Safari面临新兴浏览器挑战；TikTok正加速向“超级应用”转型。\n\n3. **科技巨头法律与商业动态**：印度法院裁决后，创业者借机批评谷歌广告业务；SpaceX获64.5亿美元太空部队合同，为IPO铺路；微软因威胁安全研究员面临批评。\n\n4. **AI硬件与融资**：英伟达20亿美元“未完成”收购后，AI芯片初创公司Groq据报融资6.5亿美元。\n\n5. **科技生活产品与活动**：300美元披萨烤箱提升夏日体验；肽类物质在硅谷受追捧；TechCrunch Disrupt 2026演讲申请与购票优惠进入最后期限。\n\n**今日最值得关注的发展**：AI领域的狂热与反思并存，从风投观点、开发者依赖到企业过度应用，行业正面临从“追捧”到“理性审视”的关键转折。",
+      "summary": "今日科技动态摘要\n\n1. **软银巨额投资法国数据中心**：软银宣布将投资高达750亿欧元，用于在法国建设数据中心，显示其对欧洲数字基础设施的长期布局。\n2. **AI开发工具与开发者争议**：GitHub Copilot的新按token计费模式引发开发者强烈不满，被批评为“笑话”；同时有报道指出，程序员开始拒绝在没有AI辅助的情况下工作，这可能带来职业风险。\n3. **科技巨头AI硬件与浏览器竞争**：Meta被曝正在开发AI挂坠设备；谷歌的AI助手Gemini Spark被测试为实用工具；浏览器市场竞争加剧，2026年Chrome和Safari将面临多个热门替代者。\n4. **短视频平台超级应用化**：TikTok正加速转型为“超级应用”，拓展更多服务功能；同时，Snap前员工推出新基金“Ghost Angels”，关注创投领域。\n5. **硅谷前沿趋势与太空合同**：SpaceX在IPO前获得美国太空部队64.5亿美元合同；硅谷对肽类药物的痴迷引发关注，包括所谓的“类固醇奥运会”；三位顶级风投对当前AI热潮的“群体思维”现象发表了看法。\n\n**今日最值得关注的发展：软银以750亿欧元押注法国数据中心，标志着全球科技巨头在欧洲基础设施领域的竞争进一步升级。**",
       "count": 40
     },
     "ai": {
@@ -560,15 +560,6 @@
           "pub_date": "Mon, 25 May 2026 00:00:00 GMT"
         },
         {
-          "id": "32bd0be93ffb",
-          "title": "How We Test AI: LLM and GenAI Security Methodology at Anvil Secure",
-          "link": "https://www.anvilsecure.com/blog/llm-genai-security-methodology-at-anvil-secure.html",
-          "description": "Article URL: https://www.anvilsecure.com/blog/llm-genai-security-methodology-at-anvil-secure.html Comments URL: https://news.ycombinator.com/item?id=48311391 Points: 3 # Comments: 0",
-          "source": "HN-AI",
-          "category": "ai",
-          "pub_date": "Thu, 28 May 2026 16:34:01 +0000"
-        },
-        {
           "id": "2e162b108e71",
           "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
           "link": "https://www.qbitai.com/2026/05/426706.html",
@@ -639,15 +630,286 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Fri, 29 May 2026 09:05:30 +0000"
+        },
+        {
+          "id": "87d6d7d7d96b",
+          "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
+          "link": "https://www.qbitai.com/2026/05/426447.html",
+          "description": "下一波AI创作浪潮正在游戏领域发生",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 29 May 2026 08:50:10 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **PyTorch性能分析入门**：Hugging Face发布《Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler》，为开发者提供使用torch.profiler进行模型性能分析的基础教程。\n\n2. **企业IT智能体基准测试**：IBM与Artificial Analysis联合发布ITBench-AA基准，结果显示前沿模型在企业IT任务中的得分低于50%，凸显智能体在复杂企业场景中的挑战。\n\n3. **Google I/O 2026前瞻与Gemini新功能**：Google AI Blog密集发布多项内容，包括I/O 2026问答、Gemini Omni与Gemini 3.5的9个演示、未来实验室AI原型，以及12个I/O 2026重大时刻回顾。\n\n4. **OpenAI多领域应用与治理框架**：OpenAI Blog发布多项进展，包括波士顿儿童医院用AI解锁新诊断、Braintrust与Endava利用Codex实现代码自动化、Rosalind生物防御项目，以及前沿治理框架和第三方评估指南。\n\n5. **本地化与模型部署创新**：Hugging Face推出Reachy Mini完全本地化版本，以及TRL中基于Hub Bucket的Delta Weight同步技术，支持万亿参数模型的规模化部署。\n\n**今日最值得关注的是：前沿模型在企业级智能体任务中表现仍不足50%，而OpenAI与Google正加速推动AI在医疗、代码生成和治理框架等实际场景中的落地与规范化。**",
+      "summary": "今日AI动态摘要\n\n1. **PyTorch性能分析入门**：Hugging Face发布了《Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler》，为开发者提供使用torch.profiler进行模型性能分析的基础教程。\n2. **企业级AI代理基准测试**：Artificial Analysis与IBM联合推出ITBench-AA基准，结果显示前沿模型在企业IT代理任务中的得分低于50%，揭示了当前AI在复杂企业场景中的局限性。\n3. **本地化机器人与万亿参数部署**：Reachy Mini机器人实现完全本地化运行；同时，Hugging Face介绍了通过Hub Bucket实现Delta Weight同步，以支持万亿参数模型的部署。\n4. **Google I/O 2026亮点**：Google AI博客密集发布多项更新，包括Gemini Omni与Gemini 3.5的9个演示、AI原型展示、以及12个I/O 2026重大时刻回顾，并推出由AI Studio“氛围编码”的I/O 2026问答测试。\n5. **OpenAI多领域应用与治理**：OpenAI博客展示了AI在医疗（波士顿儿童医院利用AI发现新诊断）、企业自动化（Braintrust与Endava通过Codex实现代码生成与代理组织）、生物防御（Rosalind Biodefense增强社会韧性）等领域的实践，并发布了可信第三方评估的共享指南及前沿治理框架。\n\n**今日最值得关注的发展**：前沿模型在企业IT代理基准测试中得分不足50%，凸显了当前AI在复杂、多步骤企业任务中的核心能力短板，而OpenAI与Google则分别从治理框架与多模态演示角度，加速推动AI在医疗、企业自动化和创意工具中的实际落地。",
       "count": 30
     },
     "cctv": {
-      "articles": [],
-      "summary": "今日暂无相关新闻。",
-      "count": 0
+      "articles": [
+        {
+          "id": "20b99ca4208d",
+          "title": "China's Rise in Drug Development Looms over U.S.",
+          "link": "https://www.nytimes.com/2026/05/30/business/china-lung-cancer-drugs-asco.html",
+          "description": "Article URL: https://www.nytimes.com/2026/05/30/business/china-lung-cancer-drugs-asco.html Comments URL: https://news.ycombinator.com/item?id=48341176 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 30 May 2026 22:22:29 +0000"
+        },
+        {
+          "id": "3534be9b888f",
+          "title": "Tesla's 'Full Self-Driving' fraud lawsuit gets first hearing in China",
+          "link": "https://electrek.co/2026/05/30/tesla-fsd-china-lawsuit-first-hearing-10-owners/",
+          "description": "Article URL: https://electrek.co/2026/05/30/tesla-fsd-china-lawsuit-first-hearing-10-owners/ Comments URL: https://news.ycombinator.com/item?id=48341005 Points: 8 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 30 May 2026 21:58:52 +0000"
+        },
+        {
+          "id": "80a88cf8deb3",
+          "title": "Who Has the Hardest Fist in China's AI Valuation Race?",
+          "link": "https://crossingriver.substack.com/p/who-has-the-hardest-fist-in-chinas",
+          "description": "Article URL: https://crossingriver.substack.com/p/who-has-the-hardest-fist-in-chinas Comments URL: https://news.ycombinator.com/item?id=48340030 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 30 May 2026 19:55:58 +0000"
+        },
+        {
+          "id": "ff4a98612cfa",
+          "title": "Huawei thanks US for restrictions that supercharged China semiconductor industry",
+          "link": "https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies",
+          "description": "Article URL: https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies Comments URL: https://news.ycombinator.com/item?id=48339501 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 30 May 2026 18:53:58 +0000"
+        },
+        {
+          "id": "542250302382",
+          "title": "China's joint venture policy and the international transfer of technology (2019)",
+          "link": "https://www.voxchina.org/show-3-115",
+          "description": "Article URL: https://www.voxchina.org/show-3-115 Comments URL: https://news.ycombinator.com/item?id=48338976 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 30 May 2026 17:58:59 +0000"
+        },
+        {
+          "id": "66555b07c8d1",
+          "title": "China building ASAT launchers to defend against Elon Musk's Golden Dome",
+          "link": "https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/",
+          "description": "Article URL: https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/ Comments URL: https://news.ycombinator.com/item?id=48338334 Points: 6 # Comments: 12",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 30 May 2026 16:55:14 +0000"
+        },
+        {
+          "id": "bba1a22cf710",
+          "title": "Durex sales hit by China's condom crackdown",
+          "link": "https://www.ft.com/content/aa93c976-b640-490a-90fb-fdf7cc2b5332",
+          "description": "Article URL: https://www.ft.com/content/aa93c976-b640-490a-90fb-fdf7cc2b5332 Comments URL: https://news.ycombinator.com/item?id=48337346 Points: 3 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 30 May 2026 15:35:59 +0000"
+        },
+        {
+          "id": "39feb3b84521",
+          "title": "From lottery draws to fiscal spending, China broadens digital yuan footprint",
+          "link": "https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/",
+          "description": "Article URL: https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/ Comments URL: https://news.ycombinator.com/item?id=48334558 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 30 May 2026 10:02:52 +0000"
+        },
+        {
+          "id": "c1db1a488ae0",
+          "title": "Nvidia says it has largely conceded China's AI chip market to Huawei",
+          "link": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
+          "description": "Article URL: https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html Comments URL: https://news.ycombinator.com/item?id=48333181 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 30 May 2026 06:16:53 +0000"
+        },
+        {
+          "id": "00ed55d0e0bf",
+          "title": "China's world-beating solar industry is in turmoil",
+          "link": "https://economist.com/china/2026/05/26/chinas-world-beating-solar-industry-is-in-turmoil",
+          "description": "Article URL: https://economist.com/china/2026/05/26/chinas-world-beating-solar-industry-is-in-turmoil Comments URL: https://news.ycombinator.com/item?id=48332641 Points: 10 # Comments: 6",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 30 May 2026 04:40:11 +0000"
+        },
+        {
+          "id": "ae721f73aec1",
+          "title": "How the West Lost to China in EVs [video]",
+          "link": "https://www.youtube.com/watch?v=UhhZu0ZHdw4",
+          "description": "Article URL: https://www.youtube.com/watch?v=UhhZu0ZHdw4 Comments URL: https://news.ycombinator.com/item?id=48331447 Points: 3 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 30 May 2026 01:29:43 +0000"
+        },
+        {
+          "id": "ebe261030fd8",
+          "title": "China Limits Overseas Travel for AI Talent at DeepSeek, Alibaba, Private Firms",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms Comments URL: https://news.ycombinator.com/item?id=48330881 Points: 10 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 29 May 2026 23:54:21 +0000"
+        },
+        {
+          "id": "a51122b0b08c",
+          "title": "What Employers Need to Know About China's New Rules for Over-Age Employees",
+          "link": "https://www.littler.com/news-analysis/asap/beyond-retirement-what-employers-need-know-about-chinas-new-rules-over-age",
+          "description": "Article URL: https://www.littler.com/news-analysis/asap/beyond-retirement-what-employers-need-know-about-chinas-new-rules-over-age Comments URL: https://news.ycombinator.com/item?id=48330518 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 29 May 2026 23:06:11 +0000"
+        },
+        {
+          "id": "f2b4d3f203c4",
+          "title": "In remote desert, China building an anti-nuclear defense world has never seen",
+          "link": "https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/",
+          "description": "Article URL: https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/ Comments URL: https://news.ycombinator.com/item?id=48329873 Points: 9 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 29 May 2026 22:00:58 +0000"
+        },
+        {
+          "id": "d31ee3710bcb",
+          "title": "Satellite images show China preparing expansion nuclear capabilities to hit US",
+          "link": "https://www.dailymail.com/news/article-15857901/Satellite-images-China-expansion-nuclear-missile-capabilities-hit-US.html",
+          "description": "Article URL: https://www.dailymail.com/news/article-15857901/Satellite-images-China-expansion-nuclear-missile-capabilities-hit-US.html Comments URL: https://news.ycombinator.com/item?id=48323392 Points: 4 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 29 May 2026 14:15:30 +0000"
+        },
+        {
+          "id": "ada5eec2eb32",
+          "title": "Kevin O'leary claims China stirred data-center protests",
+          "link": "https://www.washingtonpost.com/technology/2026/05/29/shark-tank-kevin-oleary-claims-china-stirred-data-center-protests/",
+          "description": "Article URL: https://www.washingtonpost.com/technology/2026/05/29/shark-tank-kevin-oleary-claims-china-stirred-data-center-protests/ Comments URL: https://news.ycombinator.com/item?id=48322159 Points: 3 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 29 May 2026 12:18:19 +0000"
+        },
+        {
+          "id": "7c6faf61ca02",
+          "title": "China is building launch pads near its nuclear missile silos",
+          "link": "https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/",
+          "description": "Article URL: https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/ Comments URL: https://news.ycombinator.com/item?id=48319551 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 29 May 2026 05:53:58 +0000"
+        },
+        {
+          "id": "d820aac804f6",
+          "title": "The Impossible Partnership: Apple's Coming Reckoning with China",
+          "link": "https://americanaffairsjournal.org/2026/05/the-impossible-partnership-apples-coming-reckoning-with-china/",
+          "description": "Article URL: https://americanaffairsjournal.org/2026/05/the-impossible-partnership-apples-coming-reckoning-with-china/ Comments URL: https://news.ycombinator.com/item?id=48312294 Points: 3 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 28 May 2026 17:21:46 +0000"
+        },
+        {
+          "id": "8fa6227492c3",
+          "title": "The world's carmakers are struggling to compete with China",
+          "link": "https://www.bbc.com/news/articles/c4g8vg72z43o",
+          "description": "Article URL: https://www.bbc.com/news/articles/c4g8vg72z43o Comments URL: https://news.ycombinator.com/item?id=48310093 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 28 May 2026 15:12:10 +0000"
+        },
+        {
+          "id": "52357f9cecdd",
+          "title": "China removes hukou hurdle for migrant workers in social insurance shake-up",
+          "link": "https://www.scmp.com/news/article/3354575/china-removes-hukou-hurdle-migrant-workers-social-insurance-shake",
+          "description": "Article URL: https://www.scmp.com/news/article/3354575/china-removes-hukou-hurdle-migrant-workers-social-insurance-shake Comments URL: https://news.ycombinator.com/item?id=48308502 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 28 May 2026 13:10:59 +0000"
+        },
+        {
+          "id": "67b90a5811cd",
+          "title": "China could use \"kill-switch\" on buses in Dutch cities, says Cabinet member",
+          "link": "https://nltimes.nl/2026/05/27/china-use-kill-switch-buses-dutch-cities-says-cabinet-member",
+          "description": "Article URL: https://nltimes.nl/2026/05/27/china-use-kill-switch-buses-dutch-cities-says-cabinet-member Comments URL: https://news.ycombinator.com/item?id=48308015 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 28 May 2026 12:32:47 +0000"
+        },
+        {
+          "id": "1f89cf2accad",
+          "title": "China works on AI token futures market",
+          "link": "https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28/",
+          "description": "Article URL: https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48306633 Points: 3 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 28 May 2026 09:30:35 +0000"
+        },
+        {
+          "id": "681381f867da",
+          "title": "Taking Naval Options Away from China –| Peter Zeihan [video][4m53s]",
+          "link": "https://www.youtube.com/watch?v=NRkZprxYOzQ",
+          "description": "Article URL: https://www.youtube.com/watch?v=NRkZprxYOzQ Comments URL: https://news.ycombinator.com/item?id=48301743 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 27 May 2026 22:41:02 +0000"
+        },
+        {
+          "id": "3e317333a73d",
+          "title": "China is keeping its best AI talent to itself via travel restrictions",
+          "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+          "description": "Article URL: https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/ Comments URL: https://news.ycombinator.com/item?id=48301739 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 27 May 2026 22:40:44 +0000"
+        },
+        {
+          "id": "0a02419a20d2",
+          "title": "China's Huawei touts chip design breakthrough in bid to defy U.S. sanctions",
+          "link": "https://www.nbcnews.com/world/asia/chinas-huawei-touts-chip-design-breakthrough-bid-defy-us-sanctions-rcna346783",
+          "description": "Article URL: https://www.nbcnews.com/world/asia/chinas-huawei-touts-chip-design-breakthrough-bid-defy-us-sanctions-rcna346783 Comments URL: https://news.ycombinator.com/item?id=48299398 Points: 6 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 27 May 2026 19:35:50 +0000"
+        },
+        {
+          "id": "c0c544cc1088",
+          "title": "Europe is making a fatal mistake with China – Yanis and Wolfgang [video]",
+          "link": "https://www.youtube.com/watch?v=lw_KQ1Izq-U",
+          "description": "Article URL: https://www.youtube.com/watch?v=lw_KQ1Izq-U Comments URL: https://news.ycombinator.com/item?id=48296752 Points: 4 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 27 May 2026 16:36:09 +0000"
+        },
+        {
+          "id": "f89bc7cef072",
+          "title": "South Korea detains dissident who fled China in rubber boat",
+          "link": "https://www.bbc.com/news/articles/c87q2pdwpw3o",
+          "description": "Article URL: https://www.bbc.com/news/articles/c87q2pdwpw3o Comments URL: https://news.ycombinator.com/item?id=48296706 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 27 May 2026 16:32:01 +0000"
+        },
+        {
+          "id": "f5b977958f14",
+          "title": "Solar poverty program raises incomes and lowers air pollution in China",
+          "link": "https://www.nature.com/articles/s44458-026-00091-1",
+          "description": "Article URL: https://www.nature.com/articles/s44458-026-00091-1 Comments URL: https://news.ycombinator.com/item?id=48295615 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 27 May 2026 15:15:20 +0000"
+        },
+        {
+          "id": "eb127e4c4228",
+          "title": "China overhauls biggest surveillance network with advanced AI",
+          "link": "https://giftarticle.ft.com/giftarticle/actions/redeem/a63151d5-3dfb-416d-9934-30eb988b2bec",
+          "description": "Article URL: https://giftarticle.ft.com/giftarticle/actions/redeem/a63151d5-3dfb-416d-9934-30eb988b2bec Comments URL: https://news.ycombinator.com/item?id=48294788 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 27 May 2026 14:17:55 +0000"
+        }
+      ],
+      "summary": "今日新闻联播动态摘要\n\n1. **科技与产业竞争加剧**：中国在药物研发、人工智能估值、半导体及电动汽车领域对美国形成挑战，华为感谢美国限制反而加速中国半导体产业崛起，英伟达承认将AI芯片市场拱手让给华为。\n2. **军事与太空防御建设**：中国在沙漠中建设世界前所未有的抗核防御设施，并部署反卫星发射器以应对马斯克的“金穹”计划；卫星图像显示中国正扩大核能力以威慑美国。\n3. **金融与数字经济进展**：中国扩大数字人民币应用场景，从彩票抽奖到财政支出；同时杜蕾斯销量因中国加强安全套监管而下滑。\n4. **AI人才与行业管控**：中国限制DeepSeek、阿里巴巴等企业AI人才出境，并出台超龄员工用工新规；特斯拉“全自动驾驶”欺诈案在中国首次开庭。\n5. **能源与贸易挑战**：中国世界领先的太阳能产业陷入动荡，西方在电动汽车领域败给中国；中国合资政策与国际技术转移话题引发关注。\n\n**今日最值得关注的发展**：中国在半导体、AI及新能源领域的全面崛起，正迫使美国企业调整战略，同时中国加速军事与金融自主布局，全球科技与地缘格局面临深刻重塑。",
+      "count": 29
     }
   }
 }
