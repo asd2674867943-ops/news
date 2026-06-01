@@ -1,9 +1,63 @@
 {
   "date": "2026-06-01",
-  "generated_at": "2026-06-01T19:20:49.155985",
+  "generated_at": "2026-06-01T23:38:06.448228",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "d5c777fa9d1a",
+          "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
+          "link": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
+          "description": "Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 01 Jun 2026 23:20:52 +0000"
+        },
+        {
+          "id": "0ff2ff86224e",
+          "title": "Alphabet plans to raise $80B to pay for AI buildout",
+          "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+          "description": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 01 Jun 2026 22:55:09 +0000"
+        },
+        {
+          "id": "3823be9dbefe",
+          "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
+          "link": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
+          "description": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 01 Jun 2026 21:40:35 +0000"
+        },
+        {
+          "id": "49b6852fc1ee",
+          "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+          "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+          "description": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 01 Jun 2026 21:35:00 +0000"
+        },
+        {
+          "id": "8ef1a44a9908",
+          "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+          "link": "https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+          "description": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 01 Jun 2026 20:26:08 +0000"
+        },
+        {
+          "id": "e97454fc6dd1",
+          "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+          "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+          "description": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 01 Jun 2026 20:03:40 +0000"
+        },
         {
           "id": "7d1550494198",
           "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
@@ -53,7 +107,7 @@
           "id": "8ca681ca9b9b",
           "title": "Anthropic files to go public",
           "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-          "description": "The company said Monday it has filed confidentially for an IPO.",
+          "description": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Mon, 01 Jun 2026 16:36:55 +0000"
@@ -71,7 +125,7 @@
           "id": "3d05f59037e1",
           "title": "This AI weather startup is out-forecasting government agencies",
           "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-          "description": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
+          "description": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Mon, 01 Jun 2026 16:00:00 +0000"
@@ -98,7 +152,7 @@
           "id": "e95732379e1f",
           "title": "Strava declares war on scrapers ahead of IPO",
           "link": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
-          "description": "Strava will charge a flat monthly fee from developers to access its API.",
+          "description": "To stop scraping, the company is increasing security around its website and will now only allow authenticated users to view certain data. Earlier, users were able to see details like public profiles and fitness club listings without logging in. The company is putting all that data behind authentication to protect it from unauthorized AI scraping.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Mon, 01 Jun 2026 12:00:00 +0000"
@@ -131,49 +185,94 @@
           "pub_date": "Sun, 31 May 2026 18:34:58 +0000"
         },
         {
-          "id": "1a4e47d43fd8",
-          "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
-          "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
-          "description": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
-          "source": "TechCrunch",
+          "id": "d89b5bbc8945",
+          "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+          "link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+          "description": "Some report burning through their whole monthly \"AI credit\" allotment in a single day.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sun, 31 May 2026 18:28:17 +0000"
+          "pub_date": "Mon, 01 Jun 2026 22:18:09 +0000"
         },
         {
-          "id": "5f165afe261c",
-          "title": "TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce",
-          "link": "https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/",
-          "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-          "source": "TechCrunch",
+          "id": "53641795696d",
+          "title": "Why cats prefer silver vine to catnip and other May highlights",
+          "link": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/",
+          "description": "Prehistoric mining in the Pyrenees, a new species of tiny blue octopus, slapstick acoustics, and more.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sun, 31 May 2026 16:05:00 +0000"
+          "pub_date": "Mon, 01 Jun 2026 21:38:55 +0000"
         },
         {
-          "id": "c2d20b4bd5ea",
-          "title": "Making sense of the debate over AI psychosis",
-          "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-          "description": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-          "source": "TechCrunch",
+          "id": "8364d4291dfb",
+          "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
+          "link": "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
+          "description": "Amid a raging Ebola outbreak, officials \"urgently accelerate development\" of vaccines.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sun, 31 May 2026 15:30:00 +0000"
+          "pub_date": "Mon, 01 Jun 2026 20:58:34 +0000"
         },
         {
-          "id": "55cc4c485f4c",
-          "title": "What happens in Vega$: Steroids, swimmers, and a billion-dollar hustle",
-          "link": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
-          "description": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance-enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
-          "source": "TechCrunch",
+          "id": "7bc3f6cec75c",
+          "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+          "link": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+          "description": "Pricey Instagram handles were stolen and resold before Meta patched the exploit.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sun, 31 May 2026 13:00:00 +0000"
+          "pub_date": "Mon, 01 Jun 2026 20:44:37 +0000"
         },
         {
-          "id": "a5cf94429bea",
-          "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-          "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-          "description": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-          "source": "TechCrunch",
+          "id": "0754a6ccbb21",
+          "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
+          "link": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
+          "description": "It's Microsoft's least-weird attempt at a high-end mobile workstation.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sat, 30 May 2026 21:45:00 +0000"
+          "pub_date": "Mon, 01 Jun 2026 20:13:09 +0000"
+        },
+        {
+          "id": "f061a7ff00d1",
+          "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
+          "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+          "description": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 01 Jun 2026 19:49:09 +0000"
+        },
+        {
+          "id": "41d34e084c23",
+          "title": "New Trump vaccine order based on \"no credible scientific evidence,\" doctors say",
+          "link": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
+          "description": "Even Danish researchers think it's bizarre.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 01 Jun 2026 19:07:58 +0000"
+        },
+        {
+          "id": "090c15c56430",
+          "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+          "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+          "description": "Altman has an \"utter disregard\" for human lives, Florida AG says.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 01 Jun 2026 18:52:19 +0000"
+        },
+        {
+          "id": "6941eb8a575f",
+          "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
+          "link": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
+          "description": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 01 Jun 2026 17:41:47 +0000"
+        },
+        {
+          "id": "0bb92b341723",
+          "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
+          "link": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
+          "description": "Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 01 Jun 2026 17:17:55 +0000"
         },
         {
           "id": "61225b14ddbf",
@@ -257,115 +356,16 @@
           "pub_date": "Sat, 30 May 2026 10:00:38 +0000"
         },
         {
-          "id": "fe7a40acfa92",
-          "title": "Proposed new US funding rules: We can cancel any grant at any time",
-          "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-          "description": "Peer review now optional, political staff would screen grants for forbidden topics.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 29 May 2026 22:58:29 +0000"
-        },
-        {
-          "id": "3771cd375c6e",
-          "title": "Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there",
-          "link": "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
-          "description": "The US has previously built specialized facilities just for this purpose.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 29 May 2026 21:17:09 +0000"
-        },
-        {
-          "id": "7141e886f80b",
-          "title": "GitHub and the Crime Against Software",
-          "link": "https://eblog.fly.dev/githubbad.html",
-          "description": "Article URL: https://eblog.fly.dev/githubbad.html Comments URL: https://news.ycombinator.com/item?id=48361064 Points: 6 # Comments: 0",
+          "id": "62a720c0638f",
+          "title": "OpenAI frontier models and Codex are now available on AWS",
+          "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+          "description": "Article URL: https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/ Comments URL: https://news.ycombinator.com/item?id=48363132 Points: 13 # Comments: 1",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Mon, 01 Jun 2026 18:54:55 +0000"
-        },
-        {
-          "id": "2077cad2f5e9",
-          "title": "Superintelligence: The Idea That Eats Smart People (2016)",
-          "link": "https://idlewords.com/talks/superintelligence.htm",
-          "description": "Article URL: https://idlewords.com/talks/superintelligence.htm Comments URL: https://news.ycombinator.com/item?id=48360137 Points: 41 # Comments: 35",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 01 Jun 2026 17:43:07 +0000"
-        },
-        {
-          "id": "f30164e8d285",
-          "title": "Should you normalize RGB values by 255 or 256?",
-          "link": "https://30fps.net/pages/255-vs-256-division/",
-          "description": "Article URL: https://30fps.net/pages/255-vs-256-division/ Comments URL: https://news.ycombinator.com/item?id=48360054 Points: 31 # Comments: 4",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 01 Jun 2026 17:37:20 +0000"
-        },
-        {
-          "id": "62800008bc18",
-          "title": "AI Agent Guidelines for CS336 at Stanford",
-          "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-          "description": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 136 # Comments: 69",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 01 Jun 2026 16:41:49 +0000"
-        },
-        {
-          "id": "9ddb66540614",
-          "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
-          "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-          "description": "Article URL: https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/ Comments URL: https://news.ycombinator.com/item?id=48359130 Points: 229 # Comments: 115",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 01 Jun 2026 16:33:59 +0000"
-        },
-        {
-          "id": "4d4597102698",
-          "title": "The newest Instagram “exploit” is the goofiest I've seen",
-          "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-          "description": "Article URL: https://www.0xsid.com/blog/meta-account-takeover-fiasco Comments URL: https://news.ycombinator.com/item?id=48359102 Points: 590 # Comments: 144",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 01 Jun 2026 16:31:42 +0000"
-        },
-        {
-          "id": "29716a236816",
-          "title": "Anthropic confidentially submits draft S-1 to the SEC",
-          "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-          "description": "Article URL: https://www.anthropic.com/news/confidential-draft-s1-sec Comments URL: https://news.ycombinator.com/item?id=48358646 Points: 266 # Comments: 177",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 01 Jun 2026 16:00:40 +0000"
-        },
-        {
-          "id": "2bbd94782a3d",
-          "title": "Lifelike biochemistry continued to unfold in sterilized soil",
-          "link": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-          "description": "Article URL: https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/ Comments URL: https://news.ycombinator.com/item?id=48357905 Points: 125 # Comments: 31",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 01 Jun 2026 15:11:35 +0000"
-        },
-        {
-          "id": "f6087d913e52",
-          "title": "Ask HN: Who is hiring? (June 2026)",
-          "link": "https://news.ycombinator.com/item?id=48357725",
-          "description": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn't a household name, explain what your company does. Please only post if you are actively filling a position and are committed to replying to applicants. Commenters: please don't reply to job posts to complain about something. It's off topic here. Readers: please only email if you are personally interested",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 01 Jun 2026 15:00:48 +0000"
-        },
-        {
-          "id": "bb25f8145469",
-          "title": "Ask HN: Who wants to be hired? (June 2026)",
-          "link": "https://news.ycombinator.com/item?id=48357724",
-          "description": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here. Readers: please only email these addresses to discuss work opportunities. Searchers: try https://nthesis.ai/public/hn-wants-to-be-hired , https://www.wantstobehired.com . Comments URL: https://news.ycombinator.com/item?id=48357724 Points: 43 # Comments: 144",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 01 Jun 2026 15:00:48 +0000"
+          "pub_date": "Mon, 01 Jun 2026 21:50:02 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **黑客利用Meta AI客服漏洞劫持Instagram账号**：攻击者通过欺骗Meta的AI支持聊天机器人，成功获取账户访问权限，暴露了AI系统在安全防护上的薄弱环节。\n2. **SpaceX IPO面临水资源风险**：水资源获取问题被列为影响SpaceX首次公开募股的关键风险因素，凸显环境因素对航天企业融资的潜在冲击。\n3. **前Meta CTO逆势筹集2.5亿美元气候基金**：在多数人观望时，前Meta首席技术官成功募集巨额资金，专注于气候技术投资，显示该领域仍受资本青睐。\n4. **Anthropic提交上市申请**：人工智能初创公司Anthropic正式启动IPO流程，成为AI领域又一重大资本动作。\n5. **Strava在IPO前打击数据爬虫**：健身社交平台Strava宣布对非法数据抓取行为宣战，以保护用户隐私和平台数据安全，为上市铺路。\n\n今日最值得关注的发展：黑客通过AI客服漏洞入侵Instagram账户，再次敲响AI安全警钟，提示企业在依赖AI提升效率时需同步强化风险管控。",
+      "summary": "今日科技动态摘要\n\n1. **AI领域大额投资与IPO动态**：Alphabet计划筹集800亿美元用于AI基础设施建设；Anthropic提交上市申请；前Meta CTO逆势筹集2.5亿美元气候基金。\n2. **芯片与硬件竞争**：英伟达瞄准2000亿美元CPU市场，联合微软、戴尔、惠普推出AI智能体PC。\n3. **国防与航天科技估值飙升**：国防科技公司Mach Industries估值一年内暴涨4倍至18亿美元；SpaceX将水资源获取列为IPO风险因素，并暗示未来可能大规模发行股权。\n4. **网络安全与法律纠纷**：黑客利用Meta AI客服漏洞劫持Instagram账号；佛罗里达州首次起诉OpenAI及Sam Altman，指控其与暴力事件相关；《GTA V》作弊服务遭黑客攻击，数万玩家数据泄露。\n5. **新兴应用与搜索引擎趋势**：新应用“The Mall”打造统一在线购物信息流；DuckDuckGo在流量激增背景下强化其“无AI”搜索引擎的易用性。\n\n**今日最值得关注的发展**：AI领域资本狂潮持续升温，从Alphabet的800亿美元基建投资到Anthropic的IPO，同时国防与航天科技估值飙升，但网络安全漏洞与法律诉讼也为行业敲响警钟。",
       "count": 40
     },
     "ai": {
@@ -479,6 +479,15 @@
           "pub_date": "Mon, 01 Jun 2026 12:00:00 GMT"
         },
         {
+          "id": "004d0f5aa38d",
+          "title": "OpenAI frontier models and Codex are now available on AWS",
+          "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+          "description": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 01 Jun 2026 10:00:00 GMT"
+        },
+        {
           "id": "5db973058d4d",
           "title": "Boston Children’s uses AI to unlock new diagnoses",
           "link": "https://openai.com/index/boston-childrens-hospital",
@@ -524,19 +533,19 @@
           "pub_date": "Thu, 28 May 2026 12:00:00 GMT"
         },
         {
-          "id": "3c549edbfcbf",
-          "title": "MUFG aims to become AI-native with OpenAI",
-          "link": "https://openai.com/index/mufg",
-          "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+          "id": "9b61a261c9ff",
+          "title": "OpenAI’s Frontier Governance Framework",
+          "link": "https://openai.com/index/openai-frontier-governance-framework",
+          "description": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 28 May 2026 00:00:00 GMT"
         },
         {
-          "id": "9b61a261c9ff",
-          "title": "OpenAI’s Frontier Governance Framework",
-          "link": "https://openai.com/index/openai-frontier-governance-framework",
-          "description": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+          "id": "3c549edbfcbf",
+          "title": "MUFG aims to become AI-native with OpenAI",
+          "link": "https://openai.com/index/mufg",
+          "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 28 May 2026 00:00:00 GMT"
@@ -576,6 +585,15 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 27 May 2026 00:00:00 GMT"
+        },
+        {
+          "id": "32bd0be93ffb",
+          "title": "How We Test AI: LLM and GenAI Security Methodology at Anvil Secure",
+          "link": "https://www.anvilsecure.com/blog/llm-genai-security-methodology-at-anvil-secure.html",
+          "description": "Article URL: https://www.anvilsecure.com/blog/llm-genai-security-methodology-at-anvil-secure.html Comments URL: https://news.ycombinator.com/item?id=48311391 Points: 3 # Comments: 0",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Thu, 28 May 2026 16:34:01 +0000"
         },
         {
           "id": "e972958e97a6",
@@ -621,31 +639,31 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Mon, 01 Jun 2026 06:11:12 +0000"
-        },
-        {
-          "id": "b6134e61a1e1",
-          "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
-          "link": "https://www.qbitai.com/2026/06/427141.html",
-          "description": "Demo从来都不难做，难的是让它在企业生产环境里真正跑起来",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Mon, 01 Jun 2026 05:32:24 +0000"
-        },
-        {
-          "id": "66d5714b29ab",
-          "title": "材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破",
-          "link": "https://www.qbitai.com/2026/06/427142.html",
-          "description": "叠加LLM“训练buff”，材料AI终于学会了“物理直觉”",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Mon, 01 Jun 2026 05:25:27 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **多款新模型发布**：JetBrains推出12B参数的混合专家模型Mellum2；NVIDIA发布首个开源物理AI全模态模型Cosmos 3；Google展示Gemini Omni及Gemini 3.5的9个实际应用演示，并预告I/O 2026相关活动。\n2. **企业AI部署与工具优化**：强调企业级AI规模化落地需依赖智能体逻辑而非仅依赖大语言模型；PyTorch发布torch.profiler入门指南；TRL通过Hub存储桶实现万亿参数模型的Delta权重同步技术。\n3. **行业应用与基础设施**：OpenAI在密歇根州建设“智能时代”基础设施；波士顿儿童医院利用AI发现新疾病诊断方法；Braintrust借助Codex将客户需求转化为代码；Rosalind生物防御项目加强社会韧性。\n4. **本地化与原型探索**：Reachy Mini机器人实现完全本地化运行；Google Futures Lab展示真实AI原型；Google AI Studio推出I/O 2026互动问答体验。\n\n**今日最值得关注**：NVIDIA开源物理AI全模态模型Cosmos 3，标志着AI从语言交互向物理世界推理与行动的关键跨越。",
+      "summary": "今日AI动态摘要\n\n1. **模型与框架更新**：JetBrains发布12B参数的混合专家模型Mellum2；NVIDIA推出首个开源全模态模型Cosmos 3，用于物理AI推理与行动；PyTorch发布torch.profiler入门指南，助力性能分析。\n2. **企业级AI应用与逻辑**：文章强调可扩展的企业AI采用依赖于智能体逻辑（Agent Logic），而非仅依赖大语言模型；TRL通过Hub Bucket实现万亿参数模型的增量权重同步，提升部署效率。\n3. **Google I/O 2026前瞻**：Google展示了Gemini在I/O 2026中的实际应用（如构建活动网站、生成互动测验），并推出Gemini Omni和Gemini 3.5的9个演示demo，以及未来实验室的AI原型。\n4. **OpenAI与行业合作**：OpenAI在密歇根州建设智能时代基础设施；前沿模型及Codex已上线AWS；波士顿儿童医院利用AI发现新诊断方法；Braintrust借助Codex将客户需求转化为代码。\n5. **机器人本地化与开源**：Reachy Mini机器人实现完全本地化运行，无需云端依赖。\n\n**今日最值得关注的发展**：Google I/O 2026密集展示了Gemini系列模型在真实场景中的落地能力，结合NVIDIA开源物理AI模型和OpenAI与AWS的深度合作，表明2026年AI正从“模型竞赛”转向“全栈工程化与行业渗透”阶段。",
       "count": 30
     },
     "cctv": {
       "articles": [
+        {
+          "id": "760594d291f5",
+          "title": "The U.S. Wants to Ban China's High-Tech Cars but They're Already Here in El Paso",
+          "link": "https://www.wsj.com/business/autos/chinese-cars-byd-geely-u-s-mexico-be0dea28",
+          "description": "Article URL: https://www.wsj.com/business/autos/chinese-cars-byd-geely-u-s-mexico-be0dea28 Comments URL: https://news.ycombinator.com/item?id=48363751 Points: 3 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 01 Jun 2026 23:05:10 +0000"
+        },
+        {
+          "id": "bd68866af55d",
+          "title": "US says ban on AI chip shipments applies to Chinese firms outside China",
+          "link": "https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china",
+          "description": "Article URL: https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china Comments URL: https://news.ycombinator.com/item?id=48361839 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 01 Jun 2026 19:59:28 +0000"
+        },
         {
           "id": "55b49f9cb935",
           "title": "The Download: China's brain implant ambitions",
@@ -677,7 +695,7 @@
           "id": "f66c0e83b5c3",
           "title": "China Aims A.I. At Predicting Who Could Pose a Political Risk",
           "link": "https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html",
-          "description": "Article URL: https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html Comments URL: https://news.ycombinator.com/item?id=48354800 Points: 12 # Comments: 1",
+          "description": "Article URL: https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html Comments URL: https://news.ycombinator.com/item?id=48354800 Points: 14 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Mon, 01 Jun 2026 10:09:02 +0000"
@@ -888,19 +906,10 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 29 May 2026 12:18:19 +0000"
-        },
-        {
-          "id": "d820aac804f6",
-          "title": "The Impossible Partnership: Apple's Coming Reckoning with China",
-          "link": "https://americanaffairsjournal.org/2026/05/the-impossible-partnership-apples-coming-reckoning-with-china/",
-          "description": "Article URL: https://americanaffairsjournal.org/2026/05/the-impossible-partnership-apples-coming-reckoning-with-china/ Comments URL: https://news.ycombinator.com/item?id=48312294 Points: 3 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 28 May 2026 17:21:46 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **科技突破与竞争**：中国首次成功发射可回收火箭，对标SpaceX“猎鹰9号”；同时，中国在脑机接口领域取得进展，批准侵入式脑芯片试验，并持续推动人工智能在政治风险评估中的应用。\n2. **中美科技博弈升级**：美国采取新措施限制英伟达向中国境外中国企业出口AI芯片，同时中国半导体产业在华为等企业带动下加速自主发展，华为感谢美国限制“助推”了中国芯片产业。\n3. **中欧贸易摩擦加剧**：欧洲与中国濒临贸易战边缘，欧盟担忧中国在摩洛哥建设工业基地，同时双方在贸易、技术等领域矛盾持续升温。\n4. **产业与市场动态**：特斯拉在中国的“全自动驾驶”欺诈诉讼首次开庭；中国在药物研发领域崛起对美国构成压力；中国机器人产业发展历程回顾；以及向中国穆斯林群体销售等市场议题引发关注。\n5. **AI估值与安全争议**：中国AI企业估值竞争激烈，同时出现“中国AI盗窃”等争议性报道，反映全球对中国AI技术发展的复杂态度。\n\n**今日最值得关注的发展**：中国在可回收火箭和脑机芯片领域的双重技术突破，标志着其在高科技自主创新和战略竞争中的关键步伐。",
-      "count": 28
+      "summary": "今日新闻联播动态摘要\n\n1. **中美科技对抗升级**：美国拟禁止中国高科技汽车进口，并限制向中国境外中企出口AI芯片，同时欧盟与中国贸易摩擦加剧，双方濒临贸易战边缘。\n2. **中国航天与脑机接口突破**：中国首次成功发射可重复使用火箭（对标SpaceX Falcon 9），并批准侵入式脑机接口芯片临床试验，展现脑植入技术雄心。\n3. **AI应用与风险管控**：中国将AI用于预测政治风险，同时美国指控中国“AI窃取”，中方在药物研发领域崛起对美国构成压力。\n4. **全球产业布局与市场拓展**：欧盟担忧中国在摩洛哥建设工业基地，中国车企进入美国市场（如得州埃尔帕索），并针对中国穆斯林群体开展销售。\n5. **特斯拉在华诉讼**：特斯拉“全自动驾驶”欺诈案在中国首次开庭，涉及消费者权益与自动驾驶技术争议。\n\n今日最值得关注的发展：中美在芯片、AI及汽车领域的对抗持续升级，同时中国在航天、脑机接口等前沿技术领域取得突破性进展。",
+      "count": 29
     }
   }
 }
