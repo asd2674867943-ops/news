@@ -1,9 +1,81 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T16:54:47.757462",
+  "generated_at": "2026-06-04T23:13:23.314059",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "203a615f4409",
+          "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+          "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+          "description": "The AI giant's co-founder explained why the company may tap the public market for capital and why tokenmaxxing pushback isn't a concern.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 04 Jun 2026 22:43:26 +0000"
+        },
+        {
+          "id": "cf9786778ece",
+          "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+          "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+          "description": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 04 Jun 2026 22:29:50 +0000"
+        },
+        {
+          "id": "4126c66870b3",
+          "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+          "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+          "description": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 04 Jun 2026 21:44:09 +0000"
+        },
+        {
+          "id": "60110f4a6e1b",
+          "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+          "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+          "description": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 04 Jun 2026 21:30:00 +0000"
+        },
+        {
+          "id": "5045d84a53e8",
+          "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
+          "link": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
+          "description": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 04 Jun 2026 20:55:38 +0000"
+        },
+        {
+          "id": "2d912bd91351",
+          "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+          "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+          "description": "Meta may have found one way to slash its massive data center bill: tents.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 04 Jun 2026 19:33:09 +0000"
+        },
+        {
+          "id": "be64218ce67f",
+          "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+          "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+          "description": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 04 Jun 2026 19:20:58 +0000"
+        },
+        {
+          "id": "97879f553264",
+          "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
+          "link": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+          "description": "Fusion startup Helion is racing to complete a power plant for Microsoft by 2028. A fresh infusion of cash should help with that.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 04 Jun 2026 18:54:08 +0000"
+        },
         {
           "id": "7d6bf53a451c",
           "title": "Meta’s Oversight Board says account bans lack due process, transparency",
@@ -26,7 +98,7 @@
           "id": "59bc4b3fbe0d",
           "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
           "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-          "description": "Apple's WWDC nears: here's what you can look forward to.",
+          "description": "Apple's WWDC nears: Here's what you can look forward to.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 04 Jun 2026 16:31:12 +0000"
@@ -44,7 +116,7 @@
           "id": "10bcd67e7804",
           "title": "Cash App launches a wand for tap-and-pay",
           "link": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
-          "description": "Cash App plans to launch more tap-to-pay tags",
+          "description": "Digital wallet app Cash App is launching a new gadget on Thursday, seemingly inspired by the social media trend that involves paying for items in the real world with a tap of a homemade magic wand, which hides a tap-and-pay credit card.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 04 Jun 2026 16:00:00 +0000"
@@ -113,76 +185,76 @@
           "pub_date": "Thu, 04 Jun 2026 03:52:15 +0000"
         },
         {
-          "id": "722abacbfa23",
-          "title": "Quick-commerce FirstClub doubles valuation to $255M in 9 months",
-          "link": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
-          "description": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
-          "source": "TechCrunch",
+          "id": "6e7adeba95c4",
+          "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+          "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+          "description": "Robot demonstrations can distort public perceptions of robotic capabilities.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 04 Jun 2026 00:30:00 +0000"
+          "pub_date": "Thu, 04 Jun 2026 22:23:36 +0000"
         },
         {
-          "id": "4f8a506e293c",
-          "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-          "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-          "description": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
-          "source": "TechCrunch",
+          "id": "a6017259114d",
+          "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
+          "link": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
+          "description": "FCC did not violate carriers' right to jury trial, court says in 8-1 ruling.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 03 Jun 2026 22:56:51 +0000"
+          "pub_date": "Thu, 04 Jun 2026 21:25:19 +0000"
         },
         {
-          "id": "8c0f075e5d3a",
-          "title": "Defense tech is flooded with money, but who’s built to last?",
-          "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
-          "description": "Defense tech is red hot right now.&#160;Anduril&#160;and&#160;Mach Industries&#160;just doubled and quadrupled their valuations, respectively,&#160;and the U.S.&#160;government is proposing&#160;a&#160;40% increase&#160;in defense budget. A wave of new startups&#160;is&#160;chasing those government contracts, but according to Ross Fubini, the venture investor who wrote Anduril’s first check, most of them&#160;will get lost in the Valley of Death between prototype contract [&#8230;]",
-          "source": "TechCrunch",
+          "id": "efc22394d732",
+          "title": "These LLMs are the best at resisting Russian propaganda",
+          "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+          "description": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 03 Jun 2026 20:51:41 +0000"
+          "pub_date": "Thu, 04 Jun 2026 20:44:31 +0000"
         },
         {
-          "id": "cbaa66f604ad",
-          "title": "Uber to put 500 data-collection vehicles on the road this year",
-          "link": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
-          "description": "The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division.",
-          "source": "TechCrunch",
+          "id": "0b4ca70ea2f7",
+          "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+          "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+          "description": "By targeting large numbers of users, attackers increased their chances of success.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 03 Jun 2026 20:08:28 +0000"
+          "pub_date": "Thu, 04 Jun 2026 20:02:04 +0000"
         },
         {
-          "id": "7e560e143748",
-          "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-          "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-          "description": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
-          "source": "TechCrunch",
+          "id": "3f4968f4c1c3",
+          "title": "Elon Musk tries again to escape FTC audits of X data handling",
+          "link": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
+          "description": "Musk can't be trusted to protect X user privacy, public commenters warn FTC.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 03 Jun 2026 19:38:32 +0000"
+          "pub_date": "Thu, 04 Jun 2026 19:49:12 +0000"
         },
         {
-          "id": "256a87e26426",
-          "title": "Meta mercifully spun out VR fitness game Supernatural instead of just killing it",
-          "link": "https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/",
-          "description": "Meta appears to have listened to the Supernatural users who protested the app's sad fate after sweeping layoffs.",
-          "source": "TechCrunch",
+          "id": "c1115cd68044",
+          "title": "Cable lobby warns of chaos if FCC doesn't relax ban on foreign routers",
+          "link": "https://arstechnica.com/tech-policy/2026/06/cable-lobby-warns-of-chaos-if-fcc-doesnt-relax-ban-on-foreign-routers/",
+          "description": "NCTA seeks waiver from foreign-router ban, citing memory and substrate shortages.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 03 Jun 2026 19:22:53 +0000"
+          "pub_date": "Thu, 04 Jun 2026 18:34:33 +0000"
         },
         {
-          "id": "e9684d28e7f5",
-          "title": "Substack’s new ‘Reply Rules’ feature lets creators control how people respond",
-          "link": "https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/",
-          "description": "Substack's new Reply Rules feature is currently available for all English-language publications and is designed to give creators greater control over how their audiences respond.",
-          "source": "TechCrunch",
+          "id": "2d73e21cfd99",
+          "title": "Bumblebees can spontaneously solve problems, study finds",
+          "link": "https://arstechnica.com/science/2026/06/bumblebees-can-spontaneously-solve-problems-study-finds/",
+          "description": "Scientists in Finland found bees could solve an insect version of the classic \"box-and-banana\" problem.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 03 Jun 2026 19:08:55 +0000"
+          "pub_date": "Thu, 04 Jun 2026 18:00:35 +0000"
         },
         {
-          "id": "6fa504cd9433",
-          "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-          "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-          "description": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
-          "source": "TechCrunch",
+          "id": "e847d6f2f25e",
+          "title": "After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper",
+          "link": "https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/",
+          "description": "“I think the team has really experienced the loss of a loved one with the end of the mission.”",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 03 Jun 2026 19:07:42 +0000"
+          "pub_date": "Thu, 04 Jun 2026 16:21:06 +0000"
         },
         {
           "id": "dbf261c6f123",
@@ -230,8 +302,8 @@
           "pub_date": "Thu, 04 Jun 2026 02:46:35 +0000"
         },
         {
-          "id": "8bada3353eae",
-          "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+          "id": "ed8e56db34a0",
+          "title": "Microsoft, Atom Computing update their quantum computing progress",
           "link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
           "description": "Some quantum computing companies we've covered have done recent progress updates.",
           "source": "Ars Technica",
@@ -291,93 +363,21 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 03 Jun 2026 15:13:03 +0000"
-        },
-        {
-          "id": "3908c2e8281d",
-          "title": "Inside Meta's attempts to play catch-up with AI",
-          "link": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
-          "description": "Doubts linger over whether Meta can close the gap with rivals.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 03 Jun 2026 13:35:58 +0000"
-        },
-        {
-          "id": "494c392ac603",
-          "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
-          "link": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/",
-          "description": "When they're being eaten, bean plants release chemicals that draw in parasitic wasps.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 03 Jun 2026 11:15:07 +0000"
-        },
-        {
-          "id": "03d018439d57",
-          "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
-          "link": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
-          "description": "\"Everyone is in a place where it’s no fun to be there.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 03 Jun 2026 10:00:07 +0000"
-        },
-        {
-          "id": "24087f089cbb",
-          "title": "Male bowerbirds prefer to dazzle females with bright human-made items",
-          "link": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
-          "description": "\"It’s a reminder of how human activity is changing the natural world in unanticipated ways.”",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 02 Jun 2026 23:05:31 +0000"
-        },
-        {
-          "id": "bc505296bd3f",
-          "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
-          "link": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
-          "description": "One hardware announcement and several software highlights from Microsoft Build.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 02 Jun 2026 22:51:10 +0000"
-        },
-        {
-          "id": "2c633d412f36",
-          "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-          "link": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-          "description": "Microsoft missed the boat on apps, so get ready for agents.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 02 Jun 2026 20:47:54 +0000"
-        },
-        {
-          "id": "de7f5b7720d4",
-          "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
-          "link": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
-          "description": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 02 Jun 2026 20:17:41 +0000"
-        },
-        {
-          "id": "849554998935",
-          "title": "If I had a hammer... it might actually be a rhino tooth",
-          "link": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
-          "description": "Neanderthals had some wild stuff in their toolkits.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 02 Jun 2026 19:54:14 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **Meta监管与AI进展**：Meta监督委员会批评其账户封禁缺乏正当程序和透明度；同时，Meta在Facebook推出新的AI创作者助手。\n2. **苹果WWDC与财务亮点**：WWDC 2026将聚焦Siri重大改版和Apple Intelligence更新；苹果宣布App Store累计交易额达1.4万亿美元，其中90%未收取佣金。\n3. **自动驾驶与能源创新**：Waymo旧金山发生小偷利用自动驾驶出租车盗窃事件；Waymo还将退役的Robotaxi电池用于电网储能。\n4. **金融科技与AI投资热潮**：Ramp以440亿美元估值融资7.5亿美元，投资者追捧AI驱动的金融科技；快速电商FirstClub在9个月内估值翻倍至2.55亿美元。\n5. **安全与机器人应用**：中国间谍被曝利用LinkedIn诱骗西方人分享敏感信息；Hello Robot公司正推动家用机器人进入硅谷家庭。\n\n**今日最值得关注**：苹果Siri的重大改版与AI功能更新，以及Waymo电池创新再利用，分别代表了消费科技与绿色能源领域的突破方向。",
+      "summary": "今日科技动态摘要\n\n1. **AI与IPO动态**：Anthropic联合创始人Daniela Amodei在IPO前夕回应外界对AI投资回报的质疑；Airbnb CEO Brian Chesky宣布计划成立新AI实验室；Apple批准Poke作为Messages for Business平台首个AI代理。\n2. **融资与估值**：Sam Altman支持的核聚变初创公司Helion获4.65亿美元融资，为微软建设发电站；企业支出管理平台Ramp完成7.5亿美元融资，估值达440亿美元，投资者青睐具有AI故事的金融科技公司。\n3. **隐私与广告拦截**：新隐私工具Filtr上线，可在几乎所有iPhone和Mac应用中拦截广告。\n4. **科技与基础设施**：Meta效仿特斯拉策略，在帐篷中建设数据中心；Waymo将退役的无人驾驶出租车电池用于电网储能。\n5. **平台与监管**：Meta推出Facebook新AI创作者助手；其监督委员会指出账户封禁缺乏正当程序和透明度。\n\n**最值得关注的发展**：AI领域的资本与产品创新持续加速，从IPO前的信心表态、新AI实验室的成立，到核聚变与金融科技的大额融资，显示出市场对AI技术及其商业回报的高度期待与投入。",
       "count": 40
     },
     "ai": {
       "articles": [
         {
-          "id": "277c5b8915c9",
-          "title": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
-          "link": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
+          "id": "255dc064c8f5",
+          "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
           "description": "",
           "source": "Hugging Face",
           "category": "ai",
-          "pub_date": "Thu, 04 Jun 2026 12:59:35 GMT"
+          "pub_date": "Thu, 04 Jun 2026 18:57:45 GMT"
         },
         {
           "id": "77b29b3af4ea",
@@ -515,6 +515,15 @@
           "pub_date": "Thu, 04 Jun 2026 09:00:00 GMT"
         },
         {
+          "id": "4a1fa5f32644",
+          "title": "Biodefense in the Intelligence Age",
+          "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+          "description": "An action plan for AI-powered biological resilience",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 04 Jun 2026 00:00:00 GMT"
+        },
+        {
           "id": "532fbab4f640",
           "title": "Introducing new capabilities to GPT-Rosalind",
           "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
@@ -630,286 +639,15 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Fri, 29 May 2026 12:00:00 GMT"
-        },
-        {
-          "id": "cca101267fd4",
-          "title": "Strengthening societal resilience with Rosalind Biodefense",
-          "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-          "description": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Fri, 29 May 2026 03:00:00 GMT"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **Hugging Face密集发布多项AI技术更新**：包括Nemotron 3.5 ASR语音识别微调、EVA-Bench 2.0多工具场景数据集、Holo3.1本地化计算机使用智能体、JetBrains的12B MoE模型Mellum2，以及面向企业级AI的智能体逻辑讨论，覆盖语音、工具调用、模型优化与部署全链条。\n\n2. **Google AI聚焦Gemini模型应用与创意实践**：发布Gemini 3.5及Omni的9个实际演示、I/O 2026大会的Gemini构建经验、AI Studio代码生成测试，以及Futures Lab原型展示，强调AI在搜索、购物和开发中的落地场景。\n\n3. **OpenAI与Endava合作推动AI智能体重塑软件交付**：展示如何利用AI智能体重新设计软件交付流程，突出企业级AI从模型能力向可扩展智能体逻辑转型的趋势。\n\n4. **PyTorch推出性能分析入门指南**：发布torch.profiler初学者教程，为开发者提供模型调优的基础工具。\n\n5. **MCP工具集成至机器人平台**：Reachy Mini机器人新增MCP工具支持，拓展AI在物理世界交互中的能力边界。\n\n**今日最值得关注的发展**：Hugging Face与Google AI同时强调从“纯语言模型”向“智能体+工具+场景”的演进，标志着AI行业正加速从对话式应用转向可执行复杂任务的自主智能体生态。",
+      "summary": "今日AI动态摘要\n\n1. **多模态安全与智能体优化**：英伟达发布Nemotron 3.5 Content Safety，支持企业级可定制多模态安全；Hugging Face推出EVA-Bench Data 2.0（覆盖3领域、121工具、213场景）及设计面向智能体的hf CLI工具。\n2. **模型与工具新进展**：JetBrains发布12B参数的Mellum2混合专家模型；Holo3.1实现快速本地化计算机使用智能体；Reachy Mini新增MCP工具支持；Direct Preference Optimization研究拓展至聊天机器人之外场景。\n3. **企业级AI落地关键**：强调超越大语言模型（LLM），可扩展的企业AI采纳依赖智能体逻辑；Endava展示如何围绕AI智能体重构软件交付流程。\n4. **Google AI应用与原型**：Gemini助力构建Google I/O 2026；推出I/O 2026问答（由AI Studio生成）；展示9个Gemini Omni及3.5版实际演示；Futures Lab发布真实AI原型；Google搜索升级提升二手及复古购物体验。\n5. **PyTorch性能分析入门**：发布PyTorch Profiler初学者指南（第一部分），助力开发者优化模型性能。\n\n**今日最值得关注的发展**：企业AI正从单一模型能力转向以智能体逻辑、多模态安全与工具集成为核心的可扩展架构，Hugging Face、英伟达、Google及OpenAI均在此方向密集布局。",
       "count": 30
     },
     "cctv": {
-      "articles": [
-        {
-          "id": "a908cacc1e19",
-          "title": "Half of Belgium sees the US as a bigger adversary than China",
-          "link": "https://www.euronews.com/2026/06/02/half-of-belgium-sees-us-as-a-rival-survey-reveals",
-          "description": "Article URL: https://www.euronews.com/2026/06/02/half-of-belgium-sees-us-as-a-rival-survey-reveals Comments URL: https://news.ycombinator.com/item?id=48397291 Points: 6 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 04 Jun 2026 11:46:00 +0000"
-        },
-        {
-          "id": "ca52be654bb9",
-          "title": "New Mystery Submarine Signals China's Rapid Undersea Expansion",
-          "link": "https://www.navalnews.com/naval-news/2026/06/new-mystery-submarine-signals-chinas-rapid-undersea-expansion/",
-          "description": "Article URL: https://www.navalnews.com/naval-news/2026/06/new-mystery-submarine-signals-chinas-rapid-undersea-expansion/ Comments URL: https://news.ycombinator.com/item?id=48396536 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 04 Jun 2026 10:18:18 +0000"
-        },
-        {
-          "id": "33c0f0635c79",
-          "title": "More US Firms Turn to China's DeepSeek over Pricey Silicon Valley AI",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai",
-          "description": "Article URL: https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai Comments URL: https://news.ycombinator.com/item?id=48395232 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 04 Jun 2026 07:18:28 +0000"
-        },
-        {
-          "id": "35f8952371c1",
-          "title": "Grab what you can while you can: The new reality in the South China Sea",
-          "link": "https://www.bbc.com/news/articles/cy823n3ln29o",
-          "description": "Article URL: https://www.bbc.com/news/articles/cy823n3ln29o Comments URL: https://news.ycombinator.com/item?id=48391227 Points: 6 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 03 Jun 2026 22:54:45 +0000"
-        },
-        {
-          "id": "f55ac6c35199",
-          "title": "Not just America, China's top scientists are dying mysteriously",
-          "link": "https://economictimes.indiatimes.com/news/international/us/its-not-just-america-chinas-top-scientists-are-dying-mysteriously-and-nobody-is-talking/articleshow/130473417.cms?from=mdr",
-          "description": "Article URL: https://economictimes.indiatimes.com/news/international/us/its-not-just-america-chinas-top-scientists-are-dying-mysteriously-and-nobody-is-talking/articleshow/130473417.cms?from=mdr Comments URL: https://news.ycombinator.com/item?id=48383701 Points: 6 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 03 Jun 2026 13:24:50 +0000"
-        },
-        {
-          "id": "98fd6a4ef684",
-          "title": "In a surprise launch, China debuts another big rocket designed for reusability",
-          "link": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/",
-          "description": "Article URL: https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/ Comments URL: https://news.ycombinator.com/item?id=48382323 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 03 Jun 2026 10:55:45 +0000"
-        },
-        {
-          "id": "20b99ca4208d",
-          "title": "China's Rise in Drug Development Looms over U.S.",
-          "link": "https://www.nytimes.com/2026/05/30/business/china-lung-cancer-drugs-asco.html",
-          "description": "Article URL: https://www.nytimes.com/2026/05/30/business/china-lung-cancer-drugs-asco.html Comments URL: https://news.ycombinator.com/item?id=48379471 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 03 Jun 2026 03:15:20 +0000"
-        },
-        {
-          "id": "a872f389b58c",
-          "title": "Why China got rich and India didn't",
-          "link": "https://davidoks.blog/p/why-china-got-rich-and-india-didnt",
-          "description": "Article URL: https://davidoks.blog/p/why-china-got-rich-and-india-didnt Comments URL: https://news.ycombinator.com/item?id=48377455 Points: 80 # Comments: 78",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 02 Jun 2026 23:02:29 +0000"
-        },
-        {
-          "id": "39ff5ac19a0b",
-          "title": "China conducts surprise launch of Long March 12B, delivers Qianfan satellites on",
-          "link": "https://spacenews.com/china-conducts-surprise-launch-of-long-march-12b-delivers-qianfan-satellites-on-debut-flight/",
-          "description": "Article URL: https://spacenews.com/china-conducts-surprise-launch-of-long-march-12b-delivers-qianfan-satellites-on-debut-flight/ Comments URL: https://news.ycombinator.com/item?id=48374711 Points: 2 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 02 Jun 2026 19:04:35 +0000"
-        },
-        {
-          "id": "f988fb0b3501",
-          "title": "Police in China Expanding Smart Glasses Usage",
-          "link": "https://www.chinadaily.com.cn/a/202605/26/WS6a14fe32a310d6866eb4ab8a.html",
-          "description": "Article URL: https://www.chinadaily.com.cn/a/202605/26/WS6a14fe32a310d6866eb4ab8a.html Comments URL: https://news.ycombinator.com/item?id=48374034 Points: 6 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 02 Jun 2026 18:17:28 +0000"
-        },
-        {
-          "id": "48d32161ed5d",
-          "title": "China's Blueprint for the Annexation of Kinmen",
-          "link": "https://www.taiwannews.com.tw/news/6375186",
-          "description": "Article URL: https://www.taiwannews.com.tw/news/6375186 Comments URL: https://news.ycombinator.com/item?id=48372885 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 02 Jun 2026 16:57:25 +0000"
-        },
-        {
-          "id": "8850aa5d6ca8",
-          "title": "China debuts another big rocket designed for reusability",
-          "link": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/",
-          "description": "Article URL: https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/ Comments URL: https://news.ycombinator.com/item?id=48372736 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 02 Jun 2026 16:46:49 +0000"
-        },
-        {
-          "id": "bf6ef4a464c5",
-          "title": "Without fanfare, China is making rural migrants' lives easier",
-          "link": "https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier",
-          "description": "Article URL: https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier Comments URL: https://news.ycombinator.com/item?id=48368288 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 02 Jun 2026 10:23:15 +0000"
-        },
-        {
-          "id": "91ecee89c5d8",
-          "title": "China's lab-grown diamonds emerging as a surprising beneficiary of the AI boom",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-02/china-s-lab-grown-diamonds-emerge-as-unlikely-winner-in-ai-boom",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-06-02/china-s-lab-grown-diamonds-emerge-as-unlikely-winner-in-ai-boom Comments URL: https://news.ycombinator.com/item?id=48367910 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 02 Jun 2026 09:34:44 +0000"
-        },
-        {
-          "id": "39768c4a87e2",
-          "title": "EU is set to join US-led chip alliance 'Pax Silica' to counter China's AI race",
-          "link": "https://www.euronews.com/my-europe/2026/06/01/the-eu-is-set-to-join-us-led-chip-alliance-pax-silica-to-counter-chinas-ai-race",
-          "description": "Article URL: https://www.euronews.com/my-europe/2026/06/01/the-eu-is-set-to-join-us-led-chip-alliance-pax-silica-to-counter-chinas-ai-race Comments URL: https://news.ycombinator.com/item?id=48367491 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 02 Jun 2026 08:29:43 +0000"
-        },
-        {
-          "id": "9d0a2ac1bf34",
-          "title": "China launches rival rocket to SpaceX Falcon 9 for the first time",
-          "link": "https://www.scientificamerican.com/article/china-launches-rival-to-spacex-falcon-9-with-zero-warning/",
-          "description": "Article URL: https://www.scientificamerican.com/article/china-launches-rival-to-spacex-falcon-9-with-zero-warning/ Comments URL: https://news.ycombinator.com/item?id=48366309 Points: 6 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 02 Jun 2026 05:07:22 +0000"
-        },
-        {
-          "id": "760594d291f5",
-          "title": "The U.S. Wants to Ban China's High-Tech Cars but They're Already Here in El Paso",
-          "link": "https://www.wsj.com/business/autos/chinese-cars-byd-geely-u-s-mexico-be0dea28",
-          "description": "Article URL: https://www.wsj.com/business/autos/chinese-cars-byd-geely-u-s-mexico-be0dea28 Comments URL: https://news.ycombinator.com/item?id=48363751 Points: 8 # Comments: 8",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 01 Jun 2026 23:05:10 +0000"
-        },
-        {
-          "id": "bd68866af55d",
-          "title": "US says ban on AI chip shipments applies to Chinese firms outside China",
-          "link": "https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china",
-          "description": "Article URL: https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china Comments URL: https://news.ycombinator.com/item?id=48361839 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 01 Jun 2026 19:59:28 +0000"
-        },
-        {
-          "id": "55b49f9cb935",
-          "title": "The Download: China's brain implant ambitions",
-          "link": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
-          "description": "Article URL: https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/ Comments URL: https://news.ycombinator.com/item?id=48359526 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 01 Jun 2026 17:02:29 +0000"
-        },
-        {
-          "id": "d21024360e27",
-          "title": "China launches reusable rocket rival to SpaceX Falcon 9 for the first time",
-          "link": "https://www.scientificamerican.com/article/china-launches-rival-to-spacex-falcon-9-with-zero-warning/",
-          "description": "Article URL: https://www.scientificamerican.com/article/china-launches-rival-to-spacex-falcon-9-with-zero-warning/ Comments URL: https://news.ycombinator.com/item?id=48359238 Points: 5 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 01 Jun 2026 16:42:29 +0000"
-        },
-        {
-          "id": "f087334bca96",
-          "title": "China approves invasive brain-computer chip",
-          "link": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
-          "description": "Article URL: https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/ Comments URL: https://news.ycombinator.com/item?id=48356220 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 01 Jun 2026 12:56:19 +0000"
-        },
-        {
-          "id": "f66c0e83b5c3",
-          "title": "China Aims A.I. At Predicting Who Could Pose a Political Risk",
-          "link": "https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html",
-          "description": "Article URL: https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html Comments URL: https://news.ycombinator.com/item?id=48354800 Points: 14 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 01 Jun 2026 10:09:02 +0000"
-        },
-        {
-          "id": "e0a7c778696b",
-          "title": "Europe's trade war with China [pdf]",
-          "link": "https://tradetalkspodcast.com/wp-content/uploads/2026/05/Episode-214-Transcript-Complete.pdf",
-          "description": "Article URL: https://tradetalkspodcast.com/wp-content/uploads/2026/05/Episode-214-Transcript-Complete.pdf Comments URL: https://news.ycombinator.com/item?id=48351744 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 01 Jun 2026 01:45:11 +0000"
-        },
-        {
-          "id": "6623ecd41501",
-          "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
-          "link": "https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/",
-          "description": "Article URL: https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/ Comments URL: https://news.ycombinator.com/item?id=48351466 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 01 Jun 2026 00:54:32 +0000"
-        },
-        {
-          "id": "ad7ed448cf24",
-          "title": "China's AI Heist",
-          "link": "https://www.foreignaffairs.com/china/chinas-ai-heist",
-          "description": "Article URL: https://www.foreignaffairs.com/china/chinas-ai-heist Comments URL: https://news.ycombinator.com/item?id=48349179 Points: 8 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 31 May 2026 19:59:08 +0000"
-        },
-        {
-          "id": "e6e34a7dcc5b",
-          "title": "China's Robotics Dream Began in 1972",
-          "link": "https://www.chinatalk.media/p/chinas-father-of-robotics",
-          "description": "Article URL: https://www.chinatalk.media/p/chinas-father-of-robotics Comments URL: https://news.ycombinator.com/item?id=48348912 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 31 May 2026 19:31:53 +0000"
-        },
-        {
-          "id": "65c67dd2ced3",
-          "title": "China and EU on brink of trade war",
-          "link": "https://www.brusselstimes.com/2163961/china-and-eu-on-brink-of-trade-war",
-          "description": "Article URL: https://www.brusselstimes.com/2163961/china-and-eu-on-brink-of-trade-war Comments URL: https://news.ycombinator.com/item?id=48345452 Points: 7 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 31 May 2026 13:17:46 +0000"
-        },
-        {
-          "id": "962137dee357",
-          "title": "Selling to China's Muslims",
-          "link": "https://www.middleeastbriefing.com/news/selling-to-chinas-muslims/",
-          "description": "Article URL: https://www.middleeastbriefing.com/news/selling-to-chinas-muslims/ Comments URL: https://news.ycombinator.com/item?id=48344884 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 31 May 2026 11:28:55 +0000"
-        },
-        {
-          "id": "922ff150ee3a",
-          "title": "EU frets as China builds an industrial base in Morocco",
-          "link": "https://www.ft.com/content/706c1db4-effa-4e53-9bdd-f66496407626",
-          "description": "Article URL: https://www.ft.com/content/706c1db4-effa-4e53-9bdd-f66496407626 Comments URL: https://news.ycombinator.com/item?id=48344147 Points: 5 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 31 May 2026 09:06:02 +0000"
-        }
-      ],
-      "summary": "今日新闻联播动态摘要\n\n1. **国际关系与地缘政治**：比利时半数民众视美国为比中国更大的对手；中国在南海问题上的立场引发关注，有报道称“趁能拿就拿”成为新现实；欧盟拟加入美国主导的芯片联盟“Pax Silica”以应对中国AI发展；中国被指有对金门“兼并”的蓝图。\n\n2. **科技与军事发展**：中国新型神秘潜艇亮相，显示水下扩张加速；中国接连发射可重复使用的大型火箭（如长征12B），并成功部署“千帆”卫星；中国警方扩大智能眼镜使用范围。\n\n3. **经济与产业动态**：更多美国企业转向中国AI公司DeepSeek，以替代昂贵的硅谷AI服务；中国在药物研发领域崛起，对美国构成竞争压力；中国培育钻石因AI热潮意外受益。\n\n4. **社会民生与人口流动**：中国正低调改善农村移民的生活条件；有报道对比中印发展差异，分析中国为何致富而印度未达同等水平。\n\n5. **安全与健康议题**：除美国外，中国顶尖科学家也接连神秘死亡，引发对科研安全环境的关注。\n\n**今日最值得关注的发展**：中国在可重复使用火箭领域的快速进展，以及美国企业转向中国AI服务，凸显中国在高端科技和产业替代方面的持续突破。",
-      "count": 29
+      "articles": [],
+      "summary": "今日暂无相关新闻。",
+      "count": 0
     }
   }
 }
