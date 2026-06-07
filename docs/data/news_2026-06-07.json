@@ -1,9 +1,45 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T15:24:55.069530",
+  "generated_at": "2026-06-07T23:10:53.691484",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "2d6334f5674a",
+          "title": "Is this the dawn of the Tokenpocalypse?",
+          "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+          "description": "We're likely to see more price increases as the big AI companies plan to go public.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 07 Jun 2026 20:26:13 +0000"
+        },
+        {
+          "id": "2df0e7466695",
+          "title": "Notion restores access to Anthropic after service disruption",
+          "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+          "description": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 07 Jun 2026 17:56:22 +0000"
+        },
+        {
+          "id": "25b31b2a2eb3",
+          "title": "OpenAI is still working on that ‘super app’",
+          "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+          "description": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 07 Jun 2026 16:23:22 +0000"
+        },
+        {
+          "id": "3dc939da69b9",
+          "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
+          "link": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
+          "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 07 Jun 2026 16:05:00 +0000"
+        },
         {
           "id": "59b6b3d7f5f0",
           "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
@@ -149,40 +185,13 @@
           "pub_date": "Fri, 05 Jun 2026 16:07:46 +0000"
         },
         {
-          "id": "8b11a93c43a0",
-          "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-          "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-          "description": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
-          "source": "TechCrunch",
+          "id": "ab808f33a9a8",
+          "title": "RIP Anthony Head: Our 10 favorite moments of Buffy's Giles",
+          "link": "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/",
+          "description": "Head's true genius—and that of his character, Giles—lay in quietly filling in the gaps in every scene",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Fri, 05 Jun 2026 14:49:12 +0000"
-        },
-        {
-          "id": "11a110f8a05f",
-          "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
-          "link": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
-          "description": "The space agency said Roscosmos discovered new leaks in the Russian service module.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 05 Jun 2026 14:42:52 +0000"
-        },
-        {
-          "id": "1417cada9370",
-          "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
-          "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
-          "description": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 05 Jun 2026 14:32:57 +0000"
-        },
-        {
-          "id": "eddb74b0da25",
-          "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-          "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-          "description": "The Australian data center operator plans to set up 5GW of capacity in India.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 05 Jun 2026 13:03:10 +0000"
+          "pub_date": "Sun, 07 Jun 2026 19:34:05 +0000"
         },
         {
           "id": "f1a8c4f009d3",
@@ -338,46 +347,37 @@
           "pub_date": "Fri, 05 Jun 2026 11:00:55 +0000"
         },
         {
-          "id": "6e7adeba95c4",
-          "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
-          "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
-          "description": "Robot demonstrations can distort public perceptions of robotic capabilities.",
-          "source": "Ars Technica",
+          "id": "0d4331e0cf2d",
+          "title": "Ask HN: Are we as society going to let LLM companies take all the values?",
+          "link": "https://news.ycombinator.com/item?id=48439240",
+          "description": "I am not that young, but I'm not that old. I used to be a child, and thought that the adults already figured things out and I can be at peace. One of my realization of me getting older is the realization that there are no adults in the room anymore, or that I am now, an adult, who, also the same like other adults, we actually don't know shit about anything, none of us do. I think LLM is a useful technology. But since the dawn of LLMs, I've been trying to imagine what the world will look like if we take LLM to its logical conclusion. It seems to me, despite of all its benefits, LLM is a sword t",
+          "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Thu, 04 Jun 2026 22:23:36 +0000"
+          "pub_date": "Sun, 07 Jun 2026 22:30:08 +0000"
         },
         {
-          "id": "a6017259114d",
-          "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
-          "link": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
-          "description": "FCC did not violate carriers' right to jury trial, court says in 8-1 ruling.",
-          "source": "Ars Technica",
+          "id": "f61c5aa0d23a",
+          "title": "VibeOS: First ever AI-native operating system",
+          "link": "https://vibeos.sh/",
+          "description": "Article URL: https://vibeos.sh/ Comments URL: https://news.ycombinator.com/item?id=48438754 Points: 9 # Comments: 8",
+          "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Thu, 04 Jun 2026 21:25:19 +0000"
-        },
-        {
-          "id": "efc22394d732",
-          "title": "These LLMs are the best at resisting Russian propaganda",
-          "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
-          "description": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 04 Jun 2026 20:44:31 +0000"
+          "pub_date": "Sun, 07 Jun 2026 21:29:21 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **安全与隐私事件频发**：2026年迄今发生多起严重数据泄露事件，涉及黑客攻击、数据泄露及勒索；IBM被前网络安全高管指控掩盖多起数据泄露；OpenAI推出“锁定模式”以防御提示注入攻击，保护敏感数据。\n\n2. **AI与政策动向**：OpenAI可能被特朗普政府以股权方式投资；白宫AI顾问斯里拉姆·克里希南离职；苹果WWDC 2026预计将公布Siri重大改版及Apple Intelligence更新。\n\n3. **科技巨头与初创企业动态**：谷歌每月向SpaceX支付9.2亿美元用于计算服务；Supabase在8个月内估值翻倍至100亿美元；LinkedIn联合创始人Reid Hoffman离开微软董事会，转向“创始人模式”运营新创业公司Manus。\n\n4. **行业趋势与投资故事**：风投支持的电动自行车初创公司纷纷倒闭，而自筹资金的Lectric却逆势增长；新一代社交应用正在超越Instagram；多位创始人公开分享风投圈的“恐怖故事”。\n\n5. **未来出行与硬件创新**：通用汽车电动化未来依赖新型电池及专项工厂；当前最具吸引力的初创公司致力于帮助用户减少手机使用时间；创业大赛“Startup Battlefield 200”申请即将截止。\n\n**今日最值得关注的发展**：AI安全与政策博弈加剧，OpenAI同时面临政府投资意向与安全漏洞挑战，而科技巨头与初创公司在计算、社交、出行等领域的竞争格局正在快速重塑。",
+      "summary": "今日科技动态摘要\n\n1. **AI安全与数据保护**：OpenAI推出“锁定模式”（Lockdown Mode），旨在防御提示注入攻击，保护敏感数据；同时，OpenAI仍在开发其“超级应用”战略。\n2. **重大安全事件与指控**：2026年至今已发生多起严重数据泄露、黑客攻击与勒索事件；此外，一名前网络安全高管举报IBM掩盖多起数据泄露，引发关注。\n3. **高层人事与战略变动**：白宫AI顾问Sriram Krishnan离职；Reid Hoffman离开微软董事会，以“创始人模式”加入初创公司Manus；特朗普政府可能考虑持有OpenAI股权。\n4. **科技巨头重大投资与合作**：通用汽车（GM）投入9亿美元押注电动汽车电池；谷歌将每月向SpaceX支付9.2亿美元用于计算服务。\n5. **产品与平台更新展望**：Notion在服务中断后恢复对Anthropic的访问；WWDC 2026预期将带来Siri重大改版及苹果AI更新；新一代社交应用正在崛起，超越Instagram。\n\n**今日最值得关注的发展**：OpenAI推出“锁定模式”应对AI安全威胁，同时特朗普政府可能入股OpenAI，预示着AI行业监管与资本格局的重大变化。",
       "count": 40
     },
     "ai": {
       "articles": [
         {
-          "id": "22a1030c14c5",
-          "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
-          "link": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+          "id": "c627c4688109",
+          "title": "Amazing Digital Dentures (a failed project)",
+          "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
           "description": "",
           "source": "Hugging Face",
           "category": "ai",
-          "pub_date": "Sun, 07 Jun 2026 11:38:54 GMT"
+          "pub_date": "Sun, 07 Jun 2026 19:44:27 GMT"
         },
         {
           "id": "255dc064c8f5",
@@ -605,15 +605,6 @@
           "pub_date": "Mon, 01 Jun 2026 10:00:00 GMT"
         },
         {
-          "id": "36513ab6dcc5",
-          "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
-          "link": "https://news.ycombinator.com/item?id=48376612",
-          "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\" Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared. Comments URL: https://news.ycombinator.com/item?id=48376612 Points: 3 # Comments: 2",
-          "source": "HN-AI",
-          "category": "ai",
-          "pub_date": "Tue, 02 Jun 2026 21:32:34 +0000"
-        },
-        {
           "id": "8a1e94ee1d8b",
           "title": "有余凯不投的地平线离职创业员工吗？",
           "link": "https://www.qbitai.com/2026/06/431931.html",
@@ -639,13 +630,49 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Sun, 07 Jun 2026 12:07:44 +0000"
+        },
+        {
+          "id": "ba1e730042c7",
+          "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+          "link": "https://www.qbitai.com/2026/06/431487.html",
+          "description": "花旗美银都是客户",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sun, 07 Jun 2026 03:10:13 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AI Agent与工具集成成为焦点**：Hugging Face发布多项与AI Agent相关的更新，包括优化hf CLI以适配Agent工作流、为Reachy Mini添加MCP工具支持、推出快速本地化计算机使用Agent Holo3.1，以及强调企业AI规模化部署依赖Agent逻辑而非仅大语言模型。\n\n2. **多模态安全与模型更新**：Nemotron 3.5推出可定制的多模态内容安全方案，面向全球企业AI应用；JetBrains发布12B参数的混合专家模型Mellum2；OpenAI提出“Dreaming”机制以增强ChatGPT的记忆能力。\n\n3. **评估与数据基准扩展**：EVA-Bench Data 2.0覆盖3个领域、121种工具和213个场景，为AI能力评估提供更全面的测试框架；Hugging Face还探讨了超越聊天机器人的直接偏好优化（DPO）方法。\n\n4. **企业AI落地实践**：OpenAI博客介绍Endava如何围绕AI Agent重新设计软件交付流程；Google AI发布2026年5月最新动态，并展示如何利用Gemini构建Google I/O 2026，同时优化搜索以提升二手与复古购物体验。\n\n5. **生物安全与前沿应用**：OpenAI发布“Biodefense in the Intelligence Age”报告，探讨AI在生物防御领域的战略价值，标志着AI安全议题从技术层面延伸至国家安全与公共卫生。\n\n**今日最值得关注的发展**：Hugging Face与OpenAI均将AI Agent作为核心方向，从工具集成、记忆增强到企业逻辑重构，Agent正从实验性功能转向驱动AI规模化落地的关键引擎。",
+      "summary": "今日AI动态摘要\n\n1. **AI Agent与工具集成成为核心趋势**：多个项目聚焦于AI Agent的实用化，如Holo3.1推出本地化快速计算机使用Agent，Reachy Mini集成MCP工具，以及OpenAI探讨如何通过AI Agent重构软件交付流程（Endava案例），强调企业级AI落地依赖Agent逻辑而非仅靠大模型。\n\n2. **模型与安全技术持续迭代**：JetBrains发布12B参数的Mellum2混合专家模型；英伟达推出Nemotron 3.5内容安全方案，支持多模态可定制安全策略；同时Hugging Face提出超越聊天机器人的直接偏好优化（DPO）方法，拓展模型对齐技术应用场景。\n\n3. **AI记忆与实用功能升级**：OpenAI提出“Dreaming”机制以增强ChatGPT的记忆能力，提升对话连贯性；Google搜索新增5种AI辅助功能，优化二手与复古购物体验，并披露利用Gemini构建2026年I/O大会的实践案例。\n\n4. **多领域基准测试与工具生态扩展**：EVA-Bench Data 2.0发布，覆盖3个领域、121种工具和213个场景；Hugging Face设计Agent优化的CLI工具，改进用户与Hub的交互方式；同时提及数字义齿项目失败案例，反映AI落地中部分实验性项目的挑战。\n\n5. **生物防御与安全治理受关注**：OpenAI发布“生物防御在智能时代”报告，探讨AI在生物安全领域的应用与风险；结合可定制内容安全模型，凸显全球企业对AI安全合规的迫切需求。\n\n**今日最值得关注的发展**：AI Agent正从实验走向企业级核心应用，模型安全与记忆增强成为支撑其落地的关键基础设施。",
       "count": 30
     },
     "cctv": {
       "articles": [
+        {
+          "id": "ac0d6b53396c",
+          "title": "China has approved the first invasive brain-computer chip",
+          "link": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+          "description": "Article URL: https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/ Comments URL: https://news.ycombinator.com/item?id=48438075 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 07 Jun 2026 20:10:01 +0000"
+        },
+        {
+          "id": "6c18458fa128",
+          "title": "The Rise of China's One-Person Companies",
+          "link": "https://www.sixthtone.com/news/1018567",
+          "description": "Article URL: https://www.sixthtone.com/news/1018567 Comments URL: https://news.ycombinator.com/item?id=48437524 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 07 Jun 2026 18:47:57 +0000"
+        },
+        {
+          "id": "0717ed97f8e4",
+          "title": "China urges fund managers to support innovation, warns against concept hype",
+          "link": "https://www.reuters.com/legal/government/china-urges-fund-managers-support-innovation-warns-against-concept-hype-2026-06-06/",
+          "description": "Article URL: https://www.reuters.com/legal/government/china-urges-fund-managers-support-innovation-warns-against-concept-hype-2026-06-06/ Comments URL: https://news.ycombinator.com/item?id=48436921 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 07 Jun 2026 17:28:04 +0000"
+        },
         {
           "id": "61596ac8726b",
           "title": "The mysterious database that provides clues to China's foreign surveillance",
@@ -665,19 +692,10 @@
           "pub_date": "Sat, 06 Jun 2026 21:17:07 +0000"
         },
         {
-          "id": "ac0d6b53396c",
-          "title": "China has approved the first invasive brain-computer chip",
-          "link": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
-          "description": "Article URL: https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/ Comments URL: https://news.ycombinator.com/item?id=48428752 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 06 Jun 2026 20:34:41 +0000"
-        },
-        {
           "id": "f603b8c32cbd",
           "title": "China proposes nuclear-powered floating island to reshape global shipping",
           "link": "https://www.scmp.com/news/china/science/article/3355989/china-proposes-nuclear-powered-floating-island-reshape-global-shipping",
-          "description": "Article URL: https://www.scmp.com/news/china/science/article/3355989/china-proposes-nuclear-powered-floating-island-reshape-global-shipping Comments URL: https://news.ycombinator.com/item?id=48428457 Points: 5 # Comments: 0",
+          "description": "Article URL: https://www.scmp.com/news/china/science/article/3355989/china-proposes-nuclear-powered-floating-island-reshape-global-shipping Comments URL: https://news.ycombinator.com/item?id=48428457 Points: 6 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 06 Jun 2026 20:01:47 +0000"
@@ -888,37 +906,10 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Tue, 02 Jun 2026 05:07:22 +0000"
-        },
-        {
-          "id": "760594d291f5",
-          "title": "The U.S. Wants to Ban China's High-Tech Cars but They're Already Here in El Paso",
-          "link": "https://www.wsj.com/business/autos/chinese-cars-byd-geely-u-s-mexico-be0dea28",
-          "description": "Article URL: https://www.wsj.com/business/autos/chinese-cars-byd-geely-u-s-mexico-be0dea28 Comments URL: https://news.ycombinator.com/item?id=48363751 Points: 8 # Comments: 8",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 01 Jun 2026 23:05:10 +0000"
-        },
-        {
-          "id": "bd68866af55d",
-          "title": "US says ban on AI chip shipments applies to Chinese firms outside China",
-          "link": "https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china",
-          "description": "Article URL: https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china Comments URL: https://news.ycombinator.com/item?id=48361839 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 01 Jun 2026 19:59:28 +0000"
-        },
-        {
-          "id": "55b49f9cb935",
-          "title": "The Download: China's brain implant ambitions",
-          "link": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
-          "description": "Article URL: https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/ Comments URL: https://news.ycombinator.com/item?id=48359526 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 01 Jun 2026 17:02:29 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **科技突破与审批**：中国批准首例侵入式脑机接口芯片的商业化使用，成为全球首个实现该技术的国家，同时提出核动力浮岛概念以重塑全球航运格局。\n2. **能源与产业转型**：中国在太阳能电池板产能过剩背景下，转向电池领域布局；同时面临外媒对光伏浪费的批评，但强调经济“堡垒”建设以应对全球紧张局势。\n3. **人工智能与意识形态**：中国计划利用人工智能推广习近平思想，并注意到美国企业因成本问题转向中国AI模型DeepSeek，显示技术竞争中的市场转向。\n4. **军事与海洋动态**：新型潜艇信号显示中国水下力量快速扩张；南海问题被外媒描述为“抢抓机遇”的现实，引发地区关注。\n5. **社会与劳工现状**：中国外卖骑手被外媒视为最明显的底层群体，同时人形机器人领域依赖人力数据采集，反映技术发展中的劳动力矛盾。\n\n今日最值得关注的发展：中国在脑机接口领域实现全球首次商业化突破，同时核动力浮岛构想与AI战略布局凸显其科技与能源自主的长期野心。",
-      "count": 30
+      "summary": "今日新闻联播动态摘要\n\n1. **科技突破与商业应用**：中国批准首例侵入式脑机芯片商业使用，并成为全球首个批准该技术商业化的国家，同时推动人工智能用于宣传习近平思想，并利用人力数据训练人形机器人。\n2. **经济与产业战略**：中国鼓励基金管理机构支持创新、警示概念炒作；推动一人公司发展；太阳能巨头因面板销售疲软转向电池领域；提出建设核动力浮岛以重塑全球航运。\n3. **国家安全与对外关系**：中国加强经济“堡垒”建设以应对全球紧张局势；禁止中国及香港投资者参与SpaceX首次公开募股（IPO）以维护安全；新型潜艇信号显示中国水下力量快速扩张。\n4. **社会与能源议题**：外卖骑手被视为最明显的底层职业群体；外国评论称浪费中国太阳能板过剩产能是“疯狂”行为；比利时半数民众视美国为比中国更大的对手。\n5. **数据与监控争议**：外媒关注中国对外监控的数据库线索，以及中国利用人力数据推动机器人技术发展的策略。\n\n**今日最值得关注的发展**：中国批准全球首个侵入式脑机芯片商业使用，标志着脑机接口技术从实验室走向市场的重要里程碑。",
+      "count": 29
     }
   }
 }
