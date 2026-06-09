@@ -1,9 +1,90 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T16:31:40.011277",
+  "generated_at": "2026-06-09T23:20:21.736807",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "df1c5c0625df",
+          "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
+          "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+          "description": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest startups like Anthropic, Anduril, and SpaceX.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 09 Jun 2026 23:17:51 +0000"
+        },
+        {
+          "id": "1a077e8599c0",
+          "title": "GM joins race to build batteries for AI data centers and the grid",
+          "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+          "description": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 09 Jun 2026 21:00:00 +0000"
+        },
+        {
+          "id": "d0dd60267db6",
+          "title": "Hey, Siri, here’s what I actually want from AI",
+          "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+          "description": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 09 Jun 2026 20:50:17 +0000"
+        },
+        {
+          "id": "aa0336b7a9bc",
+          "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+          "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+          "description": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 09 Jun 2026 20:37:49 +0000"
+        },
+        {
+          "id": "2fc1d3412879",
+          "title": "Can tech companies learn to love cheaper AI models?",
+          "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+          "description": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 09 Jun 2026 18:56:09 +0000"
+        },
+        {
+          "id": "3c25935f7006",
+          "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+          "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+          "description": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 09 Jun 2026 18:04:24 +0000"
+        },
+        {
+          "id": "70a28e04ed8f",
+          "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
+          "link": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
+          "description": "Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of its products used across the government.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 09 Jun 2026 17:40:08 +0000"
+        },
+        {
+          "id": "ebc971dca22a",
+          "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+          "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+          "description": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 09 Jun 2026 17:00:00 +0000"
+        },
+        {
+          "id": "ba32ba816ed9",
+          "title": "Rivian starts deliveries of its all-important R2 SUV",
+          "link": "https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/",
+          "description": "Founder and CEO RJ Scaringe has called it \"maybe the most important thing we've launched to date.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 09 Jun 2026 16:46:08 +0000"
+        },
         {
           "id": "85cb6497bf75",
           "title": "Apple’s foldable iPhone could be just around the corner",
@@ -62,7 +143,7 @@
           "id": "53d26179a4b4",
           "title": "Sandstone raises $30M to bring AI to in-house legal teams",
           "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-          "description": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+          "description": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Tue, 09 Jun 2026 13:47:25 +0000"
@@ -104,89 +185,98 @@
           "pub_date": "Tue, 09 Jun 2026 05:07:17 +0000"
         },
         {
-          "id": "587520d9ceb3",
-          "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-          "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-          "description": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
-          "source": "TechCrunch",
+          "id": "9a833178a034",
+          "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
+          "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
+          "description": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 09 Jun 2026 01:56:48 +0000"
+          "pub_date": "Tue, 09 Jun 2026 21:05:39 +0000"
         },
         {
-          "id": "2c385701e0a9",
-          "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
-          "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
-          "description": "Sequoia is just one of the top firms that sells same equity at two different prices.",
-          "source": "TechCrunch",
+          "id": "e2e05180036e",
+          "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+          "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+          "description": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 09 Jun 2026 00:45:56 +0000"
+          "pub_date": "Tue, 09 Jun 2026 20:56:52 +0000"
         },
         {
-          "id": "6b480a59fc84",
-          "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-          "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-          "description": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
-          "source": "TechCrunch",
+          "id": "6f2be2b5e0f8",
+          "title": "Three key vital signs make up the \"urban pulse\" of a city",
+          "link": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
+          "description": "Cities are dynamic, not static grids, and urbanization is a \"spiky,\" cyclical, and asynchronous process.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 22:41:45 +0000"
+          "pub_date": "Tue, 09 Jun 2026 20:35:22 +0000"
         },
         {
-          "id": "2eb1bc74f64c",
-          "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-          "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-          "description": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
-          "source": "TechCrunch",
+          "id": "6812ab8b7799",
+          "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
+          "link": "https://arstechnica.com/science/2026/06/__trashed-19/",
+          "description": "Five peer-reviewed papers update the design and model its expected output.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 22:39:57 +0000"
+          "pub_date": "Tue, 09 Jun 2026 20:25:56 +0000"
         },
         {
-          "id": "70c417d8fba0",
-          "title": "OpenAI files confidentially for IPO, following Anthropic",
-          "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-          "description": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-          "source": "TechCrunch",
+          "id": "5ea6767bb32d",
+          "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
+          "link": "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/",
+          "description": "Netflix's response: \"Absurd.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 21:29:57 +0000"
+          "pub_date": "Tue, 09 Jun 2026 20:15:45 +0000"
         },
         {
-          "id": "ddf36031620c",
-          "title": "Apple plays catch-up at WWDC",
-          "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-          "description": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-          "source": "TechCrunch",
+          "id": "d7d2ce0f1d80",
+          "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+          "link": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+          "description": "New frontier model refuses cybersecurity, biology, and chemistry queries.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 21:15:42 +0000"
+          "pub_date": "Tue, 09 Jun 2026 19:20:25 +0000"
         },
         {
-          "id": "112ac823288f",
-          "title": "Apple bets cheaper AI will woo small developers",
-          "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-          "description": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-          "source": "TechCrunch",
+          "id": "8b8418ff08ca",
+          "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+          "link": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+          "description": "Voice translations preserve speaker's tone, pacing, pitch—with SynthID watermarks for security.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 20:53:55 +0000"
+          "pub_date": "Tue, 09 Jun 2026 18:57:25 +0000"
         },
         {
-          "id": "b55356182c66",
-          "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
-          "link": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
-          "description": "Waymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with Apple, according to documents filed with Maricopa County.",
-          "source": "TechCrunch",
+          "id": "d536df07d092",
+          "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
+          "link": "https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/",
+          "description": "\"Artemis III will be an extraordinary demonstration of what is possible.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 20:50:55 +0000"
+          "pub_date": "Tue, 09 Jun 2026 18:42:19 +0000"
         },
         {
-          "id": "32dd62178483",
-          "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
-          "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-          "description": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.",
-          "source": "TechCrunch",
+          "id": "6c012664da88",
+          "title": "Screwworms in US: Human risk is low—but they can burrow through your skull",
+          "link": "https://arstechnica.com/health/2026/06/screwworms-in-us-human-risk-is-low-but-they-can-burrow-through-your-skull/",
+          "description": "The chances are low, but not zero.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 20:03:44 +0000"
+          "pub_date": "Tue, 09 Jun 2026 17:09:10 +0000"
         },
         {
-          "id": "380491d62eb8",
-          "title": "US military claims first drone boat rescue of downed helicopter crew",
+          "id": "7e9a85cb6e02",
+          "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
+          "link": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
+          "description": "Meta won't say why or whether it's coming back.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 09 Jun 2026 16:31:10 +0000"
+        },
+        {
+          "id": "e88ebd5a0064",
+          "title": "Drone boat picked up downed US Army helicopter pilots—a first for sea rescues",
           "link": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
           "description": "US Navy’s Task Force 59 achieved the drone rescue at sea near Strait of Hormuz.",
           "source": "Ars Technica",
@@ -194,8 +284,8 @@
           "pub_date": "Tue, 09 Jun 2026 15:44:36 +0000"
         },
         {
-          "id": "b2267520b5ba",
-          "title": "High-severity vulnerability in Linux caused by a single errant character",
+          "id": "6b8b37b6c76b",
+          "title": "High-severity vulnerability in Linux caused by a single faulty character",
           "link": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
           "description": "Use-after-free bug can be exploited to evade sandbox defenses.",
           "source": "Ars Technica",
@@ -273,103 +363,31 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Mon, 08 Jun 2026 20:55:58 +0000"
-        },
-        {
-          "id": "d78119df857b",
-          "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
-          "link": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
-          "description": "WhatsApp disrupted spear phishing attempts, asks court to hold NSO in contempt.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 20:26:14 +0000"
-        },
-        {
-          "id": "3637d1ba8a3e",
-          "title": "The fastest humans in the galaxy just got a spiffy patch to prove it",
-          "link": "https://arstechnica.com/space/2026/06/artemis-ii-crew-flew-fast-earned-new-patch-astronauts-mach-39-emblem/",
-          "description": "\"It is actually challenging how you measure [Mach] from space.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 19:40:05 +0000"
-        },
-        {
-          "id": "97c4ed63629e",
-          "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
-          "link": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
-          "description": "New features coming this fall alongside two-tiered, Google-powered AI model overhaul.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 19:30:05 +0000"
-        },
-        {
-          "id": "4aff7e1d5b21",
-          "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
-          "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
-          "description": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 19:00:30 +0000"
-        },
-        {
-          "id": "b969eb3e2e98",
-          "title": "Your empty cuppa could capture carbon",
-          "link": "https://arstechnica.com/science/2026/06/your-empty-cuppa-could-capture-carbon/",
-          "description": "Polystyrene can be upcycled into carbon sponge material.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 18:50:10 +0000"
-        },
-        {
-          "id": "6ace635ea65f",
-          "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
-          "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
-          "description": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 18:34:23 +0000"
-        },
-        {
-          "id": "512faaa8c59d",
-          "title": "Apple's iOS 27, macOS 27 Golden Gate, and other updates focus on refinement",
-          "link": "https://arstechnica.com/gadgets/2026/06/apples-ios-27-macos-27-golden-gate-and-other-updates-focus-on-refinement/",
-          "description": "Apple's OSes come with Liquid Glass tweaks and performance optimizations.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 18:07:13 +0000"
-        },
-        {
-          "id": "815243b5be1c",
-          "title": "Man jailed for a month despite Flock showing he was 5 miles from crime scene",
-          "link": "https://arstechnica.com/tech-policy/2026/06/man-jailed-for-a-month-despite-flock-showing-he-was-5-miles-from-crime-scene/",
-          "description": "Cop seemingly ignored Flock camera timestamp to justify arrests.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 17:20:30 +0000"
-        },
-        {
-          "id": "7375abf1a9eb",
-          "title": "F1 in Monaco: Finally, the cars were flat-out in qualifying",
-          "link": "https://arstechnica.com/cars/2026/06/f1-in-monaco-finally-the-cars-were-flat-out-in-qualifying/",
-          "description": "The cars are too big to race well, but the competition for pole position is thrilling.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 16:56:21 +0000"
-        },
-        {
-          "id": "51013b42111a",
-          "title": "A Falcon 9 booster turns 5 years old—and just set a remarkable reuse record",
-          "link": "https://arstechnica.com/space/2026/06/a-falcon-9-booster-turns-five-years-old-and-just-set-a-remarkable-reuse-record/",
-          "description": "We take the Falcon 9 rocket for granted. But we probably shouldn't.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 08 Jun 2026 16:05:30 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **苹果折叠屏iPhone即将面世**：TechCrunch报道称苹果可折叠iPhone可能很快发布，同时苹果在AI领域的稳健策略正显现成效，WWDC上的AI演示在支付2.5亿美元虚假广告和解后显得更加真实。\n2. **苹果App Store多项重大调整**：包括可能移除长期不吸引用户的App、推出类似流媒体的订阅捆绑服务、以及上线个性化推荐功能，iOS 27还披露了未在发布会上展示的新特性。\n3. **科技公司融资与上市动态**：Sandstone获3000万美元用于法律AI、Lovable年化收入达5亿美元且每周新增100万项目、电动滑板车创始人融资500万美元建太空数据中心、Evotrex融资3000万美元开发无需充电站的房车，Zepto上市文件显示快速增长但亏损扩大。\n4. **行业争议与人事变动**：Mercor创始人指责红杉资本采用“双重定价”估值策略，OpenAI申请IPO之际，Sam Altman的虹膜扫描公司正在裁员。\n5. **市场格局变化**：TechCrunch提出“MANGOS”（微软、苹果、英伟达、谷歌、甲骨文、索尼）可能取代传统的FAANG成为科技巨头新代称。\n\n今日最值得关注的发展：苹果App Store正经历重大商业模式变革，从应用审核到推荐机制、订阅捆绑及用户活跃度要求，或将重塑开发者生态与用户体验。",
+      "summary": "今日科技动态摘要\n\n1. **非传统投资与造车新动向**：贾斯汀·欧内斯特以近4亿美元投资热门初创公司，未依赖传统风投基金；通用汽车加入为AI数据中心和电网建设电池的竞争行列。\n2. **AI产品与模型发展**：Anthropic推出能一键生成趣味视频游戏的Fable 5模型，并发布公众可访问的Claude Fable 5版本；苹果在WWDC 2026上公布Siri AI、iOS 27及Apple Intelligence等更新，同时探讨科技公司对更廉价AI模型的接受度。\n3. **苹果生态与硬件更新**：苹果可能即将推出折叠屏iPhone，iOS 27新增未在发布会提及的功能，App Store推出流媒体式订阅套餐、个性化推荐，并警告将移除长期无用户吸引力的应用。\n4. **网络安全与汽车交付**：美国网络安全与基础设施安全局（CISA）要求联邦机构三天内修复遭勒索软件攻击的VPN漏洞；Rivian开始交付关键车型R2 SUV。\n5. **行业格局变化**：FAANG（脸书、苹果、亚马逊、奈飞、谷歌）被重新定义为MANGOS（Meta、苹果、奈飞、谷歌、微软、特斯拉等），反映科技巨头格局的演变。\n\n**今日最值得关注的发展**：苹果在WWDC 2026上全面升级AI与生态服务，同时Anthropic推出可一键生成游戏的Fable 5模型，标志AI应用从工具型向创意娱乐型快速拓展。",
       "count": 40
     },
     "ai": {
       "articles": [
+        {
+          "id": "9e6e0a3cdc47",
+          "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+          "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 09 Jun 2026 19:38:28 GMT"
+        },
+        {
+          "id": "4d458c98f100",
+          "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+          "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 09 Jun 2026 15:56:23 GMT"
+        },
         {
           "id": "db34c7524593",
           "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
@@ -378,6 +396,15 @@
           "source": "Hugging Face",
           "category": "ai",
           "pub_date": "Tue, 09 Jun 2026 10:46:19 GMT"
+        },
+        {
+          "id": "1ae2acd3f350",
+          "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+          "link": "https://huggingface.co/blog/github-ci-hf-jobs",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 09 Jun 2026 00:00:00 GMT"
         },
         {
           "id": "021fa8544fb0",
@@ -396,15 +423,6 @@
           "source": "Hugging Face",
           "category": "ai",
           "pub_date": "Thu, 04 Jun 2026 18:57:45 GMT"
-        },
-        {
-          "id": "77b29b3af4ea",
-          "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-          "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-          "description": "",
-          "source": "Hugging Face",
-          "category": "ai",
-          "pub_date": "Thu, 04 Jun 2026 12:24:58 GMT"
         },
         {
           "id": "50358f67c764",
@@ -450,6 +468,24 @@
           "source": "Google AI Blog",
           "category": "ai",
           "pub_date": "Wed, 03 Jun 2026 13:00:00 +0000"
+        },
+        {
+          "id": "7cbf755ba3a8",
+          "title": "How engineers at Nextdoor use Codex to build without limits",
+          "link": "https://openai.com/index/nextdoor",
+          "description": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 09 Jun 2026 12:00:00 GMT"
+        },
+        {
+          "id": "376b346b8089",
+          "title": "What Codex unlocks for Notion",
+          "link": "https://openai.com/index/notion",
+          "description": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 09 Jun 2026 10:00:00 GMT"
         },
         {
           "id": "603862ed3d59",
@@ -524,15 +560,6 @@
           "pub_date": "Wed, 03 Jun 2026 12:00:00 GMT"
         },
         {
-          "id": "7547bb7cff4d",
-          "title": "OpenAI public policy agenda",
-          "link": "https://openai.com/index/public-policy-agenda",
-          "description": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 03 Jun 2026 10:00:00 GMT"
-        },
-        {
           "id": "d61fb9a674ff",
           "title": "A blueprint for democratic governance of frontier AI",
           "link": "https://openai.com/index/frontier-safety-blueprint",
@@ -542,13 +569,13 @@
           "pub_date": "Wed, 03 Jun 2026 10:00:00 GMT"
         },
         {
-          "id": "36513ab6dcc5",
-          "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
-          "link": "https://news.ycombinator.com/item?id=48376612",
-          "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\" Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared. Comments URL: https://news.ycombinator.com/item?id=48376612 Points: 3 # Comments: 2",
-          "source": "HN-AI",
+          "id": "7547bb7cff4d",
+          "title": "OpenAI public policy agenda",
+          "link": "https://openai.com/index/public-policy-agenda",
+          "description": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+          "source": "OpenAI Blog",
           "category": "ai",
-          "pub_date": "Tue, 02 Jun 2026 21:32:34 +0000"
+          "pub_date": "Wed, 03 Jun 2026 10:00:00 GMT"
         },
         {
           "id": "7206ad8f4531",
@@ -612,36 +639,9 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Tue, 09 Jun 2026 02:55:08 +0000"
-        },
-        {
-          "id": "e2c84b4e7041",
-          "title": "DeepSeek开招土木老哥：自建GW级数据中心",
-          "link": "https://www.qbitai.com/2026/06/432735.html",
-          "description": "追赶老马与微软",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Tue, 09 Jun 2026 02:39:19 +0000"
-        },
-        {
-          "id": "b927096a6c8f",
-          "title": "腾讯想让企业打开AI的方式只剩一个",
-          "link": "https://www.qbitai.com/2026/06/432631.html",
-          "description": "一个入口串起全栈智能体",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Tue, 09 Jun 2026 01:24:10 +0000"
-        },
-        {
-          "id": "1f8c3f94d656",
-          "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
-          "link": "https://www.qbitai.com/2026/06/432587.html",
-          "description": "协助用户与商家判断智能体可信赖程度",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Mon, 08 Jun 2026 10:40:55 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **Hugging Face多项技术更新**：包括通过链式调用两个Spaces构建3D巴黎画廊的Agent、社区支持用于智能体强化学习的OpenEnv框架、Nemotron 3.5内容安全模型（支持企业级多模态安全定制）、EVA-Bench数据2.0（覆盖3领域、121工具、213场景），以及为Hub设计的Agent优化版hf CLI工具。\n\n2. **OpenAI发布多项进展**：包括向SEC秘密提交S-1草案（IPO进程推进）、发布“造福所有人”计划、推出经济研究交流平台、与Endava合作以AI Agent重新定义软件交付、通过“Dreaming”技术提升ChatGPT记忆能力，以及探讨情报时代的生物防御。\n\n3. **Google AI与搜索功能更新**：宣布2026年5月最新AI新闻，并推出5种利用Google搜索提升二手与复古购物体验的方法。\n\n4. **AI研究方向拓展**：Hugging Face提出将直接偏好优化（DPO）应用于聊天机器人之外的领域，并展示了为Reachy Mini机器人添加MCP工具的实际案例。\n\n**今日最值得关注的发展**：OpenAI正式启动IPO进程并公布社会责任计划，同时Hugging Face密集发布多项Agent与安全相关技术，显示AI行业正加速从模型研发向Agent生态与企业级应用落地转型。",
+      "summary": "今日AI动态摘要\n\n1. **语音代理与多语言能力**：Hugging Face 发布了一项针对语音代理处理双语用户（代码切换语音）的基准测试，评估前沿自动语音识别（ASR）模型的表现。\n2. **开发者工具与模型更新**：Cohere 推出首款面向开发者的模型“North Mini Code”；Hugging Face 介绍了将 GitHub CI 迁移至其 Jobs 平台的方法，并设计了 Agent 优化的 hf CLI 工具；OpenAI 展示了 Codex 在 Nextdoor 和 Notion 中的实际应用。\n3. **开源与强化学习新进展**：开源社区支持 OpenEnv 用于智能体强化学习（Agentic RL）；Hugging Face 发布 Nemotron 3.5 内容安全模型，提供可定制的多模态安全方案；同时探索了超越聊天机器人的直接偏好优化（DPO）方法。\n4. **AI 应用与搜索创新**：Google AI 博客宣布 2026 年 5 月最新 AI 新闻，并介绍 Google 搜索在二手购物中的 5 种提升体验方式；Hugging Face 展示如何通过链接两个 Spaces 构建 3D 巴黎画廊，以及为 Reachy Mini 机器人添加 MCP 工具。\n5. **OpenAI 战略与合规进展**：OpenAI 向 SEC 秘密提交了 S-1 草案，并发布“惠及所有人”的计划，强调其构建通用受益 AI 的愿景。\n\n今日最值得关注的发展是 **开源社区与各大厂商在智能体（Agent）与强化学习方向加速布局**，从语音代理、开发者工具到机器人控制，AI 正从单一模型走向可交互、可执行的智能体生态。",
       "count": 30
     },
     "cctv": {
