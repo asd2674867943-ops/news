@@ -1,9 +1,45 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T17:36:35.546552",
+  "generated_at": "2026-06-11T23:40:53.745320",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "56648d533857",
+          "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+          "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+          "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 11 Jun 2026 20:33:10 +0000"
+        },
+        {
+          "id": "084428a83b57",
+          "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+          "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+          "description": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 11 Jun 2026 20:27:25 +0000"
+        },
+        {
+          "id": "6f16ff69675a",
+          "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+          "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+          "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 11 Jun 2026 19:58:01 +0000"
+        },
+        {
+          "id": "444e311cc15a",
+          "title": "Bluesky launches group chats, as company shifts focus to community features",
+          "link": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
+          "description": "Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 11 Jun 2026 19:41:05 +0000"
+        },
         {
           "id": "7a6fb09d96e4",
           "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
@@ -14,9 +50,9 @@
           "pub_date": "Thu, 11 Jun 2026 17:30:00 +0000"
         },
         {
-          "id": "11d7a05aa35e",
-          "title": "Coinbase debuts AI agent that can trade and pay for premium research",
-          "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research/",
+          "id": "c1d1ab4b197d",
+          "title": "Coinbase’s new tool can help agents trade and pay for premium research",
+          "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
           "description": "Coinbase's agent can use x402 protocol to get access to data and APIs.",
           "source": "TechCrunch",
           "category": "tech",
@@ -149,40 +185,49 @@
           "pub_date": "Wed, 10 Jun 2026 22:24:12 +0000"
         },
         {
-          "id": "5f2a12039b22",
-          "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
-          "link": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
-          "description": "The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities.",
-          "source": "TechCrunch",
+          "id": "f5f666db021b",
+          "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
+          "link": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
+          "description": "Cruz/Wyden bill would help Americans sue federal officials over censorship.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 10 Jun 2026 21:33:32 +0000"
+          "pub_date": "Thu, 11 Jun 2026 19:31:37 +0000"
         },
         {
-          "id": "99292d726b72",
-          "title": "Everyone wants a piece of Tesla’s battery business",
-          "link": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
-          "description": "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.",
-          "source": "TechCrunch",
+          "id": "977658c85856",
+          "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
+          "link": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
+          "description": "The old app \"still needs to be retired,\" AcuRite tells us.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 10 Jun 2026 20:21:25 +0000"
+          "pub_date": "Thu, 11 Jun 2026 19:08:54 +0000"
         },
         {
-          "id": "64950e4830ff",
-          "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-          "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-          "description": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
-          "source": "TechCrunch",
+          "id": "a1463a43c2ed",
+          "title": "After nearly breaking, NASA's Deep Space Network \"worked well\" on Artemis II",
+          "link": "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/",
+          "description": "\"Some missions are using more than what their paperwork would say.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 10 Jun 2026 20:19:31 +0000"
+          "pub_date": "Thu, 11 Jun 2026 18:34:01 +0000"
         },
         {
-          "id": "69102086fdbd",
-          "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
-          "link": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
-          "description": "North Korean hackers posing as remote IT workers and recruiters remain a major threat to U.S., European, and Asian companies, accounting for about half of all attacks over the past 12 months.",
-          "source": "TechCrunch",
+          "id": "91453369d2de",
+          "title": "F1 teams spend millions on their simulators—what makes them different?",
+          "link": "https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/",
+          "description": "Latency, bandwidth, and fidelity all matter when you're chasing milliseconds.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 10 Jun 2026 19:57:04 +0000"
+          "pub_date": "Thu, 11 Jun 2026 18:18:12 +0000"
+        },
+        {
+          "id": "e41cf4afe4ff",
+          "title": "Did Iron Age Britons remove brains of the dead?",
+          "link": "https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/",
+          "description": "Archaeologists found apparent scrape marks inside a skull; long bones may have been sharpened into tools.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 11 Jun 2026 17:21:53 +0000"
         },
         {
           "id": "d6f8ecccb5e7",
@@ -318,54 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 10 Jun 2026 13:31:37 +0000"
-        },
-        {
-          "id": "722925a4efb1",
-          "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
-          "link": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
-          "description": "There are more than a quarter of a million V2G-capable GM EVs on the roads already.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 10 Jun 2026 13:13:33 +0000"
-        },
-        {
-          "id": "9a833178a034",
-          "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
-          "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
-          "description": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 09 Jun 2026 21:05:39 +0000"
-        },
-        {
-          "id": "e2e05180036e",
-          "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
-          "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
-          "description": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 09 Jun 2026 20:56:52 +0000"
-        },
-        {
-          "id": "6f2be2b5e0f8",
-          "title": "Three key vital signs make up the \"urban pulse\" of a city",
-          "link": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
-          "description": "Cities are dynamic, not static grids, and urbanization is a \"spiky,\" cyclical, and asynchronous process.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 09 Jun 2026 20:35:22 +0000"
-        },
-        {
-          "id": "6812ab8b7799",
-          "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
-          "link": "https://arstechnica.com/science/2026/06/__trashed-19/",
-          "description": "Five peer-reviewed papers update the design and model its expected output.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 09 Jun 2026 20:25:56 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI应用深化**：Meta的Edits应用将引入AI助手并推出桌面版；Coinbase推出能交易和支付高级研究的AI代理；DoorDash上线AI聊天机器人，支持通过提示词和图片下单；Deezer推出可识别Spotify、Apple Music等平台AI音乐的新工具。\n2. **太空与能源领域新动向**：量子空间公司试图借助SpaceX上市浪潮推进军用SPAC；Endurance Energy融资5400万美元，开发大规模未利用能源。\n3. **企业AI部署与争议**：Anthropic与塔塔咨询合作扩大企业AI部署；xAI因安全警告解雇工程师遭诉讼；Opendoor退出印度引发AI与外包讨论。\n4. **数据安全与监管**：韩国对Coupang处以超4亿美元罚款，因其数据泄露影响数百万用户；多国推动禁止儿童使用社交媒体的立法。\n5. **新兴应用与商业模式**：Waymo推出忠诚度计划，提供10%现金返还和免费取消；Pool新应用将截图转化为实用功能；微软与Alt Carbon合作，凸显印度在碳移除领域日益增长的作用。\n\n**今日最值得关注的发展**：AI正全面渗透科技产品与服务，从社交媒体、金融交易到音乐识别和外卖点餐，同时伴随数据安全、监管争议和企业伦理挑战的持续升温。",
+      "summary": "今日科技动态摘要\n\n1. SpaceX以每股135美元正式定价进行史上最大规模IPO，但SPV投资者在锁定期结束前无法知晓真实持股情况，同时量子太空公司试图借其IPO浪潮推动军事SPAC上市。\n2. Oracle披露被黑客利用的安全漏洞已导致超过100家企业遭入侵，凸显企业软件供应链风险。\n3. 社交平台动态：Bluesky推出群聊功能转向社区化，Meta的Edits应用将加入AI助手及桌面版，多国正推进禁止儿童使用社交媒体的立法。\n4. AI应用加速落地：DoorDash推出支持语音和图片下单的AI聊天机器人，Deezer发布可识别Spotify、Apple Music等平台AI生成音乐的工具，Coinbase新工具帮助用户交易并支付高级研究费用。\n5. 其他重要动态：Waymo推出含10%返现和免费取消的忠诚度计划，微软与Alt Carbon合作强化印度碳移除布局，韩国因数据泄露对Coupang处以超4亿美元罚款，Endurance Energy融资5400万美元开发新型能源。\n\n今日最值得关注的是：SpaceX以史上最大IPO定价上市，叠加Oracle重大安全漏洞与多国社交平台监管收紧，科技行业正迎来资本、安全与合规的多重变局。",
       "count": 40
     },
     "ai": {
@@ -378,15 +378,6 @@
           "source": "Hugging Face",
           "category": "ai",
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
-        },
-        {
-          "id": "9e6e0a3cdc47",
-          "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-          "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-          "description": "",
-          "source": "Hugging Face",
-          "category": "ai",
-          "pub_date": "Tue, 09 Jun 2026 19:38:28 GMT"
         },
         {
           "id": "4d458c98f100",
@@ -425,13 +416,13 @@
           "pub_date": "Mon, 08 Jun 2026 00:00:00 GMT"
         },
         {
-          "id": "255dc064c8f5",
-          "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-          "description": "",
-          "source": "Hugging Face",
+          "id": "2255e39bf9d4",
+          "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+          "description": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+          "source": "Google AI Blog",
           "category": "ai",
-          "pub_date": "Thu, 04 Jun 2026 18:57:45 GMT"
+          "pub_date": "Thu, 11 Jun 2026 20:00:00 +0000"
         },
         {
           "id": "3606f9ad8331",
@@ -452,19 +443,19 @@
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
         },
         {
-          "id": "351c7dfe61e7",
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-          "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+          "id": "e87169a3ecfd",
+          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
         },
         {
-          "id": "e87169a3ecfd",
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-          "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+          "id": "351c7dfe61e7",
+          "title": "How an astrophysicist uses Codex to help simulate black holes",
+          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+          "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
@@ -639,9 +630,18 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Thu, 11 Jun 2026 01:18:16 +0000"
+        },
+        {
+          "id": "66bf1a34a7a8",
+          "title": "中国第一、全球第二！HiDream-O1-Image-1.5 登顶文生图榜单，超越谷歌、英伟达",
+          "link": "https://www.qbitai.com/2026/06/434196.html",
+          "description": "转载来源：智象未来 本文为量子位获授权转载，观点仅为原作者所有。",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Wed, 10 Jun 2026 11:52:55 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **PyTorch性能优化与模型融合**：Hugging Face发布PyTorch性能分析第二篇，聚焦从nn.Linear到融合MLP的优化方法，提升模型效率。\n2. **多语言语音代理与开源AI进展**：Hugging Face推出针对双语客户场景的语音识别基准测试、支持开发者的小型模型North Mini Code，以及通过链式Spaces构建3D巴黎画廊的AI代理案例。\n3. **AI安全与企业应用扩展**：NVIDIA发布Nemotron 3.5内容安全模型，支持多模态定制化安全防护；OpenAI宣布收购Ona、与BBVA银行深度合作，并推动欧洲可信AI生态建设。\n4. **开源社区与基础设施动态**：开源社区支持用于智能体强化学习的OpenEnv框架；Hugging Face提供从GitHub CI迁移到其平台作业的指南，降低开发迁移成本。\n5. **AI影响与安全治理**：OpenAI披露PRC关联的信息操作试图影响美国AI辩论，并强调支持欧洲建立可信AI生态；LSEG分享从数据到决策的规模化可信AI实践。\n\n今日最值得关注的是：**OpenAI加速企业级AI布局，通过收购Ona、与BBVA和Oracle深度合作，将AI模型及Codex工具嵌入金融与云服务核心，同时强化全球安全治理与开源生态协同。**",
+      "summary": "今日AI动态摘要\n\n1. **PyTorch性能优化与模型压缩**：Hugging Face发布PyTorch剖析系列第二部分，聚焦从标准线性层到融合MLP的优化技术，提升深度学习模型效率。\n2. **开发者工具与模型部署**：Cohere推出专为开发者设计的“North Mini Code”模型；Hugging Face提供GitHub CI迁移至其作业平台的方案，并展示通过链式调用两个Spaces构建3D巴黎画廊的Agent应用。\n3. **开源社区与强化学习**：开源社区支持用于智能体强化学习（Agentic RL）的OpenEnv框架；Hugging Face新增弗吉尼亚州社区投资，推动本地就业与能源可负担性。\n4. **AI行业并购与生态合作**：OpenAI宣布收购Ona公司；BBVA银行将AI嵌入核心业务并与OpenAI合作；LSEG、Nextdoor等企业通过Codex模型加速决策与开发。\n5. **AI监管与安全议题**：OpenAI支持欧洲构建可信AI生态系统，并揭露与PRC相关的虚假信息行动试图影响美国AI辩论；Google公布2026年5月AI新闻合集。\n\n**今日最值得关注的发展**：OpenAI收购Ona并深化企业合作（如BBVA、Oracle），标志着AI从工具向核心业务基础设施的加速渗透，同时开源社区与监管动态凸显技术落地的双轨博弈。",
       "count": 30
     },
     "cctv": {
@@ -654,244 +654,10 @@
           "source": "Global Times",
           "category": "cctv",
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
-        },
-        {
-          "id": "b762f261350d",
-          "title": "The Download: soccer's data Renaissance and China's big nuclear plans",
-          "link": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
-          "description": "Article URL: https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/ Comments URL: https://news.ycombinator.com/item?id=48493006 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 11 Jun 2026 17:01:50 +0000"
-        },
-        {
-          "id": "c82c94b81236",
-          "title": "The theory taking the rich by storm: China funds data center haters",
-          "link": "https://www.npr.org/2026/06/10/nx-s1-5844328/us-china-data-centers-foreign-influence",
-          "description": "Article URL: https://www.npr.org/2026/06/10/nx-s1-5844328/us-china-data-centers-foreign-influence Comments URL: https://news.ycombinator.com/item?id=48491026 Points: 3 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 11 Jun 2026 14:41:25 +0000"
-        },
-        {
-          "id": "ef728b44fa65",
-          "title": "China prepares $295B plan to fund nationwide AI data center buildout",
-          "link": "https://www.reuters.com/world/china/china-prepares-295-billion-plan-fund-nationwide-ai-buildout-bloomberg-news-2026-06-09/",
-          "description": "Article URL: https://www.reuters.com/world/china/china-prepares-295-billion-plan-fund-nationwide-ai-buildout-bloomberg-news-2026-06-09/ Comments URL: https://news.ycombinator.com/item?id=48490657 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 11 Jun 2026 14:13:47 +0000"
-        },
-        {
-          "id": "49b0049a8ee5",
-          "title": "China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude",
-          "link": "https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude",
-          "description": "Article URL: https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude Comments URL: https://news.ycombinator.com/item?id=48486007 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 11 Jun 2026 03:52:14 +0000"
-        },
-        {
-          "id": "210c9aee9983",
-          "title": "China Lures Foreign Patients with Cutting-Edge, Cheap Medical Care",
-          "link": "https://www.bloomberg.com/news/features/2026-06-10/china-s-medical-tourism-boom-draws-foreign-patients-seeking-cutting-edge-care",
-          "description": "Article URL: https://www.bloomberg.com/news/features/2026-06-10/china-s-medical-tourism-boom-draws-foreign-patients-seeking-cutting-edge-care Comments URL: https://news.ycombinator.com/item?id=48485556 Points: 10 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 11 Jun 2026 02:27:51 +0000"
-        },
-        {
-          "id": "6e6308eb89a2",
-          "title": "China-linked operatives used ChatGPT to influence data centers debate",
-          "link": "https://www.axios.com/2026/06/10/openai-china-ai-data-center-tariffs-chatgpt",
-          "description": "Article URL: https://www.axios.com/2026/06/10/openai-china-ai-data-center-tariffs-chatgpt Comments URL: https://news.ycombinator.com/item?id=48484869 Points: 9 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 11 Jun 2026 00:47:10 +0000"
-        },
-        {
-          "id": "983913be061c",
-          "title": "China's BYD aims to be biggest car firm within five years",
-          "link": "https://www.theguardian.com/business/2026/jun/10/china-byd-car-firm-ev-maker-toyota",
-          "description": "Article URL: https://www.theguardian.com/business/2026/jun/10/china-byd-car-firm-ev-maker-toyota Comments URL: https://news.ycombinator.com/item?id=48484768 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 11 Jun 2026 00:31:48 +0000"
-        },
-        {
-          "id": "a47a4c34b8ed",
-          "title": "The theory taking the rich by storm: China funds data center haters",
-          "link": "https://text.npr.org/nx-s1-5844328",
-          "description": "Article URL: https://text.npr.org/nx-s1-5844328 Comments URL: https://news.ycombinator.com/item?id=48483641 Points: 7 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 10 Jun 2026 22:29:07 +0000"
-        },
-        {
-          "id": "e9ef84713bae",
-          "title": "China plans to spend $295B on AI buildout",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout Comments URL: https://news.ycombinator.com/item?id=48482584 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 10 Jun 2026 20:55:22 +0000"
-        },
-        {
-          "id": "cbc2a61698bb",
-          "title": "China re‑centers North Korea ties as nuclear silence reshapes balance",
-          "link": "https://text.npr.org/g-s1-127013",
-          "description": "Article URL: https://text.npr.org/g-s1-127013 Comments URL: https://news.ycombinator.com/item?id=48479332 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 10 Jun 2026 17:05:04 +0000"
-        },
-        {
-          "id": "48332bc9a488",
-          "title": "China crackdown brings drone users down to earth",
-          "link": "https://www.ft.com/content/0294bfda-fe85-495a-b664-9f015b3e11cd",
-          "description": "Article URL: https://www.ft.com/content/0294bfda-fe85-495a-b664-9f015b3e11cd Comments URL: https://news.ycombinator.com/item?id=48476083 Points: 6 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 10 Jun 2026 13:34:57 +0000"
-        },
-        {
-          "id": "e9e1341032b0",
-          "title": "Taiwan Mulls Curbs on AI Chip Exports to China to Align with US",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-09/taiwan-mulls-curbs-on-ai-chip-exports-to-china-to-align-with-us",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-06-09/taiwan-mulls-curbs-on-ai-chip-exports-to-china-to-align-with-us Comments URL: https://news.ycombinator.com/item?id=48474163 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 10 Jun 2026 10:24:53 +0000"
-        },
-        {
-          "id": "529cbf721b1c",
-          "title": "China plans $295B AI data center buildout with domestic chips",
-          "link": "https://qz.com/china-ai-data-center-buildout-295-billion-huawei-chips-060926",
-          "description": "Article URL: https://qz.com/china-ai-data-center-buildout-295-billion-huawei-chips-060926 Comments URL: https://news.ycombinator.com/item?id=48469063 Points: 4 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 09 Jun 2026 23:07:05 +0000"
-        },
-        {
-          "id": "980d130fc547",
-          "title": "First wind-powered underwater datacentre starts operating in China",
-          "link": "https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china",
-          "description": "Article URL: https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china Comments URL: https://news.ycombinator.com/item?id=48463267 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 09 Jun 2026 16:28:05 +0000"
-        },
-        {
-          "id": "26eea665b3e1",
-          "title": "Pentagon Says Alibaba, Baidu, BYD, and Unitree Support China's Military",
-          "link": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
-          "description": "Article URL: https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/ Comments URL: https://news.ycombinator.com/item?id=48462149 Points: 4 # Comments: 4",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 09 Jun 2026 15:09:11 +0000"
-        },
-        {
-          "id": "8d6d98865808",
-          "title": "China Preps $295B Plan to Fund Nationwide AI Buildout",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout Comments URL: https://news.ycombinator.com/item?id=48462025 Points: 6 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 09 Jun 2026 14:58:15 +0000"
-        },
-        {
-          "id": "42d5a6eac4aa",
-          "title": "China's Unitree Will Dominate Global Robotics",
-          "link": "https://newsletter.semianalysis.com/p/chinas-unitree-will-dominate-global",
-          "description": "Article URL: https://newsletter.semianalysis.com/p/chinas-unitree-will-dominate-global Comments URL: https://news.ycombinator.com/item?id=48459431 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 09 Jun 2026 11:04:06 +0000"
-        },
-        {
-          "id": "b6c26ecd02c0",
-          "title": "China's all-round dominance, from batteries to medicine, from trains to AI",
-          "link": "https://www.lemonde.fr/en/economy/article/2026/06/07/china-s-all-round-dominance-from-batteries-to-medicine-from-high-speed-trains-to-ai_6754229_19.html",
-          "description": "Article URL: https://www.lemonde.fr/en/economy/article/2026/06/07/china-s-all-round-dominance-from-batteries-to-medicine-from-high-speed-trains-to-ai_6754229_19.html Comments URL: https://news.ycombinator.com/item?id=48459382 Points: 4 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 09 Jun 2026 10:58:10 +0000"
-        },
-        {
-          "id": "a6cd364d5f64",
-          "title": "China's Lab-Grown Diamonds Emerge as Unlikely Winner in AI Boom",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-02/china-s-lab-grown-diamonds-emerge-as-unlikely-winner-in-ai-boom",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-06-02/china-s-lab-grown-diamonds-emerge-as-unlikely-winner-in-ai-boom Comments URL: https://news.ycombinator.com/item?id=48451695 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 08 Jun 2026 20:43:09 +0000"
-        },
-        {
-          "id": "4ee19d20648c",
-          "title": "China's Hukou System Is Stubbornly Resistant to Reform",
-          "link": "https://jacobin.com/2026/06/china-hukou-mobility-services-inequality",
-          "description": "Article URL: https://jacobin.com/2026/06/china-hukou-mobility-services-inequality Comments URL: https://news.ycombinator.com/item?id=48446672 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 08 Jun 2026 15:30:06 +0000"
-        },
-        {
-          "id": "cb1aeb515827",
-          "title": "China expands its spy networks across the European Union and beyond",
-          "link": "https://english.elpais.com/international/2026-06-07/china-expands-its-spy-networks-across-the-european-union-and-beyond.html",
-          "description": "Article URL: https://english.elpais.com/international/2026-06-07/china-expands-its-spy-networks-across-the-european-union-and-beyond.html Comments URL: https://news.ycombinator.com/item?id=48443989 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 08 Jun 2026 11:28:40 +0000"
-        },
-        {
-          "id": "d9022e1c3096",
-          "title": "China is killing Europe's chemicals industry. Brussels wants to intervene",
-          "link": "https://www.politico.eu/article/europes-fightback-against-china-may-come-too-late-for-its-chemicals-industry/",
-          "description": "Article URL: https://www.politico.eu/article/europes-fightback-against-china-may-come-too-late-for-its-chemicals-industry/ Comments URL: https://news.ycombinator.com/item?id=48441664 Points: 5 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 08 Jun 2026 05:36:38 +0000"
-        },
-        {
-          "id": "ac0d6b53396c",
-          "title": "China has approved the first invasive brain-computer chip",
-          "link": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
-          "description": "Article URL: https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/ Comments URL: https://news.ycombinator.com/item?id=48438075 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 07 Jun 2026 20:10:01 +0000"
-        },
-        {
-          "id": "6c18458fa128",
-          "title": "The Rise of China's One-Person Companies",
-          "link": "https://www.sixthtone.com/news/1018567",
-          "description": "Article URL: https://www.sixthtone.com/news/1018567 Comments URL: https://news.ycombinator.com/item?id=48437524 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 07 Jun 2026 18:47:57 +0000"
-        },
-        {
-          "id": "0717ed97f8e4",
-          "title": "China urges fund managers to support innovation, warns against concept hype",
-          "link": "https://www.reuters.com/legal/government/china-urges-fund-managers-support-innovation-warns-against-concept-hype-2026-06-06/",
-          "description": "Article URL: https://www.reuters.com/legal/government/china-urges-fund-managers-support-innovation-warns-against-concept-hype-2026-06-06/ Comments URL: https://news.ycombinator.com/item?id=48436921 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 07 Jun 2026 17:28:04 +0000"
-        },
-        {
-          "id": "61596ac8726b",
-          "title": "The mysterious database that provides clues to China's foreign surveillance",
-          "link": "https://www.smh.com.au/world/asia/the-mysterious-database-that-provides-clues-to-china-s-foreign-surveillance-20260529-p601xf.html",
-          "description": "Article URL: https://www.smh.com.au/world/asia/the-mysterious-database-that-provides-clues-to-china-s-foreign-surveillance-20260529-p601xf.html Comments URL: https://news.ycombinator.com/item?id=48429299 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 06 Jun 2026 21:45:05 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 【中国斥责菲律宾外长涉日菲划界言论】中方专家批评菲律宾外长声称日菲海洋划界“与中国无关”的说法，指出此举背后有超出双边谈判范围的别有用心的目的。\n2. 【中国启动2950亿美元全国AI数据中心建设计划】中国计划投入约2950亿美元，使用国产芯片在全国范围内大规模建设人工智能数据中心，推动算力基础设施自主化。\n3. 【中国科技与产业突破】小米AI助手MiMo性能达ChatGPT和Claude的15倍；比亚迪提出五年内成为全球最大汽车制造商的目标；全球首座风能驱动水下数据中心在中国投入运营。\n4. 【中国吸引海外患者来华就医】凭借先进且价格低廉的医疗服务，中国正吸引越来越多外国患者前来接受治疗。\n5. 【中国加强朝鲜关系并规范无人机使用】在核问题塑造地区平衡的背景下，中国重新聚焦与朝鲜的关系；同时，中国加强无人机监管，限制无序飞行行为。\n\n今日最值得关注的发展：中国宣布2950亿美元规模的自主芯片AI数据中心建设计划，标志着国家在人工智能基础设施领域的重大战略布局。",
-      "count": 27
+      "summary": "今日新闻联播动态摘要\n\n1. [重点] 中国专家批评菲律宾外长关于“日菲海洋划界与中国无关”的言论，指出此举暗藏超出双边对话范围的别有用心。\n2. [重点] 专家警告称，日菲海洋划界行动可能服务于更广泛的战略意图，对中国在南海的合法权益构成潜在影响。\n3. [重点] 中方重申对相关海域的主权立场，强调任何涉及地区海洋秩序的协商不应排除中国。\n\n今日最值得关注的发展是：中国专家明确驳斥菲方“海洋划界无关中国”论调，并揭露其背后可能存在的战略意图。",
+      "count": 1
     }
   }
 }
