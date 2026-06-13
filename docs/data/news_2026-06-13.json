@@ -1,9 +1,45 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T15:42:54.733613",
+  "generated_at": "2026-06-13T23:11:03.331793",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "b04bf3fcccfe",
+          "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+          "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+          "description": "Once again, AI proves to be an unreliable source of information about AI.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 13 Jun 2026 20:42:31 +0000"
+        },
+        {
+          "id": "7c7bd6a1ae43",
+          "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+          "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+          "description": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 13 Jun 2026 19:11:41 +0000"
+        },
+        {
+          "id": "da86ca7b6887",
+          "title": "OpenAI faces investigation from state attorneys general",
+          "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+          "description": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 13 Jun 2026 16:47:18 +0000"
+        },
+        {
+          "id": "373f66bbb546",
+          "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+          "link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+          "description": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can be uncomfortable, and playing audio out loud isn’t exactly considerate when I’m staying at [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 13 Jun 2026 16:00:00 +0000"
+        },
         {
           "id": "77d909f7e9a4",
           "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
@@ -149,40 +185,13 @@
           "pub_date": "Fri, 12 Jun 2026 01:48:07 +0000"
         },
         {
-          "id": "c228a69b2d93",
-          "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-          "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-          "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-          "source": "TechCrunch",
+          "id": "d341d92ab4e0",
+          "title": "Review: Disclosure Day is big on action, light on ideas",
+          "link": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
+          "description": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Fri, 12 Jun 2026 01:04:38 +0000"
-        },
-        {
-          "id": "56648d533857",
-          "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-          "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-          "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 11 Jun 2026 20:33:10 +0000"
-        },
-        {
-          "id": "084428a83b57",
-          "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-          "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-          "description": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 11 Jun 2026 20:27:25 +0000"
-        },
-        {
-          "id": "6f16ff69675a",
-          "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-          "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-          "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 11 Jun 2026 19:58:01 +0000"
+          "pub_date": "Sat, 13 Jun 2026 17:17:44 +0000"
         },
         {
           "id": "56595a8c4502",
@@ -354,18 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Fri, 12 Jun 2026 11:00:13 +0000"
-        },
-        {
-          "id": "f5f666db021b",
-          "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
-          "link": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
-          "description": "Cruz/Wyden bill would help Americans sue federal officials over censorship.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 11 Jun 2026 19:31:37 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **SpaceX IPO引领市场**：SpaceX首次公开募股首日上涨19%，使埃隆·马斯克成为全球首位万亿富翁，同时Robinhood平台出现创纪录交易流量，市场关注其与特斯拉潜在合并及后续IPO热潮。\n2. **AI安全与监管博弈**：Anthropic的安全警告可能适得其反，美国政府已叫停其最强AI模型；同时，美国监控法因议员拒绝特朗普的情报主管提名而首次失效，凸显科技与政策的紧张关系。\n3. **AI诈骗与反诈技术**：谷歌起诉一个利用AI诈骗“数十万受害者”的中国网络犯罪团伙；印度初创公司Equal AI融资3000万美元，通过AI筛查来电以减少诈骗骚扰。\n4. **科技巨头内部困境**：Meta成立数月的AI部门被工程师形容为“摧残灵魂的劳改营”，反映高压工作环境与人才流失问题。\n5. **区域性AI创新**：印度AI公司Avataar推出更便宜、更快且具文化意识的视频AI，专为印度大规模应用设计；法国AI公司Mistral据传以200亿欧元估值融资30亿欧元。\n\n**今日最值得关注的发展**：SpaceX的IPO不仅创造了全球首位万亿富翁，更可能引发AI、航天与金融领域新一轮资本与技术整合的连锁反应。",
+      "summary": "今日科技动态摘要\n\n1. **AI安全问题引发监管与行业震荡**：KPMG因AI生成幻觉撤回报告；Anthropic的安全警告反致其最强AI模型被政府叫停；OpenAI面临多州检察长调查；亚马逊CEO据称在政府行动前曾对Anthropic模型表达担忧。\n2. **SpaceX成市场焦点**：SpaceX IPO首日上涨19%，诞生全球首位万亿富翁；Robinhood因SpaceX股票上市交易量创纪录；总裁暗示与特斯拉合并可能；市场关注其与Anthropic、OpenAI共同构成的“AI+航天”IPO热潮。\n3. **AI诈骗与网络犯罪升级**：谷歌起诉中国网络犯罪团伙利用AI诈骗“数十万受害者”；FBI自建模拟小镇进行真实网络攻击演练。\n4. **科技大厂内部问题与产品创新**：Meta数月前成立的AI部门被员工形容为“灵魂粉碎的集中营”；一款薄型枕下音箱助眠产品获关注。\n5. **新兴趋势与资本动态**：杨安泽认为下一个重大创业机会是降低生活成本；法国AI公司Mistral据传以200亿欧元估值融资30亿欧元。\n\n**今日最值得关注的发展**：AI安全与监管矛盾激化，多家头部企业同时面临政府调查或模型被叫停，而SpaceX的万亿市值IPO则昭示资本对前沿科技的热捧与风险并存。",
       "count": 40
     },
     "ai": {
@@ -641,7 +641,7 @@
           "pub_date": "Fri, 12 Jun 2026 07:29:59 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **开源与模型开发工具更新**：Hugging Face 发布了多个实用工具，包括模型评估工作台“olmo-eval”、PyTorch 性能分析教程（从 nn.Linear 到融合 MLP），以及 Cohere 面向开发者的首个小型代码模型“North Mini Code”。\n\n2. **AI 代理与自动化应用**：展示了 AI 代理如何通过串联两个 Hugging Face Spaces 构建 3D 巴黎画廊，以及如何将 GitHub CI 迁移至 Hugging Face Jobs 实现自动化工作流。\n\n3. **强化学习与开源生态**：开源社区支持面向智能体强化学习的“OpenEnv”框架；OpenAI 则推出面向新一代工作的“Academy”课程，并强调与欧洲合作构建可信 AI 生态系统。\n\n4. **AI 行业合作与收购**：BBVA 银行将 OpenAI 模型整合至核心银行业务；OpenAI 宣布收购 Ona 公司，同时支持用户通过 Oracle 云承诺访问其模型与 Codex。\n\n5. **AI 安全与地缘政治**：OpenAI 披露有 PRC（中国）相关影响力操作试图干预美国 AI 辩论，强调需警惕虚假信息对技术讨论的干扰。\n\n今日最值得关注的发展：OpenAI 加速行业渗透，通过收购、银行合作及云服务扩展其模型应用，同时开源社区在模型评估与强化学习框架上持续发力。",
+      "summary": "今日AI动态摘要\n\n1. **开源模型与工具生态发展**：Hugging Face发布多项更新，包括模型开发评估工具“olmo-eval”、PyTorch性能分析教程、面向开发者的Cohere轻量模型“North Mini Code”，以及通过Agent串联两个Spaces构建3D巴黎画廊的案例。\n2. **企业级AI应用落地**：BBVA将OpenAI模型嵌入银行核心业务；Preply结合AI与人类导师实现个性化学习；OpenAI通过收购Ona、推出Academy课程及支持Oracle云部署，加速企业服务与教育领域布局。\n3. **AI安全与地缘政治关注**：OpenAI发布报告指出疑似与中国关联的影响力操作正试图干预美国AI议题讨论；同时强调支持欧洲构建可信AI生态系统，并投资弗吉尼亚州社区以扩大能源可负担性。\n4. **开源社区与前沿研究动态**：开源社区支持用于智能体强化学习的“OpenEnv”框架；一名天体物理学家利用Codex模型辅助模拟黑洞；Hugging Face推出将GitHub CI迁移至其平台Jobs的功能。\n\n**今日最值得关注的发展**：开源AI工具链与企业级应用同步加速——从Hugging Face的评估工作台到BBVA的银行业务集成，表明AI正从模型研发走向深度行业渗透，同时围绕安全性与地缘博弈的争议也在持续升温。",
       "count": 30
     },
     "cctv": {
@@ -656,6 +656,24 @@
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
         },
         {
+          "id": "2c7b30b956ab",
+          "title": "China's control over indium phosphide exports threatens AI data centre rollout",
+          "link": "https://www.reuters.com/world/china/chinas-control-over-indium-phosphide-exports-threatens-ai-data-centre-rollout-2026-06-11/",
+          "description": "Article URL: https://www.reuters.com/world/china/chinas-control-over-indium-phosphide-exports-threatens-ai-data-centre-rollout-2026-06-11/ Comments URL: https://news.ycombinator.com/item?id=48521165 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 13 Jun 2026 20:34:16 +0000"
+        },
+        {
+          "id": "93266238bd63",
+          "title": "China's Notorious University-Entrance Exam, Gaokao Is Changing",
+          "link": "https://www.economist.com/china/2026/06/11/chinas-notorious-university-entrance-exam-is-changing",
+          "description": "Article URL: https://www.economist.com/china/2026/06/11/chinas-notorious-university-entrance-exam-is-changing Comments URL: https://news.ycombinator.com/item?id=48519151 Points: 2 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 13 Jun 2026 17:03:17 +0000"
+        },
+        {
           "id": "83bdeed5d286",
           "title": "SpaceX playbook set to fuel China's IPO ambitions but tech gap persists",
           "link": "https://www.reuters.com/legal/transactional/spacex-playbook-set-fuel-chinas-ipo-ambitions-tech-gap-persists-2026-06-12/",
@@ -668,7 +686,7 @@
           "id": "2c8f6f4fe1b3",
           "title": "China Pulls Ahead in Quantum Communications Security",
           "link": "https://jamestown.org/prc-pulls-ahead-in-quantum-communications-security/",
-          "description": "Article URL: https://jamestown.org/prc-pulls-ahead-in-quantum-communications-security/ Comments URL: https://news.ycombinator.com/item?id=48515755 Points: 3 # Comments: 0",
+          "description": "Article URL: https://jamestown.org/prc-pulls-ahead-in-quantum-communications-security/ Comments URL: https://news.ycombinator.com/item?id=48515755 Points: 4 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 13 Jun 2026 10:35:38 +0000"
@@ -879,27 +897,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Tue, 09 Jun 2026 15:09:11 +0000"
-        },
-        {
-          "id": "8d6d98865808",
-          "title": "China Preps $295B Plan to Fund Nationwide AI Buildout",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout Comments URL: https://news.ycombinator.com/item?id=48462025 Points: 6 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 09 Jun 2026 14:58:15 +0000"
-        },
-        {
-          "id": "42d5a6eac4aa",
-          "title": "China's Unitree Will Dominate Global Robotics",
-          "link": "https://newsletter.semianalysis.com/p/chinas-unitree-will-dominate-global",
-          "description": "Article URL: https://newsletter.semianalysis.com/p/chinas-unitree-will-dominate-global Comments URL: https://news.ycombinator.com/item?id=48459431 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 09 Jun 2026 11:04:06 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **国际关系与领土争议**：中方专家批评菲律宾外长关于日菲海洋划界“与中国无关”的言论，指出此举背后存在超出双边对话的别有用意。\n2. **科技竞争与自主创新**：中国在量子通信安全领域取得领先地位；同时，面对美国芯片限制，中国启动光子学实验室，探索以光驱动AI技术，并加速芯片设计软件国产化以追赶美国同行。\n3. **AI与数据中心建设**：中国计划投入2950亿美元建设全国性AI数据中心，并加强数据法规；与此同时，美国企业转向中国AI模型DeepSeek，而中国则加强对西方AI模型的监管。\n4. **医疗与科研突破**：中国以先进且低成本的医疗吸引外国患者；此外，中国“朱诺”探测器在59天内完成超越数十年的研究进展。\n5. **核能发展**：中国加大投入大型核反应堆，作为能源战略的重要组成部分。\n\n**今日最值得关注的发展**：中国在量子通信、AI芯片自主化及大规模数据中心建设上多线并进，面对外部技术封锁，正加速构建自主科技体系。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中菲日海洋划界争议**：中方专家批评菲律宾外长声称日菲海洋划界“与中国无关”的言论，指出此举背后存在超越双边谈判的别有用意。\n2. **中国科技领域多点突破**：中国在量子通信安全、芯片设计软件、光子学实验室（应对美国芯片限制）以及江门中微子探测器（59天超越数十年研究）等领域取得显著进展。\n3. **中美科技竞争与管制升级**：美国对华芯片限制持续，中国加强磷化铟出口管控以影响AI数据中心建设；微软缩减中国大陆云岗位，中美数据法律收紧；西方AI模型在华受限，而美国公司转向中国DeepSeek模型。\n4. **教育与社会发展动态**：中国高考制度正在改革；中国以先进且低廉的医疗吸引外国患者；中国推进大型核反应堆建设，并出现“泡泡脸”灾害相关视频报道。\n5. **太空与IPO领域新动向**：SpaceX模式可能推动中国IPO雄心，但技术差距依然存在；中国在量子通信安全领域保持领先。\n\n**今日最值得关注的发展**：中国在量子通信与中微子探测等前沿科技领域加速突破，同时通过出口管制与自主创新（如光子学实验室）积极应对美国芯片限制，凸显科技自立与安全博弈并重的战略格局。",
       "count": 28
     }
   }
