@@ -1,9 +1,36 @@
 {
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T18:28:08.612189",
+  "generated_at": "2026-06-15T23:49:49.818844",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "70c02f02816f",
+          "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+          "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+          "description": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 15 Jun 2026 21:50:21 +0000"
+        },
+        {
+          "id": "07e4ee29edab",
+          "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+          "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+          "description": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 15 Jun 2026 18:30:58 +0000"
+        },
+        {
+          "id": "55d0064914a7",
+          "title": "SpaceX is public: Everything you need to know post-IPO",
+          "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+          "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 15 Jun 2026 18:30:34 +0000"
+        },
         {
           "id": "9001343fadcc",
           "title": "These are the countries moving to ban social media for children",
@@ -17,7 +44,7 @@
           "id": "dfaa4ab035da",
           "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
           "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-          "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
+          "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Mon, 15 Jun 2026 15:29:51 +0000"
@@ -41,8 +68,8 @@
           "pub_date": "Mon, 15 Jun 2026 14:36:56 +0000"
         },
         {
-          "id": "9c8593d2f168",
-          "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+          "id": "ca92b06fe354",
+          "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
           "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
           "description": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
           "source": "TechCrunch",
@@ -158,31 +185,49 @@
           "pub_date": "Sun, 14 Jun 2026 03:00:00 +0000"
         },
         {
-          "id": "213182dfaa13",
-          "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-          "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-          "description": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
-          "source": "TechCrunch",
+          "id": "d2b9e805c4d1",
+          "title": "Heart protection from COVID shots remains amid updates, study finds",
+          "link": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
+          "description": "Despite continued benefits, anti-vaccine rhetoric has driven down vaccination.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sun, 14 Jun 2026 00:03:49 +0000"
+          "pub_date": "Mon, 15 Jun 2026 21:04:26 +0000"
         },
         {
-          "id": "b04bf3fcccfe",
-          "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-          "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-          "description": "Once again, AI proves to be an unreliable source of information about AI.",
-          "source": "TechCrunch",
+          "id": "8c35495ba026",
+          "title": "UK to ban social media for kids under 16, may impose overnight curfews",
+          "link": "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
+          "description": "Critics say bans push kids to riskier alternatives and can be beaten with VPNs.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sat, 13 Jun 2026 20:42:31 +0000"
+          "pub_date": "Mon, 15 Jun 2026 20:14:04 +0000"
         },
         {
-          "id": "7c7bd6a1ae43",
-          "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-          "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-          "description": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
-          "source": "TechCrunch",
+          "id": "623db6d49948",
+          "title": "A Chinese rocket breaks apart dangerously close to the Starlink constellation",
+          "link": "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/",
+          "description": "The rocket's breakup likely generated 100 to 150 new pieces of space junk.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Sat, 13 Jun 2026 19:11:41 +0000"
+          "pub_date": "Mon, 15 Jun 2026 18:55:41 +0000"
+        },
+        {
+          "id": "4e128173a47d",
+          "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
+          "link": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
+          "description": "Fox plans to take over Roku's streaming hardware, OS, and FAST services.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 15 Jun 2026 18:29:47 +0000"
+        },
+        {
+          "id": "6ce36b12c390",
+          "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
+          "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+          "description": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 15 Jun 2026 17:55:46 +0000"
         },
         {
           "id": "8fb760677c3e",
@@ -257,115 +302,70 @@
           "pub_date": "Sat, 13 Jun 2026 03:00:34 +0000"
         },
         {
-          "id": "4fd59de46123",
-          "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
-          "link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
-          "description": "As of today, SpaceX is owned by investors who will want to see it make money.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 12 Jun 2026 22:20:06 +0000"
-        },
-        {
-          "id": "246fc92bed8a",
-          "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
-          "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-          "description": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 12 Jun 2026 19:26:47 +0000"
-        },
-        {
-          "id": "e4425007b280",
-          "title": "Controversial FISA spying law expires tonight. The spying will continue.",
-          "link": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
-          "description": "Section 702 of FISA to expire tonight, but certification lasts until March 2027.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 12 Jun 2026 18:57:51 +0000"
-        },
-        {
-          "id": "86c036e23105",
-          "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-          "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-          "description": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 12 Jun 2026 18:45:40 +0000"
-        },
-        {
-          "id": "b5aee7e2691c",
-          "title": "Have politics finally come for the National Academies of Science?",
-          "link": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
-          "description": "A pending report on climate attribution may be setting the stage for conflict.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 12 Jun 2026 18:31:36 +0000"
-        },
-        {
-          "id": "1b5b0e062624",
-          "title": "How TimescaleDB compresses time-series data",
-          "link": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-          "description": "Article URL: https://roszigit.com/en/blog/timescaledb-compression-hypercore Comments URL: https://news.ycombinator.com/item?id=48544451 Points: 26 # Comments: 2",
+          "id": "335a938e3766",
+          "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+          "link": "https://www.richardosgood.com/posts/banned-book-library/",
+          "description": "Article URL: https://www.richardosgood.com/posts/banned-book-library/ Comments URL: https://news.ycombinator.com/item?id=48547985 Points: 43 # Comments: 5",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Mon, 15 Jun 2026 17:29:17 +0000"
+          "pub_date": "Mon, 15 Jun 2026 22:37:55 +0000"
         },
         {
-          "id": "969843ba993e",
-          "title": "Typst 0.15.0",
-          "link": "https://typst.app/docs/changelog/0.15.0/",
-          "description": "Article URL: https://typst.app/docs/changelog/0.15.0/ Comments URL: https://news.ycombinator.com/item?id=48544396 Points: 6 # Comments: 0",
+          "id": "b753e45552e4",
+          "title": "San Francisco Weighs PG&E Takeover Amid Soaring Utility Costs",
+          "link": "https://www.kqed.org/news/12081882/san-francisco-has-been-trying-to-leave-pge-for-100-years-will-this-time-be-different",
+          "description": "Article URL: https://www.kqed.org/news/12081882/san-francisco-has-been-trying-to-leave-pge-for-100-years-will-this-time-be-different Comments URL: https://news.ycombinator.com/item?id=48547608 Points: 38 # Comments: 23",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Mon, 15 Jun 2026 17:24:17 +0000"
+          "pub_date": "Mon, 15 Jun 2026 22:00:44 +0000"
         },
         {
-          "id": "4534fe4d03e7",
-          "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
-          "link": "https://news.ycombinator.com/item?id=48543908",
-          "description": "I’m Nick, founder of Drafted ( https://www.drafted.ai ). We’re training models that generate residential architecture from structured design constraints. Product demo: https://www.youtube.com/watch?v=8QkJ7jNU9y4 Residential architecture is still one of the most expensive, slow, and inaccessible creative processes in the world. Designing a custom home typically costs $10,000–$50,000 or more, takes months, and requires making major decisions before most people can even visualize the outcome. As a result, the vast majority of homes are built without direct architectural involvement. Our goal is t",
+          "id": "cee616aedfc4",
+          "title": "Why I Email Complete Strangers",
+          "link": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+          "description": "Article URL: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/ Comments URL: https://news.ycombinator.com/item?id=48547566 Points: 41 # Comments: 16",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Mon, 15 Jun 2026 16:47:21 +0000"
+          "pub_date": "Mon, 15 Jun 2026 21:57:10 +0000"
         },
         {
-          "id": "2f3868f69a98",
-          "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-          "link": "https://tinywind.io",
-          "description": "Article URL: https://tinywind.io Comments URL: https://news.ycombinator.com/item?id=48543475 Points: 195 # Comments: 43",
+          "id": "d5d8438cad90",
+          "title": "The Dead Economy Theory",
+          "link": "https://gmalandrakis.com/writings/ad-economicum.html",
+          "description": "Article URL: https://gmalandrakis.com/writings/ad-economicum.html Comments URL: https://news.ycombinator.com/item?id=48547062 Points: 51 # Comments: 50",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Mon, 15 Jun 2026 16:15:53 +0000"
+          "pub_date": "Mon, 15 Jun 2026 21:10:36 +0000"
         },
         {
-          "id": "08ff24580d29",
-          "title": "Memory safety CVEs differ between Rust and C/C++",
-          "link": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-          "description": "Article URL: https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html Comments URL: https://news.ycombinator.com/item?id=48543392 Points: 45 # Comments: 36",
+          "id": "cbe8d7b2a8f2",
+          "title": "Commander Keen Games (free book)",
+          "link": "https://forgottenbytes.net/",
+          "description": "Article URL: https://forgottenbytes.net/ Comments URL: https://news.ycombinator.com/item?id=48546648 Points: 19 # Comments: 3",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Mon, 15 Jun 2026 16:11:02 +0000"
+          "pub_date": "Mon, 15 Jun 2026 20:30:37 +0000"
         },
         {
-          "id": "901b0b6a56fd",
-          "title": "Boot Naked Linux",
-          "link": "https://nick.zoic.org/art/boot-naked-linux/",
-          "description": "Article URL: https://nick.zoic.org/art/boot-naked-linux/ Comments URL: https://news.ycombinator.com/item?id=48543269 Points: 26 # Comments: 10",
+          "id": "fe8686b82963",
+          "title": "US battery manufacturing output continues to break records",
+          "link": "https://fred.stlouisfed.org/series/IPG33591S",
+          "description": "Article URL: https://fred.stlouisfed.org/series/IPG33591S Comments URL: https://news.ycombinator.com/item?id=48546616 Points: 125 # Comments: 100",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Mon, 15 Jun 2026 16:03:26 +0000"
+          "pub_date": "Mon, 15 Jun 2026 20:28:24 +0000"
         },
         {
-          "id": "f245bfdf9242",
-          "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
-          "link": "https://machine0.io",
-          "description": "Hi HN! Excited to launch machine0, a CLI that makes it easy to create, provision and snapshot persistent NixOS (& Ubuntu) VMs. You can think of machine0 as a modern VPS provider. VMs stay on unless switched-off (with 99.99% uptime), they have static IPs and HTTPS endpoints, 1-60 vCPU, up to 240GB RAM and optionally GPUs. The CLI provides commands to manage lifecycle, snapshots and also provision the VMs using Nix flakes or Ansible playbooks. VMs are priced by the minute of usage. What makes machine0 unique is that it has first class support for NixOS! In a nutshell, NixOS lets you define your ",
+          "id": "51e21a65712b",
+          "title": "I Love the Computer",
+          "link": "https://michaelenger.com/blog/i-love-the-computer/",
+          "description": "Article URL: https://michaelenger.com/blog/i-love-the-computer/ Comments URL: https://news.ycombinator.com/item?id=48546441 Points: 105 # Comments: 59",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Mon, 15 Jun 2026 16:01:43 +0000"
+          "pub_date": "Mon, 15 Jun 2026 20:14:15 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **多国推动社交媒体年龄限制**：英国拟全面禁止16岁以下用户使用社交媒体，其他国家也在考虑类似措施，旨在加强未成年人网络保护。\n2. **AI监管争议加剧**：网络安全专家抗议美国政府禁止Anthropic最强大模型的“危险”决定，同时AI公司上市潮引发关注，AI裁员潮也被视为潜在风险。\n3. **SpaceX创下IPO纪录**：SpaceX史上最大IPO募资额已升至857亿美元，其发展势头甚至超越特斯拉。\n4. **科技巨头并购活跃**：Salesforce以36亿美元收购AI客服平台Fin，福克斯拟以220亿美元收购Roku，AI初创公司Sarvam获2.34亿美元融资成为印度新独角兽。\n5. **AI技术新突破与行业变革**：卫星实现自主目标识别，AI代理身份管理公司NewCore获6600万美元融资，Orbio获2100万美元用于自动化蓝领招聘。\n\n**今日最值得关注的发展**：多国对社交媒体实施年龄限制的立法趋势与AI监管争议并行，凸显全球在技术发展与保护用户安全之间的紧张博弈。",
+      "summary": "今日科技动态摘要\n\n1. **美国政府对Anthropic最强AI模型的禁令引发争议**  \n   网络安全专家公开抗议，认为该禁令“危险”且并非出于防止AI越狱的合理考量，反映出AI监管与技术创新之间的深层矛盾。\n\n2. **SpaceX完成史上最大IPO，募资额达857亿美元**  \n   SpaceX正式上市，成为公开公司，其IPO规模创历史新高，标志着商业航天进入资本化新阶段。\n\n3. **多国推动社交媒体儿童禁令，英国率先全面禁止16岁以下用户**  \n   英国公布针对16岁以下用户的全面社交媒体禁令，其他国家也在跟进，全球范围内对青少年网络保护的立法加速。\n\n4. **AI领域重大收购与融资动态**  \n   Salesforce以36亿美元收购AI客服平台Fin；印度AI初创Sarvam获2.34亿美元融资成为新独角兽；Fox拟以220亿美元收购Roku；NewCore获6600万美元为AI代理创建数字身份。\n\n5. **AI替代人类岗位引发的裁员潮与就业自动化趋势**  \n   AI裁员潮被视为“火药桶”，同时Orbio获2100万美元融资，专注自动化前线员工招聘与入职，反映AI正从工具演变为“数字员工”。\n\n**今日最值得关注的发展**：SpaceX以857亿美元IPO成为商业航天里程碑，而美国对顶级AI模型的禁令争议则凸显了全球AI治理的紧迫与分裂。",
       "count": 40
     },
     "ai": {
@@ -596,7 +596,7 @@
           "pub_date": "Sat, 13 Jun 2026 12:40:30 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **OpenAI拓展合作伙伴与教育生态**：推出OpenAI合作伙伴网络（OpenAI Partner Network）和面向未来工作的AI学院课程（OpenAI Academy courses），并计划收购Ona，强化AI在行业与教育中的应用。\n2. **AI深度融入金融与能源领域**：BBVA银行将AI置于核心业务与OpenAI合作；谷歌在阿拉巴马州和弗吉尼亚州投资支持当地就业与能源可负担性，扩大社区影响力。\n3. **AI模型与工具开放新场景**：通过Oracle云承诺可访问OpenAI模型和Codex；Codex被用于模拟黑洞、优化Nextdoor工程师开发、赋能Notion无限制构建，展现跨行业应用潜力。\n4. **欧洲可信AI生态与安全关注**：OpenAI支持欧洲构建可信AI生态系统，同时披露与中国相关的虚假信息行动试图影响美国AI辩论。\n5. **工业政策与数据决策趋势**：提出“智能时代工业政策”方向；LSEG（伦敦证券交易所集团）展示从数据到决策的规模化可信AI实践。\n\n**今日最值得关注的发展**：OpenAI密集推进合作伙伴网络、教育课程及收购计划，同时通过Codex工具深度赋能科研与工程领域，标志其从模型提供向平台化生态的加速转型。",
+      "summary": "今日AI动态摘要\n\n1. **谷歌与OpenAI加大区域投资与社区支持**：谷歌宣布在阿拉巴马州和弗吉尼亚州进行新投资，旨在创造就业机会并扩大能源可负担性；OpenAI则推出合作伙伴网络（OpenAI Partner Network）并收购Ona，强化生态布局。\n\n2. **OpenAI推出新学院课程与行业合作案例**：发布面向未来工作模式的OpenAI Academy新课程，并展示多个行业应用实例，包括Preply结合AI与真人导师的个性化学习、BBVA将AI融入银行核心业务、LSEG利用AI实现从数据到决策的规模化信任。\n\n3. **Codex模型在多领域实现突破性应用**：天体物理学家利用Codex模拟黑洞，Nextdoor工程师借助Codex实现无限制开发，Notion也通过Codex解锁新功能，体现Codex在科研与工程中的广泛潜力。\n\n4. **OpenAI关注AI生态安全与政策**：支持欧洲构建可信AI生态系统，并披露与中国相关的虚假信息行动试图影响美国AI辩论，同时提出“智能时代产业政策”主张。\n\n5. **企业级AI部署与云合作深化**：用户可通过Oracle云承诺访问OpenAI模型和Codex，进一步降低企业AI应用门槛。\n\n**今日最值得关注的动态**：OpenAI通过收购Ona、推出合作伙伴网络及Codex多领域应用案例，正加速构建从技术研发到产业落地的完整生态，同时积极应对区域投资、政策安全与行业协作的挑战。",
       "count": 25
     },
     "cctv": {
@@ -611,10 +611,28 @@
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
         },
         {
+          "id": "f54f6ba35cae",
+          "title": "China is innovative. Its economy is a mess. Which matters more?",
+          "link": "https://economist.com/finance-and-economics/2026/06/08/china-is-innovative-its-economy-is-a-mess-which-matters-more",
+          "description": "Article URL: https://economist.com/finance-and-economics/2026/06/08/china-is-innovative-its-economy-is-a-mess-which-matters-more Comments URL: https://news.ycombinator.com/item?id=48547252 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 15 Jun 2026 21:28:36 +0000"
+        },
+        {
+          "id": "6a213960b94a",
+          "title": "US connected-car rule prompts Ford, to seek licenses for China-built models",
+          "link": "https://www.reuters.com/business/autos-transportation/us-connected-car-rule-prompts-ford-other-automakers-seek-licenses-china-built-2026-06-15/",
+          "description": "Article URL: https://www.reuters.com/business/autos-transportation/us-connected-car-rule-prompts-ford-other-automakers-seek-licenses-china-built-2026-06-15/ Comments URL: https://news.ycombinator.com/item?id=48545836 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 15 Jun 2026 19:22:29 +0000"
+        },
+        {
           "id": "bfbd24a24174",
           "title": "China bans sales of Germany's Infineon GAN chips",
           "link": "https://www.semiconductor-today.com/news_items/2026/jun/innoscience-infineon-150626.shtml",
-          "description": "Article URL: https://www.semiconductor-today.com/news_items/2026/jun/innoscience-infineon-150626.shtml Comments URL: https://news.ycombinator.com/item?id=48540057 Points: 1 # Comments: 0",
+          "description": "Article URL: https://www.semiconductor-today.com/news_items/2026/jun/innoscience-infineon-150626.shtml Comments URL: https://news.ycombinator.com/item?id=48540057 Points: 2 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Mon, 15 Jun 2026 12:01:55 +0000"
@@ -816,27 +834,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 11 Jun 2026 00:31:48 +0000"
-        },
-        {
-          "id": "a47a4c34b8ed",
-          "title": "The theory taking the rich by storm: China funds data center haters",
-          "link": "https://text.npr.org/nx-s1-5844328",
-          "description": "Article URL: https://text.npr.org/nx-s1-5844328 Comments URL: https://news.ycombinator.com/item?id=48483641 Points: 7 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 10 Jun 2026 22:29:07 +0000"
-        },
-        {
-          "id": "e9ef84713bae",
-          "title": "China plans to spend $295B on AI buildout",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout Comments URL: https://news.ycombinator.com/item?id=48482584 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 10 Jun 2026 20:55:22 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中菲日海洋争端**：中国专家批评菲律宾外长称日菲海上划界“与中国无关”的言论，指出此举背后存在超越双边关系的别有用心目的。  \n2. **科技与出口管制**：中国禁止销售德国英飞凌氮化镓芯片，并加强对磷化铟出口控制，威胁AI数据中心建设；同时中国在量子通信安全领域取得领先，新型探测器Juno在59天内超越数十年研究成果。  \n3. **能源与贸易**：菲律宾成为中国太阳能电池板第二大市场；中国通过减少石油进口支撑全球经济，并加大大型核反应堆投资。  \n4. **教育与人才竞争**：中国高考制度正在改革，同时医疗领域凭借先进技术与低成本吸引外国患者，展现竞争与开放并存的趋势。  \n5. **中美科技博弈**：微软缩减中国大陆云岗位，中国限制西方AI模型的同时，美国企业转向中国DeepSeek；SpaceX模式激发中国IPO野心，但技术差距仍存。  \n\n**总结**：今日最值得关注的发展是中国在科技自主与出口管制上的双重发力，既通过限制关键材料与芯片供应强化技术主权，又在量子通信、核能等前沿领域加速突破，同时以医疗与能源优势扩大全球影响力，展现中美博弈下的战略调整。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国专家批驳菲律宾外长言论**：针对菲律宾外长声称“日菲海洋划界与中国无关”的言论，中方专家指出此举暗藏超出双边谈判的别有用心，警告相关动向可能破坏地区稳定。\n\n2. **中美科技与产业博弈持续**：美国对中国产电动汽车及芯片实施新规，福特等车企需申请许可；中国对德国英飞凌氮化镓芯片实施销售禁令，同时限制磷化铟出口以维护技术安全，凸显双方在高科技领域的竞争加剧。\n\n3. **中国新能源与核能发展提速**：菲律宾成为中国太阳能板第二大出口市场；中国加速推进大型核反应堆建设，并已在量子通信安全领域取得领先地位，彰显绿色能源与前沿科技的战略布局。\n\n4. **经济结构调整与全球影响**：中国通过减少石油进口支撑全球经济稳定，同时航天领域“朱诺”探测器59天超越数十年研究成果，显示创新驱动转型成效。\n\n5. **教育与社会竞争观察**：高考制度正在改革，而外媒分析中国社会“健身房式”的激烈竞争文化，折射出国家发展中的压力与韧性。\n\n**今日最值得关注的发展**：中美科技脱钩风险加剧，中国通过出口管制与自主创新双轨策略，在半导体、量子通信等领域巩固战略优势。",
       "count": 26
     }
   }
