@@ -1,14 +1,41 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T18:27:01.716568",
+  "generated_at": "2026-06-16T23:26:32.751482",
   "categories": {
     "tech": {
       "articles": [
         {
+          "id": "39d68e61a819",
+          "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+          "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+          "description": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 16 Jun 2026 22:34:17 +0000"
+        },
+        {
+          "id": "cb713f68b24d",
+          "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+          "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+          "description": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 16 Jun 2026 22:09:32 +0000"
+        },
+        {
+          "id": "78ac3cc67c88",
+          "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+          "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+          "description": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 16 Jun 2026 20:11:00 +0000"
+        },
+        {
           "id": "39697d4c3d2f",
           "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
           "link": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
-          "description": "Qualcomm's CEO said today that the company is working on over 40 new AI hardware designs",
+          "description": "Qualcomm CEO Cristiano Amon said Tuesday that the company is working on over 40 different AI wearable devices — including jewelry, earbuds with cameras, pins, and watches — a sign of how aggressively the chipmaker is betting that the next major computing platform won't be a phone.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Tue, 16 Jun 2026 18:22:24 +0000"
@@ -35,7 +62,7 @@
           "id": "11ae3946adab",
           "title": "Mobileye’s US robotaxi launch will put it on both sides of the AV business",
           "link": "https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/",
-          "description": "The Israeli tech company and Intel subsidiary said it will launch its own robotaxi service in a U.S. city in 2027.",
+          "description": "Mobileye apparently wants to own some of the robotaxi market, even if that puts it in direct competition with companies it supplies its self-driving system to.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Tue, 16 Jun 2026 17:50:23 +0000"
@@ -122,15 +149,6 @@
           "pub_date": "Tue, 16 Jun 2026 14:50:09 +0000"
         },
         {
-          "id": "b19e26673fbd",
-          "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
-          "link": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
-          "description": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 13:48:37 +0000"
-        },
-        {
           "id": "1a181841bbb2",
           "title": "Probably raises $9M to build a more reliable kind of AI",
           "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
@@ -167,22 +185,40 @@
           "pub_date": "Tue, 16 Jun 2026 11:00:00 +0000"
         },
         {
-          "id": "279c5a79cc88",
-          "title": "ChatGPT’s market share slips below 50% for first time",
-          "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
-          "description": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
-          "source": "TechCrunch",
+          "id": "70a937877589",
+          "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
+          "link": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
+          "description": "Transferring genes across species doesn't just happen in microbes.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 10:30:00 +0000"
+          "pub_date": "Tue, 16 Jun 2026 21:54:41 +0000"
         },
         {
-          "id": "9e8c964d7e5f",
-          "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-          "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-          "description": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
-          "source": "TechCrunch",
+          "id": "d5aa3e89c19e",
+          "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
+          "link": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
+          "description": "\"As for Arianespace, they have definitely stepped up.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 06:59:00 +0000"
+          "pub_date": "Tue, 16 Jun 2026 21:14:08 +0000"
+        },
+        {
+          "id": "3fe37173b37b",
+          "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+          "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+          "description": "Move originally planned for Monday would have heavily increased power users' costs.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 16 Jun 2026 21:00:35 +0000"
+        },
+        {
+          "id": "18afb1f898dc",
+          "title": "US approval of Paramount/Warner Bros. deal surprised DOJ lawyers, report says",
+          "link": "https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says/",
+          "description": "Trump admin green-lighting $111B deal \"reeks of corruption,\" Sen. Warren says.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 16 Jun 2026 18:48:45 +0000"
         },
         {
           "id": "5fe6cf027ad1",
@@ -320,56 +356,38 @@
           "pub_date": "Mon, 15 Jun 2026 17:55:46 +0000"
         },
         {
-          "id": "8fb760677c3e",
-          "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
-          "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
-          "description": "Remembering the ups and downs of the Intel Mac era as it finally winds down.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 15 Jun 2026 16:32:14 +0000"
-        },
-        {
-          "id": "8e2e9a8bbbbb",
-          "title": "Good news—we have extra time before the Sun ends life on Earth",
-          "link": "https://arstechnica.com/science/2026/06/good-news-we-have-extra-time-before-the-sun-ends-life-on-earth/",
-          "description": "Will the Sun roast Earth’s plants or starve them?",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 15 Jun 2026 16:28:17 +0000"
-        },
-        {
-          "id": "ed46e18cb3aa",
-          "title": "F1 in Spain: An old-fashioned strategy fight can still be thrilling",
-          "link": "https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/",
-          "description": "Armed with a ton of new upgrades, Ferrari came to Spain full of confidence.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 15 Jun 2026 15:25:17 +0000"
-        },
-        {
-          "id": "afdd3c932662",
-          "title": "Russia appears set to finally address long-term, serious space station cracks",
-          "link": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
-          "description": "This has been a persistent, behind-the-scenes dispute between NASA and Roscosmos.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 15 Jun 2026 13:54:02 +0000"
-        },
-        {
-          "id": "e228ea234f0c",
-          "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
-          "link": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-          "description": "Article URL: https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus Comments URL: https://news.ycombinator.com/item?id=48559083 Points: 4 # Comments: 0",
+          "id": "f1fcff67459e",
+          "title": "NLnet announces funding for 67 more open-source projects",
+          "link": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
+          "description": "Article URL: https://nlnet.nl/news/2026/20260616-67-new-projects.html Comments URL: https://news.ycombinator.com/item?id=48563569 Points: 5 # Comments: 0",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 17:48:42 +0000"
+          "pub_date": "Tue, 16 Jun 2026 23:12:09 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **高通布局下一代智能设备芯片**：高通宣布推出两款新产品，旨在成为未来取代智能手机的下一代设备的核心芯片供应商。\n2. **FIFA世界杯系统漏洞引发直播篡改风险**：FIFA世界杯内部系统存在漏洞，允许任何人修改电视直播流，引发安全担忧。\n3. **Android 17正式发布**：谷歌推出Android 17，新增多任务处理工具，并扩展了Gemini AI功能。\n4. **Mobileye美国无人出租车业务双向布局**：Mobileye将在美国推出无人驾驶出租车服务，同时涉足自动驾驶技术的供应与运营两端。\n5. **Rivian在R2交付后裁员数百人**：电动汽车制造商Rivian在开始交付R2车型后，裁减了数百名员工。\n\n**今日最值得关注的发展**：高通押注下一代智能设备芯片，标志着科技巨头正积极为后智能手机时代布局。",
+      "summary": "今日科技动态摘要\n\n1. **Anthropic与特朗普政府的冲突或成利好**：销售数据显示，Anthropic近期与特朗普政府的争端可能反而对其业务产生积极影响。\n2. **SpaceX估值飙升至2.6万亿美元**：SpaceX估值短暂超过亚马逊，达到2.6万亿美元，并已公开上市（IPO），引发市场关注。\n3. **Android 17发布与Gemini功能扩展**：谷歌推出Android 17，新增多任务工具，并进一步扩展Gemini AI功能。\n4. **Snap发布AR眼镜Specs，但价格高昂**：Snap终于推出其长期研发的增强现实眼镜Specs，但售价不菲，市场反应待观察。\n5. **美国六成消费者反感品牌使用“AI”宣传**：调查显示，60%的美国消费者认为品牌营销中提及“AI”会让人反感，提示企业需谨慎使用AI标签。\n\n**今日最值得关注的发展**：SpaceX估值突破2.6万亿美元并完成上市，成为科技与航天领域里程碑式事件，同时美国消费者对“AI”营销的普遍抵触情绪也为品牌策略敲响警钟。",
       "count": 40
     },
     "ai": {
       "articles": [
+        {
+          "id": "0af17c6780f0",
+          "title": "olmo-eval: An evaluation workbench for the model development loop",
+          "link": "https://huggingface.co/blog/allenai/olmo-eval",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Fri, 12 Jun 2026 15:56:10 GMT"
+        },
+        {
+          "id": "cfe439517126",
+          "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+          "link": "https://huggingface.co/blog/torch-mlp-fusion",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
+        },
         {
           "id": "131c0e48a29d",
           "title": "We’re strengthening our presence in Alabama through new investments and community support.",
@@ -387,6 +405,15 @@
           "source": "Google AI Blog",
           "category": "ai",
           "pub_date": "Thu, 11 Jun 2026 20:00:00 +0000"
+        },
+        {
+          "id": "aafe91436d69",
+          "title": "Predicting model behavior before release by simulating deployment",
+          "link": "https://openai.com/index/deployment-simulation",
+          "description": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 16 Jun 2026 00:00:00 GMT"
         },
         {
           "id": "f063280d5f09",
@@ -434,19 +461,19 @@
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
         },
         {
-          "id": "351c7dfe61e7",
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-          "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+          "id": "d398f2adb1d1",
+          "title": "OpenAI to acquire Ona",
+          "link": "https://openai.com/index/openai-to-acquire-ona",
+          "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
         },
         {
-          "id": "d398f2adb1d1",
-          "title": "OpenAI to acquire Ona",
-          "link": "https://openai.com/index/openai-to-acquire-ona",
-          "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+          "id": "351c7dfe61e7",
+          "title": "How an astrophysicist uses Codex to help simulate black holes",
+          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+          "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
@@ -569,8 +596,8 @@
           "pub_date": "Mon, 15 Jun 2026 12:57:10 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **OpenAI强化生态与行业合作**：推出合作伙伴网络（OpenAI Partner Network）及面向未来工作场景的学院课程（Academy courses）；与BBVA银行深化AI在金融核心业务的应用，并宣布收购Ona公司，同时支持Oracle云平台接入其模型与Codex工具。\n\n2. **谷歌AI加大美国地方投资**：在阿拉巴马州和弗吉尼亚州进行新投资，重点支持社区发展、创造本地就业机会，并扩大能源可负担性。\n\n3. **AI在垂直领域与机器人技术突破**：Preply结合AI与真人教师实现个性化学习；LSEG（伦敦证券交易所集团）推进可信AI决策系统；机器人通过全身协同控制（手脚腰身）完成精细操作；华为鸿蒙小艺助手升级至脱口秀互动新阶段；网易有道强调AI技术扎根具体业务场景。\n\n4. **全球AI治理与安全关注**：OpenAI发文支持欧洲构建可信AI生态系统，同时披露与中国关联的虚假信息操作尝试影响美国AI辩论。\n\n5. **前沿科研与模型应用**：天体物理学家利用Codex模拟黑洞行为，展现AI在科学计算中的价值。\n\n**今日最值得关注的发展**：OpenAI通过收购、合作与课程建设，加速从金融到云计算的行业渗透，同时AI在机器人精细操作与个性化教育领域取得显著突破。",
-      "count": 22
+      "summary": "今日AI动态摘要\n\n1. **模型开发与评估工具**：Hugging Face发布了“olmo-eval”评估工作台，用于优化模型开发循环；同时推出PyTorch性能分析指南，聚焦从nn.Linear到融合MLP的优化。\n2. **OpenAI生态与合作拓展**：OpenAI推出合作伙伴网络、新学院课程，并宣布收购Ona；多家企业如BBVA、Preply、LSEG等利用OpenAI模型推动金融、教育和个性化学习创新。\n3. **AI部署与行为预测**：OpenAI提出通过模拟部署来预测模型发布前行为，并支持欧洲构建可信AI生态系统；同时披露PRC关联影响力行动试图干预美国AI辩论。\n4. **社区投资与能源可负担性**：Google在阿拉巴马州和弗吉尼亚州新增投资与社区支持，旨在创造本地就业并扩大能源可负担性。\n5. **跨领域AI应用案例**：天体物理学家利用Codex模拟黑洞；Oracle云承诺支持访问OpenAI模型和Codex，推动数据到决策的AI规模化。\n\n**今日最值得关注的发展**：OpenAI密集推出合作伙伴网络、新课程及收购计划，同时强化对模型部署前行为预测与欧洲AI治理的支持，显示其正加速构建从技术到生态的全链条布局。",
+      "count": 25
     },
     "cctv": {
       "articles": [
@@ -582,6 +609,15 @@
           "source": "Global Times",
           "category": "cctv",
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
+        },
+        {
+          "id": "3e2b8e7a8663",
+          "title": "US manufacturer of military TV walls sold to China, US wants it back",
+          "link": "https://www.thewirechina.com/2026/06/14/behind-the-screens/",
+          "description": "Article URL: https://www.thewirechina.com/2026/06/14/behind-the-screens/ Comments URL: https://news.ycombinator.com/item?id=48559795 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 16 Jun 2026 18:28:18 +0000"
         },
         {
           "id": "f54f6ba35cae",
@@ -789,18 +825,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 11 Jun 2026 03:52:14 +0000"
-        },
-        {
-          "id": "6e6308eb89a2",
-          "title": "China-linked operatives used ChatGPT to influence data centers debate",
-          "link": "https://www.axios.com/2026/06/10/openai-china-ai-data-center-tariffs-chatgpt",
-          "description": "Article URL: https://www.axios.com/2026/06/10/openai-china-ai-data-center-tariffs-chatgpt Comments URL: https://news.ycombinator.com/item?id=48484869 Points: 9 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 11 Jun 2026 00:47:10 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中菲日海洋划界争议**：中方专家批驳菲律宾外长所谓“日菲海洋划界与中国无关”的言论，指出此举暗含超出双边对话范围的别有用心的意图。  \n2. **中美科技与经贸博弈**：美国汽车联网新规迫使福特等企业为中国产车型申请许可；中国禁止销售德国英飞凌氮化镓芯片，并加强对磷化铟等材料出口管制，影响AI数据中心建设。  \n3. **中国新能源与科技突破**：菲律宾成为中国太阳能板第二大市场；中国在量子通信安全领域取得领先，Juno探测器在59天内超越数十年研究成果。  \n4. **经济与产业动态**：中国通过减少石油进口支撑全球经济；中国押注大型核反应堆；SpaceX模式或助推中国企业IPO，但技术差距仍存。  \n5. **教育与国际竞争**：中国高考制度正在改革；微软缩减内地云岗位，中美数据法规趋严；中国限制西方AI模型，但美国企业涌入DeepSeek平台。  \n\n**总结**：今日最值得关注的发展是中国在科技自主与出口管制上的持续加码（如禁售英飞凌芯片、限制磷化铟出口），同时新能源与量子通信领域的突破进一步凸显其全球战略布局。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中方驳斥菲律宾与日本划界言论**：中国专家批评菲律宾外长称日菲海上划界“与中国无关”的说法，指出此举别有用心，超出双边范畴，意在服务其他战略目的。\n2. **中美科技与贸易摩擦持续**：美国要求追回已售华的美军电视墙制造商设备；美国联网汽车新规迫使福特等公司为在华生产车型申请许可；中国禁止销售德国英飞凌氮化镓芯片，并加强对磷化铟等关键材料出口管控。\n3. **中国产业与能源战略调整**：菲律宾成为中国太阳能板第二大市场；中国推进大型核反应堆建设；通过减少石油进口支撑全球经济，并加速量子通信安全领域布局。\n4. **科技竞争与监管动向**：中国在量子通信安全领域领先；微软因中美数据法律收紧缩减大陆云业务岗位；中方打击西方AI模型，同时美国企业涌入中国深度求索（DeepSeek）平台。\n5. **教育与社会动态**：中国高考制度正在改革；美国SpaceX模式或影响中国IPO雄心，但技术差距仍存。\n\n**今日最值得关注的发展**：中方在南海划界问题上强硬回击菲律宾与日本勾连，同时中美在芯片、汽车、数据等领域的科技与贸易博弈持续升级，中国正通过关键材料出口管制与自主核能、量子技术布局强化战略自主。",
       "count": 25
     }
   }
