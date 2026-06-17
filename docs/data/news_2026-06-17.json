@@ -1,14 +1,131 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T16:55:10.467888",
+  "generated_at": "2026-06-17T23:43:08.777039",
   "categories": {
     "tech": {
       "articles": [
         {
+          "id": "492832597ece",
+          "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+          "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+          "description": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 17 Jun 2026 23:28:21 +0000"
+        },
+        {
+          "id": "19ab90001f25",
+          "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+          "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+          "description": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 17 Jun 2026 21:30:50 +0000"
+        },
+        {
+          "id": "c8346af6bbdc",
+          "title": "Roelof Botha joins SpaceX’s board of directors",
+          "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+          "description": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 17 Jun 2026 20:32:52 +0000"
+        },
+        {
+          "id": "50ab434aa1ed",
+          "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+          "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+          "description": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 17 Jun 2026 20:24:28 +0000"
+        },
+        {
+          "id": "afa7a74cca37",
+          "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+          "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+          "description": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 17 Jun 2026 20:17:38 +0000"
+        },
+        {
+          "id": "3909e4dece1d",
+          "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
+          "link": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/",
+          "description": "A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting consumer complaints.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 17 Jun 2026 19:46:16 +0000"
+        },
+        {
+          "id": "3b4dd9532215",
+          "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+          "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+          "description": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 17 Jun 2026 19:01:19 +0000"
+        },
+        {
+          "id": "1ac51477e6e2",
+          "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+          "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+          "description": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 17 Jun 2026 18:30:56 +0000"
+        },
+        {
+          "id": "c3ab248edd15",
+          "title": "Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world",
+          "link": "https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/",
+          "description": "An alleged Russian-speaking group of cybercriminals is reportedly compromising and targeting several major companies that use Fortinet Firewalls and VPNs through previously known passwords.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 17 Jun 2026 18:20:06 +0000"
+        },
+        {
+          "id": "79c31390aeb9",
+          "title": "Social media’s next evolution: user-controlled algorithms",
+          "link": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+          "description": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 17 Jun 2026 18:19:48 +0000"
+        },
+        {
+          "id": "31c9fcd414f0",
+          "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+          "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+          "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 17 Jun 2026 17:43:07 +0000"
+        },
+        {
+          "id": "7db9d3e1bd85",
+          "title": "Mastodon looks to newsletters to help revive the open social web",
+          "link": "https://techcrunch.com/2026/06/17/mastodon-looks-to-newsletters-to-help-revive-the-open-social-web/",
+          "description": "Mastodon’s newly launched newsletter feature lets anyone subscribe to creators by email, even without a Mastodon account.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 17 Jun 2026 17:38:01 +0000"
+        },
+        {
+          "id": "917fadab42cd",
+          "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+          "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+          "description": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 17 Jun 2026 17:00:01 +0000"
+        },
+        {
           "id": "bb147c004b66",
           "title": "Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking",
           "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
-          "description": "Clair Health's wearable will cost $369 and will an app-based subscription of $9.99 per month",
+          "description": "Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations, and how to navigate those changes.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Wed, 17 Jun 2026 16:54:48 +0000"
@@ -68,121 +185,76 @@
           "pub_date": "Wed, 17 Jun 2026 13:30:00 +0000"
         },
         {
-          "id": "b5ca47b488fd",
-          "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-          "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-          "description": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
-          "source": "TechCrunch",
+          "id": "4d6e34de39ad",
+          "title": "Second carcass-eating fly species cleared by FDA for maggot wound therapy",
+          "link": "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
+          "description": "Maggot therapy lacks robust data, but it has fans and a fail-safe \"bacon therapy.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 12:38:09 +0000"
+          "pub_date": "Wed, 17 Jun 2026 22:11:20 +0000"
         },
         {
-          "id": "091552868c05",
-          "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
-          "link": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
-          "description": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
-          "source": "TechCrunch",
+          "id": "89245aa67592",
+          "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
+          "link": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
+          "description": "Elsewhere, beyond-classical quantum hardware, plus classical computing fires back.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 12:14:44 +0000"
+          "pub_date": "Wed, 17 Jun 2026 20:44:32 +0000"
         },
         {
-          "id": "04ddc6c857ea",
-          "title": "Uber will bring its premium robotaxi service to Houston in 2027",
-          "link": "https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/",
-          "description": "This will be the second market to have an Uber robotaxi service outfitted with Lucid EVs equipped with a self-driving system from Nuro.",
-          "source": "TechCrunch",
+          "id": "b2be7337a708",
+          "title": "California says AT&T lied to FCC in attempt to shut off old phone network",
+          "link": "https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/",
+          "description": "FCC considers AT&#038;T petitions to preempt state rules and discontinue phone service.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 11:00:00 +0000"
+          "pub_date": "Wed, 17 Jun 2026 20:07:40 +0000"
         },
         {
-          "id": "655442d3feea",
-          "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-          "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-          "description": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
-          "source": "TechCrunch",
+          "id": "51ebbc2791e9",
+          "title": "Massive breach spills credentials for thousands of sensitive networks",
+          "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+          "description": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 11:00:00 +0000"
+          "pub_date": "Wed, 17 Jun 2026 19:54:31 +0000"
         },
         {
-          "id": "39d68e61a819",
-          "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-          "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-          "description": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-          "source": "TechCrunch",
+          "id": "9bcb786d4134",
+          "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+          "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+          "description": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 22:34:17 +0000"
+          "pub_date": "Wed, 17 Jun 2026 19:43:13 +0000"
         },
         {
-          "id": "cb713f68b24d",
-          "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
-          "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
-          "description": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.",
-          "source": "TechCrunch",
+          "id": "79a04fc80b05",
+          "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+          "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+          "description": "Nvidia's self-improvement program for robots enlists teams of AI coding agents.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 22:09:32 +0000"
+          "pub_date": "Wed, 17 Jun 2026 19:25:19 +0000"
         },
         {
-          "id": "78ac3cc67c88",
-          "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-          "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-          "description": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-          "source": "TechCrunch",
+          "id": "5e8ea1d2bfe3",
+          "title": "The Slate Truck's price may have leaked, starts at $24,950",
+          "link": "https://arstechnica.com/cars/2026/06/the-slate-trucks-price-may-have-leaked-starts-at-24950/",
+          "description": "The official launch takes place next week.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 20:11:00 +0000"
+          "pub_date": "Wed, 17 Jun 2026 18:23:21 +0000"
         },
         {
-          "id": "39697d4c3d2f",
-          "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
-          "link": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
-          "description": "Qualcomm CEO Cristiano Amon said Tuesday that the company is working on over 40 different AI wearable devices — including jewelry, earbuds with cameras, pins, and watches — a sign of how aggressively the chipmaker is betting that the next major computing platform won't be a phone.",
-          "source": "TechCrunch",
+          "id": "4d44c4a238e9",
+          "title": "\"Dangerous\" AI models are coming no matter what",
+          "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+          "description": "AI models with advanced hacking capabilities will soon be the norm.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 18:22:24 +0000"
-        },
-        {
-          "id": "9c1274cc481b",
-          "title": "Bug in FIFA World Cup internal system gave anyone ability to modify TV stream",
-          "link": "https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/",
-          "description": "A security researcher said a flaw in FIFA’s online platforms allowed her to access several internal systems, including one that could have allowed her to take control of the TV stream of every World Cup match.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 18:13:49 +0000"
-        },
-        {
-          "id": "c8a56db757c4",
-          "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-          "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-          "description": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 18:00:00 +0000"
-        },
-        {
-          "id": "11ae3946adab",
-          "title": "Mobileye’s US robotaxi launch will put it on both sides of the AV business",
-          "link": "https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/",
-          "description": "Mobileye apparently wants to own some of the robotaxi market, even if that puts it in direct competition with companies it supplies its self-driving system to.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 17:50:23 +0000"
-        },
-        {
-          "id": "3ca2f743873a",
-          "title": "Rivian cuts hundreds of workers after R2 deliveries start",
-          "link": "https://techcrunch.com/2026/06/16/rivian-cuts-hundreds-of-workers-after-r2-deliveries-start/",
-          "description": "The company said the cuts were part of a restructuring meant to help scale to profitability. Rivian recently pushed back its profitability goal to invest in autonomy.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 17:48:20 +0000"
-        },
-        {
-          "id": "70b957a3ddad",
-          "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap",
-          "link": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
-          "description": "For over a decade now, Snap has been working on this device. Now the glasses are finally here. So what stands out on first impression?",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 17:00:00 +0000"
+          "pub_date": "Wed, 17 Jun 2026 17:50:46 +0000"
         },
         {
           "id": "05efa9046e6d",
@@ -291,81 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Tue, 16 Jun 2026 18:11:05 +0000"
-        },
-        {
-          "id": "d6f724a88182",
-          "title": "Android 17 starts hitting Pixel phones and watches today",
-          "link": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
-          "description": "Pixels will get their OTA in the coming weeks, but don't expect monumental changes.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 18:00:08 +0000"
-        },
-        {
-          "id": "a04e7c37a20b",
-          "title": "Trump admin abandons fight against wind energy as clean energy output surges",
-          "link": "https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/",
-          "description": "Legal victories have dampened the Trump admin’s efforts to halt wind and solar power.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 16:49:09 +0000"
-        },
-        {
-          "id": "34cd91d58db1",
-          "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-          "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-          "description": "Separately, neither could compete. Now they hope they can.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 16:37:45 +0000"
-        },
-        {
-          "id": "3db255e20b87",
-          "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-          "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-          "description": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 16:18:07 +0000"
-        },
-        {
-          "id": "b301b71293c2",
-          "title": "Mobileye is entering the US robotaxi market with standalone service",
-          "link": "https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/",
-          "description": "The service will leverage its Moovit platform to launch in an a US city in 2027.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 14:20:51 +0000"
-        },
-        {
-          "id": "54a26da01264",
-          "title": "The Ars Technica 2026 Reader Survey: Let your voice be heard!",
-          "link": "https://arstechnica.com/staff/2026/06/the-ars-technica-2026-reader-survey-let-your-voice-be-heard/",
-          "description": "Tell us how you read Ars, and what you'd like to see more (or less!) of on the front page.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 13:35:55 +0000"
-        },
-        {
-          "id": "996dfb17b37b",
-          "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
-          "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-          "description": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 11:15:46 +0000"
-        },
-        {
-          "id": "b603edf2e750",
-          "title": "Commodore’s newest gadget is a flip phone that blocks social media and browsers",
-          "link": "https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/",
-          "description": "Commodore's Callback 8020 is a phone “where the customer is not the product.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 09:00:51 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI与硬件创新**：斯坦福校友获1100万美元融资，开发非侵入式可穿戴设备用于激素追踪；谷歌押注Gemini模型，计划重塑智能音箱体验；Pinterest推出AI购物应用“Ask Pinterest”；高通发布两款芯片，瞄准替代智能手机的新一代设备。\n\n2. **AI行业融资与工具**：Pramaana Labs获Khosla Ventures 2700万美元种子轮投资，推动AI形式验证技术；DeepL收购Mixhalo，拓展现场活动音频流与翻译服务；Anthropic与特朗普政府的冲突反促销售增长。\n\n3. **企业重组与投资动向**：PayPal Ventures因公司重组关闭；SpaceX估值飙升至2.6万亿美元，短暂超越亚马逊；加拿大养老金巨头加入印度AI数据中心建设竞赛；SpaceX前员工获2200万美元，将火箭发动机技术用于地热发电。\n\n4. **自动驾驶与出行服务**：Uber宣布2027年在休斯顿推出高端机器人出租车服务；特斯拉（隐含）及行业持续推动无人驾驶落地。\n\n5. **隐私与数字健康趋势**：苹果计划修改“隐藏邮件地址”功能，可能降低其隐私保护效果；“慢科技革命”兴起，旨在减少手机成瘾、恢复用户注意力；AI训练数据采集工作被指“肮脏且不体面”，部分实验室已开始付费外包。\n\n**总结**：今日最值得关注的发展是AI与硬件深度融合加速，从可穿戴激素追踪、智能音箱重塑到新一代芯片布局，同时SpaceX估值突破2.6万亿美元，凸显科技巨头在AI、太空和新能源领域的激烈竞争与资本集中。",
+      "summary": "今日科技动态摘要\n\n1. **AI对苹果的负面影响**：AI技术可能迫使iPhone涨价，从而对苹果公司造成多方面冲击。  \n2. **AI行业的赢家定位**：风险投资人Chi-Hua Chien指出，真正的AI赢家将不是直接出售AI技术的公司。  \n3. **企业AI投资回报率问题**：NEA的Tiffany Luck表示，企业仍在探索如何衡量AI的投资回报率。  \n4. **Snap高价AR眼镜引发股价下跌**：Snap发布价格昂贵的AR眼镜后，股价随之大幅下跌。  \n5. **全球对美AI的依赖与顾虑**：世界领导人渴望使用美国AI技术，但担忧美国能随时关闭这些系统。  \n\n今日最值得关注的发展：AI正从多个层面重塑科技行业格局，不仅影响苹果等巨头的定价策略，也引发企业对投资回报率的重新思考，同时全球对AI技术的依赖与安全顾虑并存。",
       "count": 40
     },
     "ai": {
@@ -443,6 +443,24 @@
           "pub_date": "Thu, 11 Jun 2026 20:00:00 +0000"
         },
         {
+          "id": "be1f9e7cb11f",
+          "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+          "link": "https://openai.com/index/ai-chemist-improves-reaction",
+          "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 17 Jun 2026 10:00:00 GMT"
+        },
+        {
+          "id": "8b0db363806d",
+          "title": "Introducing LifeSciBench",
+          "link": "https://openai.com/index/introducing-life-sci-bench",
+          "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 17 Jun 2026 00:00:00 GMT"
+        },
+        {
           "id": "aafe91436d69",
           "title": "Predicting model behavior before release by simulating deployment",
           "link": "https://openai.com/index/deployment-simulation",
@@ -479,19 +497,10 @@
           "pub_date": "Fri, 12 Jun 2026 00:00:00 GMT"
         },
         {
-          "id": "94246feb3f7c",
-          "title": "BBVA puts AI at the core of banking with OpenAI",
-          "link": "https://openai.com/index/bbva",
-          "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
-        },
-        {
-          "id": "e87169a3ecfd",
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-          "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+          "id": "d398f2adb1d1",
+          "title": "OpenAI to acquire Ona",
+          "link": "https://openai.com/index/openai-to-acquire-ona",
+          "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
@@ -506,22 +515,22 @@
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
         },
         {
-          "id": "d398f2adb1d1",
-          "title": "OpenAI to acquire Ona",
-          "link": "https://openai.com/index/openai-to-acquire-ona",
-          "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+          "id": "e87169a3ecfd",
+          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
         },
         {
-          "id": "79af7f48d000",
-          "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-          "link": "https://openai.com/index/openai-on-oracle-cloud",
-          "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+          "id": "94246feb3f7c",
+          "title": "BBVA puts AI at the core of banking with OpenAI",
+          "link": "https://openai.com/index/bbva",
+          "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
           "source": "OpenAI Blog",
           "category": "ai",
-          "pub_date": "Wed, 10 Jun 2026 20:00:00 GMT"
+          "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
         },
         {
           "id": "9f2d7d71d0c9",
@@ -614,8 +623,8 @@
           "pub_date": "Wed, 17 Jun 2026 06:17:22 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **多模态与机器人技术进展**：Hugging Face发布多项前沿研究，包括语言引导的3D运动预测模型MolmoMotion、从模型库到机器人硬件的Strands Agents与LeRobot集成方案，以及面向长周期任务的GLM-5.2模型。\n2. **AI在医疗与能源领域的应用**：Google AI展示其医疗AI系统AMIE在健康管理中的潜力，并宣布在美国阿拉巴马州和弗吉尼亚州的新投资，聚焦社区支持、本地就业与能源可负担性。\n3. **模型行为预测与开放生态建设**：OpenAI通过模拟部署预测模型发布前行为，推出合作伙伴网络及面向未来工作的学院课程，并展示Preply结合AI与真人教师的个性化学习案例、BBVA将AI融入银行业务，以及利用Codex模拟黑洞的天体物理学应用。\n\n今日最值得关注的发展是：OpenAI与Hugging Face分别从模型行为预测、开放生态合作及多模态机器人控制等方向，加速AI从研究到实际部署的落地进程。",
-      "count": 27
+      "summary": "今日AI动态摘要\n\n1. **多模态与机器人技术进展**：MolmoMotion实现语言引导的3D运动预测，Strands Agents和LeRobot将Hugging Face模型部署至真实机器人硬件，推动AI从虚拟到物理世界的应用。\n2. **长时任务与智能代理**：GLM-5.2专为长周期任务优化，Agentic Resource Discovery让AI代理自主搜索资源，提升复杂场景下的自主决策能力。\n3. **AI在科学和医疗领域的突破**：AMIE医疗AI可辅助管理健康状况，OpenAI的“近自主化学家”改进药物合成反应，同时推出LifeSciBench评估模型在生命科学中的表现。\n4. **模型行为预测与生态建设**：OpenAI通过模拟部署预测模型发布前的行为，并推出合作伙伴网络与学院课程，加速AI应用落地与人才培养。\n5. **社区与能源投资**：Google在亚拉巴马州和弗吉尼亚州新增投资，支持当地就业与能源可负担性，体现科技企业在地化发展策略。\n\n**今日最值得关注的发展**：AI正从实验室走向真实世界——无论是机器人硬件部署、药物合成自动化，还是医疗健康管理，多模态、长周期自主决策与行业垂直应用成为当前最活跃的突破方向。",
+      "count": 28
     },
     "cctv": {
       "articles": [
@@ -629,10 +638,28 @@
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
         },
         {
+          "id": "bb400211c323",
+          "title": "China: Free AI for developing world; G7: who gets access to American models?",
+          "link": "https://thenextweb.com/news/china-ai-global-cooperation-vs-g7-export-controls",
+          "description": "Article URL: https://thenextweb.com/news/china-ai-global-cooperation-vs-g7-export-controls Comments URL: https://news.ycombinator.com/item?id=48578073 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 17 Jun 2026 22:47:36 +0000"
+        },
+        {
+          "id": "008b9294f633",
+          "title": "'China's Instagram' Readies Hong Kong IPO That Could See It Valued over $70B",
+          "link": "https://www.wsj.com/tech/chinas-instagram-readies-hong-kong-ipo-that-could-see-it-valued-at-over-70-billion-879222fa",
+          "description": "Article URL: https://www.wsj.com/tech/chinas-instagram-readies-hong-kong-ipo-that-could-see-it-valued-at-over-70-billion-879222fa Comments URL: https://news.ycombinator.com/item?id=48575188 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 17 Jun 2026 19:05:05 +0000"
+        },
+        {
           "id": "85efb75c581b",
           "title": "'Student Geng' ignites China research-integrity scandal calling out sr academics",
           "link": "https://www.nature.com/articles/d41586-026-01902-0",
-          "description": "Article URL: https://www.nature.com/articles/d41586-026-01902-0 Comments URL: https://news.ycombinator.com/item?id=48570727 Points: 3 # Comments: 1",
+          "description": "Article URL: https://www.nature.com/articles/d41586-026-01902-0 Comments URL: https://news.ycombinator.com/item?id=48570727 Points: 4 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 17 Jun 2026 14:03:47 +0000"
@@ -641,19 +668,10 @@
           "id": "7ee49deffbb5",
           "title": "Britain arrests more for social media posts than China, Russia, Turkey combined",
           "link": "https://twitter.com/XFreeze/status/2066778611227709885",
-          "description": "Article URL: https://twitter.com/XFreeze/status/2066778611227709885 Comments URL: https://news.ycombinator.com/item?id=48566271 Points: 7 # Comments: 3",
+          "description": "Article URL: https://twitter.com/XFreeze/status/2066778611227709885 Comments URL: https://news.ycombinator.com/item?id=48566271 Points: 9 # Comments: 3",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 17 Jun 2026 05:51:19 +0000"
-        },
-        {
-          "id": "fd505f97e34d",
-          "title": "US holds off blacklisting China's DeepSeek, +100 firms deemed security risks",
-          "link": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-          "description": "Article URL: https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/ Comments URL: https://news.ycombinator.com/item?id=48565498 Points: 8 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 17 Jun 2026 03:55:16 +0000"
         },
         {
           "id": "3e2b8e7a8663",
@@ -852,18 +870,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 11 Jun 2026 14:41:25 +0000"
-        },
-        {
-          "id": "ef728b44fa65",
-          "title": "China prepares $295B plan to fund nationwide AI data center buildout",
-          "link": "https://www.reuters.com/world/china/china-prepares-295-billion-plan-fund-nationwide-ai-buildout-bloomberg-news-2026-06-09/",
-          "description": "Article URL: https://www.reuters.com/world/china/china-prepares-295-billion-plan-fund-nationwide-ai-buildout-bloomberg-news-2026-06-09/ Comments URL: https://news.ycombinator.com/item?id=48490657 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 11 Jun 2026 14:13:47 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中菲日海洋划界争议**：中方专家批评菲律宾外长声称日菲海洋划界“与中国无关”的言论，指出此举暗藏超出双边范围的别有用意。\n2. **中国科研诚信风波**：“学生耿”事件引发对中国学术不端问题的关注，涉及对资深学者的指控，推动科研诚信讨论。\n3. **国际对比与外交动态**：英国因社交媒体言论逮捕人数超过中俄土三国总和；美国暂缓将中国DeepSeek及百余家企业列入黑名单，但认定其构成安全风险；美国对华军事技术出口管控出现争议，如美制军用电视墙制造商已售予中方。\n4. **中美科技与贸易摩擦**：美国拟限制中国产汽车智能技术，福特等公司需申请许可；中国禁止销售德国英飞凌氮化镓芯片；美国担忧中国对磷化铟出口管制影响AI数据中心建设。\n5. **中国经济与能源转型**：中国通过减少石油进口支撑全球经济；菲律宾成为中国第二大太阳能板市场；中国加大对大型核反应堆的投入；高考改革持续推进；SpaceX模式激发中国IPO雄心，但技术差距仍存。\n\n**今日最值得关注的发展**：中方严正驳斥菲律宾借日菲海洋划界暗藏地缘政治意图，同时中美在科技、贸易领域博弈加剧，凸显中国在维护主权与推动自主创新上的坚定立场。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国批驳菲律宾与日本划界言论**：中方专家指出，菲律宾外长声称日菲海上划界“与中国无关”的说法站不住脚，警告此举背后有超越双边关系的别有用意。\n2. **中国推动AI普惠与发展**：中国向发展中国家免费提供人工智能技术，而G7国家则聚焦于谁有资格使用美国模型，凸显技术发展路径差异。\n3. **“小红书”赴港IPO估值超700亿美元**：被称为“中国版Instagram”的社交平台准备在香港上市，估值有望突破700亿美元，引发市场关注。\n4. **中国学术诚信风波**：“学生耿”事件引发对中国科研诚信的广泛讨论，年轻学者公开质疑资深教授学术不端行为。\n5. **中美科技与贸易摩擦持续**：美国要求追回已售予中国的军用电视墙制造商；福特等企业因美国联网汽车新规寻求中国产车型许可；中国禁止销售德国英飞凌氮化镓芯片，并对磷化铟出口加强管控。\n\n**今日最值得关注的发展**：中国在人工智能、新能源（菲律宾成中国第二大太阳能板市场）及核能领域持续发力，同时通过出口管制和反制措施应对西方技术封锁，展现出自主创新与战略博弈并重的姿态。",
       "count": 27
     }
   }
