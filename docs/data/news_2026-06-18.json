@@ -1,9 +1,108 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T16:57:06.968518",
+  "generated_at": "2026-06-18T23:48:49.926651",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "88745a1455c1",
+          "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+          "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+          "description": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 18 Jun 2026 21:20:13 +0000"
+        },
+        {
+          "id": "7fc9c58803cd",
+          "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+          "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+          "description": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 18 Jun 2026 20:30:00 +0000"
+        },
+        {
+          "id": "5614fc9b5ee5",
+          "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+          "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+          "description": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 18 Jun 2026 19:59:22 +0000"
+        },
+        {
+          "id": "b7d03f65e9d4",
+          "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
+          "link": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
+          "description": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 18 Jun 2026 19:52:19 +0000"
+        },
+        {
+          "id": "ab1299bb0d54",
+          "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
+          "link": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
+          "description": "Plaintiffs in the class action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 18 Jun 2026 19:31:45 +0000"
+        },
+        {
+          "id": "186a4e889233",
+          "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+          "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+          "description": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 18 Jun 2026 18:51:46 +0000"
+        },
+        {
+          "id": "3c3df366136e",
+          "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+          "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+          "description": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 18 Jun 2026 18:22:13 +0000"
+        },
+        {
+          "id": "7b317976941e",
+          "title": "Mivo’s new app takes a mindful approach to managing screen time",
+          "link": "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/",
+          "description": "Doomscrolling on social media is a very common problem and can feel like an endless loop of constantly losing track of time. Instead of tackling this issue with strict limits, a new mindful screen time app called Mivo Scrolling is trying to shake things up. Launched last month, Mivo doesn&#8217;t look super different from other [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 18 Jun 2026 18:00:00 +0000"
+        },
+        {
+          "id": "823590e03c3e",
+          "title": "AI data centers just got a government-mandated fast lane to the grid",
+          "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+          "description": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 18 Jun 2026 17:49:23 +0000"
+        },
+        {
+          "id": "a00fb624d16b",
+          "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+          "link": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+          "description": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 18 Jun 2026 17:16:30 +0000"
+        },
+        {
+          "id": "150ee0b9f48f",
+          "title": "Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports",
+          "link": "https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/",
+          "description": "A data breach involving government-issued ID documents affects over three million people in Texas.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 18 Jun 2026 17:12:53 +0000"
+        },
         {
           "id": "287deeaa8bd1",
           "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
@@ -86,103 +185,76 @@
           "pub_date": "Thu, 18 Jun 2026 11:59:11 +0000"
         },
         {
-          "id": "32f62ddd691f",
-          "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
-          "link": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
-          "description": "Relativity Space—a rocket maker acquired by former Google executive chair Eric Schmidt last year after stumbling on the path to orbit—might just beat SpaceX to Mars.",
-          "source": "TechCrunch",
+          "id": "5ae309d69208",
+          "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+          "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+          "description": "In February, a Trump official refused to review the vaccine.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 06:26:24 +0000"
+          "pub_date": "Thu, 18 Jun 2026 22:08:59 +0000"
         },
         {
-          "id": "6e94e7719c34",
-          "title": "How to turn off AI in your Google Docs",
-          "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-          "description": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
-          "source": "TechCrunch",
+          "id": "a3fb491899d4",
+          "title": "As China looms, Taiwan makes more drones for defense and the US military",
+          "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+          "description": "Taiwan's drone spending plans for defense could also boost business overseas.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 01:23:51 +0000"
+          "pub_date": "Thu, 18 Jun 2026 21:21:26 +0000"
         },
         {
-          "id": "492832597ece",
-          "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-          "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
-          "description": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
-          "source": "TechCrunch",
+          "id": "206f7683053a",
+          "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
+          "link": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
+          "description": "\"We are reassigning most affected employees across existing opportunities and programs.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 23:28:21 +0000"
+          "pub_date": "Thu, 18 Jun 2026 20:49:55 +0000"
         },
         {
-          "id": "19ab90001f25",
-          "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
-          "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
-          "description": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
-          "source": "TechCrunch",
+          "id": "b9cc874870d1",
+          "title": "Android verification is coming: Google confirms timeline and supported app stores",
+          "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+          "description": "A new system service will roll out this month ahead of big changes starting in September.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 21:30:50 +0000"
+          "pub_date": "Thu, 18 Jun 2026 19:53:33 +0000"
         },
         {
-          "id": "c8346af6bbdc",
-          "title": "Roelof Botha joins SpaceX’s board of directors",
-          "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-          "description": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-          "source": "TechCrunch",
+          "id": "cd7dfd4323a4",
+          "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+          "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+          "description": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 20:32:52 +0000"
+          "pub_date": "Thu, 18 Jun 2026 19:41:35 +0000"
         },
         {
-          "id": "50ab434aa1ed",
-          "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
-          "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-          "description": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
-          "source": "TechCrunch",
+          "id": "a2657ccecdbc",
+          "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
+          "link": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
+          "description": "It's unclear whether the system is currently intact.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 20:24:28 +0000"
+          "pub_date": "Thu, 18 Jun 2026 18:19:44 +0000"
         },
         {
-          "id": "afa7a74cca37",
-          "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-          "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-          "description": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]",
-          "source": "TechCrunch",
+          "id": "564bf122db3c",
+          "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
+          "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+          "description": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 20:17:38 +0000"
+          "pub_date": "Thu, 18 Jun 2026 17:42:18 +0000"
         },
         {
-          "id": "3909e4dece1d",
-          "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
-          "link": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/",
-          "description": "A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting consumer complaints.",
-          "source": "TechCrunch",
+          "id": "d26977745bd5",
+          "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
+          "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+          "description": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 19:46:16 +0000"
-        },
-        {
-          "id": "3b4dd9532215",
-          "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-          "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-          "description": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 19:01:19 +0000"
-        },
-        {
-          "id": "1ac51477e6e2",
-          "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-          "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-          "description": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 18:30:56 +0000"
-        },
-        {
-          "id": "c3ab248edd15",
-          "title": "Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world",
-          "link": "https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/",
-          "description": "An alleged Russian-speaking group of cybercriminals is reportedly compromising and targeting several major companies that use Fortinet Firewalls and VPNs through previously known passwords.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 18:20:06 +0000"
+          "pub_date": "Thu, 18 Jun 2026 17:02:49 +0000"
         },
         {
           "id": "874f1fbc7c7a",
@@ -291,85 +363,22 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 17 Jun 2026 15:57:14 +0000"
-        },
-        {
-          "id": "6fb08531df8a",
-          "title": "Towers once planned for California shuttle launches leveled for SpaceX rockets",
-          "link": "https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/",
-          "description": "\"Space Launch Complex-6 represents six decades of American innovation.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 15:47:09 +0000"
-        },
-        {
-          "id": "1a14f389c748",
-          "title": "\"Truly evil\" FDA rejection of gene therapy overturned after Trump official ousted",
-          "link": "https://arstechnica.com/health/2026/06/truly-evil-fda-rejection-of-gene-therapy-overturned-after-trump-official-ousted/",
-          "description": "Gene therapy company UniQure had another FDA meeting after Vinay Prasad's exit.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 15:12:31 +0000"
-        },
-        {
-          "id": "6796c222c1a9",
-          "title": "Native NACS ports, infotainment upgrade for MY27 Porsche Taycan",
-          "link": "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/",
-          "description": "The bigger battery is standard and there are now simulated \"E-Shifts.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 12:00:45 +0000"
-        },
-        {
-          "id": "26dec6b19434",
-          "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
-          "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
-          "description": "What you need to know about the expiration of keys securing your machine's boot sequence.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 11:15:17 +0000"
-        },
-        {
-          "id": "9afdfa57051f",
-          "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-          "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
-          "description": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 22:22:44 +0000"
-        },
-        {
-          "id": "d671b494f2b7",
-          "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
-          "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
-          "description": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 22:11:15 +0000"
-        },
-        {
-          "id": "70a937877589",
-          "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
-          "link": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
-          "description": "Transferring genes across species doesn't just happen in microbes.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 21:54:41 +0000"
-        },
-        {
-          "id": "d5aa3e89c19e",
-          "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
-          "link": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
-          "description": "\"As for Arianespace, they have definitely stepped up.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 16 Jun 2026 21:14:08 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI应用与产品扩展**：Adobe在其Premiere、Illustrator和InDesign中集成了AI助手；Pixi推出可将短信转化为AR体验的iOS应用；Karamo Brown推出含AI数字克隆的健康应用Kē；Google Docs新增AI功能关闭选项。\n\n2. **自动驾驶与太空探索**：Waymo因自动驾驶出租车驶入高速公路施工区而召回近4000辆；NASA选择Eric Schmidt的火箭公司执行火星任务，与SpaceX形成竞争；Roelof Botha加入SpaceX董事会。\n\n3. **市场与资本动态**：General Intuition以约20亿美元估值洽谈3亿美元融资；Snap因推出高价AR眼镜后股价下跌；Apple在巴西被迫开放App Store引入竞争；技术工作者支持的PAC以500万美元对抗大型科技公司的1亿美元游说资金。\n\n4. **平台与内容新动向**：Spotify正式推出面向超级粉丝的预留票务销售；每日地理游戏MapTap成为新热门；Chi-Hua Chien认为真正的AI赢家将不是销售AI本身的公司。\n\n5. **苹果面临的AI压力**：AI技术可能迫使iPhone价格上涨，对苹果造成多方面不利影响。\n\n**今日最值得关注的发展**：AI正加速渗透从创意工具到健康应用的各个领域，同时自动驾驶与太空探索领域的竞争与风险并存，而科技巨头在监管与资本博弈中面临新的挑战。",
+      "summary": "今日科技动态摘要\n\n1. **AI推理初创公司Baseten计划融资15亿美元**：在上一轮巨额融资仅数月后，该公司再次寻求大规模资金，显示AI推理领域的资本热度持续高涨。  \n2. **Snap剥离AI视频团队成立新公司Dotmo**：出于成本控制考虑，Snap将AI视频业务独立运营，反映出科技巨头在AI投入与盈利之间的权衡。  \n3. **OpenAI为IPO引入重量级人才**：在上市前夕，OpenAI积极招募关键高管，强化公司治理与市场信心，为IPO铺路。  \n4. **亚马逊挑战英伟达，直接出售自研AI芯片**：亚马逊通过向客户提供自家AI芯片，试图打破英伟达在AI算力市场的垄断地位。  \n5. **美国单身人士近半数对AI应用于约会持负面态度**：Match集团调查显示，AI在婚恋场景中的接受度仍存较大社会分歧。  \n\n**今日最值得关注的发展**：AI推理初创公司Baseten以15亿美元融资规模领跑，凸显AI基础设施赛道资本竞争白热化；同时，OpenAI的IPO筹备与亚马逊的芯片战略，标志着AI产业正从技术探索转向商业化与生态争夺的关键阶段。",
       "count": 40
     },
     "ai": {
       "articles": [
+        {
+          "id": "a0dde3274fd7",
+          "title": "MosaicLeaks: Can your research agent keep a secret?",
+          "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Thu, 18 Jun 2026 18:13:13 GMT"
+        },
         {
           "id": "a74efc1c620f",
           "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
@@ -443,13 +452,22 @@
           "pub_date": "Mon, 15 Jun 2026 15:00:00 +0000"
         },
         {
-          "id": "2255e39bf9d4",
-          "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-          "description": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-          "source": "Google AI Blog",
+          "id": "0b6eb9d79d81",
+          "title": "New usage analytics and updated spend controls for enterprises",
+          "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+          "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+          "source": "OpenAI Blog",
           "category": "ai",
-          "pub_date": "Thu, 11 Jun 2026 20:00:00 +0000"
+          "pub_date": "Thu, 18 Jun 2026 17:00:00 GMT"
+        },
+        {
+          "id": "e0aca307f418",
+          "title": "Improving health intelligence in ChatGPT",
+          "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+          "description": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 18 Jun 2026 11:00:00 GMT"
         },
         {
           "id": "8b225fc5d358",
@@ -605,8 +623,8 @@
           "pub_date": "Thu, 18 Jun 2026 01:45:19 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **微调技术突破与模型能力提升**：Hugging Face探讨了超越LoRA的微调方法，并发布了GLM-5.2模型，专为长周期任务优化；同时推出MolmoMotion，实现语言引导的3D运动预测。\n2. **自主智能体与工具集成进展**：多篇报道聚焦智能体能力，包括开放模型在自定义工具上的基准测试、从Hugging Face Hub到机器人硬件的智能体部署（Strands Agents与LeRobot），以及让智能体自主搜索资源的“Agentic Resource Discovery”。\n3. **AI在医疗健康领域的深化应用**：Google AI展示AMIE医学AI管理健康条件的能力；OpenAI则报道了AI辅助医生诊断罕见遗传病、近自主AI化学家改进药物反应，并推出生命科学基准LifeSciBench。\n4. **模型行为预测与生态建设**：OpenAI提出通过模拟部署预测模型发布前行为，并推出合作伙伴网络（OpenAI Partner Network）及面向未来工作场景的Academy课程。\n5. **区域投资与社区支持**：Google AI宣布在阿拉巴马州和弗吉尼亚州进行新投资，支持当地就业与能源可负担性，强化区域存在感。\n\n**今日最值得关注的发展**：AI正从单一技术突破转向“智能体+行业应用+生态基建”的协同进化，尤其在医疗自主诊断与化学合成领域实现近自主化操作，同时通过可预测性测试与区域投资加速落地。",
-      "count": 26
+      "summary": "今日AI动态摘要\n\n1. **AI智能体安全性与性能评估**：Hugging Face发布多项研究，探讨AI智能体的数据保密性（MosaicLeaks）、超越LoRA的微调技术、开源模型在自有工具上的基准测试，以及智能体资源发现功能，强调智能体的自主搜索能力。\n2. **多模态与机器人技术进展**：MolmoMotion实现语言引导的3D运动预测；通过Strands Agents和LeRobot将Hugging Face Hub模型部署至机器人硬件，推动具身智能发展。\n3. **医疗AI应用深化**：Google展示AMIE医疗AI管理健康能力；OpenAI推出ChatGPT健康智能改进、AI辅助诊断罕见遗传病、自主AI化学家优化药物合成，并发布生命科学基准LifeSciBench。\n4. **企业级AI工具与部署策略**：OpenAI新增企业使用分析与费用控制功能；发布通过模拟部署预测模型行为的研究，提升模型发布前的可靠性。\n5. **区域投资与开源模型创新**：Google加强在阿拉巴马州的投资与社区支持；GLM-5.2专为长周期任务设计，强化复杂场景下的持续推理能力。\n\n**最值得关注的发展**：多家机构集中推进AI在医疗领域的落地，从诊断罕见病到自主化学合成，同时强化智能体的安全性与自主性，标志着AI正从通用能力向高风险、专业场景的深度渗透。",
+      "count": 28
     },
     "cctv": {
       "articles": [
@@ -629,10 +647,46 @@
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
         },
         {
+          "id": "b0af2797a0d3",
+          "title": "Chile turned to China for an undersea cable. The U.S. said no",
+          "link": "https://restofworld.org/2026/chile-china-america-google-cable/",
+          "description": "Article URL: https://restofworld.org/2026/chile-china-america-google-cable/ Comments URL: https://news.ycombinator.com/item?id=48593044 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 18 Jun 2026 23:35:21 +0000"
+        },
+        {
+          "id": "ba9435766658",
+          "title": "Americans Should Celebrate China's Biotech Revolution",
+          "link": "https://www.richardhanania.com/p/americans-should-celebrate-chinas",
+          "description": "Article URL: https://www.richardhanania.com/p/americans-should-celebrate-chinas Comments URL: https://news.ycombinator.com/item?id=48590920 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 18 Jun 2026 20:16:41 +0000"
+        },
+        {
+          "id": "a271ad1fc8cb",
+          "title": "Show HN: An atlas of China's manufacturing geography",
+          "link": "https://chinaindustryatlas.com/",
+          "description": "Article URL: https://chinaindustryatlas.com/ Comments URL: https://news.ycombinator.com/item?id=48590221 Points: 3 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 18 Jun 2026 19:22:07 +0000"
+        },
+        {
+          "id": "78d05c6ed164",
+          "title": "G7 aims to see China supply no more than 60% of rare earths",
+          "link": "https://www.mining.com/web/g7-aims-to-see-china-supply-no-more-than-60-of-rare-earths/",
+          "description": "Article URL: https://www.mining.com/web/g7-aims-to-see-china-supply-no-more-than-60-of-rare-earths/ Comments URL: https://news.ycombinator.com/item?id=48589899 Points: 5 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 18 Jun 2026 19:01:05 +0000"
+        },
+        {
           "id": "c1a678dff19a",
           "title": "China's EV Price War Was Built on Cars Sold at a Loss",
           "link": "https://www.autoblog.com/features/chinas-ev-price-war-was-built-on-cars-sold-at-a-loss",
-          "description": "Article URL: https://www.autoblog.com/features/chinas-ev-price-war-was-built-on-cars-sold-at-a-loss Comments URL: https://news.ycombinator.com/item?id=48585266 Points: 6 # Comments: 0",
+          "description": "Article URL: https://www.autoblog.com/features/chinas-ev-price-war-was-built-on-cars-sold-at-a-loss Comments URL: https://news.ycombinator.com/item?id=48585266 Points: 7 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 18 Jun 2026 13:48:03 +0000"
@@ -834,45 +888,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 12 Jun 2026 18:10:51 +0000"
-        },
-        {
-          "id": "210c9aee9983",
-          "title": "China Lures Foreign Patients with Cutting-Edge, Cheap Medical Care",
-          "link": "https://www.bloomberg.com/news/features/2026-06-10/china-s-medical-tourism-boom-draws-foreign-patients-seeking-cutting-edge-care",
-          "description": "Article URL: https://www.bloomberg.com/news/features/2026-06-10/china-s-medical-tourism-boom-draws-foreign-patients-seeking-cutting-edge-care Comments URL: https://news.ycombinator.com/item?id=48503679 Points: 4 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 12 Jun 2026 13:09:53 +0000"
-        },
-        {
-          "id": "276fc9197a61",
-          "title": "Facing US chip curbs, China launches photonics lab to power AI with light",
-          "link": "https://www.scmp.com/tech/tech-war/article/3356901/facing-us-chip-curbs-china-launches-photonics-lab-power-ai-light",
-          "description": "Article URL: https://www.scmp.com/tech/tech-war/article/3356901/facing-us-chip-curbs-china-launches-photonics-lab-power-ai-light Comments URL: https://news.ycombinator.com/item?id=48502863 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 12 Jun 2026 11:43:06 +0000"
-        },
-        {
-          "id": "b64fd69add78",
-          "title": "China's chip design software firms catch US rivals?",
-          "link": "https://www.scmp.com/tech/big-tech/article/3356853/chinas-chip-software-firms-back-huaweis-new-scaling-law-can-they-catch-us-rivals",
-          "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3356853/chinas-chip-software-firms-back-huaweis-new-scaling-law-can-they-catch-us-rivals Comments URL: https://news.ycombinator.com/item?id=48502856 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 12 Jun 2026 11:42:24 +0000"
-        },
-        {
-          "id": "f04ab434baaf",
-          "title": "A Systemic View of U.S.-China AI Competition [pdf]",
-          "link": "https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/center-for-geopolitics/cfg-us-china-report.pdf",
-          "description": "Article URL: https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/center-for-geopolitics/cfg-us-china-report.pdf Comments URL: https://news.ycombinator.com/item?id=48502593 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 12 Jun 2026 11:11:06 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中国铁路新运行图调整**：自7月1日起，中国将实施新的列车运行图，其中包括北京至乌鲁木齐的高铁服务，进一步提升区域交通连接效率。\n2. **中方专家批评菲律宾外长涉日菲划界言论**：中国专家指出，菲律宾外长声称日本与菲律宾的划界“与中国无关”的说法具有误导性，警告此举背后存在超出双边对话的别有用心。\n3. **中国电动汽车价格战与行业亏损**：报道指出，中国电动汽车市场的价格战建立在车企亏损销售的基础上，反映出行业竞争激烈与盈利压力。\n4. **微软通过销售OpenAI模型在中国推进AI布局**：微软正借助向中国出售OpenAI模型，加大在人工智能领域的渗透，引发对技术依赖与数据安全的关注。\n5. **“小红书”拟赴港IPO估值或超700亿美元**：被称为“中国版Instagram”的小红书计划在香港进行首次公开募股，估值可能超过700亿美元，显示中国社交媒体平台的资本潜力。\n\n今日最值得关注的发展是：中国电动汽车价格战背后以亏损为代价的竞争模式，暴露了行业高速扩张中的结构性风险。",
+      "summary": "今日新闻联播动态摘要\n\n1. 中国将于7月1日起实施新的列车运行图，其中包括开通北京至乌鲁木齐的高铁服务，进一步提升铁路运输效率与区域联通。\n2. 中国专家批评菲律宾外长关于“日菲海上划界与中国无关”的言论，指出此举背后有超越双边谈判的别有用意，警告其可能破坏地区稳定。\n3. 美国对智利寻求与中国合作铺设海底电缆表示反对，凸显中美在基础设施与科技领域的竞争加剧。\n4. 七国集团（G7）试图限制中国稀土供应不超过60%，反映西方国家在关键矿产领域对中国的战略遏制意图。\n5. 中国电动汽车价格战建立在亏损销售基础上，显示行业竞争激烈与盈利压力；同时，微软通过向中国销售OpenAI模型加大在华AI布局，引发技术依赖与安全讨论。\n\n今日最值得关注的发展：中国在高铁、科技与资源领域持续面临外部竞争与压力，同时内部产业调整与创新突破并行，需警惕国际博弈对国内发展的影响。",
       "count": 29
     }
   }
