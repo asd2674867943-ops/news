@@ -1,9 +1,45 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T16:31:51.727443",
+  "generated_at": "2026-06-19T23:02:59.558747",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "7b03ceaca85d",
+          "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+          "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+          "description": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 19 Jun 2026 22:40:14 +0000"
+        },
+        {
+          "id": "5301d646296b",
+          "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+          "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+          "description": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan&#8217;s shortage of drivers. Go, which went public Tuesday, plans to use the ¥88.6 billion [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 19 Jun 2026 21:45:00 +0000"
+        },
+        {
+          "id": "cfdd38e2108f",
+          "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+          "link": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+          "description": "What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn&#8217;t even look digital. Digital frames have always been so popular [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 19 Jun 2026 21:00:34 +0000"
+        },
+        {
+          "id": "4ad45ffe0389",
+          "title": "Every fusion startup that has raised over $100M",
+          "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+          "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 19 Jun 2026 16:50:58 +0000"
+        },
         {
           "id": "fc4564dd1648",
           "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
@@ -23,8 +59,8 @@
           "pub_date": "Fri, 19 Jun 2026 15:23:28 +0000"
         },
         {
-          "id": "daaf1e195f23",
-          "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+          "id": "ebab20aea795",
+          "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
           "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
           "description": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
           "source": "TechCrunch",
@@ -32,8 +68,8 @@
           "pub_date": "Fri, 19 Jun 2026 13:00:00 +0000"
         },
         {
-          "id": "bb4754d0f2dd",
-          "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+          "id": "2c08fb2194ef",
+          "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
           "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
           "description": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
           "source": "TechCrunch",
@@ -50,10 +86,10 @@
           "pub_date": "Fri, 19 Jun 2026 01:01:00 +0000"
         },
         {
-          "id": "f7a5a469922d",
-          "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+          "id": "899fec9683ac",
+          "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
           "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-          "description": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+          "description": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 19 Jun 2026 00:51:11 +0000"
@@ -147,42 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 18 Jun 2026 17:16:30 +0000"
-        },
-        {
-          "id": "150ee0b9f48f",
-          "title": "Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports",
-          "link": "https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/",
-          "description": "A data breach involving government-issued ID documents affects over 3 million people in Texas.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 17:12:53 +0000"
-        },
-        {
-          "id": "679205126e23",
-          "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-          "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-          "description": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 16:55:04 +0000"
-        },
-        {
-          "id": "69c9c4f97dca",
-          "title": "Apple opens up App Store to new competition in Brazil",
-          "link": "https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/",
-          "description": "Apple’s grip on iPhone app distribution is loosening in another major market: Brazil.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 15:48:08 +0000"
-        },
-        {
-          "id": "ea49571cd90e",
-          "title": "MapTap, a daily geography game, is my new Wordle",
-          "link": "https://techcrunch.com/2026/06/18/maptap-a-daily-geography-game-is-my-new-wordle/",
-          "description": "MapTap is a phone game that will make you feel smarter after you play it.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 15:47:39 +0000"
         },
         {
           "id": "46e182fa059b",
@@ -365,7 +365,7 @@
           "pub_date": "Wed, 17 Jun 2026 19:43:13 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **美国对Anthropic的禁令意外提升品牌关注度**：TechCrunch报道指出，美国政府针对Anthropic的禁令可能反而为其带来了品牌曝光和公众关注。\n2. **印度亿万富翁Ambani计划将AI融入日常通信与家庭**：Ambani提出在每通电话、每个应用及家庭场景中全面引入人工智能技术。\n3. **ASML顶级芯片设备是否在中国引发美方争议**：美国声称ASML最先进光刻机可能位于中国，但ASML予以否认，双方各执一词。\n4. **印度封禁Telegram引发VPN和替代应用热潮**：Telegram在印度被禁后，用户纷纷转向VPN和其他即时通讯软件。\n5. **AI推理公司Baseten拟融资15亿美元**：继上一轮大规模融资后，Baseten再次寻求巨额资金，显示AI推理领域持续火热。\n\n今日最值得关注的发展是：AI推理初创公司Baseten在短时间内再次寻求15亿美元融资，凸显AI基础设施领域的资本热潮与竞争加剧。",
+      "summary": "今日科技动态摘要\n\n1. **网络安全与监管争议**：多篇报道指出，加密技术、间谍软件及“Mythos”等案例表明，网络出口管制效果有限；同时，美国对ASML芯片设备可能流入中国的指控遭ASML否认，显示技术管制面临执行困境。\n\n2. **人工智能与商业扩张**：印度富豪安巴尼计划将AI融入所有通话、应用和家庭场景；日本2026年最大IPO主角Go公司瞄准自动驾驶出租车和收购；Allbirds新AI业务CEO虽有计划但无团队，凸显AI创业的激进与不确定性。\n\n3. **企业融资与资本动向**：AI推理公司Baseten据传在上一轮巨额融资后仅数月再筹15亿美元；Elastic拟以8500万美元收购CRV支持的Deductive AI；OpenAI在IPO前引入重磅人才；Snap因成本问题将AI视频团队分拆为新公司Dotmo。\n\n4. **新兴技术与产品亮点**：Aura推出令人惊艳的电子墨水相框，外观完全不像数码产品；TechCrunch汇总了所有融资超1亿美元的聚变初创公司，显示清洁能源赛道仍受资本青睐。\n\n5. **法律与用户行为变化**：Rivian车主因自动驾驶功能虚假宣传提起诉讼；印度封禁Telegram引发VPN和竞品应用使用潮；美国政府对Anthropic的禁令可能反而提升其品牌知名度。\n\n**今日最值得关注的发展**：AI企业融资持续升温（Baseten、OpenAI、Snap分拆），但技术与监管（芯片管制、Telegram封禁）及法律风险（Rivian诉讼）也在同步加剧，行业正进入高速扩张与合规博弈并存的阶段。",
       "count": 40
     },
     "ai": {
@@ -605,7 +605,7 @@
           "pub_date": "Thu, 18 Jun 2026 09:12:09 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AI安全与隐私挑战**：Hugging Face发布“MosaicLeaks”研究，探讨AI研究代理能否保守秘密，引发对模型安全性的关注。\n2. **模型微调与性能突破**：Hugging Face提出超越LoRA的微调方法，并推出GLM-5.2模型，专为长周期任务设计，同时对比开源模型在自主工具使用中的表现。\n3. **AI在医疗领域应用深化**：Google和OpenAI分别展示AMIE医疗AI管理健康、ChatGPT提升健康智能、AI辅助诊断罕见遗传病等成果，并推出LifeSciBench基准测试。\n4. **AI自主性与机器人融合**：Hugging Face发布MolmoMotion（语言引导3D运动预测）、Strands Agents与LeRobot（从模型到机器人硬件），以及“Agentic Resource Discovery”（让代理自主搜索资源），推动AI代理与物理世界交互。\n5. **企业级AI管理更新**：OpenAI新增企业使用分析与支出控制功能，并发布模拟部署预测模型行为的方法，提升模型透明度和可控性。\n\n**今日最值得关注的发展**：AI在医疗健康领域的多维度突破（诊断、管理、药物研发）与AI代理自主能力（安全、搜索、机器人控制）成为双主线，标志AI正从语言交互向复杂现实任务与高可靠性场景加速渗透。",
+      "summary": "今日AI动态摘要\n\n1. **AI智能体安全与性能评测**：Hugging Face发布多项研究，包括评估研究智能体的保密性（MosaicLeaks）、超越LoRA的微调技术、基于自有工具链的开源模型基准测试，以及推动智能体自主搜索资源（Agentic Resource Discovery）。\n\n2. **多模态与机器人技术进展**：MolmoMotion实现语言引导的3D运动预测；Hugging Face与Strands Agents、LeRobot合作，将模型从Hub部署至机器人硬件；GLM-5.2专为长周期任务设计。\n\n3. **医疗AI应用深化**：Google AI展示AMIE医疗AI管理健康的研究；OpenAI推出ChatGPT健康智能改进、辅助诊断罕见遗传病的AI工具，以及针对药物化学的自主化学家系统（LifeSciBench）。\n\n4. **企业级AI工具与部署优化**：OpenAI新增企业用量分析及支出控制功能；推出通过模拟部署预测模型行为的方法，提升发布前可靠性。\n\n5. **区域投资与社区支持**：Google AI宣布加强在阿拉巴马州的投资与社区合作，拓展AI基础设施布局。\n\n**今日最值得关注的发展**：医疗AI领域密集突破——从ChatGPT健康智能、罕见病诊断到自主化学系统，AI正加速渗透临床与药物研发全链条。",
       "count": 26
     },
     "cctv": {
@@ -629,10 +629,46 @@
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
         },
         {
+          "id": "fdb024e7c2cd",
+          "title": "US tells ASML it is concerned China may have top chip tool",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-19/us-tells-asml-it-s-concerned-china-may-have-top-chip-tool",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-06-19/us-tells-asml-it-s-concerned-china-may-have-top-chip-tool Comments URL: https://news.ycombinator.com/item?id=48602369 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 19 Jun 2026 19:36:40 +0000"
+        },
+        {
+          "id": "94316089bf35",
+          "title": "ASML denies US Government report that EUV chipmaking tool was shipped to China",
+          "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-denies-us-government-report-that-its-euv-chipmaking-tool-was-shipped-to-china-says-rumors-are-inaccurate-and-damaging-to-our-reputation",
+          "description": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/asml-denies-us-government-report-that-its-euv-chipmaking-tool-was-shipped-to-china-says-rumors-are-inaccurate-and-damaging-to-our-reputation Comments URL: https://news.ycombinator.com/item?id=48601996 Points: 9 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 19 Jun 2026 19:03:30 +0000"
+        },
+        {
+          "id": "1101ff746ad3",
+          "title": "AI versus the China Shock",
+          "link": "https://agglomerations.eig.org/p/ai-versus-the-china-shock",
+          "description": "Article URL: https://agglomerations.eig.org/p/ai-versus-the-china-shock Comments URL: https://news.ycombinator.com/item?id=48601985 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 19 Jun 2026 19:02:55 +0000"
+        },
+        {
+          "id": "5ef5e97af791",
+          "title": "Huawei chips refine DeepSeek model in major leap for China's AI self-reliance",
+          "link": "https://www.scmp.com/tech/article/3356117/huawei-chips-refine-deepseek-model-major-leap-chinas-ai-self-reliance",
+          "description": "Article URL: https://www.scmp.com/tech/article/3356117/huawei-chips-refine-deepseek-model-major-leap-chinas-ai-self-reliance Comments URL: https://news.ycombinator.com/item?id=48600938 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 19 Jun 2026 17:33:36 +0000"
+        },
+        {
           "id": "7e83274479ea",
           "title": "US says ASML's top chip tool may be in China. ASML says it isn't",
           "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-          "description": "Article URL: https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/ Comments URL: https://news.ycombinator.com/item?id=48599289 Points: 3 # Comments: 0",
+          "description": "Article URL: https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/ Comments URL: https://news.ycombinator.com/item?id=48599289 Points: 4 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 19 Jun 2026 14:50:59 +0000"
@@ -834,45 +870,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sun, 14 Jun 2026 05:58:36 +0000"
-        },
-        {
-          "id": "2c7b30b956ab",
-          "title": "China's control over indium phosphide exports threatens AI data centre rollout",
-          "link": "https://www.reuters.com/world/china/chinas-control-over-indium-phosphide-exports-threatens-ai-data-centre-rollout-2026-06-11/",
-          "description": "Article URL: https://www.reuters.com/world/china/chinas-control-over-indium-phosphide-exports-threatens-ai-data-centre-rollout-2026-06-11/ Comments URL: https://news.ycombinator.com/item?id=48521165 Points: 7 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 13 Jun 2026 20:34:16 +0000"
-        },
-        {
-          "id": "93266238bd63",
-          "title": "China's Notorious University-Entrance Exam, Gaokao Is Changing",
-          "link": "https://www.economist.com/china/2026/06/11/chinas-notorious-university-entrance-exam-is-changing",
-          "description": "Article URL: https://www.economist.com/china/2026/06/11/chinas-notorious-university-entrance-exam-is-changing Comments URL: https://news.ycombinator.com/item?id=48519151 Points: 3 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 13 Jun 2026 17:03:17 +0000"
-        },
-        {
-          "id": "83bdeed5d286",
-          "title": "SpaceX playbook set to fuel China's IPO ambitions but tech gap persists",
-          "link": "https://www.reuters.com/legal/transactional/spacex-playbook-set-fuel-chinas-ipo-ambitions-tech-gap-persists-2026-06-12/",
-          "description": "Article URL: https://www.reuters.com/legal/transactional/spacex-playbook-set-fuel-chinas-ipo-ambitions-tech-gap-persists-2026-06-12/ Comments URL: https://news.ycombinator.com/item?id=48517532 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 13 Jun 2026 14:09:56 +0000"
-        },
-        {
-          "id": "2c8f6f4fe1b3",
-          "title": "China Pulls Ahead in Quantum Communications Security",
-          "link": "https://jamestown.org/prc-pulls-ahead-in-quantum-communications-security/",
-          "description": "Article URL: https://jamestown.org/prc-pulls-ahead-in-quantum-communications-security/ Comments URL: https://news.ycombinator.com/item?id=48515755 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 13 Jun 2026 10:35:38 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 中国铁路将于7月1日起实施新列车运行图，其中包括北京至乌鲁木齐间的高速列车服务，进一步优化交通网络。\n2. 中国专家批评菲律宾外长关于日菲海洋划界“与中国无关”的言论，指出此举别有用心，超出双边谈判范畴。\n3. 美国声称ASML最先进芯片制造设备可能在中国，但ASML予以否认；同时美国向ASML表达对中国可能拥有顶级芯片工具的担忧，凸显中美科技博弈持续。\n4. 中国自主研发机器人减速器取得突破，展现工业制造自主化进展；此外，中国制造业地理分布图谱发布，揭示产业布局。\n5. 七国集团（G7）试图限制中国稀土供应占比不超过60%，同时中国电动汽车价格战背后存在亏损销售现象，反映行业竞争与挑战。\n\n今日最值得关注的发展：中美在半导体设备领域的博弈再度升级，美国对华技术限制与ASML的否认形成对峙，凸显中国高端芯片制造自主化的紧迫性。",
+      "summary": "今日新闻联播动态摘要\n\n1. **铁路交通升级**：中国宣布自7月1日起实施新列车运行图，其中包括北京至乌鲁木齐的高铁服务，进一步优化国内交通网络。\n2. **中菲日关系争议**：中国专家批评菲律宾外长关于“日菲划界与中国无关”的言论，指出此举背后存在超越双边对话的隐秘意图。\n3. **芯片技术争议**：美国向荷兰ASML公司表达对中国可能拥有顶级芯片制造工具的担忧，但ASML否认相关设备已运往中国。\n4. **中国科技自主突破**：华为芯片成功优化DeepSeek模型，标志着中国在人工智能自主研发领域取得重大进展；同时，中国在机器人变速箱等制造领域实现自主攻关。\n5. **国际资源与产业动态**：G7试图限制中国稀土供应占比不超过60%；中国电动汽车价格战背后存在亏损销售问题；智利计划铺设连接中国的海底电缆遭美国反对。\n\n**今日最值得关注的发展**：中美在高端芯片制造设备上的博弈持续升级，ASML否认EUV光刻机流入中国，但美国仍表达强烈担忧，凸显科技领域的地缘竞争白热化。",
       "count": 29
     }
   }
