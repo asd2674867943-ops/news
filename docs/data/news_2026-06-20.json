@@ -1,9 +1,45 @@
 {
   "date": "2026-06-20",
-  "generated_at": "2026-06-20T15:45:45.702625",
+  "generated_at": "2026-06-20T23:14:37.436011",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "ad87fe0507f9",
+          "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+          "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+          "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 20 Jun 2026 20:32:29 +0000"
+        },
+        {
+          "id": "1b6432582c83",
+          "title": "In the Weights is your new AI-centric vanity search",
+          "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+          "description": "So ... what's your In the Weights score?",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 20 Jun 2026 19:41:11 +0000"
+        },
+        {
+          "id": "5bf4acb7a17b",
+          "title": "Founders Fund’s outlier bet on humanely killed fish",
+          "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+          "description": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 20 Jun 2026 18:26:02 +0000"
+        },
+        {
+          "id": "4659c2c19797",
+          "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+          "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+          "description": "Jumper isn't the only big name leaving Google DeepMind.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 20 Jun 2026 16:39:57 +0000"
+        },
         {
           "id": "2df63e11e3b9",
           "title": "Every new iOS 27 feature that’s worth knowing about",
@@ -32,10 +68,10 @@
           "pub_date": "Fri, 19 Jun 2026 22:40:14 +0000"
         },
         {
-          "id": "5301d646296b",
-          "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+          "id": "7de1cfe9d61c",
+          "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters",
           "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-          "description": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan&#8217;s shortage of drivers. Go, which went public Tuesday, plans to use the ¥88.6 billion [&#8230;]",
+          "description": "Go's IPO — Japan's biggest so far this year — has done more than provide a much-needed boost to the country's languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan's shortage of drivers.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 19 Jun 2026 21:45:00 +0000"
@@ -147,42 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 18 Jun 2026 19:52:19 +0000"
-        },
-        {
-          "id": "ab1299bb0d54",
-          "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
-          "link": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
-          "description": "Plaintiffs in the class -action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 19:31:45 +0000"
-        },
-        {
-          "id": "d7b7ef1c6501",
-          "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-          "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-          "description": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 18:51:46 +0000"
-        },
-        {
-          "id": "3c3df366136e",
-          "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-          "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-          "description": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 18:22:13 +0000"
-        },
-        {
-          "id": "7b317976941e",
-          "title": "Mivo’s new app takes a mindful approach to managing screen time",
-          "link": "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/",
-          "description": "Notably, unlike other apps that might just try to pull you away from your phone, Mivo lets the user decide if they want to continue, encouraging users to become more aware of how and why they’re using it instead.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 18:00:00 +0000"
         },
         {
           "id": "31592ea19b85",
@@ -329,43 +329,43 @@
           "pub_date": "Thu, 18 Jun 2026 06:37:59 +0000"
         },
         {
-          "id": "4d6e34de39ad",
-          "title": "Second carcass-eating fly species cleared by FDA for maggot wound therapy",
-          "link": "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
-          "description": "Maggot therapy lacks robust data, but it has fans and a fail-safe \"bacon therapy.\"",
-          "source": "Ars Technica",
+          "id": "8049dec8ada0",
+          "title": "Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World",
+          "link": "https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/",
+          "description": "Article URL: https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/ Comments URL: https://news.ycombinator.com/item?id=48613732 Points: 11 # Comments: 1",
+          "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 22:11:20 +0000"
+          "pub_date": "Sat, 20 Jun 2026 22:50:43 +0000"
         },
         {
-          "id": "89245aa67592",
-          "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
-          "link": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
-          "description": "Elsewhere, beyond-classical quantum hardware, plus classical computing fires back.",
-          "source": "Ars Technica",
+          "id": "9e070cdd561e",
+          "title": "Tesla allegedly in autopilot mode crashes into Texas house, woman killed",
+          "link": "https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374",
+          "description": "Article URL: https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374 Comments URL: https://news.ycombinator.com/item?id=48613481 Points: 29 # Comments: 17",
+          "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 20:44:32 +0000"
+          "pub_date": "Sat, 20 Jun 2026 22:14:15 +0000"
         },
         {
-          "id": "b2be7337a708",
-          "title": "California says AT&T lied to FCC in attempt to shut off old phone network",
-          "link": "https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/",
-          "description": "FCC considers AT&#038;T petitions to preempt state rules and discontinue phone service.",
-          "source": "Ars Technica",
+          "id": "d4ca25162ae3",
+          "title": "Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl",
+          "link": "https://www.phoronix.com/news/systemd-261",
+          "description": "Article URL: https://www.phoronix.com/news/systemd-261 Comments URL: https://news.ycombinator.com/item?id=48613328 Points: 20 # Comments: 5",
+          "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 20:07:40 +0000"
+          "pub_date": "Sat, 20 Jun 2026 21:50:42 +0000"
         },
         {
-          "id": "51ebbc2791e9",
-          "title": "Massive breach spills credentials for thousands of sensitive networks",
-          "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
-          "description": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
-          "source": "Ars Technica",
+          "id": "c9db91bc4ec7",
+          "title": "Supermarket giant Tesco sues VMware for breach of contract",
+          "link": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
+          "description": "Article URL: https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651 Comments URL: https://news.ycombinator.com/item?id=48613008 Points: 45 # Comments: 10",
+          "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Wed, 17 Jun 2026 19:54:31 +0000"
+          "pub_date": "Sat, 20 Jun 2026 21:09:39 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **苹果iOS 27新功能亮点**：TechCrunch报道了iOS 27中所有值得关注的新特性，涵盖用户体验、隐私保护及系统优化等方面。\n2. **机器人领域的技术传承**：曾打造流畅免费视频播放器的开发者，如今将类似技术应用于机器人，推动其运行效率提升。\n3. **AI与机器人出租车布局**：日本2026年最大IPO后，Go公司瞄准机器人出租车及收购机会，分析其战略意义。\n4. **AI行业巨额融资与并购**：包括AI推理初创公司Baseten拟融资15亿美元、Elastic以最高8500万美元收购Deductive AI，以及Snap因成本压力分拆AI视频团队为新公司Dotmo。\n5. **技术监管与地缘动态**：美国对Anthropic的禁令反助其品牌热度；ASML顶级芯片设备疑流入中国引发疑问；印度封禁Telegram导致VPN和替代应用需求激增。\n\n**今日最值得关注**：AI推理初创公司Baseten在上一轮巨额融资仅数月后，再度寻求15亿美元融资，凸显AI基础设施领域资本投入的持续狂热与竞争白热化。",
+      "summary": "今日科技动态摘要\n\n1. **AI与人的关系警示**：Signal总裁Meredith Whittaker提醒用户，AI聊天机器人“不是你的朋友”，需警惕对AI的情感依赖。\n2. **AI搜索与品牌争议**：新工具“In the Weights”提供以AI为中心的虚荣搜索；美国政府对Anthropic的禁令可能反而助长其品牌知名度。\n3. **DeepMind核心人才流失**：诺贝尔奖得主John Jumper离开DeepMind，加入其竞争对手Anthropic，引发行业关注。\n4. **科技巨头与监管动态**：印度封禁Telegram导致VPN和竞品应用使用量激增；美国质疑ASML顶级芯片设备可能已流入中国。\n5. **新兴领域投资与创新**：Founders Fund押注人道宰杀鱼类项目；Aura推出不显“数码感”的电子墨水相框；Go公司计划在2026年日本最大IPO后布局 Robotaxi 和收购。\n\n**今日最值得关注的发展**：AI领域人才争夺战加剧，DeepMind核心科学家转投Anthropic，可能重塑行业竞争格局。",
       "count": 40
     },
     "ai": {
@@ -605,7 +605,7 @@
           "pub_date": "Thu, 18 Jun 2026 13:42:09 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **开源模型与智能体能力提升**：Hugging Face发布多项研究，包括评估智能体保密性的“MosaicLeaks”、超越LoRA的微调技术、自主工具基准测试、语言引导3D运动预测“MolmoMotion”，以及从模型库到机器人硬件的部署方案“Strands Agents and LeRobot”。  \n2. **长程任务与资源发现**：GLM-5.2模型专为长程任务设计，同时提出“Agentic Resource Discovery”让智能体自主搜索资源，强化自主决策能力。  \n3. **医疗AI多领域突破**：Google展示AMIE医疗AI管理健康的新研究，OpenAI则聚焦AI辅助诊断罕见遗传病、改善ChatGPT健康智能，并提出“LifeSciBench”医学科学基准，以及自主AI化学家优化药物合成反应。  \n4. **企业级AI工具与安全**：OpenAI推出企业版使用分析和支出控制功能，Google宣布在阿拉巴马州增加投资与社区支持。  \n5. **模型行为预测**：OpenAI提出通过模拟部署预测模型发布前的行为，以提升安全性与可靠性。\n\n**今日最值得关注的发展**：医疗AI领域迎来密集突破，从罕见病诊断到药物合成自动化，AI正加速向临床与科研核心场景渗透。",
+      "summary": "今日AI动态摘要\n\n1. **AI安全与隐私挑战**：Hugging Face发布“MosaicLeaks”研究，探讨AI研究代理能否保守秘密，引发对模型安全性的关注。\n2. **模型微调与评估新进展**：Hugging Face推出“Beyond LoRA”挑战主流微调技术，并发布“MolmoMotion”实现语言引导的3D运动预测，同时强调“Agentic Resource Discovery”让代理自主搜索资源。\n3. **医疗AI应用深化**：Google AI Blog展示AMIE医疗AI在健康管理中的潜力，OpenAI则推出AI辅助诊断罕见遗传病、提升ChatGPT健康智能，并发布“LifeSciBench”基准测试。\n4. **企业级AI工具与部署预测**：OpenAI更新企业用量分析与支出控制，Hugging Face结合Strands Agents和LeRobot推动AI从模型到机器人硬件的落地，OpenAI还提出通过模拟部署预测模型行为。\n5. **区域投资与社区支持**：Google AI Blog宣布加强在美国阿拉巴马州的投资与社区支持，体现AI产业向区域化发展。\n\n**今日最值得关注的发展**：医疗AI领域迎来多项突破，包括诊断罕见病、健康管理智能化及药物化学自主优化，显示AI在生命科学中的实际应用正加速落地。",
       "count": 26
     },
     "cctv": {
@@ -627,6 +627,15 @@
           "source": "Global Times",
           "category": "cctv",
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
+        },
+        {
+          "id": "47f27a485e8c",
+          "title": "Before SpaceX IPO, investors in China acquired stakes",
+          "link": "https://www.propublica.org/article/spacex-elon-musk-ipo-foreign-investors-china",
+          "description": "Article URL: https://www.propublica.org/article/spacex-elon-musk-ipo-foreign-investors-china Comments URL: https://news.ycombinator.com/item?id=48610822 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 20 Jun 2026 17:01:09 +0000"
         },
         {
           "id": "5aff5c3278ff",
@@ -659,7 +668,7 @@
           "id": "f522954e4dee",
           "title": "China will have a Fable 5-class AI model before next year",
           "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long Comments URL: https://news.ycombinator.com/item?id=48606364 Points: 12 # Comments: 2",
+          "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long Comments URL: https://news.ycombinator.com/item?id=48606364 Points: 14 # Comments: 2",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 20 Jun 2026 04:33:24 +0000"
@@ -839,7 +848,7 @@
           "id": "7ee49deffbb5",
           "title": "Britain arrests more for social media posts than China, Russia, Turkey combined",
           "link": "https://twitter.com/XFreeze/status/2066778611227709885",
-          "description": "Article URL: https://twitter.com/XFreeze/status/2066778611227709885 Comments URL: https://news.ycombinator.com/item?id=48566271 Points: 9 # Comments: 3",
+          "description": "Article URL: https://twitter.com/XFreeze/status/2066778611227709885 Comments URL: https://news.ycombinator.com/item?id=48566271 Points: 10 # Comments: 3",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 17 Jun 2026 05:51:19 +0000"
@@ -870,18 +879,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Mon, 15 Jun 2026 19:22:29 +0000"
-        },
-        {
-          "id": "bfbd24a24174",
-          "title": "China bans sales of Germany's Infineon GAN chips",
-          "link": "https://www.semiconductor-today.com/news_items/2026/jun/innoscience-infineon-150626.shtml",
-          "description": "Article URL: https://www.semiconductor-today.com/news_items/2026/jun/innoscience-infineon-150626.shtml Comments URL: https://news.ycombinator.com/item?id=48540057 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 15 Jun 2026 12:01:55 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中国铁路新运行图与区域联通**：自7月1日起，中国将实施新的列车运行图，其中包括开通北京至乌鲁木齐的高速铁路服务，进一步强化西部与东部地区的交通连接。\n\n2. **中方驳斥菲方涉南海不当言论**：中国专家批评菲律宾外长所谓“日菲海上划界与中国无关”的说法，指出此举背后有超越双边关系的别有用意，警告其可能破坏地区稳定。\n\n3. **中国在人工智能领域加速追赶美国**：马斯克收购自主编码初创公司，凸显中国在AI领域的快速发展；华为芯片助力DeepSeek模型取得重大突破，标志着中国在AI自主可控方面迈出关键一步。\n\n4. **中国国产鹅肝挑战法国传统地位**：随着中国本土鹅肝消费增长，法国传统鹅肝产业面临来自中国的新竞争，反映中国消费升级与农业产业化的新趋势。\n\n5. **中美科技博弈持续升级**：美国向ASML表达对中国可能拥有顶级芯片制造工具的担忧，ASML则否认相关报道。同时，中国在机器人齿轮箱等工业制造领域实现自主突破，展现技术自立的决心。\n\n**今日最值得关注的发展**：中国在AI与半导体领域的自主创新加速，华为芯片与DeepSeek模型的结合标志着中国在AI自研能力上取得重大跃升，同时中美在高端芯片设备管控上的博弈持续升温。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国铁路调图与交通发展**：自7月1日起，全国铁路将实行新列车运行图，其中包括开通北京至乌鲁木齐的高速列车服务，进一步提升区域交通互联互通水平。\n\n2. **中菲与地区安全动态**：中国专家批评菲律宾外长关于“日菲海上划界与中国无关”的言论，指出此举别有用心，可能超出双边对话范畴，意在服务其他地缘政治目的。\n\n3. **中美科技与芯片博弈**：美国声称担忧中国可能拥有ASML最先进的EUV芯片制造工具，但ASML予以否认；同时，华为利用自研芯片优化DeepSeek模型，显示中国在AI自主化方面取得重大进展。\n\n4. **中国AI与科技自主创新**：中国在人工智能领域加速追赶美国，预计明年之前将拥有类似“Fable 5”级别的AI模型；此外，中国自主研发的机器人减速器也取得突破，体现制造业关键部件的国产化进程。\n\n5. **国内经济与消费趋势**：中国本土鹅肝产业迅速崛起，正成为法国在国际市场上的新竞争对手；同时，尽管领导人强调提振需求，但实际效果仍面临挑战。\n\n**今日最值得关注的发展**：中美在尖端芯片与人工智能领域的博弈持续升级，中国通过自研芯片与模型优化加速技术自主，同时美国对华技术限制的传闻与否认交织，凸显科技竞争的白热化。",
       "count": 30
     }
   }
