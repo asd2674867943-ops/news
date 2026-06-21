@@ -1,9 +1,36 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T15:53:40.887831",
+  "generated_at": "2026-06-21T23:20:20.956830",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "6597fc50e3f4",
+          "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+          "link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+          "description": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 21 Jun 2026 18:34:31 +0000"
+        },
+        {
+          "id": "7a791faaf4ff",
+          "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+          "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+          "description": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 21 Jun 2026 16:35:00 +0000"
+        },
+        {
+          "id": "908bb15532f7",
+          "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
+          "link": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+          "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 21 Jun 2026 16:05:00 +0000"
+        },
         {
           "id": "6218346069b6",
           "title": "When the Trump administration cracks down on Anthropic, who benefits?",
@@ -131,8 +158,8 @@
           "pub_date": "Fri, 19 Jun 2026 15:23:28 +0000"
         },
         {
-          "id": "ebab20aea795",
-          "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+          "id": "c35f3bfdba22",
+          "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
           "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
           "description": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
           "source": "TechCrunch",
@@ -158,31 +185,13 @@
           "pub_date": "Fri, 19 Jun 2026 01:01:00 +0000"
         },
         {
-          "id": "899fec9683ac",
-          "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-          "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-          "description": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-          "source": "TechCrunch",
+          "id": "5d06c6c1a0e5",
+          "title": "Trump admin’s coal investments assist plants with repeated violations",
+          "link": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
+          "description": "At least three coal plants have been repeatedly cited for violating environmental regulations.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Fri, 19 Jun 2026 00:51:11 +0000"
-        },
-        {
-          "id": "88745a1455c1",
-          "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-          "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-          "description": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 21:20:13 +0000"
-        },
-        {
-          "id": "7fc9c58803cd",
-          "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-          "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-          "description": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 20:30:00 +0000"
+          "pub_date": "Sun, 21 Jun 2026 17:49:35 +0000"
         },
         {
           "id": "483b44fbbfd4",
@@ -239,133 +248,124 @@
           "pub_date": "Thu, 18 Jun 2026 23:28:52 +0000"
         },
         {
+          "id": "522700cfe8b4",
+          "title": "Rent collections are down in New York – and no one's sure why",
+          "link": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
+          "description": "Article URL: https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982 Comments URL: https://news.ycombinator.com/item?id=48622987 Points: 21 # Comments: 15",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 21 Jun 2026 21:54:34 +0000"
+        },
+        {
+          "id": "1ff4a6fc8a4e",
+          "title": "Did my old job only exist because of fraud?",
+          "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+          "description": "Article URL: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/ Comments URL: https://news.ycombinator.com/item?id=48622867 Points: 72 # Comments: 17",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 21 Jun 2026 21:40:53 +0000"
+        },
+        {
           "id": "5ae309d69208",
           "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
           "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
-          "description": "In February, a Trump official refused to review the vaccine.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 22:08:59 +0000"
-        },
-        {
-          "id": "a3fb491899d4",
-          "title": "As China looms, Taiwan makes more drones for defense and the US military",
-          "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
-          "description": "Taiwan's drone spending plans for defense could also boost business overseas.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 21:21:26 +0000"
-        },
-        {
-          "id": "206f7683053a",
-          "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
-          "link": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
-          "description": "\"We are reassigning most affected employees across existing opportunities and programs.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 20:49:55 +0000"
-        },
-        {
-          "id": "b9cc874870d1",
-          "title": "Android verification is coming: Google confirms timeline and supported app stores",
-          "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
-          "description": "A new system service will roll out this month ahead of big changes starting in September.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 19:53:33 +0000"
-        },
-        {
-          "id": "cd7dfd4323a4",
-          "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
-          "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
-          "description": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 19:41:35 +0000"
-        },
-        {
-          "id": "a2657ccecdbc",
-          "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
-          "link": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
-          "description": "It's unclear whether the system is currently intact.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 18:19:44 +0000"
-        },
-        {
-          "id": "564bf122db3c",
-          "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
-          "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
-          "description": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 17:42:18 +0000"
-        },
-        {
-          "id": "d26977745bd5",
-          "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-          "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-          "description": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 18 Jun 2026 17:02:49 +0000"
-        },
-        {
-          "id": "f695926922e1",
-          "title": "(How to Write a (Lisp) Interpreter (In Python))",
-          "link": "https://norvig.com/lispy.html",
-          "description": "Article URL: https://norvig.com/lispy.html Comments URL: https://news.ycombinator.com/item?id=48619831 Points: 7 # Comments: 1",
+          "description": "Article URL: https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/ Comments URL: https://news.ycombinator.com/item?id=48622788 Points: 53 # Comments: 27",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 21 Jun 2026 15:36:33 +0000"
+          "pub_date": "Sun, 21 Jun 2026 21:30:25 +0000"
         },
         {
-          "id": "256bd4a4ace3",
-          "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
-          "link": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
-          "description": "Article URL: https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/ Comments URL: https://news.ycombinator.com/item?id=48619394 Points: 12 # Comments: 7",
+          "id": "d455c2ca3062",
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
+          "link": "https://apertvs.ai/",
+          "description": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 96 # Comments: 24",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 21 Jun 2026 14:43:08 +0000"
+          "pub_date": "Sun, 21 Jun 2026 21:29:43 +0000"
         },
         {
-          "id": "ddbd798e1172",
-          "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
-          "link": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
-          "description": "Article URL: https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you Comments URL: https://news.ycombinator.com/item?id=48619140 Points: 62 # Comments: 42",
+          "id": "e30579d301d1",
+          "title": "PowerFox Browser",
+          "link": "https://powerfox.jazzzny.me/",
+          "description": "Article URL: https://powerfox.jazzzny.me/ Comments URL: https://news.ycombinator.com/item?id=48622731 Points: 33 # Comments: 11",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 21 Jun 2026 14:09:07 +0000"
+          "pub_date": "Sun, 21 Jun 2026 21:23:13 +0000"
         },
         {
-          "id": "0ffc31a75996",
-          "title": "David Ahl's Basic Computer Games Ported to C",
-          "link": "https://github.com/proteanthread/bcg",
-          "description": "Article URL: https://github.com/proteanthread/bcg Comments URL: https://news.ycombinator.com/item?id=48618226 Points: 34 # Comments: 14",
+          "id": "f721eb900b31",
+          "title": "Everything Is Logarithms",
+          "link": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+          "description": "Article URL: https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html Comments URL: https://news.ycombinator.com/item?id=48622626 Points: 64 # Comments: 5",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 21 Jun 2026 12:11:29 +0000"
+          "pub_date": "Sun, 21 Jun 2026 21:10:32 +0000"
         },
         {
-          "id": "682b14abaf25",
-          "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-          "link": "https://www.beyondallreason.info",
-          "description": "Article URL: https://www.beyondallreason.info Comments URL: https://news.ycombinator.com/item?id=48617990 Points: 217 # Comments: 99",
+          "id": "c629cb24e0cf",
+          "title": "Stop wasting tokens and re explaining your project between sessions",
+          "link": "https://github.com/raiyanyahya/recall",
+          "description": "Article URL: https://github.com/raiyanyahya/recall Comments URL: https://news.ycombinator.com/item?id=48622590 Points: 43 # Comments: 30",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 21 Jun 2026 11:38:01 +0000"
+          "pub_date": "Sun, 21 Jun 2026 21:05:37 +0000"
         },
         {
-          "id": "5732ef963e53",
-          "title": "Google Hits 50% IPv6",
-          "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-          "description": "Article URL: https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/ Comments URL: https://news.ycombinator.com/item?id=48616800 Points: 294 # Comments: 284",
+          "id": "362df600c9f6",
+          "title": "Ask for no, don't ask for yes (2022)",
+          "link": "https://www.mooreds.com/wordpress/archives/3518",
+          "description": "Article URL: https://www.mooreds.com/wordpress/archives/3518 Comments URL: https://news.ycombinator.com/item?id=48622234 Points: 78 # Comments: 36",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 21 Jun 2026 08:21:22 +0000"
+          "pub_date": "Sun, 21 Jun 2026 20:17:48 +0000"
+        },
+        {
+          "id": "ecf6611ad249",
+          "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+          "link": "https://clevercrow.io",
+          "description": "Howdy all. I'm Zack :wave:. I've been thinking about the problem of misguided AI pull requests and figured I'd throw a possible solution out there for feedback. Basically, CleverCrow lets supporters give tokens to a GitHub repo (or set of issues in that repo) for the maintainers to use to build/fix stuff. The fun implementation challenges have been around implementing the pooling dynamics and keeping the maintainers in charge while the backers are motivated to support their work. Comments URL: https://news.ycombinator.com/item?id=48621645 Points: 27 # Comments: 37",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 21 Jun 2026 19:06:07 +0000"
+        },
+        {
+          "id": "33c5d2f78e42",
+          "title": "JSON-LD Explained for Personal Websites",
+          "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+          "description": "Article URL: https://hawksley.dev/blog/json-ld-explained-for-personal-websites/ Comments URL: https://news.ycombinator.com/item?id=48621517 Points: 129 # Comments: 34",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 21 Jun 2026 18:51:47 +0000"
+        },
+        {
+          "id": "581ee5c042c2",
+          "title": "Wildcard (YC W25) is hiring an applied ML engineer",
+          "link": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
+          "description": "Article URL: https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer Comments URL: https://news.ycombinator.com/item?id=48620504 Points: 0 # Comments: 0",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 21 Jun 2026 17:00:28 +0000"
+        },
+        {
+          "id": "b18d61c35f61",
+          "title": "Tell HN: Happy Fathers Day",
+          "link": "https://news.ycombinator.com/item?id=48620502",
+          "description": "My shortened story: due to factors in Soviet controlled Poland, my uncle played my dad role. He took me to a quarry to fire Estes-style rocket cars, and all that.. he also managed to steal a Milicja (military police) siren from work, and put it on the back of my banana style bike. As an EE, he made it actually function. Thanks to all the hackers who made us who we are. Comments URL: https://news.ycombinator.com/item?id=48620502 Points: 216 # Comments: 28",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 21 Jun 2026 17:00:26 +0000"
+        },
+        {
+          "id": "131da7edb220",
+          "title": "The minimum viable unit of saleable software",
+          "link": "https://brandur.org/minimum-viable-unit",
+          "description": "Article URL: https://brandur.org/minimum-viable-unit Comments URL: https://news.ycombinator.com/item?id=48620342 Points: 104 # Comments: 46",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 21 Jun 2026 16:41:21 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI行业人才与监管动态**：诺贝尔奖得主John Jumper离开DeepMind加入Anthropic，同时美国政府对Anthropic的打压可能反而提升其品牌知名度。\n2. **苹果iOS 27新功能**：除了Siri改进，iOS 27将带来多项实用AI功能，值得关注的更新内容已明确列出。\n3. **AI伦理与警示**：Signal总裁Meredith Whittaker提醒用户，AI聊天机器人“不是你的朋友”，需警惕其情感误导。\n4. **新兴AI应用与创业**：包括AI驱动的个人搜索工具“In the Weights”、Allbirds的AI业务计划（但团队未组建）、以及印度富豪Ambani计划将AI融入所有通讯与家庭场景。\n5. **科技与资本热点**：Go公司关注自动驾驶出租车与并购（2026年日本最大IPO后）、核聚变初创企业融资超1亿美元盘点、以及Aura电子墨水相框的数码伪装设计。\n\n**今日最值得关注的发展**：AI顶尖人才从DeepMind流向Anthropic，叠加美国政府监管反而可能为后者带来品牌红利，凸显AI行业竞争与政策博弈的复杂性。",
+      "summary": "今日科技动态摘要\n\n1. **人事与行业变动**：育碧联合创始人Claude Guillemot因飞机失事去世；诺贝尔奖得主John Jumper离开DeepMind加入竞争对手Anthropic，凸显AI人才争夺激烈。\n2. **AI伦理与风险**：Polymarket被曝付费创作者发布关于虚假赌注的误导视频；Signal高管Meredith Whittaker提醒公众“AI聊天机器人不是你的朋友”，强调隐私与信任边界。\n3. **苹果iOS 27新功能**：除Siri外，iPhone将迎来多项实用AI功能，包括更智能的搜索、图像处理等，标志着苹果在AI应用上的深化。\n4. **自动驾驶与出行**：中国在自动驾驶出租车（robotaxi）领域占据主导地位；日本公司Go在2026年最大IPO后瞄准robotaxi与收购，显示全球出行格局加速变化。\n5. **科技投资与创业**：Founders Fund押注人道宰杀鱼类项目；Aura推出外观非数字化的电子墨水相框；多家聚变初创公司融资超1亿美元，清洁能源赛道持续升温。\n\n**总结**：今日最值得关注的趋势是AI人才从传统巨头向新兴公司流动加速，同时AI伦理与监管问题引发更多质疑，而中国在自动驾驶领域的领先地位正重塑全球出行竞争格局。",
       "count": 40
     },
     "ai": {
@@ -452,6 +452,15 @@
           "pub_date": "Mon, 15 Jun 2026 15:00:00 +0000"
         },
         {
+          "id": "c2880c0190ae",
+          "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+          "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+          "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Sun, 21 Jun 2026 23:00:00 GMT"
+        },
+        {
           "id": "0b6eb9d79d81",
           "title": "New usage analytics and updated spend controls for enterprises",
           "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
@@ -504,15 +513,6 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Tue, 16 Jun 2026 00:00:00 GMT"
-        },
-        {
-          "id": "f063280d5f09",
-          "title": "Introducing the OpenAI Partner Network",
-          "link": "https://openai.com/index/introducing-openai-partner-network",
-          "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Sun, 14 Jun 2026 17:00:00 GMT"
         },
         {
           "id": "9c87d4e4556b",
@@ -605,7 +605,7 @@
           "pub_date": "Fri, 19 Jun 2026 03:28:37 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AI代理安全与能力探讨**：Hugging Face发布多项关于AI代理的研究，包括安全漏洞（MosaicLeaks）、超越LoRA的微调技术、工具集成基准测试（Is it agentic enough?）、3D运动预测模型（MolmoMotion）以及机器人硬件集成（Strands Agents与LeRobot），并推出GLM-5.2模型以应对长周期任务，以及允许代理自主搜索资源的“Agentic Resource Discovery”方法。\n\n2. **医疗AI应用进展**：Google AI博客展示AMIE医疗AI在健康管理中的潜力；OpenAI博客强调ChatGPT改进健康智能、辅助诊断儿童罕见遗传疾病，并推出LifeSciBench基准测试用于评估AI在生命科学领域的能力。\n\n3. **企业级AI功能与模型行为预测**：OpenAI博客更新企业版使用分析与支出控制功能；同时提出通过模拟部署预测模型行为的方法，以提升发布前的安全性与可靠性。\n\n4. **区域投资与社区支持**：Google AI博客宣布加强在美国阿拉巴马州的投资与社区支持，表明其在地域布局上的持续投入。\n\n5. **化学与药物研发突破**：OpenAI博客介绍一种近乎自主的AI化学家，成功改进了药物化学中一项具有挑战性的反应，加速新药研发进程。\n\n**今日最值得关注的发展**：医疗AI与自主化学研究的双重突破，展现了AI在生命科学与药物研发中从辅助诊断到自主实验的实质性进步。",
+      "summary": "今日AI动态摘要\n\n1. **AI安全与隐私挑战**：Hugging Face发布“MosaicLeaks”研究，探讨AI研究代理能否保守秘密，引发对数据泄露风险的关注。\n2. **模型微调技术竞争**：Hugging Face提出“Beyond LoRA”问题，探索是否现有最流行的微调方法可被超越，推动高效模型适配技术发展。\n3. **AI代理能力评估与工具整合**：Hugging Face推出多项进展，包括评估开源模型在自定义工具中的代理性（“Is it agentic enough?”）、语言引导3D运动预测模型（MolmoMotion）、以及将AI代理从模型库部署至机器人硬件（Strands Agents & LeRobot），凸显代理自主性与硬件集成趋势。\n4. **医疗AI突破**：Google发布AMIE医疗AI新研究，展示其管理健康条件的潜力；OpenAI则利用AI辅助医生诊断儿童罕见遗传病，并推出LifeSciBench基准以推动生物医药领域AI应用。\n5. **企业级AI部署与管控**：三星电子为员工引入ChatGPT和Codex；OpenAI更新企业版使用分析与支出控制功能，强化企业级AI治理与效率。\n\n**最值得关注的发展**：AI代理正从实验室走向现实场景——从机器人硬件集成到医疗诊断辅助，同时安全、隐私与可控性成为行业焦点，预示AI应用将更注重“负责任部署”。",
       "count": 26
     },
     "cctv": {
@@ -629,10 +629,28 @@
           "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT"
         },
         {
+          "id": "d79ad2a5134b",
+          "title": "Japan chipmaking equipment suppliers report 10% drop in China sales",
+          "link": "https://asiaai.fyi/japans-ai-shift-chip-woes-automation-hopes-cloud-expansion/",
+          "description": "Article URL: https://asiaai.fyi/japans-ai-shift-chip-woes-automation-hopes-cloud-expansion/ Comments URL: https://news.ycombinator.com/item?id=48622260 Points: 5 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 21 Jun 2026 20:22:24 +0000"
+        },
+        {
+          "id": "c721c6f17859",
+          "title": "While the World Scrambles for Oil, China Sits on Full Tanks",
+          "link": "https://www.nytimes.com/2026/06/21/business/china-oil-iran.html",
+          "description": "Article URL: https://www.nytimes.com/2026/06/21/business/china-oil-iran.html Comments URL: https://news.ycombinator.com/item?id=48620533 Points: 4 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 21 Jun 2026 17:04:26 +0000"
+        },
+        {
           "id": "9085b924f58a",
           "title": "China tightens indium export checks as AI demand increases",
           "link": "https://www.reuters.com/world/china/china-tightens-indium-export-checks-ai-demand-increases-2026-06-19/",
-          "description": "Article URL: https://www.reuters.com/world/china/china-tightens-indium-export-checks-ai-demand-increases-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48617740 Points: 1 # Comments: 0",
+          "description": "Article URL: https://www.reuters.com/world/china/china-tightens-indium-export-checks-ai-demand-increases-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48617740 Points: 3 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sun, 21 Jun 2026 11:01:22 +0000"
@@ -641,7 +659,7 @@
           "id": "8cff7b4c2014",
           "title": "China unveils a portable anti-drone laser that can down drones from 1,600ft away",
           "link": "https://www.tomshardware.com/tech-industry/china-shows-off-a-backpack-sized-anti-drone-laser-that-one-soldier-can-carry",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/china-shows-off-a-backpack-sized-anti-drone-laser-that-one-soldier-can-carry Comments URL: https://news.ycombinator.com/item?id=48617412 Points: 3 # Comments: 1",
+          "description": "Article URL: https://www.tomshardware.com/tech-industry/china-shows-off-a-backpack-sized-anti-drone-laser-that-one-soldier-can-carry Comments URL: https://news.ycombinator.com/item?id=48617412 Points: 4 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sun, 21 Jun 2026 10:10:16 +0000"
@@ -686,7 +704,7 @@
           "id": "f522954e4dee",
           "title": "China will have a Fable 5-class AI model before next year",
           "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long Comments URL: https://news.ycombinator.com/item?id=48606364 Points: 14 # Comments: 2",
+          "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long Comments URL: https://news.ycombinator.com/item?id=48606364 Points: 15 # Comments: 2",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 20 Jun 2026 04:33:24 +0000"
@@ -861,27 +879,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 17 Jun 2026 14:03:47 +0000"
-        },
-        {
-          "id": "7ee49deffbb5",
-          "title": "Britain arrests more for social media posts than China, Russia, Turkey combined",
-          "link": "https://twitter.com/XFreeze/status/2066778611227709885",
-          "description": "Article URL: https://twitter.com/XFreeze/status/2066778611227709885 Comments URL: https://news.ycombinator.com/item?id=48566271 Points: 10 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 17 Jun 2026 05:51:19 +0000"
-        },
-        {
-          "id": "3e2b8e7a8663",
-          "title": "US manufacturer of military TV walls sold to China, US wants it back",
-          "link": "https://www.thewirechina.com/2026/06/14/behind-the-screens/",
-          "description": "Article URL: https://www.thewirechina.com/2026/06/14/behind-the-screens/ Comments URL: https://news.ycombinator.com/item?id=48559795 Points: 6 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 16 Jun 2026 18:28:18 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中国铁路与科技发展**：自7月1日起，中国将实施新列车运行图，包括开通北京至乌鲁木齐的高铁服务；同时，中国在人工智能领域取得进展，华为芯片优化DeepSeek模型，推动AI自主化，并有望在明年之前推出类似Fable 5级别的AI模型。\n\n2. **国际关系与领土主权**：中国专家批评菲律宾外长关于日菲海上划界“与中国无关”的言论，指出此举背后有超出双边对话的别有用心；此外，中国加强对镓等关键矿产的出口检查，以应对AI需求增长。\n\n3. **国防与安全技术**：中国推出便携式反无人机激光器，可在1600英尺外击落无人机，展示在防御技术上的新突破。\n\n4. **经济与市场动态**：在SpaceX首次公开募股前，有中国投资者已获得其股份；中国本土鹅肝产业快速发展，正与法国在高端食品市场展开竞争。\n\n5. **中美科技竞争与供应链**：美国向ASML表达对中国可能拥有顶级芯片制造工具的担忧，但ASML否认相关报告；同时，美国关注中国在AI领域超越其进展，马斯克收购自主编码初创公司也反映了这一趋势。\n\n**今日最值得关注的发展**：中国在AI与高铁领域的持续突破，以及围绕芯片技术、领土主权和市场准入的中美及区域博弈，正成为全球焦点。",
+      "summary": "今日新闻联播动态摘要\n\n1. **交通与基础设施建设**：中国将于7月1日起实施新的列车运行图，其中包括北京至乌鲁木齐的高速列车服务，进一步优化铁路网络。\n2. **外交与地区安全**：中国专家批评菲律宾外长关于日菲海上划界“与中国无关”的说法，警告此举背后有超越双边谈判的别有用心的意图。\n3. **科技与产业动态**：日本芯片制造设备供应商报告在华销售额下降10%；中国因AI需求增长加强铟出口管控；中国推出便携式反无人机激光系统，可在1600英尺外击落无人机；中国在AI领域进展迅速，预计明年之前将拥有“Fable 5”级AI模型。\n4. **能源与资源**：在全球抢油背景下，中国石油储备充足；中国本土鹅肝产业崛起，成为法国的新竞争对手。\n5. **国际芯片与投资**：美国对ASML表达担忧，认为中国可能获得顶级芯片制造工具，但ASML否认相关报告；SpaceX上市前，有中国投资者获得其股份。\n\n今日最值得关注的发展是：中国在AI和半导体领域加速自主创新与管控，同时在外交上对南海相关争议保持强硬立场。",
       "count": 30
     }
   }
