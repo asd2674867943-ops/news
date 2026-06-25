@@ -1,21 +1,102 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T16:26:44.438742",
+  "generated_at": "2026-06-25T23:22:45.620778",
   "categories": {
     "tech": {
       "articles": [
         {
-          "id": "caff407d66f7",
-          "title": "General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
-          "link": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+          "id": "30886a6d2f0d",
+          "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+          "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+          "description": "YouTube Shorts is getting a makeover.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 25 Jun 2026 22:02:12 +0000"
+        },
+        {
+          "id": "71f74856c45d",
+          "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+          "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+          "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 25 Jun 2026 20:19:25 +0000"
+        },
+        {
+          "id": "ed386009f4b8",
+          "title": "Polymarket says hackers stole users’ funds",
+          "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+          "description": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 25 Jun 2026 19:58:46 +0000"
+        },
+        {
+          "id": "d5d76286895c",
+          "title": "Xbox follows Apple with price increases",
+          "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+          "description": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 25 Jun 2026 19:39:55 +0000"
+        },
+        {
+          "id": "2890136316d2",
+          "title": "Notion Mail shuts down amid agent takeover",
+          "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+          "description": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 25 Jun 2026 19:14:46 +0000"
+        },
+        {
+          "id": "1d1e2b0366f3",
+          "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+          "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+          "description": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 25 Jun 2026 17:52:05 +0000"
+        },
+        {
+          "id": "59248d5f9ff2",
+          "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+          "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+          "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 25 Jun 2026 17:38:27 +0000"
+        },
+        {
+          "id": "d72cc44ea859",
+          "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+          "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
           "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Thu, 25 Jun 2026 16:00:00 +0000"
+          "pub_date": "Thu, 25 Jun 2026 16:55:00 +0000"
         },
         {
-          "id": "2fce845efb10",
-          "title": "Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too",
+          "id": "7f0b69155e9c",
+          "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+          "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+          "description": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 25 Jun 2026 16:48:11 +0000"
+        },
+        {
+          "id": "7e9c769cf856",
+          "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
+          "link": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
+          "description": "Market research company Klue told customers that it believes the hacking group that stole their data is now deleting it. The company, however, warned about a second group of hackers wanting ransom.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 25 Jun 2026 16:40:15 +0000"
+        },
+        {
+          "id": "e890fb5b0eac",
+          "title": "Rippling now wants to be your entire data stack",
           "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
           "description": "\"There were employees doing things like, 'Claude is so helpful for me — it analyzes my calendar and my email and puts together a plan for me,'\" he says. \"That person was spending at a run rate of $30,000 a year for this.\"",
           "source": "TechCrunch",
@@ -41,8 +122,8 @@
           "pub_date": "Thu, 25 Jun 2026 14:55:38 +0000"
         },
         {
-          "id": "34d5f07b89cd",
-          "title": "Trump admin bars Polestar from selling its new EVs in the US",
+          "id": "4c01164ea1ef",
+          "title": "Trump administration bars Polestar from selling its new EVs in the US",
           "link": "https://techcrunch.com/2026/06/25/trump-admin-bars-polestar-from-selling-its-new-evs-in-the-us/",
           "description": "The Department of Commerce declined to give the Chinese-owned automaker a special authorization to keep selling EVs in the U.S.",
           "source": "TechCrunch",
@@ -62,14 +143,14 @@
           "id": "260690d42be3",
           "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
           "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-          "description": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here.",
+          "description": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 25 Jun 2026 14:00:00 +0000"
         },
         {
-          "id": "d1e1b9d22c81",
-          "title": "Trump admin proposes axing brake-pedal requirement for AVs in a boost for Tesla",
+          "id": "ed367fecf5ed",
+          "title": "Trump administration proposes axing brake-pedal requirement for AVs in a boost for Tesla",
           "link": "https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/",
           "description": "The Department of Transportation wants to remove the brake-pedal requirement for vehicles \"designed to be driven exclusively by automated driving systems.\"",
           "source": "TechCrunch",
@@ -104,85 +185,58 @@
           "pub_date": "Thu, 25 Jun 2026 10:00:00 +0000"
         },
         {
-          "id": "cabb278d7b3e",
-          "title": "Europe is pushing back on Washington’s chip war",
-          "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-          "description": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
-          "source": "TechCrunch",
+          "id": "9249008b4d89",
+          "title": "Microsoft adds another year to Windows 10 extended update program",
+          "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+          "description": "About a quarter of PCs are still running Microsoft's previous operating system.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 25 Jun 2026 00:08:36 +0000"
+          "pub_date": "Thu, 25 Jun 2026 20:24:09 +0000"
         },
         {
-          "id": "89d1d58f164b",
-          "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-          "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-          "description": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
-          "source": "TechCrunch",
+          "id": "6e2dbb1f239f",
+          "title": "FCC may kill $2B program that connects schools and libraries to Internet",
+          "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
+          "description": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 23:26:52 +0000"
+          "pub_date": "Thu, 25 Jun 2026 20:01:08 +0000"
         },
         {
-          "id": "eccbbe4095d2",
-          "title": "Elon suffers another day short of trillionaire status",
-          "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
-          "description": "Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.",
-          "source": "TechCrunch",
+          "id": "86256f5fd6c4",
+          "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+          "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+          "description": "Notion is \"going all in on using agents to run your inbox.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 23:09:39 +0000"
+          "pub_date": "Thu, 25 Jun 2026 19:04:57 +0000"
         },
         {
-          "id": "1f2c1261e082",
-          "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-          "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-          "description": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-          "source": "TechCrunch",
+          "id": "af22f58f7386",
+          "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+          "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+          "description": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 22:41:41 +0000"
+          "pub_date": "Thu, 25 Jun 2026 18:38:51 +0000"
         },
         {
-          "id": "3ef7750f0e84",
-          "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-          "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-          "description": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-          "source": "TechCrunch",
+          "id": "ed978c495082",
+          "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+          "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+          "description": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 21:56:41 +0000"
+          "pub_date": "Thu, 25 Jun 2026 18:01:48 +0000"
         },
         {
-          "id": "e9f50691c472",
-          "title": "AI researchers continue to leave Google for its rivals",
-          "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-          "description": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-          "source": "TechCrunch",
+          "id": "b78185b03f4a",
+          "title": "Planet orbits so close to its star that their magnetic fields connect",
+          "link": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
+          "description": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 21:42:07 +0000"
-        },
-        {
-          "id": "79a487fb0d79",
-          "title": "The memory chip crunch is paying off for this US company",
-          "link": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
-          "description": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 21:30:55 +0000"
-        },
-        {
-          "id": "c5c296a816f0",
-          "title": "New website names and shames companies that still don’t offer passkeys to users",
-          "link": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
-          "description": "According to a new site, 24% of the most popular websites in the world don't offer support for passkeys, which are considered the most secure way to log in to apps and services.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 21:04:04 +0000"
-        },
-        {
-          "id": "b1959ad5b001",
-          "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-          "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-          "description": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 20:09:45 +0000"
+          "pub_date": "Thu, 25 Jun 2026 18:00:39 +0000"
         },
         {
           "id": "510bb29c20f1",
@@ -309,63 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 24 Jun 2026 20:04:32 +0000"
-        },
-        {
-          "id": "8ee4a699420c",
-          "title": "FCC plans ID mandate that could block anonymous use of prepaid burner phones",
-          "link": "https://arstechnica.com/tech-policy/2026/06/fcc-plans-id-mandate-that-could-block-anonymous-use-of-prepaid-burner-phones/",
-          "description": "Privacy advocates and domestic violence groups say ID mandate is a big mistake.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 19:45:37 +0000"
-        },
-        {
-          "id": "6ac5c68b8d1a",
-          "title": "Formula E reveals first calendar for GEN4 with lots of real race tracks",
-          "link": "https://arstechnica.com/cars/2026/06/formula-e-reveals-first-calendar-for-gen4-with-lots-of-real-race-tracks/",
-          "description": "Brands Hatch, COTA, and Zandvoort will all hold an e-Prix in 2027.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 17:35:45 +0000"
-        },
-        {
-          "id": "a2396e5a4b58",
-          "title": "Google starts lowering Play Store fees, making good on Epic Games settlement",
-          "link": "https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/",
-          "description": "A few additional markets will get the lower fees this year ahead of a global rollout in 2027.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 17:00:17 +0000"
-        },
-        {
-          "id": "295c4c34b57e",
-          "title": "Elon Musk denies Tesla’s Autopilot caused crash that killed grandmother",
-          "link": "https://arstechnica.com/tech-policy/2026/06/elon-musk-denies-teslas-autopilot-caused-crash-that-killed-grandmother/",
-          "description": "Tesla, accused of failing to fix design flaws, blames driver pressing accelerator.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 16:40:32 +0000"
-        },
-        {
-          "id": "1054a75d0095",
-          "title": "Military branches restore flu shot requirement after virus swept through base",
-          "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
-          "description": "Branches received exceptions to Hegseth's policy that made the shot optional.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 14:54:54 +0000"
-        },
-        {
-          "id": "51236ade10d7",
-          "title": "Slate Auto's truck builder goes live for its $25k electric pickup",
-          "link": "https://arstechnica.com/cars/2026/06/here-are-five-ways-you-could-build-a-slate-ev-from-25000-to-37000/",
-          "description": "From a bare-bones pickup to a loaded, wrapped SUV, here's what some Slates will cost.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 24 Jun 2026 14:27:16 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI训练与投资**：General Intuition获23亿美元融资，押注通过视频游戏训练AI代理以应用于现实世界；Netris获a16z 1500万美元A轮融资，助力AI云服务快速上线。\n2. **企业AI与人事管理**：Rippling创始人Parker Conrad宣称能识别哪些员工值得企业投入AI成本，并推出相关工具；苹果上调Mac和iPad价格，但暂未调整iPhone。\n3. **政策与监管动向**：特朗普政府拟取消自动驾驶汽车的刹车踏板要求，利好特斯拉；同时禁止Polestar在美销售新款电动车，并提议削减对欧洲芯片战的限制。\n4. **科技巨头投资与收购**：亚马逊向印度追加130亿美元AI基础设施投资；Adobe收购图像视频增强工具开发商Topaz Labs；Google Finance推出安卓专用应用。\n5. **行业争议与市场波动**：Cellebrite被曝切断对俄服务后，其工具仍被俄罗斯使用；Cerebras股价因财报与CEO对利润率预期的误解而暴跌；前Infosys CEO创办新公司挑战IT服务业。\n\n**今日最值得关注的发展**：General Intuition以23亿美元融资规模领跑，表明“游戏训练AI”正成为资本重仓的新赛道，可能重塑AI代理的实用化路径。",
+      "summary": "今日科技动态摘要\n\n1. **AI领域融资与竞争加剧**：Patronus AI获5000万美元融资，用于构建测试AI智能体的“数字世界”；Anthropic的Claude在付费用户市场正逐步超越ChatGPT；General Intuition投入23亿美元，探索通过视频游戏训练AI智能体以适应现实世界。\n\n2. **网络安全事件频发**：Polymarket确认黑客盗取用户资金；数据公司Klue遭黑客攻击，虽然部分被盗数据被删除，但其他黑客又发出新威胁。\n\n3. **苹果与Xbox上调产品价格**：Xbox跟随苹果策略提高产品售价；苹果已上调Mac和iPad价格，但暂时未调整iPhone。\n\n4. **科技公司业务调整与新产品**：Notion Mail因智能体接管而关闭；Rippling意图打造一站式数据堆栈；Google Finance在Android平台推出专用应用；Netris获a16z 1500万美元A轮融资，助力AI云服务快速上线。\n\n5. **能源、电力与政策动态**：a16z支持的Base Power向电网提供更廉价电力；Databricks前AI首席声称可将AI能耗降低1000倍；特朗普政府禁止Polestar在美国销售新款电动车。\n\n**今日最值得关注的发展**：AI领域资金持续涌入，但网络安全威胁与地缘政治政策变动正同时加剧行业不确定性。",
       "count": 40
     },
     "ai": {
@@ -441,15 +441,6 @@
           "source": "Hugging Face",
           "category": "ai",
           "pub_date": "Mon, 22 Jun 2026 00:00:00 GMT"
-        },
-        {
-          "id": "a0dde3274fd7",
-          "title": "MosaicLeaks: Can your research agent keep a secret?",
-          "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-          "description": "",
-          "source": "Hugging Face",
-          "category": "ai",
-          "pub_date": "Thu, 18 Jun 2026 18:13:13 GMT"
         },
         {
           "id": "3277e25ddbaf",
@@ -542,15 +533,6 @@
           "pub_date": "Sun, 21 Jun 2026 23:00:00 GMT"
         },
         {
-          "id": "0b6eb9d79d81",
-          "title": "New usage analytics and updated spend controls for enterprises",
-          "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-          "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Thu, 18 Jun 2026 17:00:00 GMT"
-        },
-        {
           "id": "bb2571b60d26",
           "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
           "link": "https://www.qbitai.com/2026/06/438364.html",
@@ -641,8 +623,8 @@
           "pub_date": "Wed, 24 Jun 2026 23:20:28 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **模型优化与评估**：Hugging Face发布多项技术进展，包括混合模型预测能力分析、基于NVIDIA NeMo的Transformer微调加速、FFASR语音识别基准测试，以及PP-OCRv6多语言OCR模型（参数规模从1.5M到34.5M）。\n2. **AI代理与工具链**：Hugging Face推出CUGA轻量级框架的24个实用代理应用示例，并探索Transformers.js中的跨源存储API；OpenAI聚焦代理如何改变工作方式，并展示Omio在对话式旅行领域的实践。\n3. **芯片与安全**：OpenAI与Broadcom联合发布面向LLM推理优化的芯片；同时出现针对AI研究模型的安全挑战（如MosaicLeaks数据泄露问题）。\n4. **开源与协作**：Hugging Face实现每周自动化发布huggingface_hub（结合AI与人工审核），并利用本地模型对OpenClaw仓库进行免费分类；OpenAI推动高级AI共享标准建设。\n5. **前沿应用**：GPT-5助力免疫学家解决持续三年的科学谜题；Google Finance推出重大升级与新应用。\n\n**今日最值得关注**：OpenAI与Broadcom合作推出的LLM专用推理芯片，标志着AI硬件从通用计算向专用优化的关键转折，可能大幅降低大模型部署成本。",
-      "count": 30
+      "summary": "今日AI动态摘要\n\n1. **多模态与混合模型进展**：Hugging Face 探讨混合模型在特定 token 上的预测优势，并推出 PP-OCRv6，支持50种语言的光学字符识别，参数量从1.5M到34.5M不等。\n2. **AI工具与基础设施更新**：NVIDIA NeMo AutoModel 加速Transformer微调；Hugging Face 推出FFASR语音识别基准、CUGA轻量级智能体框架，并实现每周自动发布 huggingface_hub；还实验了Transformers.js中的跨源存储API。\n3. **行业应用与芯片突破**：OpenAI 与 Broadcom 推出专为大语言模型优化的推理芯片；OpenAI 发布GPT-5助力免疫学家解决三年未解之谜，并展示Omio在对话式旅行中的应用；Google 升级金融应用。\n4. **开源与社区生态**：Hugging Face 用本地模型免费对OpenClaw仓库进行问题分类；OpenAI 支持“Patch the Planet”开源维护者计划，并推动高级AI共享标准建设。\n\n**今日最值得关注的发展**：OpenAI与Broadcom联合发布LLM专用推理芯片，标志着AI硬件从通用计算向模型原生优化的重大转变。",
+      "count": 28
     },
     "cctv": {
       "articles": [
@@ -656,10 +638,19 @@
           "pub_date": "Thu, 18 Jun 2026 00:00:00 GMT"
         },
         {
+          "id": "754aa7c6d358",
+          "title": "Nearly a third of new heavy truck sales in China Electric in 2025",
+          "link": "https://www.reuters.com/world/asia-pacific/china-sets-sights-heavy-truck-electrification-blow-diesel-demand-2026-06-15/",
+          "description": "Article URL: https://www.reuters.com/world/asia-pacific/china-sets-sights-heavy-truck-electrification-blow-diesel-demand-2026-06-15/ Comments URL: https://news.ycombinator.com/item?id=48676673 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 25 Jun 2026 17:30:03 +0000"
+        },
+        {
           "id": "3105f46e16b3",
           "title": "China's coal power on the rise again in '26, reversing first-in-a-decade decline",
           "link": "https://www.reuters.com/business/energy/chinas-coal-power-rise-again-2026-reversing-first-in-a-decade-decline-2026-06-24/",
-          "description": "Article URL: https://www.reuters.com/business/energy/chinas-coal-power-rise-again-2026-reversing-first-in-a-decade-decline-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48674731 Points: 7 # Comments: 0",
+          "description": "Article URL: https://www.reuters.com/business/energy/chinas-coal-power-rise-again-2026-reversing-first-in-a-decade-decline-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48674731 Points: 8 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 25 Jun 2026 15:19:43 +0000"
@@ -686,7 +677,7 @@
           "id": "f8794182ad9c",
           "title": "China claims to have developed AI 'cyber nuclear weapon', matching Mythos",
           "link": "https://www.telegraph.co.uk/business/2026/06/25/china-claims-to-have-developed-ai-cyber-nuclear-weapon/",
-          "description": "Article URL: https://www.telegraph.co.uk/business/2026/06/25/china-claims-to-have-developed-ai-cyber-nuclear-weapon/ Comments URL: https://news.ycombinator.com/item?id=48672400 Points: 4 # Comments: 1",
+          "description": "Article URL: https://www.telegraph.co.uk/business/2026/06/25/china-claims-to-have-developed-ai-cyber-nuclear-weapon/ Comments URL: https://news.ycombinator.com/item?id=48672400 Points: 4 # Comments: 2",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 25 Jun 2026 12:31:45 +0000"
@@ -906,18 +897,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Mon, 22 Jun 2026 19:05:24 +0000"
-        },
-        {
-          "id": "9a0e8c9eb6ae",
-          "title": "China is having another AI moment",
-          "link": "https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment",
-          "description": "Article URL: https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment Comments URL: https://news.ycombinator.com/item?id=48630678 Points: 20 # Comments: 10",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 22 Jun 2026 14:30:47 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **交通与基础设施**：中国将于7月1日起实施新的列车运行图，其中包括开通北京至乌鲁木齐的高速铁路服务，进一步提升区域联通性。\n2. **科技与人工智能**：中国在AI领域取得多项进展，包括360公司开发出可媲美Anthropic Mythos的工具，并声称研发出类似“网络核武器”的AI技术；同时，中国AI实验室的内部动态也受到关注。\n3. **新能源与制造业**：中国电动汽车出口在5月创历史新高，新电动汽车品牌持续涌现，同时中国在机器人制造领域占据主导地位，凸显其制造业优势。\n4. **航天与国防**：中国“千帆星座”（SpaceSail）计划被指可能与美国星链（Starlink）竞争；此外，日本防卫力量被发现使用含中国关联病毒的USB设备，引发网络安全关注。\n5. **经济与能源**：中国煤电在2026年出现反弹，逆转十年来首次下降趋势；同时，中国在超级计算机领域以2.2 Exaflops性能超越美国，位居全球最快。\n\n今日最值得关注的发展是中国在AI和新能源领域的持续突破，尤其是电动汽车出口创新高以及AI工具与超级计算机的领先表现，凸显中国在科技与绿色经济中的全球竞争力。",
+      "summary": "今日新闻联播动态摘要\n\n1. **交通与基建**：中国将于7月1日起实施新的列车运行图，其中包括北京至乌鲁木齐的高铁服务，进一步优化全国铁路网络。\n2. **新能源与环保**：2025年中国新售重型卡车中近三分之一为电动车型；同时，2026年中国煤电出现十年来首次回升，逆转了此前下降趋势。\n3. **人工智能与科技**：中国360公司宣称开发出可媲美Anthropic“Mythos”的AI工具，引发关于AI“网络核武器”的讨论；此外，中国AI实验室在技术研发与开源信任方面面临独特挑战。\n4. **电动汽车与出口**：中国电动汽车出口在5月创下历史新高，同时新电动汽车品牌持续涌现，显示行业活力与全球竞争力。\n5. **国防与网络安全**：日本防卫力量被发现使用带有中国相关病毒的USB设备，凸显网络安全与地缘政治的交织。\n\n**今日最值得关注的发展**：中国在新能源（电动重卡、电动汽车出口）与人工智能领域持续取得突破，同时煤电回升与网络安全事件提醒需平衡发展与安全风险。",
       "count": 30
     }
   }
