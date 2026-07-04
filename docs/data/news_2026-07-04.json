@@ -1,9 +1,45 @@
 {
   "date": "2026-07-04",
-  "generated_at": "2026-07-04T15:06:19.059580",
+  "generated_at": "2026-07-04T23:02:04.950974",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "6e67f7c2c296",
+          "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+          "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+          "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 04 Jul 2026 20:55:25 +0000"
+        },
+        {
+          "id": "0011c379b6d7",
+          "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+          "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+          "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 04 Jul 2026 18:00:05 +0000"
+        },
+        {
+          "id": "0fbc152f7491",
+          "title": "Alibaba reportedly bans employees from using Claude Code",
+          "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+          "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 04 Jul 2026 16:32:08 +0000"
+        },
+        {
+          "id": "78d1465497d5",
+          "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+          "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+          "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 04 Jul 2026 15:51:32 +0000"
+        },
         {
           "id": "5d33414754b6",
           "title": "The only AI glossary you’ll need this year",
@@ -149,40 +185,13 @@
           "pub_date": "Thu, 02 Jul 2026 17:30:04 +0000"
         },
         {
-          "id": "a5ee2da42c53",
-          "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
-          "link": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
-          "description": "Early-stage firm Magnify Ventures has raised a $46.6 million Fund II from LPs, including Melinda French Gates’ Pivotal Ventures.",
-          "source": "TechCrunch",
+          "id": "15abde0b3cd3",
+          "title": "Review: Supergirl is not the disaster its low box office suggests",
+          "link": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+          "description": "It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 15:26:43 +0000"
-        },
-        {
-          "id": "75caf9f5de32",
-          "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-          "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-          "description": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 15:20:51 +0000"
-        },
-        {
-          "id": "95497942e018",
-          "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
-          "link": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
-          "description": "TV Time, the popular TV-tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 15:14:03 +0000"
-        },
-        {
-          "id": "42f1c7c53528",
-          "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
-          "link": "https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/",
-          "description": "The company announced a new slate of executive hires meant to help turn things around, as Gravity SUV sales are not taking off as expected.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 14:53:39 +0000"
+          "pub_date": "Sat, 04 Jul 2026 16:49:14 +0000"
         },
         {
           "id": "5cbc520b8ddf",
@@ -354,18 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Thu, 02 Jul 2026 11:15:49 +0000"
-        },
-        {
-          "id": "c3f60319e779",
-          "title": "Editorial: It's time to step up and have your say for science",
-          "link": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/",
-          "description": "Your comments on a dangerous rule putting politicals in charge of science can matter.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 10:00:27 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI发展现状与反思**：Meta CEO扎克伯格承认AI代理进展不及预期；欧洲首家量子上市公司IQM坦言技术前景不确定；Jersey Mike's IPO案例及谷歌、亚马逊的动态均显示AI炒作过热与实际成本问题。\n2. **浏览器竞争格局变化**：浏览器之争已不再围绕搜索，文章推荐了Chrome和Safari之外的替代品。\n3. **隐私与安全事件**：一名曾调查间谍软件滥用的政客，其手机被Pegasus间谍软件入侵，凸显网络安全威胁持续存在。\n4. **新兴产品与公司动态**：包括Dune键盘设备可作为会议控制器；雪佛兰打造的全美式电动卡车遇冷；Meta低调推出“氛围编码”游戏应用Pocket；Anthropic正与三星讨论定制芯片。\n5. **商业与监管动态**：旅行应用Hopper因隐藏收费被罚3500万美元和解；Thiel Capital通过亚利桑那关系投资Etched等热门初创公司；私人太空飞行员正为美国太空军执行轨道任务。\n\n今日最值得关注的发展：**AI领域进展不及预期与炒作过热并存，同时隐私安全事件再次敲响警钟，提醒行业需回归理性与安全底线。**",
+      "summary": "今日科技动态摘要\n\n1. **AI应用与争议**：谷歌新广告设想利用AI辅助撰写《独立宣言》，引发对AI创作边界的讨论；Midjourney要求好莱坞公开AI使用细节，反映行业对AI透明度的关注；阿里巴巴据报禁止员工使用Claude Code，显示企业对AI工具管理的严格化。\n2. **AI行业竞争与进展**：Mistral AI作为OpenAI的竞争对手被全面介绍，凸显AI领域新势力崛起；扎克伯格承认AI代理进展未达预期，揭示技术落地的现实挑战。\n3. **隐私与安全事件**：曾调查间谍软件滥用的政客遭Pegasus间谍软件攻击，凸显数字监控的严重性；Jersey Mike's IPO被指反映AI炒作过度，引发市场泡沫担忧。\n4. **硬件与出行创新**：雪佛兰全美产电动卡车遇冷，暴露消费者对电动车的接受度问题；Dune键盘设备可作会议控制器等多功能，代表办公硬件智能化趋势。\n5. **太空与量子技术**：私人太空飞行员为美国太空部队执行轨道任务，标志商业航天军事化加速；欧洲首家量子上市公司IQM承认技术前景不确定，量子计算商业化仍面临挑战。\n\n**今日最值得关注的发展**：AI在创作、监管与商业应用中的矛盾日益尖锐——从广告创意到企业禁令，从技术承诺到现实瓶颈，行业正进入更务实的反思与调整阶段。",
       "count": 40
     },
     "ai": {
@@ -596,16 +596,34 @@
           "pub_date": "Fri, 03 Jul 2026 05:24:06 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AI模型与平台合作加速**：Hugging Face与Cerebras合作，将Gemma 4应用于实时语音AI；同时Hugging Face推出ScarfBench基准测试，评估AI代理在企业Java框架迁移中的表现，并强调专业化趋势。\n2. **教育领域AI应用推进**：纽约市教育工作者与行业领袖在Google办公室探讨AI在课堂中的未来；Google AI博客还宣布了2026年6月的最新AI新闻，并呼吁英国培养AI先锋以提升生产力。\n3. **OpenAI动态与行业合作**：OpenAI发布多项进展，包括ChatGPT采用率扩展分析、GeneBench-Pro基准测试、修复一个18年历史的bug、欧洲AI劳动力机会地图，以及HP Inc.与OpenAI建立“Frontier”战略合作伙伴关系。\n4. **技术研究新成果**：Hugging Face推出DiScoFormer，一种跨分布统一处理密度与分数的Transformer模型；同时在其模型页面展示所有评估结果，提升模型透明度。\n\n**今日最值得关注的发展**：Hugging Face与Cerebras合作推动实时语音AI，以及OpenAI与HP Inc.的战略合作，标志着AI在垂直应用与企业级部署上的加速落地。",
+      "summary": "今日AI动态摘要\n\n1. **AI模型与工具创新**：Hugging Face与Cerebras合作推出支持实时语音AI的Gemma 4模型；同时发布DiScoFormer，一种跨分布处理密度与分数的统一Transformer架构。\n2. **AI基准测试与评估进展**：Hugging Face推出ScarfBench，用于企业Java框架迁移的AI代理基准测试，并在模型页面集成所有评估结果；OpenAI发布GeneBench-Pro及内部基准测试工具。\n3. **AI行业应用与政策发展**：Google AI博客聚焦纽约市教育者与行业领袖探讨课堂AI应用，以及英国推动“AI先驱国家”战略以提高生产力；OpenAI与HP Inc.建立战略合作，并分析欧洲AI劳动力机会。\n4. **技术问题修复与经验总结**：OpenAI通过“核心转储流行病学”方法，修复了一个存在18年的系统bug，体现了深度技术维护的重要性。\n5. **AI专家与行业趋势洞察**：Hugging Face探讨AI专业化的必然性，Google AI博客解答“全栈AI”概念，OpenAI分析ChatGPT采用率的扩展情况。\n\n**今日最值得关注的发展**：Hugging Face与Cerebras联合推出的Gemma 4实时语音AI模型，标志着AI在低延迟交互场景中的重大突破，同时多家机构在基准测试与行业应用上的密集更新，反映出AI正加速从通用模型向专业化、场景化方向演进。",
       "count": 25
     },
     "cctv": {
       "articles": [
         {
+          "id": "1527d0500828",
+          "title": "China Is Devastating the Last Stronghold of German Industry",
+          "link": "https://www.wsj.com/economy/china-is-devastating-the-last-stronghold-of-german-industry-c7a98514",
+          "description": "Article URL: https://www.wsj.com/economy/china-is-devastating-the-last-stronghold-of-german-industry-c7a98514 Comments URL: https://news.ycombinator.com/item?id=48789668 Points: 4 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 04 Jul 2026 22:30:25 +0000"
+        },
+        {
+          "id": "323d48d77a67",
+          "title": "America imports 99% of its fireworks from China",
+          "link": "https://justinkuiper.substack.com/p/america-imports-99-of-its-fireworks",
+          "description": "Article URL: https://justinkuiper.substack.com/p/america-imports-99-of-its-fireworks Comments URL: https://news.ycombinator.com/item?id=48789585 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 04 Jul 2026 22:17:37 +0000"
+        },
+        {
           "id": "9a85f1b7a6cd",
           "title": "China's electromagnetic rocket launch technology",
           "link": "https://timesofindia.indiatimes.com/science/chinas-electromagnetic-rocket-launch-technology-could-change-the-way-we-go-to-space/articleshow/132115643.cms",
-          "description": "Article URL: https://timesofindia.indiatimes.com/science/chinas-electromagnetic-rocket-launch-technology-could-change-the-way-we-go-to-space/articleshow/132115643.cms Comments URL: https://news.ycombinator.com/item?id=48785782 Points: 3 # Comments: 0",
+          "description": "Article URL: https://timesofindia.indiatimes.com/science/chinas-electromagnetic-rocket-launch-technology-could-change-the-way-we-go-to-space/articleshow/132115643.cms Comments URL: https://news.ycombinator.com/item?id=48785782 Points: 6 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 04 Jul 2026 14:43:43 +0000"
@@ -614,19 +632,10 @@
           "id": "f726c5c62c9f",
           "title": "China's Current Five-Year Plan to Save Jobs from A.I",
           "link": "https://cn.nytimes.com/china/20260701/china-ai-jobs-birthright-hormuz/",
-          "description": "Article URL: https://cn.nytimes.com/china/20260701/china-ai-jobs-birthright-hormuz/ Comments URL: https://news.ycombinator.com/item?id=48785645 Points: 4 # Comments: 0",
+          "description": "Article URL: https://cn.nytimes.com/china/20260701/china-ai-jobs-birthright-hormuz/ Comments URL: https://news.ycombinator.com/item?id=48785645 Points: 5 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 04 Jul 2026 14:25:01 +0000"
-        },
-        {
-          "id": "1527d0500828",
-          "title": "China Is Devastating the Last Stronghold of German Industry",
-          "link": "https://www.wsj.com/economy/china-is-devastating-the-last-stronghold-of-german-industry-c7a98514",
-          "description": "Article URL: https://www.wsj.com/economy/china-is-devastating-the-last-stronghold-of-german-industry-c7a98514 Comments URL: https://news.ycombinator.com/item?id=48785519 Points: 6 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 04 Jul 2026 14:08:11 +0000"
         },
         {
           "id": "d2763c29525b",
@@ -686,7 +695,7 @@
           "id": "9b69bf23f7f6",
           "title": "Australians have more negative view of Israel than of China – Essential poll",
           "link": "https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb",
-          "description": "Article URL: https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb Comments URL: https://news.ycombinator.com/item?id=48768966 Points: 6 # Comments: 2",
+          "description": "Article URL: https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb Comments URL: https://news.ycombinator.com/item?id=48768966 Points: 7 # Comments: 2",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 02 Jul 2026 23:56:02 +0000"
@@ -834,28 +843,10 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 01 Jul 2026 00:33:27 +0000"
-        },
-        {
-          "id": "e45793007e24",
-          "title": "Why jet engines aren't made in China",
-          "link": "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china",
-          "description": "Article URL: https://aakash.substack.com/p/why-jet-engines-arent-made-in-china Comments URL: https://news.ycombinator.com/item?id=48740971 Points: 304 # Comments: 302",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 01 Jul 2026 00:22:41 +0000"
-        },
-        {
-          "id": "7764e49acf1d",
-          "title": "China's Great Green Wall: 66B trees growing faster than natural forests",
-          "link": "https://www.livescience.com/planet-earth/plants/trees-in-chinas-great-green-wall-appear-to-grow-faster-than-natural-forests-study-finds",
-          "description": "Article URL: https://www.livescience.com/planet-earth/plants/trees-in-chinas-great-green-wall-appear-to-grow-faster-than-natural-forests-study-finds Comments URL: https://news.ycombinator.com/item?id=48740928 Points: 9 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 01 Jul 2026 00:16:15 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **科技创新与AI发展**：中国在电磁火箭发射技术、字节跳动发现新AI缩放定律、以及新一代人形机器人等领域取得突破，显示中国在高端科技和人工智能领域的持续领先。\n2. **产业与就业应对**：当前五年计划重点应对人工智能对就业的冲击，同时中国要求电信运营商在2027年前逐步淘汰外国芯片，推动自主技术替代。\n3. **国际舆论与竞争**：多项民调显示欧洲和澳大利亚民众对中国的看法相对积极，而中国在AI领域的快速进步被西方视为对德国工业等传统优势领域的挑战。\n4. **科研与人才激励**：中国加大青年科学家科研资助力度，试图缓解学术竞争压力；同时有报道关注非传统学术背景者在中国学术界的崛起。\n5. **航天与商业航天**：中国拥有约400家私营航天公司，而西方对此关注不足，显示中国商业航天生态的快速扩张。\n\n今日最值得关注的发展：中国在AI和航天领域的自主创新加速推进，同时通过政策引导减少对外国技术的依赖，反映出其在全球科技竞争中的战略主动性与系统性布局。",
-      "count": 28
+      "summary": "今日新闻联播动态摘要\n\n1. 中国在科技与工业领域持续取得突破，包括电磁火箭发射技术、字节跳动发现可支撑AI发展的新缩放定律，以及新型人形机器人的推出，显示中国在高端制造和人工智能领域的竞争力不断增强。\n2. 中国正加速推进关键领域的自主可控，要求电信运营商在2027年前逐步淘汰外国芯片，同时拥有约400家民营航天公司，西方对此关注不足。\n3. 中国在就业与科研环境方面采取积极措施，当前五年计划旨在应对AI对就业的冲击，并增加对青年科学家的资助，以缓解科研竞争压力。\n4. 国际舆论与民意调查显示，欧洲、澳大利亚等地区对中国的看法出现分化，部分民调中中国形象优于以色列，欧美在美中之间立场摇摆。\n5. 中国传统文化与考古成果持续受到关注，如河南官地庙遗址的发现，同时网络技术领域出现“用表情符号识别中国用户”等新现象，引发对数字身份与隐私的讨论。\n\n今日最值得关注的发展：中国在电磁火箭发射、AI新定律、人形机器人等前沿科技领域集中发力，同时坚定推进芯片国产化，展现出以技术自主与产业升级应对全球竞争的战略决心。",
+      "count": 27
     }
   }
 }
