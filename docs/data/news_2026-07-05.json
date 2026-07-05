@@ -1,9 +1,36 @@
 {
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T15:13:42.859878",
+  "generated_at": "2026-07-05T23:05:43.608582",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "4b6aad562f95",
+          "title": "Uber’s European expansion plans may have hit a speed bump",
+          "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+          "description": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 21:35:17 +0000"
+        },
+        {
+          "id": "7c9725253d75",
+          "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+          "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+          "description": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 20:29:05 +0000"
+        },
+        {
+          "id": "03f0afb9e628",
+          "title": "Amazon will stop accepting new customers for Mechanical Turk",
+          "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+          "description": "These may be the last days of Amazon’s Mechanical Turk.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 17:43:36 +0000"
+        },
         {
           "id": "d891660899f3",
           "title": "5 desk gadgets that can make your workday better",
@@ -131,60 +158,6 @@
           "pub_date": "Thu, 02 Jul 2026 23:38:10 +0000"
         },
         {
-          "id": "0571a463d0d5",
-          "title": "Private space pilots are flying orbital missions for the US Space Force",
-          "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
-          "description": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 23:01:06 +0000"
-        },
-        {
-          "id": "292e67cdb7f5",
-          "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-          "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-          "description": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 21:57:10 +0000"
-        },
-        {
-          "id": "0387aabaf175",
-          "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-          "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
-          "description": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 20:42:48 +0000"
-        },
-        {
-          "id": "01adabc089e6",
-          "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-          "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-          "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 20:11:59 +0000"
-        },
-        {
-          "id": "39ca0139743f",
-          "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
-          "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
-          "description": "AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 19:14:46 +0000"
-        },
-        {
-          "id": "3f224cc22585",
-          "title": "Meta quietly launches vibe-coded gaming app Pocket",
-          "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-          "description": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 18:44:02 +0000"
-        },
-        {
           "id": "516464c744f0",
           "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
           "link": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
@@ -275,97 +248,124 @@
           "pub_date": "Fri, 03 Jul 2026 11:03:39 +0000"
         },
         {
-          "id": "58f07fec496b",
-          "title": "Newly discovered PamStealer isn't your typical macOS malware",
-          "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-          "description": "The discovery underscores the increased effort being poured into Mac infostealers.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 19:38:57 +0000"
-        },
-        {
-          "id": "3dd7d9fa4c1b",
-          "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
-          "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
-          "description": "New US rules would legalize quiet supersonic flights without the sonic boom.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 17:29:37 +0000"
-        },
-        {
-          "id": "ea57e42c9bed",
-          "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
-          "link": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/",
-          "description": "I have not seen anyone put out a date for a new rocket, and actually hit it.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 16:46:47 +0000"
-        },
-        {
-          "id": "d0168590c07a",
-          "title": "Plex debuts 5-year membership pass for $250",
-          "link": "https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/",
-          "description": "Plex is pushing customers to newer features and more frequent payments.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 16:35:59 +0000"
-        },
-        {
-          "id": "3f90edca2144",
-          "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
-          "link": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
-          "description": "Early reports indicate there may be another case, but spread is thought to be localized.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 16:30:37 +0000"
-        },
-        {
-          "id": "05edc63eef5f",
-          "title": "Artificial cell manages a few rounds of cell division",
-          "link": "https://arstechnica.com/science/2026/07/artificial-cell-manages-a-few-rounds-of-cell-division/",
-          "description": "It only works for a few divisions thanks to a lot of added materials.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 16:21:23 +0000"
-        },
-        {
-          "id": "5d0aca18db4b",
-          "title": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
-          "link": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
-          "description": "The EU went after Google for the practice of bundling its search engine and browser with Android.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 02 Jul 2026 16:15:41 +0000"
-        },
-        {
-          "id": "dfd49ee1713b",
-          "title": "Organic Maps",
-          "link": "https://organicmaps.app/",
-          "description": "Article URL: https://organicmaps.app/ Comments URL: https://news.ycombinator.com/item?id=48794446 Points: 77 # Comments: 16",
+          "id": "52b12167e217",
+          "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
+          "link": "https://github.com/514-labs/dnsglobe",
+          "description": "Article URL: https://github.com/514-labs/dnsglobe Comments URL: https://news.ycombinator.com/item?id=48798313 Points: 8 # Comments: 5",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 05 Jul 2026 14:14:30 +0000"
+          "pub_date": "Sun, 05 Jul 2026 21:55:53 +0000"
         },
         {
-          "id": "41df63148f82",
-          "title": "Phosh 0.56.0",
-          "link": "https://phosh.mobi/releases/rel-0.56.0/",
-          "description": "Article URL: https://phosh.mobi/releases/rel-0.56.0/ Comments URL: https://news.ycombinator.com/item?id=48794179 Points: 82 # Comments: 18",
+          "id": "ee6237d8ef38",
+          "title": "Composite Video on the NES: Why's it so wobbly?",
+          "link": "https://nicole.express/2026/phase-altering-by-line.html",
+          "description": "Article URL: https://nicole.express/2026/phase-altering-by-line.html Comments URL: https://news.ycombinator.com/item?id=48798247 Points: 5 # Comments: 0",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 05 Jul 2026 13:28:11 +0000"
+          "pub_date": "Sun, 05 Jul 2026 21:45:17 +0000"
         },
         {
-          "id": "290ea86228a4",
-          "title": "Show HN: KiCad in the Browser",
-          "link": "https://demo.pcbjam.com/",
-          "description": "KiCad, a PCB EDA suite is now working in a browser, you can try it at the link, there's a demo project or you can bring your own. Firefox is best, Chrome is good, Safari is \"working\". We’re Emergence Engineering, a dev shop from Hungary, mostly working with rich text editors, CRDTs. PCBJam started as my (Viktor, CTO, ex-electrical engineer) hobby project but as time went on I put more and more energy into it, and a product started shaping up in my head, in the last few months we’ve started to focus on this project a bit more, and this is the first MVP~ish result. This project is a ton of fun, ",
+          "id": "b03a9957ac08",
+          "title": "CoCom regulations and GPS receivers for balloons and cubesats",
+          "link": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
+          "description": "Article URL: https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube Comments URL: https://news.ycombinator.com/item?id=48798210 Points: 10 # Comments: 0",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 05 Jul 2026 12:06:57 +0000"
+          "pub_date": "Sun, 05 Jul 2026 21:39:05 +0000"
+        },
+        {
+          "id": "98931855b11f",
+          "title": "Had an idea for a Rust editor with simple Vim mode for learning",
+          "link": "https://github.com/electronicsleep/rust-vim",
+          "description": "Article URL: https://github.com/electronicsleep/rust-vim Comments URL: https://news.ycombinator.com/item?id=48798187 Points: 5 # Comments: 1",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 21:36:28 +0000"
+        },
+        {
+          "id": "ae9d7966f996",
+          "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+          "link": "https://homegames.io",
+          "description": "I'm making a platform for simple open source games you can play anywhere. Games are all just JavaScript classes and you can read the source of every game on the platform. I started working on initial \"games\" (mostly rendering tests) in 2018 and eventually built all of the platform stuff around it to make it easy to share games. There's also an in-browser editor available for you to make and publish games all from the browser. Would love some feedback on the games and studio features as well as the platform overall. All of the code is available at https://github.com/homegamesio Comments URL: ht",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 21:32:44 +0000"
+        },
+        {
+          "id": "eedf2d6678db",
+          "title": "Completing a Computer Science Degree on Coursera",
+          "link": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+          "description": "Article URL: https://notesbylex.com/completing-a-computer-science-degree-on-coursera Comments URL: https://news.ycombinator.com/item?id=48798061 Points: 56 # Comments: 22",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 21:20:49 +0000"
+        },
+        {
+          "id": "4f8b67e38493",
+          "title": "Reparaible and open source paper printer",
+          "link": "https://www.opentools.studio/",
+          "description": "Article URL: https://www.opentools.studio/ Comments URL: https://news.ycombinator.com/item?id=48797916 Points: 184 # Comments: 51",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 21:03:06 +0000"
+        },
+        {
+          "id": "a67e859d952a",
+          "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
+          "link": "https://dhilst.github.io/algae/game/index.html",
+          "description": "Article URL: https://dhilst.github.io/algae/game/index.html Comments URL: https://news.ycombinator.com/item?id=48797895 Points: 19 # Comments: 9",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 21:00:27 +0000"
+        },
+        {
+          "id": "5e1b0738d9dd",
+          "title": "Pint in England",
+          "link": "https://dispatch-media.com/the-best-pint-in-england/",
+          "description": "Article URL: https://dispatch-media.com/the-best-pint-in-england/ Comments URL: https://news.ycombinator.com/item?id=48797865 Points: 19 # Comments: 6",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 20:55:47 +0000"
+        },
+        {
+          "id": "c089c530ecdf",
+          "title": "Dependencies should be fetched directly from VCS",
+          "link": "https://www.arp242.net/deps-vcs.html",
+          "description": "Article URL: https://www.arp242.net/deps-vcs.html Comments URL: https://news.ycombinator.com/item?id=48797771 Points: 18 # Comments: 13",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 20:44:01 +0000"
+        },
+        {
+          "id": "8a77456c85fb",
+          "title": "Show HN: Osint tool that finds exposed files on domains",
+          "link": "https://search.cerast-intelligence.com/",
+          "description": "hey guys, wanted to show one of my side projects i just made public. the idea is basically another osint tool for pentesters and bug bounty hunters. it watches certificate transparency logs and checks newly-seen domains for exposed stuff like .env files, open .git dirs, config files, db dumps and so on, and puts whatever it finds into a searchable db. you just search a domain (or part of one) and see what's exposed. it's read-only and free. one thing i've been thinking about adding is a way to register for certain keywords and get notified when something new shows up for that search. would lov",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 20:24:37 +0000"
+        },
+        {
+          "id": "530788c6a7f8",
+          "title": "Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
+          "link": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
+          "description": "Article URL: https://segflow.github.io/post/zero-copy-sendfile-splice/ Comments URL: https://news.ycombinator.com/item?id=48797655 Points: 32 # Comments: 4",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 20:24:31 +0000"
+        },
+        {
+          "id": "e5d5bb0355db",
+          "title": "Cursed circuits #5: capacitance multiplier",
+          "link": "https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier",
+          "description": "Article URL: https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier Comments URL: https://news.ycombinator.com/item?id=48797467 Points: 27 # Comments: 0",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 20:00:30 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI行业竞争与监管动态**：Mistral AI作为OpenAI的竞争对手受到关注；Midjourney要求好莱坞披露AI使用细节；阿里巴巴禁止员工使用Claude Code；马克·扎克伯格承认AI智能体进展未达预期。\n\n2. **企业上市与独角兽趋势**：Bending Spoons（AOL和Vimeo所有者）已上市；今年全球已诞生近90家新独角兽企业。\n\n3. **科技产品与工具创新**：5款提升工作效率的桌面设备、Dune键盘可作会议控制器；浏览器竞争转向隐私与功能，出现Chrome和Safari的替代品。\n\n4. **网络安全与隐私事件**：调查间谍软件滥用的政客遭Pegasus间谍软件入侵手机。\n\n5. **航天与汽车产业**：私人航天员为美国太空军执行轨道任务；雪佛兰电动皮卡遇冷，销量不佳。\n\n**今日最值得关注的发展**：AI行业进入更严格的伦理与监管阶段，同时企业巨头对AI进展的实际成果表示谨慎态度。",
+      "summary": "今日科技动态摘要\n\n1. **特朗普主题迷因币投资者损失38亿美元**：分析显示，围绕特朗普发行的迷因币导致投资者巨额亏损，引发对加密货币市场风险的关注。  \n2. **亚马逊将停止接受Mechanical Turk新用户**：该众包平台不再接纳新客户，可能影响依赖其完成微任务的用户和企业。  \n3. **Midjourney要求好莱坞公开AI使用细节**：AI图像生成公司呼吁影视行业披露在创作中如何应用AI技术，推动透明度。  \n4. **阿里巴巴禁止员工使用Claude Code**：中国科技巨头内部限制员工使用Anthropic的AI编程工具，反映企业对AI工具管理的加强。  \n5. **今年已有近90家新独角兽诞生**：全球初创企业估值超10亿美元的数量持续增长，科技投资市场依然活跃。\n\n**今日最值得关注的发展**：AI监管与透明度成为焦点——从Midjourney对好莱坞的公开要求，到阿里巴巴对内部AI工具的限制，科技行业正加速在创新与合规之间寻找平衡。",
       "count": 40
     },
     "ai": {
@@ -497,15 +497,6 @@
           "pub_date": "Mon, 29 Jun 2026 07:00:00 GMT"
         },
         {
-          "id": "fc8d26f62d2e",
-          "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-          "link": "https://openai.com/index/hp-frontier-partnership",
-          "description": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Sun, 28 Jun 2026 17:00:00 GMT"
-        },
-        {
           "id": "f04e5eef85bd",
           "title": "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚",
           "link": "https://www.qbitai.com/2026/07/443339.html",
@@ -596,16 +587,34 @@
           "pub_date": "Fri, 03 Jul 2026 10:28:43 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AI模型与平台合作**：Hugging Face与Cerebras合作，将Gemma 4模型引入实时语音AI领域；同时Hugging Face发布了ScarfBench基准测试，用于评估AI代理在企业Java框架迁移中的表现。\n2. **AI行业趋势与专业化**：Hugging Face发文探讨“专业化不可避免”，并推出DiScoFormer——一种跨分布的密度与分数统一Transformer模型。\n3. **教育与生产力应用**：Google AI博客报道了纽约市教育工作者与行业领袖共商AI课堂应用，以及英国通过培养AI先驱提升生产力的战略；OpenAI博客则关注ChatGPT采纳扩展、GeneBench-Pro基准测试发布，以及HP与OpenAI建立战略合作。\n4. **AI技术细节与问题修复**：OpenAI博客披露了“核心转储流行病学”研究，修复了一个存在18年的漏洞，并发布了欧洲AI劳动力机会的图谱。\n\n**最值得关注的发展**：Hugging Face与Cerebras联手将Gemma 4推向实时语音AI，标志着开源语音交互技术的重要突破。",
-      "count": 25
+      "summary": "今日AI动态摘要\n\n1. **AI模型与硬件合作加速**：Hugging Face与Cerebras合作，将Gemma 4模型应用于实时语音AI领域，推动模型在低延迟场景下的部署。\n2. **AI基准测试与评估工具更新**：Hugging Face推出ScarfBench（用于企业Java框架迁移的AI代理基准测试）及模型页面集成评估结果功能；OpenAI发布GeneBench-Pro，并报告ChatGPT采用范围持续扩大。\n3. **AI行业趋势与政策聚焦**：Google AI博客强调AI专业化不可避免，并报道纽约教育者与行业领袖探讨AI进课堂；OpenAI分析欧洲AI劳动力机会；Meta转向“卖铲子”策略，强调GPU盈利优先于模型速度。\n4. **技术修复与模型创新**：OpenAI披露修复一个存在18年的内核错误（核心转储流行病学）；Hugging Face发布DiScoFormer，一种跨分布统一处理密度与分数的Transformer架构。\n5. **英国AI生产力战略**：Google AI博客提出“解锁英国下一阶段生产力”，呼吁建设AI先驱国家，推动AI在公共服务与产业中的广泛应用。\n\n**今日最值得关注的发展**：Hugging Face与Cerebras联手将Gemma 4推向实时语音AI，标志着开源模型与专用硬件结合正加速进入高实时性应用场景。",
+      "count": 24
     },
     "cctv": {
       "articles": [
         {
+          "id": "ff487b842810",
+          "title": "Has China obtained the most important machine?",
+          "link": "https://www.economist.com/china/2026/07/05/has-china-obtained-the-worlds-most-important-machine",
+          "description": "Article URL: https://www.economist.com/china/2026/07/05/has-china-obtained-the-worlds-most-important-machine Comments URL: https://news.ycombinator.com/item?id=48796823 Points: 13 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 05 Jul 2026 18:48:13 +0000"
+        },
+        {
+          "id": "dff17de15f1a",
+          "title": "Driving in China as a Tourist",
+          "link": "https://ian.sh/driving-in-china-as-a-tourist",
+          "description": "Article URL: https://ian.sh/driving-in-china-as-a-tourist Comments URL: https://news.ycombinator.com/item?id=48796751 Points: 28 # Comments: 4",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 05 Jul 2026 18:42:27 +0000"
+        },
+        {
           "id": "4bb8e7a1bc63",
           "title": "U.S. Policies Unintentionally Accelerated China's Open AI Ecosystems",
           "link": "https://arxiv.org/abs/2606.15999",
-          "description": "Article URL: https://arxiv.org/abs/2606.15999 Comments URL: https://news.ycombinator.com/item?id=48792735 Points: 6 # Comments: 0",
+          "description": "Article URL: https://arxiv.org/abs/2606.15999 Comments URL: https://news.ycombinator.com/item?id=48792735 Points: 7 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sun, 05 Jul 2026 09:46:15 +0000"
@@ -731,7 +740,7 @@
           "id": "9b69bf23f7f6",
           "title": "Australians have more negative view of Israel than of China – Essential poll",
           "link": "https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb",
-          "description": "Article URL: https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb Comments URL: https://news.ycombinator.com/item?id=48768966 Points: 7 # Comments: 2",
+          "description": "Article URL: https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb Comments URL: https://news.ycombinator.com/item?id=48768966 Points: 8 # Comments: 2",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 02 Jul 2026 23:56:02 +0000"
@@ -825,27 +834,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 01 Jul 2026 22:49:24 +0000"
-        },
-        {
-          "id": "7cdc87a53052",
-          "title": "Qihoo 360: The Cyber Giant Behind China's Mythos Rival",
-          "link": "https://www.forbes.com/sites/the-wiretap/2026/06/30/qihoo-360-the-cyber-giant-behind-chinas-mythos-rival/",
-          "description": "Article URL: https://www.forbes.com/sites/the-wiretap/2026/06/30/qihoo-360-the-cyber-giant-behind-chinas-mythos-rival/ Comments URL: https://news.ycombinator.com/item?id=48746325 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 01 Jul 2026 13:22:10 +0000"
-        },
-        {
-          "id": "eb88b82b009e",
-          "title": "Will China build an electric rocket launch pad on the roof of the world?",
-          "link": "https://www.scmp.com/news/china/science/article/3358469/will-china-build-electric-rocket-launch-pad-roof-world",
-          "description": "Article URL: https://www.scmp.com/news/china/science/article/3358469/will-china-build-electric-rocket-launch-pad-roof-world Comments URL: https://news.ycombinator.com/item?id=48743058 Points: 3 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 01 Jul 2026 06:36:53 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中国AI与科技自主创新加速**：美国政策意外推动中国开放AI生态发展；中国“LongCat-2.0”成为全球最大不依赖英伟达芯片的AI模型；字节跳动发现新缩放定律，有望延续AI繁荣；电磁火箭发射技术取得进展。\n2. **经济与产业竞争格局变化**：星巴克在华调整策略，巩固咖啡市场地位；中国产业对德国工业传统优势领域形成冲击；美国99%的烟花进口来自中国。\n3. **科研与人才政策调整**：中国加大青年科学家资助力度，以缓解科研竞争压力；研究生辍学创业者挑战传统学术明星现象引发关注。\n4. **国际舆论与地缘政治动态**：欧洲民众在中美之间态度分化；澳大利亚民众对以色列的负面看法超过对中国；浏览器插件“IsChinaByEmoji”引发关于用户身份检测的讨论。\n5. **文化与考古发现**：河南官地庙遗址考古成果，展现中华文明早期发展脉络。\n\n今日最值得关注的发展：中国在AI领域实现“去芯片依赖”重大突破，自主创新生态加速成型，同时产业竞争力提升正重塑全球经贸格局。",
+      "summary": "今日新闻联播动态摘要\n\n1. **科技与AI发展**：中国在人工智能领域取得多项突破，包括开发出无需英伟达芯片的最大AI模型“LongCat-2.0”，字节跳动发现新的AI扩展定律，以及电磁火箭发射技术的进展。\n2. **经济与产业影响**：中国在咖啡市场（如星巴克策略调整）、工业制造（对德国产业冲击）及美国烟花进口（99%来自中国）等方面持续展现全球影响力。\n3. **政策与就业**：中国当前五年计划聚焦于通过AI保护就业，同时增加对青年科学家的科研资助，以缓解竞争压力。\n4. **国际关系与民意**：欧洲民众在中美之间态度分化，美国政策意外加速了中国开源AI生态系统的发展。\n5. **文化与旅游**：外国游客在中国自驾体验、考古遗址（如河南官地庙）及“用表情符号判断是否来自中国”等话题引发关注。\n\n今日最值得关注的发展：中国在无需依赖西方芯片的情况下，成功推出全球最大规模AI模型，标志着自主技术路线的重大突破。",
       "count": 27
     }
   }
