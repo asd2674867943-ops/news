@@ -1,0 +1,545 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T16:32:17.624972",
+  "categories": {
+    "tech": {
+      "articles": [
+        {
+          "id": "a1f6ced6d9a6",
+          "title": "Claude Cowork expands to mobile and web",
+          "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+          "description": "Anthropic’s Claude Cowork is now available on web and mobile for Max subscribers. Until now, Cowork largely lived on a user’s laptop. With the update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 16:27:18 +0000"
+        },
+        {
+          "id": "b30aebd5102c",
+          "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
+          "link": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
+          "description": "X is rolling out a new video editor and recorder for iOS with multilingual captions, green-screen effects, and other editing tools.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 15:19:33 +0000"
+        },
+        {
+          "id": "b1db38834626",
+          "title": "Chemistry Ventures is raising $500M for its second fund",
+          "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
+          "description": "Chemistry Ventures, the VC firm launched by Bessemer, Index Ventures, and Andreessen Horowitz alums, is raising $500M for its second fund.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 15:02:02 +0000"
+        },
+        {
+          "id": "218946fd77a4",
+          "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+          "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+          "description": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 14:35:42 +0000"
+        },
+        {
+          "id": "ec2aa6301da2",
+          "title": "This startup pits dealerships against each other to bid on your used car",
+          "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
+          "description": "Bidbus, which lets dealerships bid on used cars, has raised $15 million in a Series A round that was led by early-stage mobility fund Ibex Investors.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 14:00:00 +0000"
+        },
+        {
+          "id": "08a133bdad54",
+          "title": "Hacktivists call out Trump by hacking and defacing US Army websites",
+          "link": "https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/",
+          "description": "The U.S. Army has fixed two of its websites that were hacked to display messages calling President Trump a \"pedophile\" and a \"thief.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 13:10:00 +0000"
+        },
+        {
+          "id": "d2b8f0bebd01",
+          "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+          "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+          "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 12:00:00 +0000"
+        },
+        {
+          "id": "3075569063ee",
+          "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+          "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+          "description": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 09:00:00 +0000"
+        },
+        {
+          "id": "ca050fe32e3b",
+          "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+          "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+          "description": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 00:47:33 +0000"
+        },
+        {
+          "id": "0ab9b8012132",
+          "title": "The ‘first’ AI-run ransomware attack still needed a human",
+          "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+          "description": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 23:56:14 +0000"
+        },
+        {
+          "id": "7895e7c0bc35",
+          "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+          "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+          "description": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 23:21:03 +0000"
+        },
+        {
+          "id": "513a8f57bab0",
+          "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+          "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+          "description": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 19:49:10 +0000"
+        },
+        {
+          "id": "69689c782c99",
+          "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+          "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+          "description": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 19:01:59 +0000"
+        },
+        {
+          "id": "0dc179ad3405",
+          "title": "Every major tech layoff in 2026 that has name-checked AI",
+          "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 18:35:00 +0000"
+        },
+        {
+          "id": "8a29690a80dc",
+          "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
+          "link": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
+          "description": "Bookship.org seemed to delay this anticipated partnership again, but tells TechCrunch that it has settled business terms and is working on integration.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 18:12:01 +0000"
+        },
+        {
+          "id": "7886d14cd504",
+          "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+          "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+          "description": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 17:04:58 +0000"
+        },
+        {
+          "id": "99c16e684657",
+          "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
+          "link": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
+          "description": "Apple has started a phased rollout of card payments for Apple Account purchases in India after adapting to the country's payments framework.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 16:21:03 +0000"
+        },
+        {
+          "id": "d06ab5d09f33",
+          "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+          "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+          "description": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 15:32:43 +0000"
+        },
+        {
+          "id": "2785b62e4788",
+          "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+          "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+          "description": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 15:22:08 +0000"
+        },
+        {
+          "id": "21ef2235ee82",
+          "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
+          "link": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
+          "description": "The hacking operations disclosed in a Canadian spy agency's annual report underscores some pressing national security threats facing the country and its top allies.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 14:43:59 +0000"
+        },
+        {
+          "id": "0eafa41ad58b",
+          "title": "New virus catalog reveals which pathogens pose the greatest threat",
+          "link": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
+          "description": "The data can help predict what a future pandemic virus might look like.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 13:15:49 +0000"
+        },
+        {
+          "id": "9907cf66b23c",
+          "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
+          "link": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
+          "description": "Amazon says it has enough satellites in orbit to begin initial broadband service at mid-latitudes later this year.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 11:15:15 +0000"
+        },
+        {
+          "id": "76de1ff06183",
+          "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
+          "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+          "description": "Top robotics researchers and founders explain how robot autonomy is evolving.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 11:00:18 +0000"
+        },
+        {
+          "id": "4311d97a5d07",
+          "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
+          "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
+          "description": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 21:13:37 +0000"
+        },
+        {
+          "id": "25cce8db11be",
+          "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
+          "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
+          "description": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 20:52:42 +0000"
+        },
+        {
+          "id": "3bbc0d1b2087",
+          "title": "What is the oldest American object ever launched into space?",
+          "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
+          "description": "From a Revolutionary War flag to the Statue of Liberty...",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 19:57:56 +0000"
+        },
+        {
+          "id": "496e15fe0300",
+          "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
+          "link": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
+          "description": "Its issues with current nuclear safety standards are termed semantic, not physical.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 17:48:45 +0000"
+        },
+        {
+          "id": "7dee2afbf449",
+          "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
+          "link": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
+          "description": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 17:14:09 +0000"
+        },
+        {
+          "id": "f5f6a8f70928",
+          "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+          "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+          "description": "Anthropic accused of spying on users; engineer says “experiment” is over.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 16:44:18 +0000"
+        },
+        {
+          "id": "7d210683b871",
+          "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
+          "link": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
+          "description": "Move affects ~20% of the gaming division, which will refocus on its biggest franchises.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 16:01:54 +0000"
+        },
+        {
+          "id": "ccf90a59877d",
+          "title": "F1 in Britain: Automated software to blame for crushing expectations",
+          "link": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
+          "description": "Sometimes races finish behind a safety car, but it's not always satisfying.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 15:45:55 +0000"
+        },
+        {
+          "id": "351a40b51ad5",
+          "title": "There were not one, but two asteroid encounters this weekend",
+          "link": "https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/",
+          "description": "The Torifune asteroid turns out to be shaped like a peanut.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 15:15:30 +0000"
+        },
+        {
+          "id": "7eae90f3d878",
+          "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+          "link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+          "description": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 14:17:42 +0000"
+        },
+        {
+          "id": "0a07eeda973b",
+          "title": "Bentley teases its first EV, the Torcal",
+          "link": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
+          "description": "The new model will be officially unveiled in late September.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 11:30:38 +0000"
+        },
+        {
+          "id": "8c747e294044",
+          "title": "The Czinger 21C might be the wildest car we drive all year",
+          "link": "https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/",
+          "description": "This hybrid V8 has organic-looking 3D-printed components and shatters lap records.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 06 Jul 2026 11:00:14 +0000"
+        },
+        {
+          "id": "516464c744f0",
+          "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
+          "link": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
+          "description": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 11:05:22 +0000"
+        },
+        {
+          "id": "147503a41975",
+          "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
+          "link": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
+          "description": "The heat of the Hadean may have come from impacts as well as the interior.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sun, 05 Jul 2026 10:55:02 +0000"
+        },
+        {
+          "id": "15abde0b3cd3",
+          "title": "Review: Supergirl is not the disaster its low box office suggests",
+          "link": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+          "description": "It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sat, 04 Jul 2026 16:49:14 +0000"
+        },
+        {
+          "id": "32074e6deee0",
+          "title": "Better Auth is joining Vercel",
+          "link": "https://better-auth.com/blog/better-auth-joins-vercel",
+          "description": "Article URL: https://better-auth.com/blog/better-auth-joins-vercel Comments URL: https://news.ycombinator.com/item?id=48819512 Points: 36 # Comments: 14",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 15:52:22 +0000"
+        },
+        {
+          "id": "074ead8314b1",
+          "title": "Microsoft Fire IdTech Team at Id Software",
+          "link": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+          "description": "Article URL: https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/ Comments URL: https://news.ycombinator.com/item?id=48819244 Points: 147 # Comments: 93",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Tue, 07 Jul 2026 15:33:20 +0000"
+        }
+      ],
+      "summary": "今日科技动态摘要\n\n1. **AI与安全领域新进展**：AI法律初创公司Norm完成1.2亿美元融资，估值达独角兽级别；Savi推出防AI诈骗应用，旨在保护用户免受逼真的勒索诈骗；首个由AI驱动的勒索软件攻击仍需要人类参与，揭示AI在网络安全中的局限性。  \n2. **消费科技与平台更新**：Claude Cowork扩展至移动端和网页端；X平台新增视频编辑器，鼓励创作者发布原创内容而非搬运；iOS 27测试版允许用户自定义Siri语速和表现力。  \n3. **汽车与硬件市场动态**：新创平台让经销商竞拍用户二手车；美国投资者即将获得SK海力士（AI热潮中的又一家存储芯片厂商）投资渠道；美国首批自动驾驶地面车辆已在乌克兰投入实战。  \n4. **流媒体与出版业变化**：Netflix虽开创“刷剧”模式，但可能已超越该模式；Bookshop.org确认今年将支持Kobo电子阅读器，挑战亚马逊。  \n5. **行业趋势与风险**：2026年多家科技公司大规模裁员与AI关联；黑客组织攻击并篡改美国陆军网站，点名特朗普；Vercel CEO讨论拆分AI模型与智能体的行业争议。  \n\n**今日最值得关注的发展**：AI法律及安全领域融资活跃，同时AI驱动的网络攻击与防御技术同步升级，凸显技术双刃剑效应。",
+      "count": 40
+    },
+    "ai": {
+      "articles": [
+        {
+          "id": "22fdc2c16aca",
+          "title": "Hugging Face Models on Foundry Managed Compute",
+          "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 07 Jul 2026 15:20:06 GMT"
+        },
+        {
+          "id": "042162dd6886",
+          "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+          "link": "https://huggingface.co/blog/lerobot-release-v060",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 07 Jul 2026 00:00:00 GMT"
+        },
+        {
+          "id": "0b4f94d48e5d",
+          "title": "PRX Part 4: Our Data Strategy",
+          "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Mon, 06 Jul 2026 15:30:55 GMT"
+        },
+        {
+          "id": "7634c76cc34c",
+          "title": "🤗 Kernels: Major Updates",
+          "link": "https://huggingface.co/blog/revamped-kernels",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Mon, 06 Jul 2026 00:00:00 GMT"
+        },
+        {
+          "id": "46610fc415e6",
+          "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+          "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 01 Jul 2026 00:00:00 GMT"
+        },
+        {
+          "id": "0f52dfa04b06",
+          "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 30 Jun 2026 18:32:50 GMT"
+        },
+        {
+          "id": "3e766402ecfe",
+          "title": "The latest AI news we announced in June 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+          "description": "Here are Google’s latest AI updates from June 2026.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 01 Jul 2026 18:15:00 +0000"
+        },
+        {
+          "id": "c13703203b5a",
+          "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+          "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+          "description": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 01 Jul 2026 16:00:00 +0000"
+        },
+        {
+          "id": "2224f5aea2c4",
+          "title": "DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”",
+          "link": "https://www.qbitai.com/2026/07/445608.html",
+          "description": "难怪DeepSeek要着重强调招HR（doge）",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Tue, 07 Jul 2026 11:43:08 +0000"
+        },
+        {
+          "id": "86146440a78b",
+          "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
+          "link": "https://www.qbitai.com/2026/07/445443.html",
+          "description": "“共识与非共识”的深度思辨",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Tue, 07 Jul 2026 08:32:27 +0000"
+        },
+        {
+          "id": "79b28c970bde",
+          "title": "我宣布这是中国最神奇的造车新势力",
+          "link": "https://www.qbitai.com/2026/07/445292.html",
+          "description": "仅靠一款车5年不倒",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Tue, 07 Jul 2026 07:23:33 +0000"
+        },
+        {
+          "id": "6fe33dc5c1d7",
+          "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
+          "link": "https://www.qbitai.com/2026/07/445229.html",
+          "description": "从文字说明书到多模态经验库",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Tue, 07 Jul 2026 05:03:09 +0000"
+        },
+        {
+          "id": "23e5a9e0a1e8",
+          "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
+          "link": "https://www.qbitai.com/2026/07/445230.html",
+          "description": "来自蚂蚁灵波",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Tue, 07 Jul 2026 04:48:40 +0000"
+        },
+        {
+          "id": "4a4fc535fbd4",
+          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "link": "https://www.qbitai.com/2026/07/445184.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Tue, 07 Jul 2026 03:35:02 +0000"
+        },
+        {
+          "id": "6d3f2eac71f6",
+          "title": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
+          "link": "https://www.qbitai.com/2026/07/445067.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Tue, 07 Jul 2026 03:24:55 +0000"
+        },
+        {
+          "id": "4d4d4767dbda",
+          "title": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程",
+          "link": "https://www.qbitai.com/2026/07/444859.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Tue, 07 Jul 2026 03:14:41 +0000"
+        },
+        {
+          "id": "cce30e9f0d3e",
+          "title": "Claude的脑子里，也长出了一块「意识」",
+          "link": "https://www.qbitai.com/2026/07/444741.html",
+          "description": "内部发现「类脑空间」，删掉就变傻",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Tue, 07 Jul 2026 01:38:18 +0000"
+        },
+        {
+          "id": "0e3804cf6684",
+          "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
+          "link": "https://www.qbitai.com/2026/07/444733.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Mon, 06 Jul 2026 10:40:27 +0000"
+        }
+      ],
+      "summary": "今日AI动态摘要\n\n1. **Hugging Face多项更新**：推出Foundry托管计算服务、LeRobot v0.6.0（新增“想象、评估、改进”功能）、PRX数据策略第四部分、Kernels重大更新，并与Cerebras合作将Gemma 4应用于实时语音AI。\n2. **Google AI与教育结合**：纽约市教育工作者和行业领袖在Google办公室共商AI课堂应用；Google AI博客还预告了2026年6月的最新AI动态。\n3. **具身智能与机器人视觉突破**：开源多模态Skill范式Skill-Omni、首个空间原生的具身视觉基模、蚂蚁灵波空间感知模型LingBot-Depth 2.0发布，以及科技沙龙聚焦具身智能产业化的“三大困惑”。\n4. **AI科研与产业争议**：DeepSeek招聘被“华为天才少年”公开吐槽“面到最不专业”；WAIC 2026科学智能讨论AI4S从“辅助计算”转向“自主发现”，中国如何重塑全球科研版图。\n5. **企业动态与基准测试**：ScarfBench发布针对企业Java框架迁移的AI智能体基准测试；国内造车新势力被评价为“中国最神奇的造车新势力”。\n\n**今日最值得关注的发展**：Hugging Face与Cerebras合作将Gemma 4推向实时语音AI，以及具身智能领域多项视觉与技能模型的开源发布，标志着AI在感知与交互能力上迈出关键一步。",
+      "count": 18
+    },
+    "cctv": {
+      "articles": [],
+      "summary": "今日暂无相关新闻。",
+      "count": 0
+    }
+  }
+}
