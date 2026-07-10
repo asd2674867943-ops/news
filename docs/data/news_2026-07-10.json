@@ -1,9 +1,72 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T16:26:04.073260",
+  "generated_at": "2026-07-10T23:01:54.059005",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "434f723c0100",
+          "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+          "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+          "description": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 10 Jul 2026 21:51:55 +0000"
+        },
+        {
+          "id": "16bce300fb9f",
+          "title": "Apple sues OpenAI over alleged trade secret theft",
+          "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+          "description": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 10 Jul 2026 21:00:29 +0000"
+        },
+        {
+          "id": "330d5f49453a",
+          "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+          "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+          "description": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 10 Jul 2026 17:42:36 +0000"
+        },
+        {
+          "id": "21c670db84c6",
+          "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+          "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+          "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 10 Jul 2026 17:17:12 +0000"
+        },
+        {
+          "id": "e6a39f6ec171",
+          "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+          "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+          "description": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 10 Jul 2026 17:11:51 +0000"
+        },
+        {
+          "id": "310bdefcb679",
+          "title": "China is catching up to Elon Musk’s reusable rockets",
+          "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+          "description": "China's state-owned space company recovered its first orbital rocket booster after launch.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 10 Jul 2026 16:51:07 +0000"
+        },
+        {
+          "id": "0ad025b28aac",
+          "title": "Disney+ is considering a free streaming tier, report says",
+          "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+          "description": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 10 Jul 2026 16:29:05 +0000"
+        },
         {
           "id": "9bc6340ed7bb",
           "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
@@ -48,6 +111,15 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 10 Jul 2026 14:11:03 +0000"
+        },
+        {
+          "id": "9d3fd491959a",
+          "title": "Hugging Face’s CEO on why companies are done renting their AI",
+          "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+          "description": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 10 Jul 2026 14:00:00 +0000"
         },
         {
           "id": "bf208f9bd32f",
@@ -113,80 +185,71 @@
           "pub_date": "Thu, 09 Jul 2026 22:03:54 +0000"
         },
         {
-          "id": "6e00b1f8182e",
-          "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-          "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-          "description": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
-          "source": "TechCrunch",
+          "id": "df2e23b70993",
+          "title": "China recovered its first reusable rocket and showed a new way to do it",
+          "link": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
+          "description": "\"Clearly, they admire the work that's being done by SpaceX and are trying to replicate it.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 21:57:42 +0000"
+          "pub_date": "Fri, 10 Jul 2026 21:41:43 +0000"
         },
         {
-          "id": "3759d3e8ded6",
-          "title": "Can AI answer the $3 trillion question?",
-          "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-          "description": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
-          "source": "TechCrunch",
+          "id": "baabe38bd17c",
+          "title": "Check out the first images of Quest shipwreck",
+          "link": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
+          "description": "The Quest shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 21:47:50 +0000"
+          "pub_date": "Fri, 10 Jul 2026 19:59:31 +0000"
         },
         {
-          "id": "416f8688f64f",
-          "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-          "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-          "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-          "source": "TechCrunch",
+          "id": "5dc2cc1b3e9a",
+          "title": "Ransomware negotiator hired to represent victims was working for the attackers",
+          "link": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
+          "description": "Six years in prison for man who \"sold out the very victims he was hired to represent.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 19:40:45 +0000"
+          "pub_date": "Fri, 10 Jul 2026 19:40:11 +0000"
         },
         {
-          "id": "dcf29af8c31f",
-          "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
-          "link": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
-          "description": "In this week’s episode of Build Mode, Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders should avoid in order to get funded.",
-          "source": "TechCrunch",
+          "id": "91d342ba6cbd",
+          "title": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers",
+          "link": "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
+          "description": "The children who get a combination shot are some of the most vulnerable.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 19:26:31 +0000"
+          "pub_date": "Fri, 10 Jul 2026 19:25:04 +0000"
         },
         {
-          "id": "91a97db29234",
-          "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-          "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-          "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-          "source": "TechCrunch",
+          "id": "8790c904fa9c",
+          "title": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
+          "link": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
+          "description": "Dozens of titles too taxing for Steam Deck are still unrated for the new hardware.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 19:05:58 +0000"
+          "pub_date": "Fri, 10 Jul 2026 16:53:31 +0000"
         },
         {
-          "id": "abb427413b98",
-          "title": "Slate Auto teams up with Crayola to color its EV truck",
-          "link": "https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/",
-          "description": "Slate has an answer for owners who have always want to drive a truck with bright crayon colors.",
-          "source": "TechCrunch",
+          "id": "3fc8941636dd",
+          "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
+          "link": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
+          "description": "Affected users will have to configure their lights and settings all over again.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 19:01:16 +0000"
+          "pub_date": "Fri, 10 Jul 2026 16:36:09 +0000"
         },
         {
-          "id": "deead0aca760",
-          "title": "FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem",
-          "link": "https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/",
-          "description": "The video call highlights the murky relationship between professional athletes and gambling apps.",
-          "source": "TechCrunch",
+          "id": "122048a2329c",
+          "title": "An orbiting disco ball gave Einstein’s theory its most precise test yet",
+          "link": "https://arstechnica.com/science/2026/07/an-orbiting-disco-ball-gave-einsteins-theory-its-most-precise-test-yet/",
+          "description": "The Earth may not be that massive, but it still distorts space-time.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 18:50:00 +0000"
+          "pub_date": "Fri, 10 Jul 2026 16:11:35 +0000"
         },
         {
-          "id": "5453ded5ff38",
-          "title": "Mercor is in talks for a $20B valuation",
-          "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
-          "description": "A new $20 billion valuation would be a giant step up from the $10 billion valuation it reached in October.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 18:42:22 +0000"
-        },
-        {
-          "id": "f4f566afa9a0",
-          "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta",
+          "id": "fbc211d69285",
+          "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
           "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
           "description": "Digital Services Act may force Meta to make big changes on its platforms.",
           "source": "Ars Technica",
@@ -300,72 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Thu, 09 Jul 2026 20:12:03 +0000"
-        },
-        {
-          "id": "9128a7f8ad5b",
-          "title": "Judge doesn't like Elon Musk settlement with SEC, but says court can't block it",
-          "link": "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
-          "description": "Judge reluctantly approves $1.5M settlement with SEC over Twitter stock violation.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 19:10:33 +0000"
-        },
-        {
-          "id": "749acf33c305",
-          "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-          "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-          "description": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 18:57:53 +0000"
-        },
-        {
-          "id": "e545cb2e6efa",
-          "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
-          "link": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
-          "description": "Oddly, it wasn't the first time this had happened to the man.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 15:33:41 +0000"
-        },
-        {
-          "id": "8f3f618a1952",
-          "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
-          "link": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
-          "description": "\"You promised me that you would never take power in your name.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 14:45:44 +0000"
-        },
-        {
-          "id": "95136e7288e5",
-          "title": "Ruf debuts new flat-eight engine at Goodwood",
-          "link": "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
-          "description": "The 4.8 L eight-cylinder generates more than 1,000 hp and 1,000 Nm, Ruf says.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 14:32:48 +0000"
-        },
-        {
-          "id": "78a3c3db8cb3",
-          "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
-          "link": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
-          "description": "State agency's delay could mean free robotaxi rides in company’s new Ojai vehicle for a few months.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 13:31:00 +0000"
-        },
-        {
-          "id": "68d35aea5018",
-          "title": "The newest entrant in the military’s launch competition isn't actually a launch company",
-          "link": "https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/",
-          "description": "\"I think it's fair to say that Phase 3 did not contemplate this.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 09 Jul 2026 13:08:27 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **OpenAI发布GPT-5.6模型系列**：OpenAI正式推出新一代模型GPT-5.6，并成为微软Copilot 365的“首选模型”，同时公司二号人物Fidji Simo离职，并关闭AI浏览器项目Atlas，但AI浏览器野心仍在增长。\n2. **量子计算与硬件突破**：量子计算初创公司Oratomic融资3亿美元，目标构建仅需2万量子比特的可行量子计算机；同时，有科技博主尝试用iPhone换一部被黑客改造的功能手机。\n3. **欧盟与科技巨头监管博弈加剧**：欧盟威胁对Meta旗下Facebook和Instagram的成瘾性功能处以罚款；佛罗里达一名勒索软件谈判员因协助犯罪团伙敲诈美国公司被定罪。\n4. **印度智能手机制造新阶段**：继苹果之后，印度智能手机制造进入新阶段，Vivo成立合资公司推动本地化生产。\n5. **AI应用与金融创新**：一家AI代理初创公司让自家AI代理完成了1亿美元融资；Meta推出AI编程工具Muse Spark 1.1；两只新ETF明确排除对埃隆·马斯克的投资。\n\n今日最值得关注的发展：**OpenAI正式发布GPT-5.6模型，并成为微软Copilot 365的首选，同时公司高层变动与项目调整，显示AI巨头正加速技术迭代与战略重组。**",
+      "summary": "今日科技动态摘要\n\n1. **AI竞争与法律纠纷**：苹果起诉OpenAI涉嫌窃取商业机密；OpenAI表示GPT 5.6将成为微软Copilot 365的“首选模型”，引发双方合作破裂的猜测；Hugging Face CEO指出企业正停止租用AI模型，转向自研。\n2. **半导体与硬件投资**：SK海力士以265亿美元完成美国史上最大外国IPO，被敦促新建美国晶圆厂；Oatomic融资3亿美元，目标构建仅需2万量子比特的可行量子计算机。\n3. **流媒体与社交平台变革**：Disney+考虑推出免费广告支持层级；Netflix可能计划推出“全天候”直播电视频道；新应用HyperTexting将开放网页转化为可滚动的社交媒体式信息流。\n4. **监管与安全事件**：欧盟威胁对Meta因Facebook和Instagram的成瘾性功能处以罚款；佛罗里达州一名勒索软件谈判员因协助勒索团伙敲诈美国公司被判有罪。\n5. **中国航天与手机制造**：中国正追赶马斯克的可回收火箭技术；继苹果之后，印度智能手机制造热潮进入新阶段，Vivo与当地企业成立合资公司。\n\n**今日最值得关注的发展**：SK海力士创纪录的265亿美元IPO不仅刷新美国外资上市历史，更凸显半导体产业链向美国本土转移的加速趋势。",
       "count": 40
     },
     "ai": {
@@ -560,6 +560,15 @@
           "pub_date": "Tue, 07 Jul 2026 00:00:00 GMT"
         },
         {
+          "id": "291f4ca862d5",
+          "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
+          "link": "https://www.qbitai.com/2026/07/447846.html",
+          "description": "四大方向，奖金直给",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 10 Jul 2026 17:18:11 +0000"
+        },
+        {
           "id": "74573affbdd9",
           "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
           "link": "https://www.qbitai.com/2026/07/447832.html",
@@ -630,22 +639,103 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Fri, 10 Jul 2026 03:28:59 +0000"
-        },
-        {
-          "id": "21d1d8ade658",
-          "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
-          "link": "https://www.qbitai.com/2026/07/447508.html",
-          "description": "“已经出现泛化涌现”",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 09 Jul 2026 12:18:17 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **PyTorch性能优化与推理加速**：Hugging Face发布多篇技术文章，涵盖PyTorch性能分析（“Attention is all you profile”）、vLLM原生速度建模后端、以及通过SkyPilot实现零出站存储的跨云AI工作负载运行，强调推理效率与云原生部署的改进。\n2. **AI Agent与模型部署生态扩展**：Hugging Face推出“Data for Agents”数据方案、一键部署至Amazon SageMaker Studio、Foundry托管计算支持，同时Google Gemini API扩展了后台任务与远程MCP的托管Agent功能，推动智能体与基础设施的深度整合。\n3. **OpenAI模型迭代与商业应用**：GPT-5.6成为Microsoft 365 Copilot首选模型，并作为“前沿智能”被强调可随用户目标扩展；OpenAI同时发布GPT-5.5生物漏洞赏金计划，并宣布ChatGPT成为“最具雄心的合作伙伴”，凸显其从工具向协作平台的转型。\n4. **开源机器人项目与数据战略**：Hugging Face发布LeRobot v0.6.0（聚焦“想象、评估、改进”）、PRX数据策略第四部分，以及🤗 Kernels重大更新，持续推动机器人学习与数据基础设施的开源创新。\n5. **行业应用案例**：德国电信（Deutsche Telekom）与OpenAI合作，利用AI重构电信网络运营，展示大模型在垂直行业的实际落地价值。\n\n**今日最值得关注的发展**：OpenAI正式将GPT-5.6定位为“可随用户野心扩展的通用智能”，并深度嵌入Microsoft 365生态，标志着前沿模型从实验性部署向企业级核心工作流的关键跃进。",
+      "summary": "今日AI动态摘要\n\n1. **PyTorch性能优化与模型推理加速**：Hugging Face发布PyTorch性能分析系列第三部分，强调注意力机制的重要性；同时推出原生速度的vLLM transformers建模后端，并更新了🤗 Kernels库，旨在提升AI模型推理效率。\n2. **AI代理与数据策略发展**：Hugging Face推出“面向智能体的数据”项目，并发布LeRobot v0.6.0版本（聚焦想象、评估与改进），以及“PRX Part 4：我们的数据策略”，持续强化AI代理的数据基础与迭代能力。\n3. **云部署与存储零成本迁移**：Hugging Face与Amazon SageMaker Studio实现一键集成，支持在Foundry托管计算上运行模型；同时与SkyPilot合作推出零出口存储方案，允许用户在任何云上运行AI工作负载，数据仍存储于Hugging Face。\n4. **Gemini API与AI代理扩展**：Google AI博客宣布Gemini API扩展托管智能体功能，新增后台任务、远程MCP支持等，进一步提升AI代理的自主能力。\n5. **OpenAI模型与微软Copilot更新**：OpenAI发布GPT-5.6，成为Microsoft 365 Copilot首选模型，并强调其“前沿智能可随雄心扩展”；同时推出GPT-5.5生物漏洞赏金计划，ChatGPT被定位为“最雄心勃勃工作的合作伙伴”。\n\n**今日最值得关注的发展**：OpenAI正式将GPT-5.6作为Microsoft 365 Copilot的默认模型，标志着前沿大模型在办公场景的深度落地，同时Hugging Face在推理加速、云部署和AI代理数据策略上的多线推进，凸显了AI行业从模型训练向工程化、代理化和零摩擦部署的全面转型。",
       "count": 30
     },
     "cctv": {
       "articles": [
+        {
+          "id": "582fab7b337d",
+          "title": "China takes a page from SpaceX and recaptures first stage of rocket to reuse it",
+          "link": "https://apnews.com/article/china-rocket-space-reuse-6d695fcad64a101dc3991c1bfa0e7357",
+          "description": "Article URL: https://apnews.com/article/china-rocket-space-reuse-6d695fcad64a101dc3991c1bfa0e7357 Comments URL: https://news.ycombinator.com/item?id=48866195 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 10 Jul 2026 22:37:10 +0000"
+        },
+        {
+          "id": "df2e23b70993",
+          "title": "China recovered its first reusable rocket and showed a new way to do it",
+          "link": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
+          "description": "Article URL: https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/ Comments URL: https://news.ycombinator.com/item?id=48866122 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 10 Jul 2026 22:29:28 +0000"
+        },
+        {
+          "id": "244614432a3a",
+          "title": "China lands reusable rocket for first time, state media says",
+          "link": "https://www.bbc.com/news/articles/cm2rmmx86pdo",
+          "description": "Article URL: https://www.bbc.com/news/articles/cm2rmmx86pdo Comments URL: https://news.ycombinator.com/item?id=48866059 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 10 Jul 2026 22:22:27 +0000"
+        },
+        {
+          "id": "00366e0283a6",
+          "title": "China's Open AI Models Are Advancing Its Global Soft Power",
+          "link": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power/",
+          "description": "Article URL: https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power/ Comments URL: https://news.ycombinator.com/item?id=48865717 Points: 9 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 10 Jul 2026 21:45:16 +0000"
+        },
+        {
+          "id": "b2f0ac44b944",
+          "title": "China did not manage to avoid a crash",
+          "link": "https://www.noahpinion.blog/p/no-china-did-not-manage-to-avoid",
+          "description": "Article URL: https://www.noahpinion.blog/p/no-china-did-not-manage-to-avoid Comments URL: https://news.ycombinator.com/item?id=48865542 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 10 Jul 2026 21:29:12 +0000"
+        },
+        {
+          "id": "b1645da20c0f",
+          "title": "Shooting Starlink: The \"no limits\" partnership between Russia and China",
+          "link": "https://theins.press/en/inv/294635",
+          "description": "Article URL: https://theins.press/en/inv/294635 Comments URL: https://news.ycombinator.com/item?id=48864199 Points: 7 # Comments: 5",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 10 Jul 2026 19:33:45 +0000"
+        },
+        {
+          "id": "1455d77189ed",
+          "title": "Making history China lands rocket during an orbital launch for first time",
+          "link": "https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever",
+          "description": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever Comments URL: https://news.ycombinator.com/item?id=48863519 Points: 6 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 10 Jul 2026 18:32:34 +0000"
+        },
+        {
+          "id": "ef5dfa466abd",
+          "title": "Why AI Is Collapsing: How China Is Winning [video]",
+          "link": "https://www.youtube.com/watch?v=JXJf7vL8k94",
+          "description": "Article URL: https://www.youtube.com/watch?v=JXJf7vL8k94 Comments URL: https://news.ycombinator.com/item?id=48863187 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 10 Jul 2026 18:04:03 +0000"
+        },
+        {
+          "id": "5b115fb57039",
+          "title": "China recaptures the first stage of a rocket to reuse it",
+          "link": "https://phys.org/news/2026-07-china-page-spacex-recaptures-stage.html",
+          "description": "Article URL: https://phys.org/news/2026-07-china-page-spacex-recaptures-stage.html Comments URL: https://news.ycombinator.com/item?id=48862868 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 10 Jul 2026 17:37:19 +0000"
+        },
+        {
+          "id": "f98f81af4eb7",
+          "title": "Scan Scam: Criminals Redirect China's Public QR Codes to Porn",
+          "link": "https://www.sixthtone.com/news/1018752",
+          "description": "Article URL: https://www.sixthtone.com/news/1018752 Comments URL: https://news.ycombinator.com/item?id=48861964 Points: 1 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 10 Jul 2026 16:15:50 +0000"
+        },
         {
           "id": "52a570d4dff3",
           "title": "Shein wins China's approval for Hong Kong IPO, in third attempt to go public",
@@ -668,7 +758,7 @@
           "id": "dbe34ae9970f",
           "title": "China retrieves booster in reusable rocket breakthrough",
           "link": "https://www.dw.com/en/china-retrieves-booster-in-reusable-rocket-breakthrough/a-77904960",
-          "description": "Article URL: https://www.dw.com/en/china-retrieves-booster-in-reusable-rocket-breakthrough/a-77904960 Comments URL: https://news.ycombinator.com/item?id=48860133 Points: 2 # Comments: 1",
+          "description": "Article URL: https://www.dw.com/en/china-retrieves-booster-in-reusable-rocket-breakthrough/a-77904960 Comments URL: https://news.ycombinator.com/item?id=48860133 Points: 4 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 10 Jul 2026 14:05:53 +0000"
@@ -677,7 +767,7 @@
           "id": "94f10fb28e35",
           "title": "China may struggle to fund Xi Jinping's tech dreams",
           "link": "https://economist.com/finance-and-economics/2026/07/09/china-may-struggle-to-fund-xi-jinpings-tech-dreams",
-          "description": "Article URL: https://economist.com/finance-and-economics/2026/07/09/china-may-struggle-to-fund-xi-jinpings-tech-dreams Comments URL: https://news.ycombinator.com/item?id=48860019 Points: 1 # Comments: 0",
+          "description": "Article URL: https://economist.com/finance-and-economics/2026/07/09/china-may-struggle-to-fund-xi-jinpings-tech-dreams Comments URL: https://news.ycombinator.com/item?id=48860019 Points: 2 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 10 Jul 2026 13:58:22 +0000"
@@ -686,7 +776,7 @@
           "id": "86ec02bcab04",
           "title": "China lands reusable rocket for the first time",
           "link": "https://www.theverge.com/science/963861/china-lands-reusable-rocket-for-first-time",
-          "description": "Article URL: https://www.theverge.com/science/963861/china-lands-reusable-rocket-for-first-time Comments URL: https://news.ycombinator.com/item?id=48859151 Points: 1 # Comments: 0",
+          "description": "Article URL: https://www.theverge.com/science/963861/china-lands-reusable-rocket-for-first-time Comments URL: https://news.ycombinator.com/item?id=48859151 Points: 2 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 10 Jul 2026 12:47:33 +0000"
@@ -695,7 +785,7 @@
           "id": "0c02f1589094",
           "title": "China's 'Silicon Valley' in Hangzhou: Home of DeepSeek, Alibaba and Ant Group [video]",
           "link": "https://www.youtube.com/watch?v=aEx7DvR5fZE",
-          "description": "Article URL: https://www.youtube.com/watch?v=aEx7DvR5fZE Comments URL: https://news.ycombinator.com/item?id=48858700 Points: 2 # Comments: 0",
+          "description": "Article URL: https://www.youtube.com/watch?v=aEx7DvR5fZE Comments URL: https://news.ycombinator.com/item?id=48858700 Points: 3 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 10 Jul 2026 11:56:08 +0000"
@@ -704,7 +794,7 @@
           "id": "4180302dc512",
           "title": "China tests sea-based rocket booster recovery system",
           "link": "https://www.reuters.com/science/china-successfully-tests-sea-based-rocket-booster-recovery-system-state-media-2026-07-10/",
-          "description": "Article URL: https://www.reuters.com/science/china-successfully-tests-sea-based-rocket-booster-recovery-system-state-media-2026-07-10/ Comments URL: https://news.ycombinator.com/item?id=48858259 Points: 2 # Comments: 0",
+          "description": "Article URL: https://www.reuters.com/science/china-successfully-tests-sea-based-rocket-booster-recovery-system-state-media-2026-07-10/ Comments URL: https://news.ycombinator.com/item?id=48858259 Points: 3 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 10 Jul 2026 10:53:59 +0000"
@@ -717,15 +807,6 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 10 Jul 2026 08:56:17 +0000"
-        },
-        {
-          "id": "244614432a3a",
-          "title": "China lands reusable rocket for first time, state media says",
-          "link": "https://www.bbc.com/news/articles/cm2rmmx86pdo",
-          "description": "Article URL: https://www.bbc.com/news/articles/cm2rmmx86pdo Comments URL: https://news.ycombinator.com/item?id=48857348 Points: 13 # Comments: 6",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 10 Jul 2026 08:36:36 +0000"
         },
         {
           "id": "045ce9052cc2",
@@ -749,7 +830,7 @@
           "id": "f2214c7a28c4",
           "title": "Nobel-Winning U.S. Chemist Will Move to China to Lead A.I. Institute",
           "link": "https://www.nytimes.com/2026/07/09/science/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute.html",
-          "description": "Article URL: https://www.nytimes.com/2026/07/09/science/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute.html Comments URL: https://news.ycombinator.com/item?id=48856859 Points: 9 # Comments: 2",
+          "description": "Article URL: https://www.nytimes.com/2026/07/09/science/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute.html Comments URL: https://news.ycombinator.com/item?id=48856859 Points: 10 # Comments: 2",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 10 Jul 2026 07:33:42 +0000"
@@ -776,7 +857,7 @@
           "id": "20133113efa0",
           "title": "China's public QR codes are being hijacked to redirect users to porn and scams",
           "link": "https://www.sixthtone.com/news/1018752/ScanScam:CriminalsRedirectChina’sPublicQRCodestoPorn",
-          "description": "Article URL: https://www.sixthtone.com/news/1018752/ScanScam:CriminalsRedirectChina’sPublicQRCodestoPorn Comments URL: https://news.ycombinator.com/item?id=48855895 Points: 57 # Comments: 1",
+          "description": "Article URL: https://www.sixthtone.com/news/1018752/ScanScam:CriminalsRedirectChina’sPublicQRCodestoPorn Comments URL: https://news.ycombinator.com/item?id=48855895 Points: 58 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 10 Jul 2026 04:57:57 +0000"
@@ -794,7 +875,7 @@
           "id": "f57589d2cca5",
           "title": "China recovers reusable rocket used in the maiden launch of Long March 10B",
           "link": "https://www.scmp.com/news/china/science/article/3360069/china-recovers-long-march-10b-reusable-rocket-maiden-launch",
-          "description": "Article URL: https://www.scmp.com/news/china/science/article/3360069/china-recovers-long-march-10b-reusable-rocket-maiden-launch Comments URL: https://news.ycombinator.com/item?id=48855859 Points: 7 # Comments: 0",
+          "description": "Article URL: https://www.scmp.com/news/china/science/article/3360069/china-recovers-long-march-10b-reusable-rocket-maiden-launch Comments URL: https://news.ycombinator.com/item?id=48855859 Points: 8 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 10 Jul 2026 04:48:15 +0000"
@@ -812,94 +893,13 @@
           "id": "15f416e0d815",
           "title": "China's giant Gobi solar plant runs after dark on salt, not batteries",
           "link": "https://electrek.co/2026/07/09/china-hami-solar-molten-salt-storage/",
-          "description": "Article URL: https://electrek.co/2026/07/09/china-hami-solar-molten-salt-storage/ Comments URL: https://news.ycombinator.com/item?id=48854392 Points: 5 # Comments: 0",
+          "description": "Article URL: https://electrek.co/2026/07/09/china-hami-solar-molten-salt-storage/ Comments URL: https://news.ycombinator.com/item?id=48854392 Points: 6 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 10 Jul 2026 00:44:26 +0000"
-        },
-        {
-          "id": "f3e928ea6d92",
-          "title": "No Boss, No Money: The Raw Reality of China's Gen-Z Freelancers [video]",
-          "link": "https://www.youtube.com/watch?v=eJZFUEQebbI",
-          "description": "Article URL: https://www.youtube.com/watch?v=eJZFUEQebbI Comments URL: https://news.ycombinator.com/item?id=48853999 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 09 Jul 2026 23:48:00 +0000"
-        },
-        {
-          "id": "401fdc46686b",
-          "title": "Graduating without a thesis: meet the people getting 'practical' PhDs in China",
-          "link": "https://www.nature.com/articles/d41586-026-01242-z",
-          "description": "Article URL: https://www.nature.com/articles/d41586-026-01242-z Comments URL: https://news.ycombinator.com/item?id=48853437 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 09 Jul 2026 22:47:18 +0000"
-        },
-        {
-          "id": "9d56c43d8e71",
-          "title": "In AI, the United States and China Are Racing in the Dark",
-          "link": "https://acf.sais.jhu.edu/in-ai-the-united-states-and-china-are-racing-in-the-dark/",
-          "description": "Article URL: https://acf.sais.jhu.edu/in-ai-the-united-states-and-china-are-racing-in-the-dark/ Comments URL: https://news.ycombinator.com/item?id=48852389 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 09 Jul 2026 21:07:22 +0000"
-        },
-        {
-          "id": "cc8a0aa409a1",
-          "title": "China, Russia and Others Seek to Inflame Debate over A.I. Data Centers",
-          "link": "https://www.nytimes.com/2026/07/09/business/china-russia-ai-data-centers.html",
-          "description": "Article URL: https://www.nytimes.com/2026/07/09/business/china-russia-ai-data-centers.html Comments URL: https://news.ycombinator.com/item?id=48852364 Points: 11 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 09 Jul 2026 21:05:14 +0000"
-        },
-        {
-          "id": "ff8315cb26eb",
-          "title": "Leak Reveals Possible Secret Russia-China Military Plan to Disable Starlink",
-          "link": "https://united24media.com/world/leaked-documents-reveal-possible-secret-russia-china-military-plan-to-disable-starlink-20627",
-          "description": "Article URL: https://united24media.com/world/leaked-documents-reveal-possible-secret-russia-china-military-plan-to-disable-starlink-20627 Comments URL: https://news.ycombinator.com/item?id=48850972 Points: 7 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 09 Jul 2026 19:11:57 +0000"
-        },
-        {
-          "id": "22d2915e1e8e",
-          "title": "China warns of 'security backdoor' in Anthropic AI coding tool",
-          "link": "https://www.channelnewsasia.com/east-asia/china-anthropic-claude-code-ai-backdoor-security-alert-6240476",
-          "description": "Article URL: https://www.channelnewsasia.com/east-asia/china-anthropic-claude-code-ai-backdoor-security-alert-6240476 Comments URL: https://news.ycombinator.com/item?id=48850838 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 09 Jul 2026 19:02:09 +0000"
-        },
-        {
-          "id": "57a9f2555021",
-          "title": "China Weighs Limits on the AI Models American Companies Love",
-          "link": "https://www.wsj.com/tech/ai/china-weighs-limits-on-the-ai-models-american-companies-love-c3ad8f2b",
-          "description": "Article URL: https://www.wsj.com/tech/ai/china-weighs-limits-on-the-ai-models-american-companies-love-c3ad8f2b Comments URL: https://news.ycombinator.com/item?id=48850189 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 09 Jul 2026 18:13:43 +0000"
-        },
-        {
-          "id": "d9ab28adad10",
-          "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-          "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-          "description": "Article URL: https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/ Comments URL: https://news.ycombinator.com/item?id=48849062 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 09 Jul 2026 17:03:56 +0000"
-        },
-        {
-          "id": "1a7d0934f16b",
-          "title": "China's Nuclear Sector Now Able to Build Fifty Reactors at a Time",
-          "link": "https://humanprogress.org/chinas-vast-nuclear-power-sector-now-able-to-build-50-reactors-at-a-time/",
-          "description": "Article URL: https://humanprogress.org/chinas-vast-nuclear-power-sector-now-able-to-build-50-reactors-at-a-time/ Comments URL: https://news.ycombinator.com/item?id=48846499 Points: 7 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 09 Jul 2026 14:30:36 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **航天技术突破**：中国首次成功回收可重复使用火箭（长征十号乙），并完成海上火箭助推器回收系统测试，成为继美国后第二个实现轨道级助推器回收的国家，标志着重型可回收火箭技术取得重大进展。\n2. **科技与AI领域动态**：Shein获中国批准赴港IPO（第三次上市尝试）；诺贝尔奖得主、美国化学家将移居中国领导AI研究所；中国可能限制外国访问本国开源AI模型；杭州“硅谷”（DeepSeek、阿里巴巴、蚂蚁集团所在地）成为科技焦点。\n3. **金融与安全风险**：中国要求各省救助风险较高的区域银行；公共二维码被劫持用于跳转色情与诈骗网站；调查揭示中俄深化军事合作。\n4. **国际科技竞争**：OpenAI和Google被曝向被中国列入黑名单的组织销售AI模型，凸显中美科技领域复杂博弈。\n\n**今日最值得关注的发展**：中国首次成功回收可重复使用火箭，标志着航天技术迈向低成本、高频次发射的新阶段，对全球航天竞争格局具有里程碑意义。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国首次成功实现火箭第一级回收**：中国在轨道发射中首次完成可重复使用火箭第一级回收，这一技术突破对标SpaceX，展示了中国在航天领域的创新能力和成本控制进展。\n2. **中国开源AI模型提升全球软实力**：中国开源人工智能模型的发展正在增强其国际影响力，成为软实力竞争中的关键因素。\n3. **俄中“无限制”合作与星链议题**：报道提及俄罗斯与中国在反卫星技术（如“星链”相关领域）形成“无限制”伙伴关系，引发国际关注。\n4. **企业动态与监管问题**：希音（Shein）获中国批准第三次赴港IPO；同时出现犯罪分子篡改公共二维码跳转至色情网站的“扫码诈骗”事件。\n5. **科技融资挑战与争议**：有分析指出中国可能面临为高层科技愿景提供资金的困难；另报道称OpenAI和谷歌向被列入黑名单的中国机构出售AI模型，引发合规争议。\n\n**今日最值得关注的发展**：中国首次成功回收火箭第一级，标志着可重复使用航天技术迈出历史性一步，为降低发射成本、提升太空竞争力奠定关键基础。",
       "count": 28
     }
   }
