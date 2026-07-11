@@ -1,9 +1,27 @@
 {
   "date": "2026-07-11",
-  "generated_at": "2026-07-11T14:55:35.204484",
+  "generated_at": "2026-07-11T22:55:13.135937",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "a9c786c376ae",
+          "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+          "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+          "description": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slushie machine builds on the popularity of the original [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 11 Jul 2026 22:00:00 +0000"
+        },
+        {
+          "id": "7ab5a1c96c81",
+          "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+          "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+          "description": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 11 Jul 2026 17:30:00 +0000"
+        },
         {
           "id": "84a5a0d33aef",
           "title": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -165,24 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 10 Jul 2026 04:36:20 +0000"
-        },
-        {
-          "id": "3ad2be62ba33",
-          "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-          "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-          "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 10 Jul 2026 00:16:54 +0000"
-        },
-        {
-          "id": "8412b00ac63d",
-          "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
-          "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
-          "description": "The new exchange-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 10 Jul 2026 00:13:00 +0000"
         },
         {
           "id": "d70e718a73f2",
@@ -365,7 +365,7 @@
           "pub_date": "Thu, 09 Jul 2026 21:56:44 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **OpenAI拓展家庭场景**：OpenAI正推动ChatGPT深入家庭，瞄准家庭用户市场，意图扩大AI在日常生活中的应用。\n2. **美国网络安全机构CISA自曝应急短板**：CISA承认在应对网络安全事件时，不得不临时构建事件响应手册，暴露了其预案准备不足的问题。\n3. **Meta与欧盟监管冲突加剧**：欧盟威胁对Meta处以罚款，因其Facebook和Instagram上的“成瘾性”功能；同时Meta在争议后移除Instagram上的AI功能。\n4. **SK海力士创美国史上最大外资IPO**：SK海力士融资265亿美元，并被敦促在美国建设新工厂，显示半导体产业本土化趋势加速。\n5. **中国可重复使用火箭追赶SpaceX**：报道指出中国在可重复使用火箭技术方面正快速追赶马斯克的SpaceX，航天竞争格局生变。\n\n今日最值得关注的发展：SK海力士以265亿美元创下美国史上最大外资IPO，凸显全球半导体供应链重组与芯片本土化制造的迫切性。",
+      "summary": "今日科技动态摘要\n\n1. **AI与隐私争议**：Meta因用户强烈反对而移除Instagram上的一项争议性AI功能；苹果起诉OpenAI涉嫌窃取商业机密；Even Realities推出无摄像头智能眼镜，主打提升生产力而非记录他人。\n2. **网络安全与法律纠纷**：美国网络安全局CISA承认在应对网络事件时临时制定应急预案；初创公司Phia被指控通过“cookie填充”骗取未实际促成的购买佣金；大学应用Fizz指控风投公司向竞争对手Sidechat泄露机密信息。\n3. **硬件与资本动向**：SK海力士以265亿美元完成美国史上最大外国IPO，被呼吁新建美国晶圆厂；Oatomic融资3亿美元开发仅需2万量子比特的实用量子计算机；中国在可重复使用火箭领域正追赶马斯克的SpaceX。\n4. **社交与内容平台变化**：Bluesky临时CEO托尼·施耐德转正；迪士尼+正考虑推出免费广告支持流媒体层级；新应用HyperTexting将开放网络转化为可滚动浏览的社交媒体式信息流。\n5. **消费科技与极端天气**：纽约热浪期间，一台冰沙机因提供降温饮品成为“救命神器”；Dumb Co挑战用户用iPhone换取被黑客改造的翻盖手机。\n\n**今日最值得关注的发展**：AI伦理与隐私争议持续升级（Meta删功能、苹果诉OpenAI），同时美国史上最大外国IPO（SK海力士）与量子计算重大融资（Oatomic）凸显科技硬核投资热度不减。",
       "count": 40
     },
     "ai": {
@@ -641,7 +641,7 @@
           "pub_date": "Fri, 10 Jul 2026 09:27:52 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **PyTorch性能分析与Attention机制**：Hugging Face发布系列文章，深入探讨PyTorch性能分析（第三部分），强调Attention机制在模型剖析中的核心作用。\n2. **Hugging Face平台与云服务集成**：多项更新实现一键部署至Amazon SageMaker Studio、Foundry托管计算，并通过SkyPilot实现零出口存储跨云运行AI工作负载。\n3. **模型与代理功能扩展**：Hugging Face推出LeRobot v0.6.0（想象-评估-改进循环）、PRX数据策略第四部分以及核心内核重大更新；Google Gemini API扩展托管代理功能（后台任务、远程MCP）。\n4. **OpenAI与微软Copilot重大升级**：GPT-5.6成为Microsoft 365 Copilot首选模型，同时被定位为“前沿智能，随你雄心扩展”，ChatGPT被重新定义为“最雄心勃勃工作的合作伙伴”；此外，OpenAI还宣布GPT-5.5生物漏洞赏金计划。\n5. **行业应用案例**：Deutsche Telekom披露如何利用AI重塑电信运营（OpenAI博客），展示生成式AI在大型企业中的实际落地。\n\n**最值得关注**：GPT-5.6正式成为微软Copilot核心模型，标志着OpenAI与微软的深度整合进入新阶段，同时Hugging Face在跨云部署与代理技术上密集更新，AI基础设施与模型能力同步加速迭代。",
+      "summary": "今日AI动态摘要\n\n1. **Hugging Face多工具更新**：发布多项技术进展，包括PyTorch性能分析（Attention机制优化）、vLLM原生速度Transformer建模后端、一键部署至Amazon SageMaker Studio、零出站存储跨云AI工作负载方案（SkyPilot），以及LeRobot v0.6.0（想象-评估-改进）与PRX数据策略第四部分。  \n2. **Google Gemini API扩展**：推出MCP远程代理、后台任务等新功能，强化Agent能力。  \n3. **OpenAI多产品升级**：GPT-5.6成为Microsoft 365 Copilot首选模型，强调前沿智能与可扩展性；同时发布GPT-5.5生物漏洞赏金计划，并宣布ChatGPT升级为“最雄心勃勃工作的合作伙伴”。  \n4. **行业应用案例**：德国电信（Deutsche Telekom）利用AI重构电信业务，展示AI在垂直行业的落地价值。  \n\n**今日最值得关注**：Hugging Face与OpenAI同步推出性能与集成度显著提升的模型工具链，标志着AI基础设施正从“可用”向“高效、零摩擦、跨平台”加速演进。",
       "count": 30
     },
     "cctv": {
@@ -650,7 +650,7 @@
           "id": "df2e23b70993",
           "title": "China recovered its first reusable rocket and showed a new way to do it",
           "link": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
-          "description": "Article URL: https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/ Comments URL: https://news.ycombinator.com/item?id=48871116 Points: 16 # Comments: 0",
+          "description": "Article URL: https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/ Comments URL: https://news.ycombinator.com/item?id=48871116 Points: 21 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 11 Jul 2026 11:37:57 +0000"
@@ -722,7 +722,7 @@
           "id": "b1645da20c0f",
           "title": "Shooting Starlink: The \"no limits\" partnership between Russia and China",
           "link": "https://theins.press/en/inv/294635",
-          "description": "Article URL: https://theins.press/en/inv/294635 Comments URL: https://news.ycombinator.com/item?id=48864199 Points: 9 # Comments: 7",
+          "description": "Article URL: https://theins.press/en/inv/294635 Comments URL: https://news.ycombinator.com/item?id=48864199 Points: 9 # Comments: 8",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 10 Jul 2026 19:33:45 +0000"
@@ -839,7 +839,7 @@
           "id": "552143e9f9e1",
           "title": "China recovers Long March 10B rocket following maiden flight",
           "link": "https://www.chinadaily.com.cn/a/202607/10/WS6a507465a310986e2b464988.html",
-          "description": "Article URL: https://www.chinadaily.com.cn/a/202607/10/WS6a507465a310986e2b464988.html Comments URL: https://news.ycombinator.com/item?id=48856880 Points: 9 # Comments: 4",
+          "description": "Article URL: https://www.chinadaily.com.cn/a/202607/10/WS6a507465a310986e2b464988.html Comments URL: https://news.ycombinator.com/item?id=48856880 Points: 10 # Comments: 4",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 10 Jul 2026 07:36:09 +0000"
@@ -884,13 +884,13 @@
           "id": "e97ba56cbf13",
           "title": "China recovers Long March 10B rocket",
           "link": "https://www.bilibili.com/video/BV1n6NL6fEP9",
-          "description": "Article URL: https://www.bilibili.com/video/BV1n6NL6fEP9 Comments URL: https://news.ycombinator.com/item?id=48855872 Points: 10 # Comments: 3",
+          "description": "Article URL: https://www.bilibili.com/video/BV1n6NL6fEP9 Comments URL: https://news.ycombinator.com/item?id=48855872 Points: 11 # Comments: 3",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 10 Jul 2026 04:50:11 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中国首次成功回收可重复使用火箭**：中国在轨道发射中首次实现火箭第一级回收，标志着航天技术取得历史性突破，为未来降低发射成本、提升太空竞争力奠定基础。  \n2. **中国AI模型推动全球软实力提升**：中国开源AI模型在技术应用和国际影响力上持续进步，成为增强国家软实力的重要力量。  \n3. **中国批准希音（Shein）赴港IPO**：希音第三次申请赴港上市终获中国监管批准，显示中国对跨境电商企业资本运作的支持。  \n4. **中俄“无限制”合作涉星链**：报道称中俄在太空领域形成“无限制”伙伴关系，包括对星链系统的潜在反制行动，引发国际关注。  \n5. **中国公共二维码遭犯罪团伙篡改**：不法分子将中国公共场所二维码重定向至色情网站，形成“扫码诈骗”新形式，需加强网络安全监管。\n\n**总结：今日最值得关注的发展是中国首次实现轨道级火箭回收，这一里程碑式突破不仅缩小了与SpaceX的技术差距，更将加速中国商业航天生态的成熟与全球竞争力提升。**",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国首次成功回收可重复使用火箭**：中国在轨道发射中首次实现火箭第一级回收，标志着航天技术取得历史性突破，为未来低成本、可重复使用的航天发射奠定基础。\n2. **中国开源AI模型提升全球软实力**：中国自主研发的开放人工智能模型在国际上影响力持续扩大，推动全球科技合作与软实力增长。\n3. **Shein获中国批准赴港上市**：快时尚电商平台Shein第三次尝试赴港IPO终获中国监管部门批准，显示中国对优质企业境外上市的政策支持。\n4. **大众主要股东提议在德生产中国车型**：大众汽车重要股东提议将中国车型引入德国本土生产，反映中国汽车产业国际竞争力提升及全球供应链调整趋势。\n5. **中国公共二维码遭犯罪篡改**：不法分子将国内公共二维码篡改为色情内容链接，引发社会对公共信息安全与监管的关注。\n\n**今日最值得关注的发展**：中国首次成功回收轨道运载火箭第一级，这一里程碑式突破不仅展示中国航天技术的快速进步，也为未来可重复使用火箭的商业化应用开辟新路径。",
       "count": 27
     }
   }
