@@ -1,9 +1,117 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T15:24:06.894860",
+  "generated_at": "2026-07-14T23:00:24.672260",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "84de0cb9cc0c",
+          "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+          "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+          "description": "OpenAI's first hardware device is reported to be a screenless, AI-guided smart speaker that can move. Weird enough for you?",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 22:22:24 +0000"
+        },
+        {
+          "id": "b84dcb38900f",
+          "title": "OpenAI pushes back on Apple trade secret lawsuit",
+          "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+          "description": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 22:07:42 +0000"
+        },
+        {
+          "id": "3e339815c75a",
+          "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+          "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+          "description": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 21:50:11 +0000"
+        },
+        {
+          "id": "b9173373e2f2",
+          "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+          "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+          "description": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 19:42:27 +0000"
+        },
+        {
+          "id": "094c08cfa6de",
+          "title": "Anthropic’s newest ad is creeping people out",
+          "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+          "description": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 19:41:27 +0000"
+        },
+        {
+          "id": "984afc1c58c9",
+          "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+          "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+          "description": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 19:39:39 +0000"
+        },
+        {
+          "id": "2d9fccd26738",
+          "title": "Lucid Motors denies report it’s considering bankruptcy",
+          "link": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/",
+          "description": "The company said the \"rumors are completely false\" after its stock sank more than 50% on a report that it was weighing the option.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 18:47:14 +0000"
+        },
+        {
+          "id": "54741027b14a",
+          "title": "Google faces another AI training lawsuit from major publishers",
+          "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+          "description": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 18:33:31 +0000"
+        },
+        {
+          "id": "70b00a68536e",
+          "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+          "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+          "description": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 17:45:55 +0000"
+        },
+        {
+          "id": "8931d106f0d4",
+          "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+          "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+          "description": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 16:45:23 +0000"
+        },
+        {
+          "id": "620cf91c342e",
+          "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+          "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+          "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 16:22:15 +0000"
+        },
+        {
+          "id": "74337fc612b7",
+          "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+          "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+          "description": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 16:00:00 +0000"
+        },
         {
           "id": "1d9efc84d8aa",
           "title": "New York State halts construction of all new data centers",
@@ -14,8 +122,8 @@
           "pub_date": "Tue, 14 Jul 2026 15:17:59 +0000"
         },
         {
-          "id": "bb4385916e84",
-          "title": "Iran abused mobile networks’ vulnerabilities to locate U.S. military in the Middle East, report says",
+          "id": "f3cc35d23d17",
+          "title": "Iran abused mobile networks’ vulnerabilities to locate US military in the Middle East, report says",
           "link": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
           "description": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
           "source": "TechCrunch",
@@ -77,121 +185,76 @@
           "pub_date": "Tue, 14 Jul 2026 14:00:00 +0000"
         },
         {
-          "id": "7cdc212da3c1",
-          "title": "David Beckham’s health drink startup IM8 takes $1B from General Catalyst’s unusual CVF fund",
-          "link": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/",
-          "description": "General Catalyst’s Customer Value Fund doesn't make equity investments. It's providing $1 billion for IM8, known for its longevity vitamin drink.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 14 Jul 2026 12:00:00 +0000"
-        },
-        {
-          "id": "952875f59f0c",
-          "title": "Pinwheel launches a retro-inspired landline phone for kids",
-          "link": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
-          "description": "Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 14 Jul 2026 09:00:00 +0000"
-        },
-        {
-          "id": "368362df2a19",
-          "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-          "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-          "description": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 14 Jul 2026 02:46:42 +0000"
-        },
-        {
-          "id": "815751a23286",
-          "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
-          "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-          "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 14 Jul 2026 00:45:00 +0000"
-        },
-        {
-          "id": "e3bfc0a31dcb",
-          "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-          "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-          "description": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 14 Jul 2026 00:00:00 +0000"
-        },
-        {
-          "id": "3db4a98f881a",
-          "title": "X just tweaked its algorithm to make it more friendly, less battleground",
-          "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
-          "description": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 13 Jul 2026 23:58:27 +0000"
-        },
-        {
-          "id": "7361a56776e3",
-          "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-          "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-          "description": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 13 Jul 2026 23:31:18 +0000"
-        },
-        {
-          "id": "fd54a8acffaf",
-          "title": "Satya Nadella has issued a shocking warning to companies using AI",
-          "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-          "description": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 13 Jul 2026 20:59:00 +0000"
-        },
-        {
-          "id": "873e87310692",
-          "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-          "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-          "description": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 13 Jul 2026 20:00:17 +0000"
-        },
-        {
-          "id": "a715317445e4",
-          "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-          "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-          "description": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 13 Jul 2026 18:22:10 +0000"
-        },
-        {
-          "id": "d2a1c2332e25",
-          "title": "Sam Altman’s space data center trash talk is what most experts already believe",
-          "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
-          "description": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 13 Jul 2026 17:28:37 +0000"
-        },
-        {
-          "id": "328c8575daa7",
-          "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
-          "link": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
-          "description": "General Fusion started trading on the Nasdaq following a reverse merger that saw high redemptions.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 13 Jul 2026 17:03:11 +0000"
-        },
-        {
-          "id": "3b623d3cdcab",
-          "title": "Taco Bell eyed in explosive diarrheal outbreak; leafy greens suspected",
-          "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
-          "description": "Health officials have not confirmed a source yet—and there may be multiple sources.",
+          "id": "ff36b510c6c1",
+          "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+          "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+          "description": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
           "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 14 Jul 2026 14:49:02 +0000"
+          "pub_date": "Tue, 14 Jul 2026 22:20:48 +0000"
+        },
+        {
+          "id": "18c331cbc9ae",
+          "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
+          "link": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
+          "description": "Citizens must now spend 21 days in a third country before they are allowed to come home.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 22:09:31 +0000"
+        },
+        {
+          "id": "258686d24d1f",
+          "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+          "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+          "description": "Meta denies using AI to terminate workers with disabilities and medical problems.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 20:05:53 +0000"
+        },
+        {
+          "id": "14d08a3bad75",
+          "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
+          "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
+          "description": "Federal officials have not confirmed a source yet—and there may be multiple sources.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 19:00:02 +0000"
+        },
+        {
+          "id": "d5471f77c358",
+          "title": "US military sent explosive drone boats into combat for the first time",
+          "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
+          "description": "US military’s drone boats struck an Iranian naval port as war heats up again.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 18:00:01 +0000"
+        },
+        {
+          "id": "6446ca59a791",
+          "title": "These painted e-tattoos could be the future of wearable biosensors",
+          "link": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
+          "description": "Conductive ink is painted directly onto the skin in colorful custom designs, drying into working electrodes.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 17:31:58 +0000"
+        },
+        {
+          "id": "30de229649a8",
+          "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+          "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+          "description": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 16:28:14 +0000"
+        },
+        {
+          "id": "3dfb9d38d5bf",
+          "title": "New York bans data center construction for a year, rattling AI industry",
+          "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+          "description": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 14 Jul 2026 15:06:28 +0000"
         },
         {
           "id": "2927eee969e3",
@@ -300,72 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Mon, 13 Jul 2026 16:49:35 +0000"
-        },
-        {
-          "id": "9a4b6bbf0ef6",
-          "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\"",
-          "link": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
-          "description": "Clever coding and graphical compromises get a classic game on more classic hardware.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 13 Jul 2026 16:37:14 +0000"
-        },
-        {
-          "id": "698865faba37",
-          "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
-          "link": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
-          "description": "\"It's very clear that in the United States there is a big need for an additional crew vehicle.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 13 Jul 2026 16:05:03 +0000"
-        },
-        {
-          "id": "8e2a3232329f",
-          "title": "Now, defenders are embracing the prompt injection, too",
-          "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-          "description": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 13 Jul 2026 15:06:34 +0000"
-        },
-        {
-          "id": "8a2d0fd98fa7",
-          "title": "Simulating everything, sort of: The promise and limits of world models",
-          "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-          "description": "Experts explain how they work, what they can do, and what's still unsettled.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 13 Jul 2026 11:00:51 +0000"
-        },
-        {
-          "id": "030fae1a1552",
-          "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
-          "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
-          "description": "New climate evidence adds context to these long voyages.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sun, 12 Jul 2026 11:12:19 +0000"
-        },
-        {
-          "id": "ab550c9ba75e",
-          "title": "New York becomes the first state to impose a data center moratorium",
-          "link": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
-          "description": "Article URL: https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/ Comments URL: https://news.ycombinator.com/item?id=48907296 Points: 40 # Comments: 12",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 14 Jul 2026 14:17:54 +0000"
-        },
-        {
-          "id": "1a14e7e31ae3",
-          "title": "Agnes Callard’s theory of the uni-context",
-          "link": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
-          "description": "Article URL: https://www.derekthompson.org/p/a-philosophers-one-word-theory-to Comments URL: https://news.ycombinator.com/item?id=48907290 Points: 29 # Comments: 22",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 14 Jul 2026 14:17:39 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **纽约州暂停所有新建数据中心**：因能源与环境考量，纽约州政府叫停新建数据中心项目，可能影响科技行业的基础设施扩张。\n2. **伊朗利用移动网络漏洞定位美军**：报告指出伊朗通过手机网络漏洞追踪中东地区美军位置，凸显网络安全与地缘风险。\n3. **AI与通信领域新动向**：Telegram短链接域名恢复；Spotify推出类ChatGPT音乐助手；Superhuman邮件自动起草功能获好评；X平台调整算法减少冲突。\n4. **大额投资与估值飙升**：Reflection与Nebius签署10亿美元计算协议；视频生成公司PixVerse融资4.39亿美元，估值超20亿；Nous Research融资估值达15亿美元。\n5. **科技行业“二次创业”现象**：报道指出，已有财富与成功的科技赢家再度投入高强度工作，反映行业竞争与创新压力持续加剧。\n\n**今日最值得关注的发展：** AI应用加速渗透日常服务（如Spotify、邮件助手），同时地缘政治与能源限制正深刻影响科技基础设施布局。",
+      "summary": "今日科技动态摘要\n\n1. **OpenAI首款硬件曝光**：推出无屏幕可移动音箱，标志其向硬件领域拓展；同时其新旗舰模型存在自动删除文件的安全隐患，引发用户担忧。\n2. **AI法律与监管动态**：OpenAI遭苹果商业秘密诉讼反击；谷歌因AI训练数据面临大型出版商新诉讼；DeepMind CEO呼吁成立独立标准机构监管前沿AI。\n3. **AI行业投资与争议**：Hinge创始人获1800万美元融资打造AI约会服务Overtone；DeepSeek传闻以15亿美元融资后计划IPO；Meta高管称AI代币预算或将按工程师人数设限。\n4. **科技公司风险与政策**：Lucid Motors否认破产传闻；纽约州暂停所有新建数据中心；报告揭露伊朗利用移动网络漏洞追踪美军中东位置。\n5. **产品与设计更新**：苹果向iOS 27公测用户开放新版Siri AI；Google Images改版为Pinterest风格强化发现功能；Anthropic新广告引发用户不安。\n\n**今日最值得关注的发展**：OpenAI在硬件、模型安全与法律纠纷三线同时遭遇挑战，凸显AI行业从技术竞赛进入合规与风险管控的新阶段。",
       "count": 40
     },
     "ai": {
@@ -398,28 +398,37 @@
           "pub_date": "Wed, 08 Jul 2026 00:00:00 GMT"
         },
         {
-          "id": "a6636265932f",
-          "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-          "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-          "description": "",
-          "source": "Hugging Face",
+          "id": "acd0512ec182",
+          "title": "Celebrating 25 years of visual search innovation",
+          "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+          "description": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
+          "source": "Google AI Blog",
           "category": "ai",
-          "pub_date": "Tue, 07 Jul 2026 21:15:33 GMT"
+          "pub_date": "Tue, 14 Jul 2026 16:00:00 +0000"
         },
         {
-          "id": "e0f8bd86eb05",
-          "title": "How sales teams use ChatGPT Work",
-          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+          "id": "64663fdfc3e2",
+          "title": "How to manage AI investments in the agentic era",
+          "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
           "source": "OpenAI Blog",
           "category": "ai",
-          "pub_date": "Tue, 14 Jul 2026 00:00:00 GMT"
+          "pub_date": "Tue, 14 Jul 2026 10:00:00 GMT"
         },
         {
           "id": "86ff2fd6e6e6",
           "title": "How data science teams use ChatGPT Work",
           "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
           "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 14 Jul 2026 00:00:00 GMT"
+        },
+        {
+          "id": "e0f8bd86eb05",
+          "title": "How sales teams use ChatGPT Work",
+          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Tue, 14 Jul 2026 00:00:00 GMT"
@@ -452,15 +461,6 @@
           "pub_date": "Thu, 09 Jul 2026 13:00:00 GMT"
         },
         {
-          "id": "25b2956eeb1f",
-          "title": "GPT-5.5 Bio Bug Bounty",
-          "link": "https://openai.com/index/bio-bug-bounty",
-          "description": "Details about the OpenAI Bio Bounty program",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Thu, 09 Jul 2026 10:00:00 GMT"
-        },
-        {
           "id": "19b9ca530086",
           "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
           "link": "https://openai.com/index/gpt-5-6",
@@ -474,6 +474,15 @@
           "title": "ChatGPT is now a partner for your most ambitious work",
           "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
           "description": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 09 Jul 2026 10:00:00 GMT"
+        },
+        {
+          "id": "25b2956eeb1f",
+          "title": "GPT-5.5 Bio Bug Bounty",
+          "link": "https://openai.com/index/bio-bug-bounty",
+          "description": "Details about the OpenAI Bio Bounty program",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 09 Jul 2026 10:00:00 GMT"
@@ -513,6 +522,15 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 08 Jul 2026 00:00:00 GMT"
+        },
+        {
+          "id": "58ecc49b04da",
+          "title": "阶跃入局，重构智能体时代操作系统",
+          "link": "https://www.qbitai.com/2026/07/449979.html",
+          "description": "董事长印奇称“未来的OS一定是跨端的”",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Tue, 14 Jul 2026 18:43:55 +0000"
         },
         {
           "id": "482d186b9abd",
@@ -594,286 +612,15 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Tue, 14 Jul 2026 03:34:50 +0000"
-        },
-        {
-          "id": "8bc44f413122",
-          "title": "逐际动力再融2亿美元提速港股IPO，张巍：营收对赌不符合具身商业逻辑",
-          "link": "https://www.qbitai.com/2026/07/449474.html",
-          "description": "机器人应该掌握什么技能，并不只取决于模型够不够强，而取决于构建这个技能产生的商业价值是否大于它所要数据的成本。",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Tue, 14 Jul 2026 02:02:50 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **PyTorch性能优化新方向**：Hugging Face发布PyTorch性能分析（第三部分），强调注意力机制的优化是核心，同时推出vLLM原生速度的transformers建模后端，显著提升推理效率。\n2. **AI代理与数据工作流整合**：Hugging Face推出“Data for Agents”方案，并实现从Hugging Face到Amazon SageMaker Studio的一键部署，降低AI应用开发门槛。\n3. **ChatGPT企业级应用深化**：OpenAI博客聚焦销售与数据科学团队使用ChatGPT Work的实践，并宣布GPT-5.6成为Microsoft 365 Copilot首选模型，强调其前沿智能与规模适配能力。\n4. **AI安全与教育拓展**：OpenAI启动GPT-5.5生物漏洞赏金计划，同时推出K-12教师AI技能培训，并明确政府与国家安全合作策略。\n5. **开发者工具与评估优化**：OpenAI提出在代码评估中“区分信号与噪声”的方法，提升AI开发效率与可靠性。\n\n今日最值得关注的是：**GPT-5.6正式成为Microsoft 365 Copilot首选模型**，标志着前沿AI能力在办公场景中的规模化落地，同时Hugging Face的vLLM后端和PyTorch性能优化为开发者提供了更高效的推理基础设施。",
-      "count": 26
+      "summary": "今日AI动态摘要\n\n1. **PyTorch性能优化与vLLM新后端**：Hugging Face发布了PyTorch性能分析系列第三部分，并推出了原生速度的vLLM Transformers建模后端，显著提升推理效率。\n2. **OpenAI多领域应用与模型更新**：OpenAI发布了GPT-5.6，成为Microsoft 365 Copilot首选模型，并展示了其在销售、数据科学、电信等行业的应用案例，同时强调AI投资管理与政府合作策略。\n3. **智能体时代与数据驱动**：Hugging Face关注“面向智能体的数据”构建，OpenAI则探讨如何在智能体时代管理AI投资，凸显数据与自主系统的重要性。\n4. **视觉搜索与编码评估**：Google AI庆祝视觉搜索创新25周年，OpenAI则聚焦编码评估中的信号与噪声分离方法，提升AI开发质量。\n5. **ChatGPT功能拓展与安全**：OpenAI推出ChatGPT工作场景入门指南，将其定位为“最具雄心工作的伙伴”，并发布GPT-5.5生物漏洞悬赏计划，强化安全与合规。\n\n今日最值得关注的发展是OpenAI发布GPT-5.6并成为Microsoft 365 Copilot首选模型，标志着前沿AI在企业级应用中的规模化落地进入新阶段。",
+      "count": 27
     },
     "cctv": {
-      "articles": [
-        {
-          "id": "8c7193575056",
-          "title": "The US-China AI arms race has taken an unexpected turn",
-          "link": "https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/",
-          "description": "Article URL: https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/ Comments URL: https://news.ycombinator.com/item?id=48905845 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 14 Jul 2026 12:35:14 +0000"
-        },
-        {
-          "id": "c9765e69e31b",
-          "title": "Chip toolmaker ASML expected to shine light on capacity and China challenges",
-          "link": "https://www.reuters.com/world/china/chip-toolmaker-asml-expected-shine-light-capacity-china-challenges-2026-07-14/",
-          "description": "Article URL: https://www.reuters.com/world/china/chip-toolmaker-asml-expected-shine-light-capacity-china-challenges-2026-07-14/ Comments URL: https://news.ycombinator.com/item?id=48904529 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 14 Jul 2026 10:16:54 +0000"
-        },
-        {
-          "id": "6c17251e1b7d",
-          "title": "SCOTUS slip opinion: Cisco granted immunity in building China's \"Golden Shield\"",
-          "link": "https://www.courtlistener.com/opinion/10878537/cisco-systems-inc-v-doe/",
-          "description": "Article URL: https://www.courtlistener.com/opinion/10878537/cisco-systems-inc-v-doe/ Comments URL: https://news.ycombinator.com/item?id=48901315 Points: 7 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 14 Jul 2026 01:48:18 +0000"
-        },
-        {
-          "id": "e6e34a7dcc5b",
-          "title": "China's Robotics Dream Began in 1972",
-          "link": "https://www.chinatalk.media/p/chinas-father-of-robotics",
-          "description": "Article URL: https://www.chinatalk.media/p/chinas-father-of-robotics Comments URL: https://news.ycombinator.com/item?id=48901301 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 14 Jul 2026 01:46:09 +0000"
-        },
-        {
-          "id": "dabcf606b3c8",
-          "title": "China builds full-scale US warship replica in desert",
-          "link": "https://www.cnn.com/2026/07/11/world/video/china-builds-full-scale-us-warship-replica-in-desert-will-ripley-hnk-digvid",
-          "description": "Article URL: https://www.cnn.com/2026/07/11/world/video/china-builds-full-scale-us-warship-replica-in-desert-will-ripley-hnk-digvid Comments URL: https://news.ycombinator.com/item?id=48900941 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 14 Jul 2026 00:47:09 +0000"
-        },
-        {
-          "id": "12c3a4cba0ab",
-          "title": "BYD surpasses Tesla in global race; 'do-or-die' crisis in China's market",
-          "link": "https://www.scmp.com/business/china-evs/article/3359708/byd-surpasses-tesla-global-race-do-or-die-crisis-chinas-market-7-ev-reads",
-          "description": "Article URL: https://www.scmp.com/business/china-evs/article/3359708/byd-surpasses-tesla-global-race-do-or-die-crisis-chinas-market-7-ev-reads Comments URL: https://news.ycombinator.com/item?id=48899951 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 13 Jul 2026 22:48:06 +0000"
-        },
-        {
-          "id": "cda5428b2043",
-          "title": "How an Indian startup is using software to break China's rare earth monopoly",
-          "link": "https://www.indiatoday.in/technology/features/story/look-ma-no-magnets-how-an-indian-startup-is-using-software-to-break-chinas-rare-earth-monopoly-2946039-2026-07-12",
-          "description": "Article URL: https://www.indiatoday.in/technology/features/story/look-ma-no-magnets-how-an-indian-startup-is-using-software-to-break-chinas-rare-earth-monopoly-2946039-2026-07-12 Comments URL: https://news.ycombinator.com/item?id=48897411 Points: 3 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 13 Jul 2026 19:16:07 +0000"
-        },
-        {
-          "id": "7e5727a194c4",
-          "title": "China's graduate glut: millions enter a job market with little use for them",
-          "link": "https://www.theguardian.com/business/2026/jul/13/china-graduate-glut-young-people-job-market-tech-ai",
-          "description": "Article URL: https://www.theguardian.com/business/2026/jul/13/china-graduate-glut-young-people-job-market-tech-ai Comments URL: https://news.ycombinator.com/item?id=48897336 Points: 5 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 13 Jul 2026 19:11:39 +0000"
-        },
-        {
-          "id": "915b6c0097d7",
-          "title": "China is dealing with its own manosphere",
-          "link": "https://www.economist.com/china/2026/07/12/china-is-dealing-with-its-own-manosphere",
-          "description": "Article URL: https://www.economist.com/china/2026/07/12/china-is-dealing-with-its-own-manosphere Comments URL: https://news.ycombinator.com/item?id=48892893 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 13 Jul 2026 14:03:49 +0000"
-        },
-        {
-          "id": "a6b12c0b3f39",
-          "title": "Stop falling for the \"But China\" excuse [video]",
-          "link": "https://www.youtube.com/watch?v=qde4r4_uMU0",
-          "description": "Article URL: https://www.youtube.com/watch?v=qde4r4_uMU0 Comments URL: https://news.ycombinator.com/item?id=48892395 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 13 Jul 2026 13:30:00 +0000"
-        },
-        {
-          "id": "5df19bc34db0",
-          "title": "Forget France: China Is the New Foie Gras Champion",
-          "link": "https://www.wsj.com/world/asia/forget-france-china-is-the-new-foie-gras-champion-a1d44fad",
-          "description": "Article URL: https://www.wsj.com/world/asia/forget-france-china-is-the-new-foie-gras-champion-a1d44fad Comments URL: https://news.ycombinator.com/item?id=48891207 Points: 1 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 13 Jul 2026 11:47:19 +0000"
-        },
-        {
-          "id": "ec29d5b0966e",
-          "title": "China releases first photo of Earth's elusive 'quasi-moon' Kamo'oalewa",
-          "link": "https://www.space.com/space-exploration/asteroid-comet-missions/china-releases-1st-photo-of-earths-elusive-quasi-moon-kamooalewa",
-          "description": "Article URL: https://www.space.com/space-exploration/asteroid-comet-missions/china-releases-1st-photo-of-earths-elusive-quasi-moon-kamooalewa Comments URL: https://news.ycombinator.com/item?id=48891067 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 13 Jul 2026 11:30:21 +0000"
-        },
-        {
-          "id": "2d6f66b2289b",
-          "title": "Beijing's 'Manhattan Project': China Close to Cracking Code of EUV Lithography",
-          "link": "https://timesofindia.indiatimes.com/science/beijings-manhattan-project-china-close-to-cracking-code-of-euv-lithography-system-tech-that-controls-the-world/articleshow/132206529.cms",
-          "description": "Article URL: https://timesofindia.indiatimes.com/science/beijings-manhattan-project-china-close-to-cracking-code-of-euv-lithography-system-tech-that-controls-the-world/articleshow/132206529.cms Comments URL: https://news.ycombinator.com/item?id=48890506 Points: 1 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 13 Jul 2026 10:26:48 +0000"
-        },
-        {
-          "id": "f22ea90abe4a",
-          "title": "WSJ Article Claiming China Has Matched Anthropic Is Obvious Nonsense",
-          "link": "https://www.lesswrong.com/posts/2zSpuGJRk6EyjHAL6/wsj-article-claiming-china-has-matched-anthropic-is-obvious-1",
-          "description": "Article URL: https://www.lesswrong.com/posts/2zSpuGJRk6EyjHAL6/wsj-article-claiming-china-has-matched-anthropic-is-obvious-1 Comments URL: https://news.ycombinator.com/item?id=48888893 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 13 Jul 2026 07:00:53 +0000"
-        },
-        {
-          "id": "1b361ea6d3b2",
-          "title": "Shooting Starlink: The \"no limits\" partnership between Russia and China is takin",
-          "link": "https://theins.press/en/inv/294635",
-          "description": "Article URL: https://theins.press/en/inv/294635 Comments URL: https://news.ycombinator.com/item?id=48888307 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 13 Jul 2026 05:31:31 +0000"
-        },
-        {
-          "id": "cc8a0aa409a1",
-          "title": "China, Russia and Others Seek to Inflame Debate over A.I. Data Centers",
-          "link": "https://www.nytimes.com/2026/07/09/business/china-russia-ai-data-centers.html",
-          "description": "Article URL: https://www.nytimes.com/2026/07/09/business/china-russia-ai-data-centers.html Comments URL: https://news.ycombinator.com/item?id=48887297 Points: 8 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 13 Jul 2026 02:54:32 +0000"
-        },
-        {
-          "id": "1a88077e55bc",
-          "title": "Is China's High-Quality Investment Output Economically Viable?",
-          "link": "https://carnegieendowment.org/china-financial-markets/2026/04/is-chinas-high-quality-investment-output-economically-viable",
-          "description": "Article URL: https://carnegieendowment.org/china-financial-markets/2026/04/is-chinas-high-quality-investment-output-economically-viable Comments URL: https://news.ycombinator.com/item?id=48886887 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 13 Jul 2026 01:47:46 +0000"
-        },
-        {
-          "id": "a69817857942",
-          "title": "The great (fire)wall: the technical details behind how China's internet works",
-          "link": "https://kylejeong.com/blog/great-firewall",
-          "description": "Article URL: https://kylejeong.com/blog/great-firewall Comments URL: https://news.ycombinator.com/item?id=48886387 Points: 7 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 13 Jul 2026 00:29:53 +0000"
-        },
-        {
-          "id": "816ce2f9e975",
-          "title": "China lands rocket during an orbital launch for first time",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever",
-          "description": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever Comments URL: https://news.ycombinator.com/item?id=48884642 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 12 Jul 2026 20:49:18 +0000"
-        },
-        {
-          "id": "f3e928ea6d92",
-          "title": "No Boss, No Money: The Raw Reality of China's Gen-Z Freelancers [video]",
-          "link": "https://www.youtube.com/watch?v=eJZFUEQebbI",
-          "description": "Article URL: https://www.youtube.com/watch?v=eJZFUEQebbI Comments URL: https://news.ycombinator.com/item?id=48884329 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 12 Jul 2026 20:17:13 +0000"
-        },
-        {
-          "id": "061fdd74c7a2",
-          "title": "China-made CXMT memory now supports faster speeds on MSI's AMD motherboards",
-          "link": "https://www.tomshardware.com/pc-components/ddr5/china-made-cxmt-memory-now-supports-faster-speeds-on-msis-amd-motherboards-new-bios-adds-ddr5-8200-validation-on-dual-dimm-ddr5-7200-on-quad-dimm-models",
-          "description": "Article URL: https://www.tomshardware.com/pc-components/ddr5/china-made-cxmt-memory-now-supports-faster-speeds-on-msis-amd-motherboards-new-bios-adds-ddr5-8200-validation-on-dual-dimm-ddr5-7200-on-quad-dimm-models Comments URL: https://news.ycombinator.com/item?id=48882798 Points: 8 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 12 Jul 2026 17:23:39 +0000"
-        },
-        {
-          "id": "ab2a20fb6fd8",
-          "title": "The Battery Startup Taking on China's Giants",
-          "link": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/",
-          "description": "Article URL: https://www.wired.com/story/prologium-battery-startup-betting-against-china/ Comments URL: https://news.ycombinator.com/item?id=48882619 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 12 Jul 2026 17:01:22 +0000"
-        },
-        {
-          "id": "4dc964301c10",
-          "title": "China's Tianwen-2 Space Probe Reaches Earth Quasi-Moon, the Asteroid Kamo'oalewa",
-          "link": "https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/",
-          "description": "Article URL: https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/ Comments URL: https://news.ycombinator.com/item?id=48882281 Points: 4 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 12 Jul 2026 16:20:21 +0000"
-        },
-        {
-          "id": "f2214c7a28c4",
-          "title": "Nobel-Winning U.S. Chemist Will Move to China to Lead A.I. Institute",
-          "link": "https://www.nytimes.com/2026/07/09/science/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute.html",
-          "description": "Article URL: https://www.nytimes.com/2026/07/09/science/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute.html Comments URL: https://news.ycombinator.com/item?id=48880730 Points: 10 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 12 Jul 2026 12:42:46 +0000"
-        },
-        {
-          "id": "2f9eac18d50d",
-          "title": "'They Don't Need People': The Workers Left Behind by China's Robot Drive",
-          "link": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html",
-          "description": "Article URL: https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html Comments URL: https://news.ycombinator.com/item?id=48880468 Points: 4 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 12 Jul 2026 12:02:14 +0000"
-        },
-        {
-          "id": "4cf340940447",
-          "title": "Leaked Documents Reveal Secret Russia-China Military Plan to Disable Starlink",
-          "link": "https://united24media.com/world/leaked-documents-reveal-possible-secret-russia-china-military-plan-to-disable-starlink-20627",
-          "description": "Article URL: https://united24media.com/world/leaked-documents-reveal-possible-secret-russia-china-military-plan-to-disable-starlink-20627 Comments URL: https://news.ycombinator.com/item?id=48879697 Points: 5 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 12 Jul 2026 09:32:45 +0000"
-        },
-        {
-          "id": "87cbe139d29a",
-          "title": "China unveils high-power microwave weapon arsenal with up to 100 gigawatts",
-          "link": "https://www.scmp.com/news/china/science/article/3360000/100-gigawatts-china-unveils-its-high-power-microwave-weapon-arsenal",
-          "description": "Article URL: https://www.scmp.com/news/china/science/article/3360000/100-gigawatts-china-unveils-its-high-power-microwave-weapon-arsenal Comments URL: https://news.ycombinator.com/item?id=48879130 Points: 6 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 12 Jul 2026 07:30:15 +0000"
-        },
-        {
-          "id": "6a8eb969c319",
-          "title": "Inside the secret AI war between Silicon Valley and China",
-          "link": "https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/",
-          "description": "Article URL: https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/ Comments URL: https://news.ycombinator.com/item?id=48878812 Points: 3 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 12 Jul 2026 06:20:27 +0000"
-        },
-        {
-          "id": "8771404bc073",
-          "title": "Why the world is ordering buildings from China [video]",
-          "link": "https://www.youtube.com/watch?v=qGqYaULHPV4",
-          "description": "Article URL: https://www.youtube.com/watch?v=qGqYaULHPV4 Comments URL: https://news.ycombinator.com/item?id=48877931 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 12 Jul 2026 03:10:41 +0000"
-        }
-      ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中美科技竞争与芯片领域新动向**：中美AI竞赛出现意外转折，荷兰光刻机巨头ASML面临产能与中国市场挑战；中国在极紫外光刻（EUV）技术研发上接近突破，被视为“北京版曼哈顿计划”。\n2. **中国科技与工业自主进展**：中国机器人梦想始于1972年，当前在沙漠中建造全尺寸美军舰模型；比亚迪超越特斯拉成为全球电动车领跑者，但国内市场面临“生死存亡”危机。\n3. **国际资源与技术博弈**：印度初创公司试图用软件打破中国稀土垄断；俄罗斯与中国在“无限制”伙伴关系下合作，涉及星链卫星打击等议题。\n4. **社会与经济挑战**：中国高校毕业生过剩，就业市场难以吸纳；中国社会正应对自身“男性圈层”问题；法国失去鹅肝冠军地位，中国成为新晋鹅肝生产大国。\n5. **法律与舆论争议**：美国最高法院裁定思科在建设中国“金盾”项目中享有豁免权；有视频呼吁停止“但中国也这样”的借口式辩护；华尔街日报称中国AI已匹敌Anthropic被指明显不实。\n\n**今日最值得关注的发展**：中国在极紫外光刻技术上的突破性进展，以及比亚迪在全球电动车竞赛中超越特斯拉，共同标志着中国在高端制造与核心技术领域加速突围，但同时也面临内外部多重挑战。",
-      "count": 29
+      "articles": [],
+      "summary": "今日暂无相关新闻。",
+      "count": 0
     }
   }
 }
