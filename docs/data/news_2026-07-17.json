@@ -1,12 +1,120 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-07-17T15:14:32.779594",
+  "generated_at": "2026-07-17T22:53:35.356153",
   "categories": {
     "tech": {
       "articles": [
         {
-          "id": "66a6da719f25",
-          "title": "Remarkable’s new Paper Pure is good. That’s why I wrote this review on it.",
+          "id": "395520d0361c",
+          "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+          "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 17 Jul 2026 22:12:56 +0000"
+        },
+        {
+          "id": "5cda17bb4bcf",
+          "title": "The Zoom hack that says, ‘Don’t record me’",
+          "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+          "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 17 Jul 2026 21:20:47 +0000"
+        },
+        {
+          "id": "ad09f1bcfb2b",
+          "title": "Agility Robotics plants its flag in Tesla’s backyard",
+          "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+          "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 17 Jul 2026 20:19:49 +0000"
+        },
+        {
+          "id": "aeb5d21a7057",
+          "title": "AI-driven memory crunch jolts India’s smartphone market",
+          "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+          "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 17 Jul 2026 20:09:27 +0000"
+        },
+        {
+          "id": "875696e6f0ee",
+          "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
+          "link": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+          "description": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 17 Jul 2026 19:49:53 +0000"
+        },
+        {
+          "id": "d90a7afbd91a",
+          "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+          "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+          "description": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 17 Jul 2026 19:22:00 +0000"
+        },
+        {
+          "id": "37e6e89a5814",
+          "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
+          "link": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
+          "description": "Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 17 Jul 2026 18:00:17 +0000"
+        },
+        {
+          "id": "7955a8f2d316",
+          "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+          "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+          "description": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&#160;OpenAI&#8217;s response so far&#160;has been carefully hedged, and the timing&#160;couldn&#8217;t&#160;be worse with the company&#160;reportedly eyeing&#160;an IPO [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 17 Jul 2026 17:45:46 +0000"
+        },
+        {
+          "id": "20b7c1a3e5dc",
+          "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+          "link": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
+          "description": "Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 17 Jul 2026 16:18:09 +0000"
+        },
+        {
+          "id": "ea87d5934e3a",
+          "title": "Parents want safer phones for kids. These companies are answering the call.",
+          "link": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+          "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 17 Jul 2026 16:12:46 +0000"
+        },
+        {
+          "id": "9a96aed08510",
+          "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
+          "link": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
+          "description": "Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 17 Jul 2026 15:29:21 +0000"
+        },
+        {
+          "id": "988f103e02ea",
+          "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+          "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+          "description": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 17 Jul 2026 15:21:17 +0000"
+        },
+        {
+          "id": "b45d19bc8fb9",
+          "title": "reMarkable’s new Paper Pure is good. That’s why I wrote this review on it.",
           "link": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/",
           "description": "Remarkable's Paper Pure replaces Remarkable 2, and it is quite good.",
           "source": "TechCrunch",
@@ -77,112 +185,85 @@
           "pub_date": "Thu, 16 Jul 2026 20:07:14 +0000"
         },
         {
-          "id": "383503cecc6d",
-          "title": "Google Vids now lets you star in your own AI videos",
-          "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-          "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-          "source": "TechCrunch",
+          "id": "bf65508d5545",
+          "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+          "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+          "description": "The FireSat program can spot wildfires that other satellites miss.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 18:32:54 +0000"
+          "pub_date": "Fri, 17 Jul 2026 19:50:18 +0000"
         },
         {
-          "id": "2b6986ad3672",
-          "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-          "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-          "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-          "source": "TechCrunch",
+          "id": "fd7551cc4780",
+          "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
+          "link": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
+          "description": "\"Missiles are being launched at the joint force every single day in [Operation] Epic Fury.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 18:22:06 +0000"
+          "pub_date": "Fri, 17 Jul 2026 19:19:42 +0000"
         },
         {
-          "id": "7110347e685f",
-          "title": "Oil giant BP shutters its corporate venture arm after 20 years",
-          "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
-          "description": "BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns.",
-          "source": "TechCrunch",
+          "id": "577a22859fad",
+          "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
+          "link": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
+          "description": "\"We're turning the clock back on rational healthcare.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 17:37:03 +0000"
+          "pub_date": "Fri, 17 Jul 2026 18:53:11 +0000"
         },
         {
-          "id": "ef41637d0828",
-          "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
-          "link": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
-          "description": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food-delivery platforms outside China.",
-          "source": "TechCrunch",
+          "id": "fbe374701549",
+          "title": "Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states",
+          "link": "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/",
+          "description": "Don't eat Taco Bell lettuce in Indiana, Kentucky, Michigan, Ohio, or West Virginia.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 17:12:00 +0000"
+          "pub_date": "Fri, 17 Jul 2026 18:45:23 +0000"
         },
         {
-          "id": "a24c2ff4c7a9",
-          "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
-          "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
-          "description": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics.",
-          "source": "TechCrunch",
+          "id": "542ada6dcea9",
+          "title": "Troubling new details emerge on diabetes ouster controversy",
+          "link": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
+          "description": "American Diabetes Association blocked publication of op-ed articles so the authors posted them as a preprint.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 17:00:00 +0000"
+          "pub_date": "Fri, 17 Jul 2026 17:08:05 +0000"
         },
         {
-          "id": "5bf35ad23cf5",
-          "title": "X cracks down on creators who steal content",
-          "link": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
-          "description": "X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait.",
-          "source": "TechCrunch",
+          "id": "d72015e96693",
+          "title": "Will Russia's answer to the Falcon 9 rocket ever take flight?",
+          "link": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
+          "description": "Grasshopper-like tests could begin in 2028.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 16:40:36 +0000"
+          "pub_date": "Fri, 17 Jul 2026 16:42:19 +0000"
         },
         {
-          "id": "c127c1dba8b9",
-          "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
-          "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
-          "description": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.",
-          "source": "TechCrunch",
+          "id": "94d62824c90c",
+          "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
+          "link": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
+          "description": "Fubo subscribers still don't have Versant channels.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 16:08:40 +0000"
+          "pub_date": "Fri, 17 Jul 2026 16:24:21 +0000"
         },
         {
-          "id": "0c1a4ec7ea38",
-          "title": "Google’s AI Mode now lets you link and interact with select apps",
-          "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-          "description": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-          "source": "TechCrunch",
+          "id": "250ab65c2861",
+          "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+          "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+          "description": "Official estimates Google and Apple likely made millions in nudify app fees.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 16:00:00 +0000"
+          "pub_date": "Fri, 17 Jul 2026 16:10:05 +0000"
         },
         {
-          "id": "51e5aef99c5b",
-          "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
-          "link": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
-          "description": "Google said users can soon access their notebooks through AI Mode in Search.",
-          "source": "TechCrunch",
+          "id": "9185edcf64b0",
+          "title": "Ars is looking for a senior technology reporter, and you might be it!",
+          "link": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
+          "description": "Desktops, laptops, phones, CPUs, GPUs, NAS—if you know this stuff, come work for us!",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 16:00:00 +0000"
-        },
-        {
-          "id": "f387edfd0a9b",
-          "title": "Yes, you can now order DoorDash from the command line",
-          "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-          "description": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 15:38:55 +0000"
-        },
-        {
-          "id": "86c2b78ec50b",
-          "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
-          "link": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
-          "description": "Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking London’s metropolitan transit system.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 15:37:47 +0000"
-        },
-        {
-          "id": "75aeb7036caa",
-          "title": "Period tracker Stardust shares users’ health data with analytics firm, says Mozilla research",
-          "link": "https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/",
-          "description": "One period tracker app tested by Mozilla was 'squeaky clean,' while another app was seen sharing users' health data with an analytics company, underscoring vast differences in user privacy among these apps.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 15:33:28 +0000"
+          "pub_date": "Fri, 17 Jul 2026 15:52:28 +0000"
         },
         {
           "id": "bf0adefe3aa8",
@@ -282,102 +363,21 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Thu, 16 Jul 2026 20:09:48 +0000"
-        },
-        {
-          "id": "ac8f0f0432cc",
-          "title": "Trump teleprompter aide made $100,000 betting on what Trump would say, reports say",
-          "link": "https://arstechnica.com/culture/2026/07/trump-teleprompter-aide-made-100000-betting-on-what-trump-would-say-reports-say/",
-          "description": "If only someone could have predicted it.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 19:55:46 +0000"
-        },
-        {
-          "id": "81c093ed1a91",
-          "title": "2026 Toyota RAV4 plug-in: Big battery means daily drives are all-electric",
-          "link": "https://arstechnica.com/cars/2026/07/2026-toyota-rav4-plug-in-review-good-but-skip-the-gr-sport/",
-          "description": "Toyota's everyday small SUV should rarely require trips to the gas station.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 19:46:22 +0000"
-        },
-        {
-          "id": "35aa9e31937e",
-          "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
-          "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
-          "description": "The social-engineering technique has primarily been a tool of financially motivated criminals.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 19:28:33 +0000"
-        },
-        {
-          "id": "3d074eef4b0e",
-          "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-          "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-          "description": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 19:18:23 +0000"
-        },
-        {
-          "id": "08a3ad0f2a9d",
-          "title": "We've seen helium baked off a rocky exoplanet's atmosphere",
-          "link": "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/",
-          "description": "If the large, rocky planet is losing helium, then we can infer what is left behind.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 18:00:15 +0000"
-        },
-        {
-          "id": "48dbf22c9596",
-          "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
-          "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
-          "description": "OnePlus promises to continue supporting the phones it has already released.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 16:29:46 +0000"
-        },
-        {
-          "id": "6c3dcf5dbe12",
-          "title": "Could China and Russia really destroy Starlink? Only with a boomerang.",
-          "link": "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/",
-          "description": "\"We will likely have similar concerns and discussions when China fields its Starlink-like constellation.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 16:19:28 +0000"
-        },
-        {
-          "id": "8f3cfdfea002",
-          "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-          "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-          "description": "Companies coming to market are raising money at fastest pace this century.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 15:48:21 +0000"
-        },
-        {
-          "id": "e9a6f08c7bc0",
-          "title": "Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
-          "link": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
-          "description": "NTSB findings back Elon Musk's claim that driver manually overrode FSD.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 16 Jul 2026 14:48:32 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **自动驾驶事故与监管收紧**：Zoox因机器人在浓烟中行驶混乱而发布软件召回；旧金山市长因Waymo交通事件推动更严格的规则制定。\n2. **AI与创意工具升级**：Google Vids允许用户主演AI视频；Roblox在移动应用中推出AI驱动的游戏创建功能；AI旅行平台Fora获6000万美元融资成为独角兽。\n3. **太空与运输领域动态**：SpaceX在点火后突然中止第二次星舰V3发射；Uber以148亿美元收购Delivery Hero，全球业务版图近乎翻倍。\n4. **网络安全与商业调整**：可口可乐因勒索软件攻击暂停Fairlife乳制品生产；英国石油BP关闭运营20年的企业风投部门。\n5. **内容平台与融资新趋势**：X平台打击创作者盗用内容；Beehiiv推出订阅者聊天功能并融入AI；Founders Fund雇佣前OpenAI高管，预示AI人才争夺升级。\n\n**今日最值得关注的发展：** 自动驾驶领域接连出现安全与监管问题，同时AI在内容创作、游戏和旅行等消费场景的渗透加速，显示出技术落地与风险治理并行的行业格局。",
+      "summary": "今日科技动态摘要\n\n1. **AI与云计算领域持续升温**：Databricks估值飙升至1880亿美元，成为AI领域最受瞩目的“第二幕”企业；印度智能手机市场因AI驱动的内存需求激增而出现动荡。\n2. **科技巨头监管与法律纠纷加剧**：苹果与谷歌被要求从应用商店中移除“脱衣”应用；苹果对OpenAI的大规模诉讼可能干扰后者IPO计划；亚马逊修复了导致部分AWS客户被错误收取数十亿美元账单的漏洞。\n3. **新兴技术与安全挑战并存**：核能初创公司Valar Atomics正以60亿美元估值洽谈新一轮融资；Zoox因自动驾驶出租车在浓烟中迷失方向而发布软件召回；FBI逮捕一名利用Steam游戏盗取受害者加密货币钱包的嫌疑人。\n4. **消费者科技与隐私保护趋势**：家长呼吁为孩子提供更安全的手机，多家公司响应推出相关产品；Patreon停止请求AI机器人不要抓取内容，转而直接拦截；Zoom出现可让用户“别录我”的黑客手段。\n5. **硬件与生活方式的创新尝试**：Agility Robotics在特斯拉“后院”设厂布局；作者体验后认为Dyson一款设备可替代空间加热器和吊扇；reMarkable推出新款Paper Pure并获好评。\n\n今日最值得关注的发展是：**Databricks估值飙升至1880亿美元，凸显AI产业资本热度不减，同时苹果与OpenAI的诉讼可能重塑AI行业竞争格局。**",
       "count": 40
     },
     "ai": {
       "articles": [
         {
-          "id": "c2ccf3e94b01",
-          "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+          "id": "ce32b5b8ec76",
+          "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
           "description": "",
           "source": "Hugging Face",
           "category": "ai",
-          "pub_date": "Thu, 16 Jul 2026 16:01:21 GMT"
+          "pub_date": "Fri, 17 Jul 2026 15:57:54 GMT"
         },
         {
           "id": "4d6e204c8f8e",
@@ -464,7 +464,7 @@
           "id": "735487358f23",
           "title": "A scorecard for the AI age",
           "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-          "description": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+          "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Fri, 17 Jul 2026 10:00:00 GMT"
@@ -578,6 +578,33 @@
           "pub_date": "Wed, 15 Jul 2026 22:24:17 GMT"
         },
         {
+          "id": "0fc9ba2ec3c8",
+          "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
+          "link": "https://www.qbitai.com/2026/07/453352.html",
+          "description": "发布芯片只是拿到了入场券",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 17 Jul 2026 17:09:14 +0000"
+        },
+        {
+          "id": "868fa3ace8fd",
+          "title": "给AI发工号、定岗位、做绩效，数字员工终于能落地了",
+          "link": "https://www.qbitai.com/2026/07/453245.html",
+          "description": "面壁智能开源StaffDeck",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 17 Jul 2026 16:40:47 +0000"
+        },
+        {
+          "id": "2553294a4d26",
+          "title": "WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？",
+          "link": "https://www.qbitai.com/2026/07/453246.html",
+          "description": "每个Token背后，都是一次开源协作",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 17 Jul 2026 16:24:49 +0000"
+        },
+        {
           "id": "7c59503d5309",
           "title": "达卯科技WAIC首发算电协同2.0：构筑AI算力与绿色能源融合新范式",
           "link": "https://www.qbitai.com/2026/07/453237.html",
@@ -612,45 +639,72 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Fri, 17 Jul 2026 10:53:17 +0000"
-        },
-        {
-          "id": "2a28ed9cff04",
-          "title": "从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即",
-          "link": "https://www.qbitai.com/2026/07/453203.html",
-          "description": "",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 17 Jul 2026 10:41:24 +0000"
-        },
-        {
-          "id": "c2925177ccb4",
-          "title": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
-          "link": "https://www.qbitai.com/2026/07/453084.html",
-          "description": "",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 17 Jul 2026 10:17:23 +0000"
-        },
-        {
-          "id": "c33ed272da88",
-          "title": "文远发布物理AI大模型WITT：让每一公里都变成模型能力",
-          "link": "https://www.qbitai.com/2026/07/452961.html",
-          "description": "单卡日处理1万分钟视频",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 17 Jul 2026 10:11:49 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **NVIDIA Nemotron-3嵌入模型登顶RTEB排行榜**：该模型在检索增强与智能体任务中表现最佳，推动智能体检索技术发展。\n2. **OpenAI发布AI时代评分卡与安全倡议**：包括AI安全评分卡、青少年安全AI使用指南，以及通过州与联邦行动推进AI安全。\n3. **谷歌视觉搜索创新25周年与AI视频功能更新**：回顾视觉搜索发展历程，并推出Vids视频创建、编辑及主角生成功能。\n4. **模型路由的复杂性与智能体构建经验**：探讨模型路由的实际挑战，并分享构建智能体（如Shippy项目）的实践经验。\n5. **多款AI工具与安全事件披露**：包括Thinking Machines发布Inkling、VoiceEQ评估语音AI人声质量、Cars24用OpenAI优化对话，以及Hugging Face披露2026年7月安全事件。\n\n**最值得关注**：NVIDIA Nemotron-3在核心检索任务上取得突破性进展，可能重新定义智能体系统的信息获取方式。",
+      "summary": "今日AI动态摘要\n\n1. **NVIDIA与Hugging Face联合推出大规模模型微调工具**：通过NVIDIA NeMo Automodel和🤗 Diffusers，支持视频和图像模型的高效微调，提升AI模型定制化能力。\n2. **Hugging Face发布多款新模型与安全事件披露**：包括“Newer Models, Same Advantage”系列模型、2026年7月安全事件公开说明，以及“Shippy”项目构建代理的经验总结，强调模型路由的复杂性与AI代理开发实践。\n3. **Google AI更新视频生成与搜索功能**：推出Google Vids两项更新（支持视频创建、编辑及角色参演），并庆祝视觉搜索创新25周年，同时扩展搜索应用连接能力。\n4. **OpenAI聚焦AI安全与青少年应用**：发布AI时代评分卡、青少年安全AI使用指南，以及Cars24通过OpenAI扩展对话系统的案例，并强调美国通过州和联邦行动推进AI安全，同时推出GPT-Red模型以提升鲁棒性。\n5. **AI语音质量测量新工具与模型路由挑战**：Hugging Face推出“Real World VoiceEQ”评估语音AI的人类感知质量，并指出模型路由看似简单实则复杂，同时欢迎Thinking Machines的“Inkling”项目加入。\n\n**今日最值得关注的发展**：NVIDIA与Hugging Face联合推动的大规模模型微调工具，以及OpenAI在AI安全与青少年应用方面的多重举措，共同标志着AI领域从技术能力向安全、实用与伦理平衡的深化转型。",
       "count": 30
     },
     "cctv": {
       "articles": [
         {
+          "id": "63fdb258f4a1",
+          "title": "China's Latest A.I. Breakthrough Threatens America's Lead",
+          "link": "https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html",
+          "description": "Article URL: https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html Comments URL: https://news.ycombinator.com/item?id=48951944 Points: 5 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 17 Jul 2026 20:29:06 +0000"
+        },
+        {
+          "id": "951671891ea7",
+          "title": "China's Xi Jinping launches new AI alliance, WAICO",
+          "link": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it",
+          "description": "Article URL: https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it Comments URL: https://news.ycombinator.com/item?id=48951895 Points: 6 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 17 Jul 2026 20:24:44 +0000"
+        },
+        {
+          "id": "c970772886c5",
+          "title": "What Is China's Moonshot AI and Why Is It Roiling Markets?",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-17/what-is-moonshot-ai-why-china-s-new-model-is-roiling-markets",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-17/what-is-moonshot-ai-why-china-s-new-model-is-roiling-markets Comments URL: https://news.ycombinator.com/item?id=48951203 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 17 Jul 2026 19:16:42 +0000"
+        },
+        {
+          "id": "4aba15b129dc",
+          "title": "China's data annotation industry shows how jobs evolve with tech advancement",
+          "link": "https://www.globaltimes.cn/page/202606/1363363.shtml",
+          "description": "Article URL: https://www.globaltimes.cn/page/202606/1363363.shtml Comments URL: https://news.ycombinator.com/item?id=48951019 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 17 Jul 2026 19:00:00 +0000"
+        },
+        {
+          "id": "f368f65ac43e",
+          "title": "The Download: perimenopause misinformation and China's latest AI leap",
+          "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+          "description": "Article URL: https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/ Comments URL: https://news.ycombinator.com/item?id=48949607 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 17 Jul 2026 17:02:15 +0000"
+        },
+        {
+          "id": "f2ab15ee41a0",
+          "title": "China just erased America's AI lead",
+          "link": "https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus",
+          "description": "Article URL: https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus Comments URL: https://news.ycombinator.com/item?id=48949014 Points: 4 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 17 Jul 2026 16:10:56 +0000"
+        },
+        {
           "id": "e2853c8d6647",
           "title": "As Trump accuses China of election theft, Xi pitches Beijing as AI leader",
           "link": "https://www.cnn.com/2026/07/17/china/china-ai-conference-analysis-intl-hnk",
-          "description": "Article URL: https://www.cnn.com/2026/07/17/china/china-ai-conference-analysis-intl-hnk Comments URL: https://news.ycombinator.com/item?id=48948248 Points: 2 # Comments: 0",
+          "description": "Article URL: https://www.cnn.com/2026/07/17/china/china-ai-conference-analysis-intl-hnk Comments URL: https://news.ycombinator.com/item?id=48948248 Points: 2 # Comments: 2",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 17 Jul 2026 15:03:56 +0000"
@@ -659,7 +713,7 @@
           "id": "29cfd7e240dc",
           "title": "AI's Wider Availability Is Good for China, Not Great for OpenAI and Anthropic",
           "link": "https://www.wsj.com/tech/ai/cheaper-ai-commodity-openai-anthropic-0111da73",
-          "description": "Article URL: https://www.wsj.com/tech/ai/cheaper-ai-commodity-openai-anthropic-0111da73 Comments URL: https://news.ycombinator.com/item?id=48947875 Points: 2 # Comments: 0",
+          "description": "Article URL: https://www.wsj.com/tech/ai/cheaper-ai-commodity-openai-anthropic-0111da73 Comments URL: https://news.ycombinator.com/item?id=48947875 Points: 2 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 17 Jul 2026 14:34:31 +0000"
@@ -668,7 +722,7 @@
           "id": "63b63c323e7c",
           "title": "China wants to end AI romances",
           "link": "https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances",
-          "description": "Article URL: https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances Comments URL: https://news.ycombinator.com/item?id=48947555 Points: 5 # Comments: 1",
+          "description": "Article URL: https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances Comments URL: https://news.ycombinator.com/item?id=48947555 Points: 7 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 17 Jul 2026 14:05:50 +0000"
@@ -722,7 +776,7 @@
           "id": "c4d79ffda83e",
           "title": "Xi pitches China as leader of new global AI order, challenging US dominance",
           "link": "https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/",
-          "description": "Article URL: https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/ Comments URL: https://news.ycombinator.com/item?id=48943519 Points: 15 # Comments: 6",
+          "description": "Article URL: https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/ Comments URL: https://news.ycombinator.com/item?id=48943519 Points: 17 # Comments: 6",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 17 Jul 2026 05:07:29 +0000"
@@ -740,7 +794,7 @@
           "id": "0c169015ffe6",
           "title": "People in Many Countries Now View China More Positively Than the U.S.",
           "link": "https://www.pewresearch.org/global/2026/07/15/people-in-many-countries-now-view-china-more-positively-than-the-u-s/",
-          "description": "Article URL: https://www.pewresearch.org/global/2026/07/15/people-in-many-countries-now-view-china-more-positively-than-the-u-s/ Comments URL: https://news.ycombinator.com/item?id=48943166 Points: 15 # Comments: 7",
+          "description": "Article URL: https://www.pewresearch.org/global/2026/07/15/people-in-many-countries-now-view-china-more-positively-than-the-u-s/ Comments URL: https://news.ycombinator.com/item?id=48943166 Points: 16 # Comments: 7",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 17 Jul 2026 03:51:38 +0000"
@@ -839,67 +893,13 @@
           "id": "ce500d8c7349",
           "title": "After a Billion Kilometres, China's Asteroid Hunter Arrives",
           "link": "https://www.universetoday.com/articles/after-a-billion-kilometres-chinas-asteroid-hunter-finally-arrives",
-          "description": "Article URL: https://www.universetoday.com/articles/after-a-billion-kilometres-chinas-asteroid-hunter-finally-arrives Comments URL: https://news.ycombinator.com/item?id=48921113 Points: 4 # Comments: 1",
+          "description": "Article URL: https://www.universetoday.com/articles/after-a-billion-kilometres-chinas-asteroid-hunter-finally-arrives Comments URL: https://news.ycombinator.com/item?id=48921113 Points: 5 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 15 Jul 2026 14:10:29 +0000"
-        },
-        {
-          "id": "c60aaf34aaa7",
-          "title": "China detains US scientist who studied North Korea nuclear tests",
-          "link": "https://www.bbc.com/news/articles/cqx1xdn3g4eo",
-          "description": "Article URL: https://www.bbc.com/news/articles/cqx1xdn3g4eo Comments URL: https://news.ycombinator.com/item?id=48921009 Points: 7 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 15 Jul 2026 14:04:35 +0000"
-        },
-        {
-          "id": "fa44398fffd0",
-          "title": "China wants more babies – So it's cracking down on chatbot love affairs",
-          "link": "https://www.wsj.com/tech/ai/china-wants-more-babiesso-its-cracking-down-on-chatbot-love-affairs-65cd6c82",
-          "description": "Article URL: https://www.wsj.com/tech/ai/china-wants-more-babiesso-its-cracking-down-on-chatbot-love-affairs-65cd6c82 Comments URL: https://news.ycombinator.com/item?id=48920234 Points: 6 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 15 Jul 2026 13:03:13 +0000"
-        },
-        {
-          "id": "4becc92618d7",
-          "title": "China economic growth falls sharply, missing target",
-          "link": "https://www.bbc.com/news/articles/cd959x4edy8o",
-          "description": "Article URL: https://www.bbc.com/news/articles/cd959x4edy8o Comments URL: https://news.ycombinator.com/item?id=48919305 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 15 Jul 2026 11:38:39 +0000"
-        },
-        {
-          "id": "3ae2fc7644fa",
-          "title": "China and the new era of critical minerals diplomacy",
-          "link": "https://archive.fo/20260715052604/https://www.ft.com/content/a5018a00-0f96-4b39-b82f-c4ccd5e929f7",
-          "description": "Article URL: https://archive.fo/20260715052604/https://www.ft.com/content/a5018a00-0f96-4b39-b82f-c4ccd5e929f7 Comments URL: https://news.ycombinator.com/item?id=48918311 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 15 Jul 2026 09:33:38 +0000"
-        },
-        {
-          "id": "a1676f8c3d5e",
-          "title": "When China's open-source AI is a trap",
-          "link": "https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap",
-          "description": "Article URL: https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap Comments URL: https://news.ycombinator.com/item?id=48915416 Points: 3 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 15 Jul 2026 02:07:24 +0000"
-        },
-        {
-          "id": "126be393ef43",
-          "title": "List of Projects by Independent Developers in China",
-          "link": "https://github.com/1c7/chinese-independent-developer",
-          "description": "Article URL: https://github.com/1c7/chinese-independent-developer Comments URL: https://news.ycombinator.com/item?id=48912627 Points: 2 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 14 Jul 2026 20:37:09 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中国AI战略与全球领导地位**：习近平主席多次强调中国在人工智能领域的全球领导目标，包括在上海论坛上阐述AI外交愿景，并推动中国成为新全球AI秩序的主导者，挑战美国主导地位。同时，中国AI公司Z.ai有望成为首家年销售额达10亿美元的国内AI企业。\n2. **中美关系与经济博弈**：特朗普指责中国“选举盗窃”，中方则积极展现AI领导力。研究显示，西方若减少对中国依赖将损失23万亿美元。此外，中国电动汽车产业被视为对西方车企的“海盗式”冲击，而中国股市单日蒸发4.3万亿人民币引发关注。\n3. **AI监管与社会影响**：中国拟禁止AI情感陪伴（“AI恋爱”），同时全球AI审查机制在中国、印度、美国、欧洲等地接受测试。中国还举办了首场机器人综合格斗赛事，展示技术应用新场景。\n4. **国际形象与地缘技术竞争**：多国民众对中国的好感度超过美国。中俄是否具备摧毁“星链”的能力引发讨论，中国玩具批发等传统贸易模式仍受关注。\n\n**今日最值得关注的发展**：习近平系统提出中国AI全球领导战略，既展现技术雄心，也凸显中美在人工智能领域的主导权竞争加剧。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国AI突破挑战美国领先地位**：多项报道指出，中国在人工智能领域的最新进展正在缩小甚至抹平与美国的差距，多家中国AI企业（如Moonshot AI、Z.ai）在技术突破和市场表现上引发全球关注。\n2. **习近平主席推动中国成为全球AI领导者**：习近平主席发起新的人工智能联盟（WAICO），并多次强调中国要在全球AI秩序中发挥引领作用，挑战美国主导地位。\n3. **中国AI产业生态与市场影响**：包括数据标注行业随技术升级而演变、AI更广泛普及对中国有利但对OpenAI等美国公司构成压力，以及中国股市因AI相关消息出现大幅波动（单日蒸发4.3万亿元）。\n4. **中国在电动汽车领域的竞争与全球供应链风险**：中国电动汽车“海盗船”正冲击西方车企，同时研究显示若西方减少对华依赖将损失23万亿美元，凸显中国在新能源与供应链中的关键地位。\n5. **中国拟规范AI情感关系**：报道提到中国有意结束AI浪漫关系，显示在推动技术发展的同时，也在关注AI伦理与社会影响。\n\n**今日最值得关注的发展**：中国在人工智能领域的系统性突破已明确挑战美国的技术主导地位，习近平主席正通过政策与联盟布局，将中国塑造为全球AI新秩序的核心引领者。",
       "count": 28
     }
   }
