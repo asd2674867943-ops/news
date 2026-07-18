@@ -1,9 +1,45 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T14:54:30.028170",
+  "generated_at": "2026-07-18T22:55:13.992520",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "7e10f0e443f5",
+          "title": "Waymo says San Francisco service has resumed after one-hour pause",
+          "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+          "description": "This isn’t the first time power outages have caused issues for Waymo.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 18 Jul 2026 19:30:23 +0000"
+        },
+        {
+          "id": "7f9209266f43",
+          "title": "Kimi: Threat or menace?",
+          "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+          "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 18 Jul 2026 18:51:07 +0000"
+        },
+        {
+          "id": "29430455a066",
+          "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+          "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+          "description": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 18 Jul 2026 16:30:00 +0000"
+        },
+        {
+          "id": "4989bd5f4341",
+          "title": "Federal employees can download TikTok on their work phones again",
+          "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+          "description": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 18 Jul 2026 15:54:24 +0000"
+        },
         {
           "id": "791d28589ba1",
           "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
@@ -147,42 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 17 Jul 2026 15:21:17 +0000"
-        },
-        {
-          "id": "b45d19bc8fb9",
-          "title": "reMarkable’s new Paper Pure is good. That’s why I wrote this review on it.",
-          "link": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/",
-          "description": "Remarkable's Paper Pure replaces Remarkable 2, and it is quite good.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 17 Jul 2026 14:47:27 +0000"
-        },
-        {
-          "id": "4f3c38bf78e1",
-          "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
-          "link": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
-          "description": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage. We’ve covered the trend in detail, and at this year’s TechCrunch Disrupt event, we want to help pre-seed founders now being held to seed-stage [&#8230;]",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 17 Jul 2026 14:30:00 +0000"
-        },
-        {
-          "id": "d09fbc793477",
-          "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
-          "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
-          "description": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 17 Jul 2026 14:12:02 +0000"
-        },
-        {
-          "id": "f44c50c47bb2",
-          "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-          "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-          "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 17 Jul 2026 12:00:00 +0000"
         },
         {
           "id": "b1f098158229",
@@ -365,7 +365,7 @@
           "pub_date": "Thu, 16 Jul 2026 20:26:23 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **电动汽车充电体验显著改善**：一项长达600英里的公路旅行及数据证明，电动汽车充电不再令人头疼，充电基础设施和效率已大幅提升。\n\n2. **AI投资热潮或将回调**：Neil Rimer认为，当前涌入人工智能领域的巨额资金可能会开始回流，暗示市场可能面临调整。\n\n3. **AI与智能手机市场面临新挑战**：AI驱动的内存需求激增正冲击印度智能手机市场，同时Vertu推出面向高管的6880美元AI助手，但其实际性能表现存疑。\n\n4. **科技巨头与监管行动升级**：苹果和谷歌被要求从应用商店移除“脱衣”类应用；苹果的一起重大诉讼可能扰乱OpenAI的IPO计划；FBI逮捕了一名利用Steam游戏盗取加密货币钱包的嫌疑人。\n\n5. **企业估值与融资动态活跃**：Databricks估值达1880亿美元，延续AI领域热门地位；核能初创公司Valar Atomics正洽谈以60亿美元估值融资；Agility Robotics在特斯拉“后院”布局机器人业务。\n\n**今日最值得关注的发展**：Databricks以1880亿美元估值继续领跑AI赛道，同时苹果与谷歌面临清理有害应用的监管压力，以及苹果诉讼可能冲击OpenAI上市进程，凸显AI产业在高速增长与合规风险间的激烈博弈。",
+      "summary": "今日科技动态摘要\n\n1. **自动驾驶与交通**：Waymo在旧金山的自动驾驶服务在暂停一小时后恢复运营，显示其技术仍在调整中。\n2. **AI行业动态**：Databricks估值飙升至1880亿美元，延续其作为AI领域重要参与者的势头；同时，AI投资风向标Neil Rimer认为AI领域的资金将回流。\n3. **智能手机与AI**：AI驱动的内存需求激增正冲击印度智能手机市场，反映AI应用对硬件性能的更高要求。\n4. **监管与安全**：苹果和谷歌被要求从应用商店中移除“换衣”类应用，加强内容安全监管；联邦雇员再次获准在工作手机上使用TikTok。\n5. **电动汽车与能源**：美国今年多款电动汽车停产或取消，但一项600英里公路测试数据表明，电动汽车充电体验已显著改善；核能初创公司Valar Atomics正以60亿美元估值寻求新融资。\n\n**今日最值得关注的发展**：AI投资热度回升与硬件需求升级并存，同时自动驾驶和电动汽车充电基础设施的改进正逐步落地。",
       "count": 40
     },
     "ai": {
@@ -578,6 +578,15 @@
           "pub_date": "Wed, 15 Jul 2026 22:24:17 GMT"
         },
         {
+          "id": "e87f6174fa41",
+          "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+          "link": "https://www.qbitai.com/2026/07/454040.html",
+          "description": "机器人真正具备了干活的完整能力",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 18 Jul 2026 13:23:21 +0000"
+        },
+        {
           "id": "7cfb9b772b7d",
           "title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
           "link": "https://www.qbitai.com/2026/07/454015.html",
@@ -630,18 +639,9 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Sat, 18 Jul 2026 07:20:19 +0000"
-        },
-        {
-          "id": "16f84b7b0417",
-          "title": "商汤大装置联合近20家生态伙伴发起“银河计划”，将共建5个万卡级国产智算集群",
-          "link": "https://www.qbitai.com/2026/07/453697.html",
-          "description": "加速国产算力从落地可用到规模化盈利",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Sat, 18 Jul 2026 06:56:10 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **模型微调与发布**：NVIDIA与Hugging Face合作推出NeMo Automodel和Diffusers，支持大规模视频与图像模型微调；同时Hugging Face发布新模型及“Inkling”项目，并探讨模型路由的复杂性。\n2. **AI安全与治理**：OpenAI与Hugging Face分别发布安全事件披露（2026年7月）和AI安全进展报告，美国通过州与联邦行动推进AI安全；OpenAI还推出GPT-Red框架以提升模型鲁棒性。\n3. **应用与工具更新**：Google推出AI视频编辑工具Vids更新、Search应用连接扩展，并庆祝视觉搜索25周年；OpenAI展示Cars24通过其技术扩展对话与构建效率，并强调青少年安全使用AI的必要性。\n4. **语音与搜索创新**：Hugging Face发布Real World VoiceEQ，评估语音AI的人类质量；Google搜索功能与更多应用集成，提升用户体验。\n\n**今日最值得关注的发展**：模型微调与安全治理并行推进，NVIDIA与Hugging Face的大规模微调方案、OpenAI的鲁棒性自改进框架及美国AI安全行动，共同标志着AI技术正从能力提升转向更负责任的部署。",
+      "summary": "今日AI动态摘要\n\n1. **模型微调与部署效率提升**：NVIDIA NeMo Automodel与🤗 Diffusers结合，实现视频和图像模型的大规模微调；Hugging Face推出新模型及“路由”技术，强调模型选择与调度的复杂性。\n2. **AI安全与隐私事件披露**：Hugging Face公布2026年7月安全事件详情；OpenAI发布AI安全记分卡、推动联邦与州层面的安全行动，并探讨青少年安全AI使用权益。\n3. **语音与搜索技术更新**：Hugging Face推出“Real World VoiceEQ”评估语音AI人类质量；Google AI更新视频创作工具Vids、扩展搜索应用连接，并庆祝视觉搜索技术25周年。\n4. **企业级AI应用实践**：Cars24借助OpenAI提升对话规模与效率；OpenAI发布“GPT-Red”自我改进框架，增强模型鲁棒性。\n5. **智能体构建经验分享**：Hugging Face通过“Shippy”项目总结构建AI代理的教训；Thinking Machines推出“Inkling”新工具，探索代理路由与决策逻辑。\n\n今日最值得关注的发展：**Hugging Face与OpenAI在安全事件披露、模型微调效率及智能体构建经验上的密集更新，凸显AI行业正加速平衡性能提升与安全治理。**",
       "count": 30
     },
     "cctv": {
@@ -650,7 +650,7 @@
           "id": "9f8c5eaad469",
           "title": "China's A.I. Play Is Different from America's",
           "link": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
-          "description": "Article URL: https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48957979 Points: 2 # Comments: 0",
+          "description": "Article URL: https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48957979 Points: 3 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 18 Jul 2026 13:26:22 +0000"
@@ -722,7 +722,7 @@
           "id": "29cfd7e240dc",
           "title": "AI's Wider Availability Is Good for China, Not Great for OpenAI and Anthropic",
           "link": "https://www.wsj.com/tech/ai/cheaper-ai-commodity-openai-anthropic-0111da73",
-          "description": "Article URL: https://www.wsj.com/tech/ai/cheaper-ai-commodity-openai-anthropic-0111da73 Comments URL: https://news.ycombinator.com/item?id=48947875 Points: 2 # Comments: 1",
+          "description": "Article URL: https://www.wsj.com/tech/ai/cheaper-ai-commodity-openai-anthropic-0111da73 Comments URL: https://news.ycombinator.com/item?id=48947875 Points: 3 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 17 Jul 2026 14:34:31 +0000"
@@ -812,7 +812,7 @@
           "id": "2802683c6790",
           "title": "AI Censorship Tested Across India, China, US, and Europe",
           "link": "https://www.reddit.com/r/AIDiscussion/s/MxOxble1Kd",
-          "description": "Article URL: https://www.reddit.com/r/AIDiscussion/s/MxOxble1Kd Comments URL: https://news.ycombinator.com/item?id=48943108 Points: 5 # Comments: 0",
+          "description": "Article URL: https://www.reddit.com/r/AIDiscussion/s/MxOxble1Kd Comments URL: https://news.ycombinator.com/item?id=48943108 Points: 6 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 17 Jul 2026 03:39:30 +0000"
@@ -899,7 +899,7 @@
           "pub_date": "Wed, 15 Jul 2026 18:35:22 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中国AI发展路径独特且挑战美国领先地位**：多篇报道指出，中国在人工智能领域的策略与美国不同，且近期取得的技术突破正在威胁甚至“抹去”美国的AI领先优势，例如Moonshot AI等公司引发市场震动。\n2. **习近平主席推动AI全球领导地位与新联盟**：习近平主席提出中国成为全球AI领导者的目标，并宣布启动新的AI联盟“WAICO”，同时在国际场合强调中国在AI领域的领导角色。\n3. **AI产业对就业与市场的影响**：中国的数据标注行业展示了技术如何推动就业演变；同时，AI的广泛普及对中国有利，但对OpenAI和Anthropic等美国公司构成挑战。此外，中国股市因AI相关波动出现巨额市值蒸发。\n4. **中国在AI伦理与产业竞争上的新动向**：中国希望终结AI浪漫关系，并面临西方对中国依赖度降低的成本问题（预计达23万亿美元）。同时，中国电动汽车产业被比作“海盗船”，威胁西方汽车制造商。\n5. **中国AI企业取得里程碑式商业成功**：Z.ai有望成为首家年销售额达10亿美元的中国AI公司，标志着中国AI商业化进入新阶段。\n\n**今日最值得关注的发展**：中国AI突破正系统性削弱美国的技术主导地位，同时习近平主席通过新联盟与全球领导力宣示，进一步强化了中国在AI领域的战略雄心。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国AI发展路径独特且威胁美国领先地位**：多篇报道指出，中国的人工智能发展模式与美国不同，且最新突破正在削弱美国的技术优势，甚至被认为“抹平了美国的AI领先地位”。\n2. **习近平主席推动AI全球领导地位与新联盟**：习近平主席提出中国成为全球AI领导者的目标，并宣布成立新的AI联盟“WAICO”，同时强调中国在AI领域的国际领导力。\n3. **中国AI企业取得里程碑式商业成功**：Z.ai预计成为首家年销售额达10亿美元的中国AI公司，同时Moonshot AI等企业引发市场关注，显示中国AI产业商业化加速。\n4. **AI技术对就业与市场产生深远影响**：数据标注行业展示技术进步如何改变就业形态，AI的广泛普及对中国有利，但对OpenAI和Anthropic等美国公司构成挑战。\n5. **中国在多个领域对西方形成竞争压力**：中国电动汽车产业被形容为“海盗船”冲击西方车企，同时研究显示西方若减少对华依赖将损失23万亿美元，凸显中国在全球产业链中的关键地位。\n\n**今日最值得关注的发展**：中国AI技术突破正系统性挑战美国长期以来的技术霸权，习近平主席亲自推动AI全球领导战略，标志着中美科技竞争进入新阶段。",
       "count": 28
     }
   }
