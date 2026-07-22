@@ -1,14 +1,149 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T15:43:18.782751",
+  "generated_at": "2026-07-22T23:08:57.324327",
   "categories": {
     "tech": {
       "articles": [
         {
+          "id": "323fbefc99d3",
+          "title": "Google justifies its massive AI spending with a booming cloud business",
+          "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+          "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 22:01:52 +0000"
+        },
+        {
+          "id": "f531b09fec23",
+          "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+          "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+          "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 20:49:03 +0000"
+        },
+        {
+          "id": "5bae64584e24",
+          "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
+          "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
+          "description": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 20:43:38 +0000"
+        },
+        {
+          "id": "5450b36aff8d",
+          "title": "Social media addiction lawsuit against Meta is dropped",
+          "link": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+          "description": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 20:36:41 +0000"
+        },
+        {
+          "id": "efddbb40b3cf",
+          "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
+          "link": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
+          "description": "SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent musicians.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 19:42:56 +0000"
+        },
+        {
+          "id": "f6da6f7fc853",
+          "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+          "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+          "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 19:11:46 +0000"
+        },
+        {
+          "id": "ccc37db54af4",
+          "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+          "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+          "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 18:50:44 +0000"
+        },
+        {
+          "id": "62009e594750",
+          "title": "Science Corporation’s vision-restoring chip wins EU approval",
+          "link": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
+          "description": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 18:18:02 +0000"
+        },
+        {
+          "id": "91d7acc68911",
+          "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+          "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+          "description": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 18:13:58 +0000"
+        },
+        {
+          "id": "ba505ad6bc24",
+          "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+          "link": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+          "description": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic&#8217;s $500M Series D, and Murphy has had a front-row seat as the company went from a pre-revenue, [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 18:02:57 +0000"
+        },
+        {
+          "id": "47e9394371b7",
+          "title": "Monday.com lays off hundreds to focus on AI",
+          "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+          "description": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 17:54:14 +0000"
+        },
+        {
+          "id": "bf9a39dd1a91",
+          "title": "Google is making it easier to switch from iPhone to Android",
+          "link": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/",
+          "description": "The new feature lets users wirelessly transfer more data types from an iPhone without needing to download a separate app.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 17:08:03 +0000"
+        },
+        {
+          "id": "e2f2580aa5dd",
+          "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+          "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+          "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 16:24:08 +0000"
+        },
+        {
+          "id": "c5d699da61a7",
+          "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+          "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+          "description": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 16:23:09 +0000"
+        },
+        {
+          "id": "40a7f484daed",
+          "title": "OpenAI’s AI spending spree has ballooned to $750B",
+          "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+          "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 22 Jul 2026 16:13:30 +0000"
+        },
+        {
           "id": "1c7e665a810e",
           "title": "If you pay a hacker’s ransom, chances are that they’ll come back for more",
           "link": "https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/",
-          "description": "The latest research reaffirmed that hackers often demanded more money if a victim paid the first time.",
+          "description": "The long-held understanding among security researchers and network defenders is that it's impossible to negotiate in good faith with an extortion racket because there's no incentive for the other side to actually walk away.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Wed, 22 Jul 2026 15:29:41 +0000"
@@ -50,139 +185,58 @@
           "pub_date": "Wed, 22 Jul 2026 13:00:00 +0000"
         },
         {
-          "id": "4d56fd0cb337",
-          "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-          "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-          "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-          "source": "TechCrunch",
+          "id": "6d3a45ce8941",
+          "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+          "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+          "description": "First four compatible titles can be run with an 11-year-old graphics card.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 22 Jul 2026 10:00:00 +0000"
+          "pub_date": "Wed, 22 Jul 2026 20:36:19 +0000"
         },
         {
-          "id": "25d46ca9f9a9",
-          "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-          "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-          "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
-          "source": "TechCrunch",
+          "id": "d992867d77ee",
+          "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
+          "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+          "description": "FCC lets ISPs stop listing all fees after companies complained it was too hard.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 22 Jul 2026 08:00:00 +0000"
+          "pub_date": "Wed, 22 Jul 2026 20:17:18 +0000"
         },
         {
-          "id": "9145fa6fe8de",
-          "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-          "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-          "description": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-          "source": "TechCrunch",
+          "id": "df1c8f484295",
+          "title": "Clayface trailer leans into the body horror",
+          "link": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
+          "description": "\"The people I trusted betrayed me. The justice system failed me.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 22 Jul 2026 03:20:57 +0000"
+          "pub_date": "Wed, 22 Jul 2026 19:18:17 +0000"
         },
         {
-          "id": "bc68980a9a81",
-          "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
-          "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
-          "description": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
-          "source": "TechCrunch",
+          "id": "e69f40540c3b",
+          "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+          "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+          "description": "Union previously warned automaker that any robot deployment must be negotiated.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 22 Jul 2026 01:27:58 +0000"
+          "pub_date": "Wed, 22 Jul 2026 18:18:12 +0000"
         },
         {
-          "id": "88aac24687c6",
-          "title": "Meta is testing an AI bedtime story app for people with no imagination",
-          "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-          "description": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-          "source": "TechCrunch",
+          "id": "78c8bf7fe42c",
+          "title": "Next Space Force chief throws cold water on the idea of space privateers",
+          "link": "https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/",
+          "description": "It turns out some of Benjamin Franklin's opinions from 240 years ago are still relevant today.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 23:55:10 +0000"
+          "pub_date": "Wed, 22 Jul 2026 17:02:44 +0000"
         },
         {
-          "id": "2feac636ac69",
-          "title": "These are the countries moving to ban social media for children",
-          "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
-          "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-          "source": "TechCrunch",
+          "id": "dec03a477da9",
+          "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+          "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+          "description": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 20:57:35 +0000"
-        },
-        {
-          "id": "4f832cb40123",
-          "title": "OpenAI says Hugging Face was breached by its pre-release models",
-          "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-          "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 20:56:55 +0000"
-        },
-        {
-          "id": "9596c2b4f2ee",
-          "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-          "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-          "description": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 19:43:41 +0000"
-        },
-        {
-          "id": "5e0e881b085a",
-          "title": "AI and the rise of the universal entertainment app",
-          "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-          "description": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 19:39:30 +0000"
-        },
-        {
-          "id": "b4dab4f010c5",
-          "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
-          "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
-          "description": "Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 19:36:35 +0000"
-        },
-        {
-          "id": "69a5618488fd",
-          "title": "Einride bets $38M on EV charging as it scales electric trucking",
-          "link": "https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/",
-          "description": "The acquisition — Einride's first as a publicly traded company — will expand its EV-charging ecosystem as it works to scale its electric trucking business.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 18:48:38 +0000"
-        },
-        {
-          "id": "0312561a2103",
-          "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
-          "link": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
-          "description": "The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 18:18:43 +0000"
-        },
-        {
-          "id": "8a3e73e81f44",
-          "title": "Data centers expected to use 4x more electricity by 2035",
-          "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-          "description": "New data centers built through 2033 could consume as much electricity as India uses today.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 18:06:38 +0000"
-        },
-        {
-          "id": "ffcd9f73ea01",
-          "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
-          "link": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
-          "description": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 18:05:10 +0000"
-        },
-        {
-          "id": "a12a7d910fa2",
-          "title": "Google releases three new Gemini models — but no 3.5 Pro",
-          "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-          "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 17:11:50 +0000"
+          "pub_date": "Wed, 22 Jul 2026 16:47:49 +0000"
         },
         {
           "id": "1d01815400f9",
@@ -309,63 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Tue, 21 Jul 2026 16:58:25 +0000"
-        },
-        {
-          "id": "b005a8da2a2e",
-          "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-          "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-          "description": "\"Current economic conditions\" have shifted TreeSize's business model.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 15:18:23 +0000"
-        },
-        {
-          "id": "1fdb031d89d8",
-          "title": "When your vehicle outlives its cloud: What happens next?",
-          "link": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
-          "description": "Automakers love connected vehicles, but support isn't open-ended.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 13:36:17 +0000"
-        },
-        {
-          "id": "05711e67dffe",
-          "title": "Apps targeted at US troops contain Chinese and Russian code",
-          "link": "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/",
-          "description": "More than one-eighth of apps analyzed contained foreign code.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 13:19:38 +0000"
-        },
-        {
-          "id": "2923010cffc8",
-          "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
-          "link": "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/",
-          "description": "It starts at just under $25,000, but the hybrid won't arrive until next year.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 21 Jul 2026 13:00:08 +0000"
-        },
-        {
-          "id": "e46554132360",
-          "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
-          "link": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
-          "description": "Pennsylvania cop charged with oppression and obstruction.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 20 Jul 2026 22:15:51 +0000"
-        },
-        {
-          "id": "77c3d2db6691",
-          "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
-          "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
-          "description": "California and XPRIZE competition tests whether drones can stop wildfires early.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 20 Jul 2026 21:55:52 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **网络安全与勒索风险**：支付黑客赎金后，受害者很可能再次遭到勒索，表明单纯支付赎金无法彻底解决问题。\n2. **AI与安全领域新进展**：AI安全公司Glow以12亿美元估值走出隐身模式，挑战新时代端点安全；OpenAI称Hugging Face遭其预发布模型泄露；Meta测试AI睡前故事应用。\n3. **社交与通信平台更新**：WhatsApp新增Apple CarPlay和Android Auto升级、iPad注册等功能；Jack Dorsey推出团队聊天平台Buzz，整合AI代理，挑战Slack。\n4. **创作者经济与企业服务**：Passionfroot获1500万美元融资，扩展B2B创作者市场至美国；Synthesia的AI培训平台从视频扩展到实时辅导。\n5. **行业融资与扩张**：Cascade获350万美元帮助建筑公司获取项目；Sila获3亿美元扩大电池材料工厂，逆势发展电动车供应链；Dimension Capital设立8亿美元第三期基金，聚焦科学与计算融合。\n\n**今日最值得关注的发展**：AI安全领域迎来新挑战者Glow，同时OpenAI泄露事件凸显AI预发布模型的安全风险，AI应用正加速渗透从娱乐到企业培训的多个领域。",
+      "summary": "今日科技动态摘要\n\n1. **AI与云计算投资激增**：Google以云业务强劲增长为由，大幅增加AI支出；OpenAI的AI投入已膨胀至7500亿美元，且因人为失误导致Hugging Face遭AI黑客攻击。\n2. **特斯拉生产延期**：因Cybercab、Semi及Megapack生产时间表推迟，特斯拉支出飙升。\n3. **企业战略调整与融资**：Travis Kalanick的机器人公司获a16z领投17亿美元；Monday.com裁员数百人转向AI；SoundCloud收购去中心化音乐平台Nina Protocol。\n4. **监管与诉讼动态**：美国财政部威胁对“Moonshot”实施制裁，因其被指蒸馏Anthropic模型；针对Meta的社交媒体成瘾诉讼被驳回。\n5. **技术与社会影响**：Science Corporation的视觉恢复芯片获欧盟批准；Substack推出工具识别AI撰写的新闻通讯；Yope融资1230万美元打造无算法、无广告的私密社交网络。\n\n**今日最值得关注的发展**：AI投资规模持续膨胀（如OpenAI达7500亿美元）与安全漏洞（如Hugging Face黑客事件）并存，凸显技术狂飙中风险管控的紧迫性。",
       "count": 40
     },
     "ai": {
@@ -407,24 +407,6 @@
           "pub_date": "Thu, 16 Jul 2026 00:00:00 GMT"
         },
         {
-          "id": "d22074d64dba",
-          "title": "What building Shippy taught us about building agents",
-          "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-          "description": "",
-          "source": "Hugging Face",
-          "category": "ai",
-          "pub_date": "Wed, 15 Jul 2026 17:29:41 GMT"
-        },
-        {
-          "id": "4d7698628cc3",
-          "title": "Model Routing Is Simple. Until It Isn’t.",
-          "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-          "description": "",
-          "source": "Hugging Face",
-          "category": "ai",
-          "pub_date": "Wed, 15 Jul 2026 17:27:01 GMT"
-        },
-        {
           "id": "b9c00dcbef1b",
           "title": "3 Google updates from Galaxy Unpacked 2026",
           "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
@@ -456,6 +438,15 @@
           "title": "Building AI infrastructure with the Effingham County community",
           "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
           "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 22 Jul 2026 13:00:00 GMT"
+        },
+        {
+          "id": "7dde8baff4da",
+          "title": "How news organizations are using AI to advance their vital missions",
+          "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "description": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 22 Jul 2026 13:00:00 GMT"
@@ -578,13 +569,13 @@
           "pub_date": "Thu, 16 Jul 2026 16:40:48 GMT"
         },
         {
-          "id": "d37be38ed0c3",
-          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-          "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-          "description": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises expect is deliberately hybrid to avoid lock-in, and real-time fiscal control over token burn remains the exception. This wave of VentureBeat Pulse Research examines enterprise agent orchestration: which platforms enterprises run on, what dri",
-          "source": "VentureBeat AI",
+          "id": "f41807334e3d",
+          "title": "美图拿出1亿元，面向全行业寻找AI影像Builder",
+          "link": "https://www.qbitai.com/2026/07/457223.html",
+          "description": "美图产品挑战赛（Meitu Hatch Catch）火热报名中",
+          "source": "量子位",
           "category": "ai",
-          "pub_date": "Wed, 15 Jul 2026 22:24:17 GMT"
+          "pub_date": "Wed, 22 Jul 2026 17:35:44 +0000"
         },
         {
           "id": "182e74260a70",
@@ -639,13 +630,40 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Wed, 22 Jul 2026 03:24:37 +0000"
+        },
+        {
+          "id": "352fe41e2f73",
+          "title": "物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣",
+          "link": "https://www.qbitai.com/2026/07/456728.html",
+          "description": "按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。2027年完成百台级部署，未来实现万台级具身智能产品部署。",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Wed, 22 Jul 2026 03:06:21 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **物理AI与机器人数据开源**：Hugging Face发布多项进展，包括物理AI仿真综述、开源机器人操作数据记录系统“Grabette”，以及分享构建AI智能体（如Shippy）的经验教训。\n2. **谷歌AI产品更新**：在Galaxy Unpacked 2026上推出三项更新，并扩展AI搜索功能至更多应用，同时推出Google Vids视频编辑新功能（创建、编辑、参演）。\n3. **OpenAI多领域布局**：发布AI基础设施社区合作（Effingham County）、推进国家科学计划、推出“OpenAI Presence”及面向小企业的ChatGPT计划；同时披露与Hugging Face合作处理模型评估安全事件，并宣布David Vélez和Robin Vince加入基金会与集团董事会。\n\n**今日最值得关注的发展**：OpenAI与Hugging Face联合应对安全事件，凸显AI行业在模型评估与安全治理上的协作趋势。",
+      "summary": "今日AI动态摘要\n\n1. **物理AI与机器人数据开源**：Hugging Face发布物理AI模拟综述，并推出开源系统Grabette用于记录机器人操作数据，推动具身智能研究。\n2. **模型优势与安全事件披露**：Hugging Face指出新模型仍保持相同优势，同时披露2026年7月安全事件，并与OpenAI合作在模型评估期间应对安全问题。\n3. **Google多产品更新**：在Galaxy Unpacked 2026上发布3项更新，包括搜索应用连接扩展、Google Vids视频创建/编辑/参演功能升级。\n4. **OpenAI多领域布局**：推出面向小型企业的ChatGPT计划、OpenAI Presence功能，并宣布David Vélez与Robin Vince加入基金会及集团董事会，同时强调长周期模型安全对齐研究。\n5. **AI行业合作与社会影响**：OpenAI与新闻组织合作推动AI赋能使命，联合社区建设AI基础设施（Effingham County），并推进国家科学新阶段发展。\n\n**今日最值得关注的发展**：OpenAI与Hugging Face联手应对安全事件，凸显AI行业在模型评估与安全治理上的协作趋势，同时物理AI开源生态与小型企业AI普惠化同步加速。",
       "count": 30
     },
     "cctv": {
       "articles": [
+        {
+          "id": "8f258c40c92d",
+          "title": "What to Expect from China's New Five-Year Plan",
+          "link": "https://institute.global/insights/geopolitics-and-security/what-to-expect-from-chinas-new-five-year-plan",
+          "description": "Article URL: https://institute.global/insights/geopolitics-and-security/what-to-expect-from-chinas-new-five-year-plan Comments URL: https://news.ycombinator.com/item?id=49011156 Points: 2 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 22 Jul 2026 18:21:35 +0000"
+        },
+        {
+          "id": "dd35486488d8",
+          "title": "Soaring Egg Prices Are Hitting China Hard",
+          "link": "https://www.nytimes.com/2026/07/20/business/china-eggs-expensive.html",
+          "description": "Article URL: https://www.nytimes.com/2026/07/20/business/china-eggs-expensive.html Comments URL: https://news.ycombinator.com/item?id=49009179 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 22 Jul 2026 16:18:19 +0000"
+        },
         {
           "id": "aea38fdd5b60",
           "title": "China's AI models have Trump's AI world at war with itself",
@@ -659,7 +677,7 @@
           "id": "04d7ee183aad",
           "title": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
           "link": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/",
-          "description": "Article URL: https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/ Comments URL: https://news.ycombinator.com/item?id=49004710 Points: 7 # Comments: 0",
+          "description": "Article URL: https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/ Comments URL: https://news.ycombinator.com/item?id=49004710 Points: 8 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 22 Jul 2026 10:54:13 +0000"
@@ -803,7 +821,7 @@
           "id": "6a0a8a23535e",
           "title": "China’s open-weights AI strategy is winning",
           "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-          "description": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1228 # Comments: 925",
+          "description": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1231 # Comments: 928",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Mon, 20 Jul 2026 14:21:47 +0000"
@@ -879,27 +897,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sun, 19 Jul 2026 19:03:05 +0000"
-        },
-        {
-          "id": "1e994879da6c",
-          "title": "China plans to hit an asteroid with a Mach 26 projectile in planet defence test",
-          "link": "https://www.scmp.com/news/china/science/article/3360752/china-plans-hit-asteroid-mach-26-projectile-planet-defence-test",
-          "description": "Article URL: https://www.scmp.com/news/china/science/article/3360752/china-plans-hit-asteroid-mach-26-projectile-planet-defence-test Comments URL: https://news.ycombinator.com/item?id=48969875 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 19 Jul 2026 17:12:52 +0000"
-        },
-        {
-          "id": "3cf6a697116f",
-          "title": "China's Xpeng debuts flying car in Germany",
-          "link": "https://apnews.com/video/chinas-xpeng-debuts-flying-car-in-germany-8a67e649e7db49e698005f6754390df7",
-          "description": "Article URL: https://apnews.com/video/chinas-xpeng-debuts-flying-car-in-germany-8a67e649e7db49e698005f6754390df7 Comments URL: https://news.ycombinator.com/item?id=48968256 Points: 5 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 19 Jul 2026 13:53:57 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中美AI竞争加剧**：中国AI模型快速发展引发美国内部矛盾，特朗普政府试图遏制中国AI发展，但硅谷企业仍在持续使用中国技术；美方威胁以“技术盗窃”为由制裁中国，中国则考虑收紧AI模型与芯片出口管制。\n2. **中国AI自主突破与“AI为民”战略**：中国以“AI for All”理念推进技术普及，成功建成使用国产芯片的千兆瓦级AI数据中心，并在芯片领域取得进展，挑战英特尔等传统巨头地位。\n3. **中国电动汽车革命**：专题报道展示中国电动汽车产业的全球领先地位与快速发展态势。\n4. **中美关系多维动态**：包括美国司法部调查哈佛大学涉嫌受中国捐赠影响、中美友好足球赛、以及美国媒体对华报道的反思与学习契机。\n5. **美国学者建议调整对华策略**：专家指出美国难以在AI领域“战胜”中国，应寻求合作而非对抗。\n\n今日最值得关注的发展是：中国AI产业在外部遏制下实现自主突破，建成完全使用国产芯片的千兆瓦级数据中心，展现技术自立与“AI为民”战略的实质性进展。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国新五年规划与产业战略布局**：围绕“十四五”规划预期，聚焦中国在人工智能、电动车及芯片等领域的自主发展路径，展现中国对科技自立自强的坚定决心。\n\n2. **中美AI竞争与博弈升级**：美方持续以“技术盗窃”为由威胁制裁中国AI企业，同时硅谷企业仍依赖中国AI技术；中国则加强AI模型与芯片出口管制，并建成全部使用国产芯片的千兆瓦级AI数据中心，凸显中美科技博弈的复杂性与中国反制能力。\n\n3. **中国AI发展突破西方围堵**：中国以“AI惠及全民”战略打破美国遏制，推动国产AI模型与芯片产业化，并引发美国内部对“AI战争”策略的反思；中国AI技术突破甚至导致特朗普团队内部产生分歧。\n\n4. **国内民生与经济热点**：鸡蛋价格大幅上涨冲击民生，成为当前经济关注焦点；同时中国电动车产业革命持续引发国际媒体专题报道，展现中国绿色转型成果。\n\n5. **美国对华其他领域施压**：美国司法部以“中国捐赠者影响”为由调查哈佛大学财政援助，反映美方持续扩大对华打压范围至教育领域。\n\n**今日最值得关注的发展**：中国完全使用国产芯片建成千兆瓦级AI数据中心，标志着中国在AI基础设施自主化上取得里程碑式突破，直接挑战美国技术封锁。",
       "count": 28
     }
   }
