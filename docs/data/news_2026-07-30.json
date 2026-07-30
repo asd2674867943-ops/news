@@ -1,9 +1,126 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T15:51:41.651282",
+  "generated_at": "2026-07-30T23:11:48.088112",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "db6a78b3ce6b",
+          "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+          "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+          "description": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 30 Jul 2026 23:08:58 +0000"
+        },
+        {
+          "id": "d98ccf6bcf41",
+          "title": "Investors love AI, as long as you’re a cloud host",
+          "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+          "description": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 30 Jul 2026 22:41:41 +0000"
+        },
+        {
+          "id": "12d23ca99846",
+          "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+          "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+          "description": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 30 Jul 2026 22:37:06 +0000"
+        },
+        {
+          "id": "a5580b1f1c16",
+          "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+          "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 30 Jul 2026 20:26:38 +0000"
+        },
+        {
+          "id": "658e08866f29",
+          "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+          "link": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+          "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 30 Jul 2026 20:13:12 +0000"
+        },
+        {
+          "id": "85172a59bd5b",
+          "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+          "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+          "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 30 Jul 2026 19:44:16 +0000"
+        },
+        {
+          "id": "6bba9b9c8871",
+          "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+          "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+          "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 30 Jul 2026 18:57:58 +0000"
+        },
+        {
+          "id": "5cf0ea63deeb",
+          "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+          "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+          "description": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 30 Jul 2026 18:38:12 +0000"
+        },
+        {
+          "id": "a1a96035ef1e",
+          "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+          "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+          "description": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 30 Jul 2026 18:05:21 +0000"
+        },
+        {
+          "id": "9989e2e3cade",
+          "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+          "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+          "description": "Add another member to the fast-and-furious AI unicorn club: Simile.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 30 Jul 2026 17:50:11 +0000"
+        },
+        {
+          "id": "286941f19b98",
+          "title": "Spotify launches ‘User Notes’ to let users add memories to songs",
+          "link": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
+          "description": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 30 Jul 2026 17:41:25 +0000"
+        },
+        {
+          "id": "dcab0d17d698",
+          "title": "Okta buys AI security startup Permiso — source says for about $200M",
+          "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+          "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 30 Jul 2026 16:09:42 +0000"
+        },
+        {
+          "id": "4e8908d887db",
+          "title": "Tesla made its 10 millionth EV",
+          "link": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+          "description": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 30 Jul 2026 16:00:25 +0000"
+        },
         {
           "id": "c6809808b90e",
           "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
@@ -17,7 +134,7 @@
           "id": "1ec1657250a0",
           "title": "Meta says AI is making it easier to build new apps — and more are coming",
           "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-          "description": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+          "description": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 30 Jul 2026 15:41:16 +0000"
@@ -68,127 +185,19 @@
           "pub_date": "Thu, 30 Jul 2026 14:48:32 +0000"
         },
         {
-          "id": "67bff0352b77",
-          "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-          "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-          "description": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-          "source": "TechCrunch",
+          "id": "bc06f0c86d09",
+          "title": "Quantum computers outperform classical ones, with results you can trust",
+          "link": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+          "description": "Three approaches to the issue of quantum results that can't be verified classically.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 30 Jul 2026 14:00:00 +0000"
-        },
-        {
-          "id": "6b599dd15305",
-          "title": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
-          "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
-          "description": "The U.S. federal consumer watchdog said Hims &#038; Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 30 Jul 2026 13:30:52 +0000"
-        },
-        {
-          "id": "4412a9004345",
-          "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
-          "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
-          "description": "Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 30 Jul 2026 13:09:03 +0000"
-        },
-        {
-          "id": "00162bdab9f3",
-          "title": "Spotify adds a running mode to its app",
-          "link": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
-          "description": "Running Mode will be available to Premium users on iOS in select countries",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 30 Jul 2026 13:00:00 +0000"
-        },
-        {
-          "id": "d88c40d277da",
-          "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
-          "link": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
-          "description": "London-based Inforcer just closed a $50 million Series C round led by Insight Partners.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 30 Jul 2026 13:00:00 +0000"
-        },
-        {
-          "id": "4b960c778236",
-          "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-          "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-          "description": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 30 Jul 2026 13:00:00 +0000"
-        },
-        {
-          "id": "98fe95de2f9b",
-          "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-          "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-          "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 30 Jul 2026 00:21:06 +0000"
-        },
-        {
-          "id": "45b9e4c15496",
-          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-          "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-          "description": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 29 Jul 2026 23:00:11 +0000"
-        },
-        {
-          "id": "2f60c95bbf36",
-          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-          "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-          "description": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 29 Jul 2026 22:46:03 +0000"
-        },
-        {
-          "id": "f839c6f96895",
-          "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-          "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-          "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 29 Jul 2026 22:23:12 +0000"
-        },
-        {
-          "id": "0678f9fbba68",
-          "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-          "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 29 Jul 2026 21:16:39 +0000"
-        },
-        {
-          "id": "a8add4005c86",
-          "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-          "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-          "description": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 29 Jul 2026 21:07:48 +0000"
-        },
-        {
-          "id": "560f9b31dab9",
-          "title": "Winamp aims for a comeback with a new music player powered by Deezer",
-          "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
-          "description": "Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 29 Jul 2026 21:02:12 +0000"
+          "pub_date": "Thu, 30 Jul 2026 15:59:37 +0000"
         },
         {
           "id": "7da86393e626",
           "title": "New MCP specification addresses the main barrier to enterprise adoption",
           "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-          "description": "Plus, a new deprecation policy ensures features aren't removed suddenly.",
+          "description": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Thu, 30 Jul 2026 14:53:07 +0000"
@@ -354,18 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Tue, 28 Jul 2026 21:49:52 +0000"
-        },
-        {
-          "id": "05ade84d3846",
-          "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-          "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-          "description": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 28 Jul 2026 21:36:39 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **核聚变与AI融资热潮**：核聚变初创公司Commonwealth Fusion Systems再获10亿美元融资，市场关注其IPO时间；AI基础设施公司Nscale收购Anyscale，意图扩大AI计算栈控制权。\n2. **AI应用与平台竞争加剧**：Meta称AI正简化应用开发流程，并预告更多新应用将至；微软与OpenAI、Anthropic的竞争公开化；扎克伯格预测五年内数十亿人将拥有个人AI助手。\n3. **自动驾驶与流媒体新进展**：亚马逊旗下Zoox获准在美国推出付费机器人出租车服务；Netflix获得《行尸走肉》全球流媒体版权。\n4. **数据隐私与合规监管**：美国联邦贸易委员会（FTC）起诉远程医疗公司Hims & Hers，指控其未经授权向Meta和Snap分享患者医疗数据；多家初创公司（如Inforcer、Dili）获融资，专注中小企业AI与安全合规。\n5. **AI人才与安全事件**：行业对“前线部署工程师”需求激增，成为AI领域新的人才争夺焦点；Hugging Face遭黑客攻击，OpenAI相关泄露事件虽快速但未被完全阻止。\n\n**今日最值得关注的趋势**：AI正从技术研发转向大规模应用与基础设施整合，同时伴随监管收紧与安全挑战，核聚变与自动驾驶等前沿领域亦获实质性突破。",
+      "summary": "今日科技动态摘要\n\n1. **AI对科技公司的影响日益显著**：Reddit财报表现稳健但显现AI带来的冲击；Google称借助AI修复了更多Chrome漏洞；Meta表示AI正使新应用开发更便捷；LinkedIn新增举报AI生成“低质内容”的按钮；AI初创公司Simile在5个月内估值翻倍至20亿美元。\n\n2. **AI投资热潮集中于云服务领域**：投资者偏爱AI公司，但前提是它们同时提供云托管服务；Okta以约2亿美元收购AI安全初创公司Permiso。\n\n3. **苹果与特朗普政府面临监管与法律挑战**：苹果称游戏市场放缓及App Store政策调整拖累服务业务增长；法官裁定特朗普政府仍缺乏证据将Anthropic列为“供应链风险”。\n\n4. **数据安全与隐私事件频发**：医疗IT公司CareCloud因黑客窃取医疗记录开始通知数十万受影响用户；AI可穿戴设备“Friend”以更高价格和全新语音功能回归。\n\n5. **新兴技术与基础设施动向**：佛罗里达计划将原用于电动汽车充电桩的2亿美元转向建设空中出租车起降坪；特斯拉生产出第1000万辆电动汽车；核聚变初创公司Commonwealth Fusion Systems正考虑上市。\n\n**今日最值得关注的发展**：AI正从多个层面重塑科技行业——从修复漏洞、加速应用开发到引发监管与安全新挑战，同时投资热潮高度集中于具备云服务能力的AI公司。",
       "count": 40
     },
     "ai": {
@@ -441,6 +441,15 @@
           "source": "Google AI Blog",
           "category": "ai",
           "pub_date": "Tue, 28 Jul 2026 13:00:00 +0000"
+        },
+        {
+          "id": "8b72040b7868",
+          "title": "Advancing the price-performance frontier with GPT-5.6",
+          "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "description": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 30 Jul 2026 10:00:00 GMT"
         },
         {
           "id": "5b3336ee0b1d",
@@ -587,11 +596,38 @@
           "pub_date": "Wed, 29 Jul 2026 11:25:21 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **GPU管理与效率提升**：Hugging Face指出闲置GPU如同“停飞飞机”，强调资源优化的重要性；OpenAI则通过调整两项设置使ARC-AGI-3基准测试分数提升三倍，并推出融合前沿智能与效率的GPT-5.6。\n2. **AI在科学计算与学术研究中的加速作用**：OpenAI博客连发多文，探讨AI代理如何推动科学计算、加速学术发现，并扩展人类工作能力。\n3. **前沿模型与应用突破**：包括NVIDIA将实时生成式模拟引入手术机器人（Cosmos-H-Dreams）、Google推出Gemini API托管代理（3.6 Flash及钩子功能），以及CPU上实现长上下文快速推理的LFM2.5编码器。\n4. **AI搜索与生活场景结合**：Google AI博客介绍AI模式在搜索中的五种应用（帮助用户享受现实世界、举办完美晚宴等），强调AI融入日常体验。\n5. **行业动态与工具创新**：包括Claude Code之父讨论AI工具“保质期”仅半年的观点，以及KBlip项目将100个来源的AI新闻聚合为每日摘要。\n\n**今日最值得关注的发展**：OpenAI通过简单设置大幅提升基准测试成绩，并推出GPT-5.6平衡前沿智能与效率，标志着AI在实用性与性能融合上的关键突破。",
-      "count": 24
+      "summary": "今日AI动态摘要\n\n1. **GPU资源管理成新焦点**：Hugging Face将闲置GPU比作“停飞飞机”，强调算力效率优化的重要性。\n2. **前沿模型与推理效率突破**：OpenAI发布GPT-5.6，兼顾性能与成本效率；同时推出LFM2.5编码器，实现CPU上的快速长上下文推理。\n3. **AI加速科学发现与工作变革**：OpenAI推出面向学术研究者的ChatGPT工具，并探讨AI在科学计算与职业扩展中的角色。\n4. **多模态与实时生成应用拓展**：NVIDIA发布Cosmos-H-Dreams，推动手术机器人的实时生成仿真；Google推出Gemini API托管智能体及搜索AI模式。\n5. **安全事件与基准测试进展**：披露前沿实验室2026年7月智能体入侵事件技术细节；OpenAI通过两项设置将ARC-AGI-3基准得分提升三倍。\n\n今日最值得关注的发展是OpenAI发布GPT-5.6，在融合前沿智能与效率方面实现重要突破，同时多篇博客集中展示了AI在科学研究、工作模式与基准测试中的加速与扩展趋势。",
+      "count": 25
     },
     "cctv": {
       "articles": [
+        {
+          "id": "69de20012fc9",
+          "title": "China is starting to measure EV charging times in seconds, not minutes",
+          "link": "https://electrek.co/2026/07/30/china-is-starting-to-measure-ev-charging-times-in-seconds-not-minutes/",
+          "description": "Article URL: https://electrek.co/2026/07/30/china-is-starting-to-measure-ev-charging-times-in-seconds-not-minutes/ Comments URL: https://news.ycombinator.com/item?id=49113049 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 30 Jul 2026 17:30:18 +0000"
+        },
+        {
+          "id": "5d1853c977cb",
+          "title": "China's \"artificial sun\" project achieves new engineering milestone",
+          "link": "https://en.people.cn/n3/2026/0629/c90000-20472114.html",
+          "description": "Article URL: https://en.people.cn/n3/2026/0629/c90000-20472114.html Comments URL: https://news.ycombinator.com/item?id=49112947 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 30 Jul 2026 17:22:37 +0000"
+        },
+        {
+          "id": "126d9ae4a4e6",
+          "title": "China Built the Largest Fusion Magnet – \"Artificial Sun\"",
+          "link": "https://www.gadgetreview.com/china-built-the-worlds-largest-fusion-magnet-artificial-sun",
+          "description": "Article URL: https://www.gadgetreview.com/china-built-the-worlds-largest-fusion-magnet-artificial-sun Comments URL: https://news.ycombinator.com/item?id=49111994 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 30 Jul 2026 16:07:52 +0000"
+        },
         {
           "id": "f84d6b471064",
           "title": "Volkswagen's flying-car dream crashed in China",
@@ -605,7 +641,7 @@
           "id": "830d5e797645",
           "title": "China begins producing advanced chipmaking deep-ultraviolet lithography machines",
           "link": "https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/",
-          "description": "Article URL: https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/ Comments URL: https://news.ycombinator.com/item?id=49110319 Points: 10 # Comments: 2",
+          "description": "Article URL: https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/ Comments URL: https://news.ycombinator.com/item?id=49110319 Points: 11 # Comments: 2",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 30 Jul 2026 14:12:44 +0000"
@@ -632,7 +668,7 @@
           "id": "0af48d6742af",
           "title": "The 73,000-server market reselling Western frontier AI into China",
           "link": "https://infrawatch.com/blog/73000-servers-selling-western-frontier-ai-into-china-transfer-stations",
-          "description": "Article URL: https://infrawatch.com/blog/73000-servers-selling-western-frontier-ai-into-china-transfer-stations Comments URL: https://news.ycombinator.com/item?id=49109964 Points: 2 # Comments: 0",
+          "description": "Article URL: https://infrawatch.com/blog/73000-servers-selling-western-frontier-ai-into-china-transfer-stations Comments URL: https://news.ycombinator.com/item?id=49109964 Points: 3 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 30 Jul 2026 13:45:48 +0000"
@@ -641,7 +677,7 @@
           "id": "3533c51cea44",
           "title": "Back from China: Two Cosmologies, Two AIs, and One Social Soil",
           "link": "https://ottoscharmer.substack.com/p/back-from-china-two-cosmologies-two",
-          "description": "Article URL: https://ottoscharmer.substack.com/p/back-from-china-two-cosmologies-two Comments URL: https://news.ycombinator.com/item?id=49109590 Points: 3 # Comments: 0",
+          "description": "Article URL: https://ottoscharmer.substack.com/p/back-from-china-two-cosmologies-two Comments URL: https://news.ycombinator.com/item?id=49109590 Points: 4 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 30 Jul 2026 13:19:01 +0000"
@@ -825,28 +861,10 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Mon, 27 Jul 2026 19:39:54 +0000"
-        },
-        {
-          "id": "8dbc91962e9a",
-          "title": "Why China is giving away its best AI models",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-          "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies Comments URL: https://news.ycombinator.com/item?id=49074063 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 27 Jul 2026 18:52:52 +0000"
-        },
-        {
-          "id": "04ebad795e8f",
-          "title": "Wham's Surreal Trip to China",
-          "link": "https://www.theguardian.com/film/2026/jul/27/andrew-ridgeley-wham-china-george-michael-lindsay-anderson",
-          "description": "Article URL: https://www.theguardian.com/film/2026/jul/27/andrew-ridgeley-wham-china-george-michael-lindsay-anderson Comments URL: https://news.ycombinator.com/item?id=49071825 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 27 Jul 2026 16:20:39 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **科技自主突破**：中国开始生产自主研发的沉浸式深紫外光刻机，用于先进芯片制造，标志着半导体设备国产化取得重要进展。\n2. **能源结构转型**：中国煤炭发电占比首次降至50%以下，清洁能源占比持续提升，能源转型迈过关键里程碑。\n3. **商业航天与AI竞争**：中国商业航天快速发展，在卫星领域缩小与美国的差距；同时，中国AI企业使用英伟达Blackwell芯片训练模型，引发对技术管制与自主发展的关注。\n4. **国际科技博弈**：美国以“不可接受风险”为由禁止中国的人形机器人进入市场；中国测试全球最大超导聚变磁体，核聚变研究取得新进展。\n5. **AI应用与社会现象**：中国出现“出租人脸”给AI的现象，引发对AI成本与隐私问题的讨论；中国AI公司Moonshot使用英伟达芯片训练Kimi K3模型。\n\n**最值得关注的发展**：中国在芯片制造、能源转型、商业航天和核聚变等关键领域同时取得实质性突破，显示出科技自主与产业升级的加速态势。",
-      "count": 28
+      "summary": "今日新闻联播动态摘要\n\n1. **科技突破**：中国在核聚变领域取得新工程里程碑，成功建造全球最大“人造太阳”磁体；同时开始生产自主研发的深紫外光刻机，推动先进芯片制造自主化。\n2. **能源转型**：中国能源结构实现里程碑式变化，煤炭发电占比首次降至50%以下，清洁能源主导地位进一步巩固。\n3. **航天竞争**：中国商业航天快速发展，逐步缩小与美国在卫星领域的差距，对美构成战略挑战；美国联邦通信委员会（FCC）宣布禁止中国制造的人形机器人进入美国市场。\n4. **AI与产业动态**：中国公司（如月之暗面）被曝使用英伟达Blackwell芯片训练AI模型；国内出现“出租人脸给AI”的新型商业模式；同时，大众汽车的飞行汽车项目在中国宣告失败。\n5. **市场与供应链**：一个拥有7.3万台服务器的灰色市场正在向中国转售西方前沿AI硬件，凸显中美技术博弈下的复杂供应链生态。\n\n**今日最值得关注的发展**：中国在核聚变、芯片制造和能源转型三大战略领域同时取得实质性进展，展现科技自立与绿色发展的双重决心。",
+      "count": 29
     }
   }
 }
