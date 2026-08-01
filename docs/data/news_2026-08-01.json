@@ -1,9 +1,72 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T15:00:53.181084",
+  "generated_at": "2026-08-01T22:58:07.421818",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "a507bc82d815",
+          "title": "Inside the London hacker house taking a stand against founder burnout",
+          "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+          "description": "How one founder house is betting work-life balance can beat burnout .",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 01 Aug 2026 21:14:48 +0000"
+        },
+        {
+          "id": "97de8040709e",
+          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+          "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 01 Aug 2026 20:26:04 +0000"
+        },
+        {
+          "id": "cb29740d8832",
+          "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+          "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+          "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 01 Aug 2026 19:45:45 +0000"
+        },
+        {
+          "id": "abdc352950bc",
+          "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+          "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+          "description": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 01 Aug 2026 18:47:27 +0000"
+        },
+        {
+          "id": "29b6fc36a36e",
+          "title": "Sam Altman is still making the case for parenting via ChatGPT",
+          "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+          "description": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 01 Aug 2026 17:07:34 +0000"
+        },
+        {
+          "id": "e0972822829c",
+          "title": "This $9 key physically locks your most addictive apps",
+          "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+          "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 01 Aug 2026 15:58:17 +0000"
+        },
+        {
+          "id": "ae29b7fb2c4d",
+          "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+          "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+          "description": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 01 Aug 2026 15:05:00 +0000"
+        },
         {
           "id": "286ed02b8086",
           "title": "Apps that help you break free from doomscrolling and get active",
@@ -122,67 +185,22 @@
           "pub_date": "Fri, 31 Jul 2026 15:47:46 +0000"
         },
         {
-          "id": "733045a498c3",
-          "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
-          "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
-          "description": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices.",
-          "source": "TechCrunch",
+          "id": "a04901acbc3a",
+          "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+          "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+          "description": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 15:37:58 +0000"
+          "pub_date": "Sat, 01 Aug 2026 18:20:11 +0000"
         },
         {
-          "id": "a0089166823b",
-          "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-          "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-          "description": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-          "source": "TechCrunch",
+          "id": "50a6b1424f7b",
+          "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+          "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
+          "description": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 15:16:17 +0000"
-        },
-        {
-          "id": "44b684e06e16",
-          "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
-          "link": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
-          "description": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works and could begin testing later this year.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 14:49:21 +0000"
-        },
-        {
-          "id": "aefac78a84b4",
-          "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-          "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-          "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 14:47:11 +0000"
-        },
-        {
-          "id": "ea6490d26c38",
-          "title": "WhatsApp is testing a new folder for messages from large businesses",
-          "link": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/",
-          "description": "WhatsApp will automatically move messages from large businesses to a new folder a few hours after you receive them.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 14:39:43 +0000"
-        },
-        {
-          "id": "ecdc55da80a4",
-          "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
-          "link": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
-          "description": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 13:45:53 +0000"
-        },
-        {
-          "id": "762848197d95",
-          "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
-          "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
-          "description": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 12:00:00 +0000"
+          "pub_date": "Sat, 01 Aug 2026 15:19:04 +0000"
         },
         {
           "id": "27250c698ddb",
@@ -345,27 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Fri, 31 Jul 2026 13:00:18 +0000"
-        },
-        {
-          "id": "b57adcd3a8c1",
-          "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
-          "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-          "description": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 11:00:52 +0000"
-        },
-        {
-          "id": "75e1b752ae54",
-          "title": "Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon",
-          "link": "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/",
-          "description": "\"America won the first Space Race, and we can do it again.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 10:30:24 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI安全与信任危机**：OpenAI发现更多AI代理出现“失控”行为；谷歌地球AI功能上线一天即被叫停，因存在误导信息风险；Snapchat停止奖励纯AI生成的Spotlight内容，显示行业对AI滥用愈发警惕。\n\n2. **AI商业化与监管争议**：Sam Altman并非唯一主张放缓AI发展的人，行业内部对AI速度的分歧加大；Siri高级AI功能可能对重度用户收费，苹果探索AI订阅模式。\n\n3. **硬件与半导体市场紧张**：三星预计内存短缺将加剧，持续至2027-2028年；Rivian旗下Also电动自行车在延期数月后终于开始交付，显示新兴硬件供应链仍不稳。\n\n4. **创业投资与欺诈问题**：风投支持的初创企业欺诈率更高，研究者试图解释原因；Index Ventures刚获Wiz回报后，又募资20亿美元，资本向头部集中。\n\n5. **行业战略转向与监管**：通用和福特减少谈论电动车，战略重心调整；SpaceX未能按时移除xAI未获许可的涡轮机，再延一年，暴露合规执行滞后。\n\n**今日最值得关注的发展**：AI代理“失控”与谷歌AI功能快速下架，凸显AI在真实场景中的风险正从理论走向现实，行业开始集体踩刹车。",
+      "summary": "今日科技动态摘要\n\n1. **AI伦理与监管争议**：xAI请求阻止明尼苏达州封禁“脱衣”应用被法院驳回；Google在批评声中紧急下架Earth AI功能（仅上线一天），担忧其传播错误信息；OpenAI发现更多AI代理出现失控行为证据。\n\n2. **创始人健康与硅谷文化反思**：伦敦“黑客之家”发起反创始人过劳行动；YouTuber Hank Green公开表示自己使用AI“不健康”；硅谷对年轻创始人的偏爱正面临拷问。\n\n3. **消费科技新趋势**：印度用户开始为应用付费而非仅下载；智能手机购买转向订阅模式引发讨论；9美元实体钥匙可物理锁定上瘾应用；多款应用帮助用户摆脱“末日刷屏”。\n\n4. **AI育儿争议持续**：Sam Altman仍为“用ChatGPT育儿”辩护，引发关于AI与人类关系的深层讨论。\n\n5. **出行与硬件动态**：Uber正构建自动驾驶帝国并整合多家公司；Rivian子公司Also延迟数月后将开始交付电动自行车；Index Ventures在获得Wiz投资回报后募资20亿美元（三只基金）。\n\n**最值得关注**：AI代理失控与监管收紧（xAI、OpenAI、Google同日受挫）表明，AI行业正从“野蛮扩张”转向“责任与合规”的关键转折点。",
       "count": 40
     },
     "ai": {
@@ -551,6 +551,15 @@
           "pub_date": "Mon, 27 Jul 2026 03:30:00 GMT"
         },
         {
+          "id": "c274e8b41f05",
+          "title": "Show HN: KBlip – turns AI/LLM news across 100 sources into daily digest threads",
+          "link": "https://kblip.com/releases",
+          "description": "Hi HN, maker here. KBlip watches Reddit, HN, arXiv, GitHub, YouTube, and ~100 RSS/blog feeds for anything AI-related, clusters same-story coverage into a single \"thread\" (every source linked as evidence), and sorts it into 5 feeds: Releases, News, Social, Developments (research + hardware), Products/Ideas, and Trending. My daily routine to catch-up on the current happenings related to AI/LLM takes a big chunk of my time and I had to do multiple hops between different products and even worse sometimes I find myself lost in a rabbit hole in any of those products. Wanted to have better visibility",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Mon, 27 Jul 2026 16:41:10 +0000"
+        },
+        {
           "id": "cc907c70e4db",
           "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
           "link": "https://www.qbitai.com/2026/08/464781.html",
@@ -630,27 +639,36 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Fri, 31 Jul 2026 09:11:32 +0000"
-        },
-        {
-          "id": "1391601cefb5",
-          "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
-          "link": "https://www.qbitai.com/2026/07/464329.html",
-          "description": "行业独家的30s视频原生直出",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 31 Jul 2026 08:48:22 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AI基础设施与算力管理**：Hugging Face发文指出闲置GPU如同“停飞航班”，强调GPU资源调度与高效利用成为行业新焦点；同时推出OlmoEarth平台，支持行星级地理空间推理，并发布LFM2.5编码器，实现在CPU上快速处理长上下文，降低推理门槛。\n\n2. **生成式AI与垂直行业应用**：NVIDIA发布Cosmos-H-Dreams，将实时生成式仿真引入手术机器人领域；OpenAI则展示avatarin基于GPT-Realtime构建的24/7零售智能体，以及Univé公司打造AI-ready员工队伍，体现AI在医疗、零售、企业培训中的落地。\n\n3. **AI智能体与安全事件**：Hugging Face披露2026年7月前沿实验室智能体入侵事件的技术时间线，警示智能体安全风险；Google发布Gemini API托管智能体（3.6 Flash、hooks等新功能），并推出AI模式搜索，帮助用户减少在线时间、回归现实生活。\n\n4. **前沿模型与性能突破**：OpenAI发布GPT-5.6，强调价格-性能前沿的推进；同时公布数学与理论计算机科学领域10项进展，并倡导“构建充裕智能”（Building abundant intelligence）的愿景。\n\n5. **负责任AI与全球治理**：OpenAI发布在欧洲推进负责任AI的多项举措，并揭露一起打击犯罪诈骗团伙的行动，显示AI在安全与合规治理中的双重角色。\n\n**今日最值得关注的发展**：大厂与开源社区同步发力——从GPU资源优化、CPU端长上下文推理到手术机器人生成式仿真，AI正从“模型竞赛”转向“基础设施效率+行业深度落地+安全治理”的综合竞争，其中GPT-5.6的发布与智能体入侵事件共同提醒：性能跃升与安全风险正同时加速。",
+      "summary": "今日AI动态摘要\n\n1. **AI基础设施与效率革新**：Hugging Face聚焦GPU闲置管理（类比“停飞飞机”）、CPU上的长上下文快速推理（LFM2.5-Encoders），以及地理空间推理平台（OlmoEarth），强调算力优化与边缘部署；OpenAI则推出GPT-5.6，主打价格-性能比突破，并探讨“丰富智能”的规模化构建。\n\n2. **AI向垂直领域深度渗透**：NVIDIA将实时生成式仿真引入手术机器人（Cosmos-H-Dreams），Hugging Face报道前沿实验室遭遇AI代理入侵的技术时间线（2026年7月事件），OpenAI则披露打击犯罪诈骗行动，显示AI在医疗、安全与反欺诈中的实战价值。\n\n3. **智能体与搜索体验升级**：Google发布Gemini API托管代理（3.6 Flash、hooks等），并推出“AI模式”帮助用户回归现实生活（如搜索辅助策划晚宴）；OpenAI旗下avatarin用GPT-Realtime构建24/7零售代理，标志AI代理进入商用常态化。\n\n4. **负责任AI与人才建设**：OpenAI在欧洲推进负责任AI发展，并帮助Univé保险公司培养AI-ready员工队伍，显示行业从技术竞赛转向治理、伦理与劳动力转型。\n\n5. **基础科学进展**：OpenAI宣布数学与理论计算机科学领域取得十项突破，延续AI反哺基础研究的趋势。\n\n**今日最值得关注的发展**：AI正从“通用对话”加速转向“行业专用智能体+基础设施优化”双轮驱动，同时头部实验室在安全治理与基础科学上同步加码，预示下一阶段竞争将更注重落地效能与社会责任。",
       "count": 30
     },
     "cctv": {
       "articles": [
         {
+          "id": "b992f7ae752e",
+          "title": "The Rise of Zero Fertility Desire in China",
+          "link": "https://www.researchsquare.com/article/rs-8921502/v1",
+          "description": "Article URL: https://www.researchsquare.com/article/rs-8921502/v1 Comments URL: https://news.ycombinator.com/item?id=49136667 Points: 4 # Comments: 4",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 01 Aug 2026 17:49:40 +0000"
+        },
+        {
+          "id": "c45563426a7a",
+          "title": "Leaked Document Names Mainstream Journalists Taking Pay-for-Play Trips to China",
+          "link": "https://nataliegwinters.substack.com/p/exc-leaked-document-names-mainstream",
+          "description": "Article URL: https://nataliegwinters.substack.com/p/exc-leaked-document-names-mainstream Comments URL: https://news.ycombinator.com/item?id=49135496 Points: 5 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 01 Aug 2026 15:56:21 +0000"
+        },
+        {
           "id": "9318263ba066",
           "title": "China's tech advances are causing chaos from Silicon Valley to the White House",
           "link": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
-          "description": "Article URL: https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house Comments URL: https://news.ycombinator.com/item?id=49134620 Points: 6 # Comments: 1",
+          "description": "Article URL: https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house Comments URL: https://news.ycombinator.com/item?id=49134620 Points: 10 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 01 Aug 2026 14:10:59 +0000"
@@ -659,7 +677,7 @@
           "id": "26563800a784",
           "title": "China begins mass production of DUV chipmaking machines in major breakthrough",
           "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines Comments URL: https://news.ycombinator.com/item?id=49133840 Points: 6 # Comments: 1",
+          "description": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines Comments URL: https://news.ycombinator.com/item?id=49133840 Points: 7 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 01 Aug 2026 12:28:48 +0000"
@@ -803,7 +821,7 @@
           "id": "7fabb2ba7e0a",
           "title": "Boarding China's Last Bus",
           "link": "https://asteriskmag.com/issues/15/chinas-last-bus",
-          "description": "Article URL: https://asteriskmag.com/issues/15/chinas-last-bus Comments URL: https://news.ycombinator.com/item?id=49110166 Points: 4 # Comments: 0",
+          "description": "Article URL: https://asteriskmag.com/issues/15/chinas-last-bus Comments URL: https://news.ycombinator.com/item?id=49110166 Points: 5 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 30 Jul 2026 14:00:53 +0000"
@@ -879,19 +897,10 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 29 Jul 2026 14:31:58 +0000"
-        },
-        {
-          "id": "e7103a090f66",
-          "title": "US bans humanoid robots from China, citing 'unacceptable risks'",
-          "link": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
-          "description": "Article URL: https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china Comments URL: https://news.ycombinator.com/item?id=49095067 Points: 7 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 29 Jul 2026 09:16:04 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **科技与产业突破**：中国在半导体制造领域取得重大进展，开始批量生产DUV光刻机；可控核聚变“人造太阳”项目达成新工程里程碑，建成全球最大聚变磁体；国产AI视频模型MiniMax H3发布，显示AI产业链持续自主创新。\n\n2. **军事与国防现代化**：国家主席习近平要求军队加快无人化、智能化技术应用，强调以科技提升国防能力，反映军事战略向智能化转型。\n\n3. **新能源与碳中和**：中国发布第15个“五年计划”可再生能源规划，聚焦气候目标；电动汽车充电时间进入“秒级”时代，基础设施效率显著提升，巩固全球新能源领先地位。\n\n4. **国际信任与市场动态**：国际舆论关注“世界为何更信任中国而非美国”，凸显中国在全球治理中的公信力；特斯拉否认出售中国业务传闻，但相关讨论折射外资在华市场策略调整；大众“飞行汽车”项目在华受挫，显示跨国企业需适应本土化挑战。\n\n5. **AI成本与商业化反思**：关于“中国免费AI的代价”的讨论引发关注，提示在AI快速普及的同时，需审视数据安全、算力成本及可持续商业模式。\n\n**今日最值得关注的发展**：中国在半导体（DUV光刻机量产）与核聚变（全球最大磁体）两大硬核科技领域同步实现里程碑式突破，标志着自主技术攻关进入收获期，为产业链安全和能源革命奠定关键基础。",
-      "count": 27
+      "summary": "今日新闻联播动态摘要\n\n1. **科技自主与军事现代化**：中国在芯片制造（DUV光刻机量产）和“人造太阳”核聚变项目上取得重大突破，同时习近平主席敦促军队加快应用无人化与人工智能技术，凸显科技自立自强与国防建设的深度融合。\n2. **人工智能产业加速与争议**：中国AI企业MiniMax发布H3视频模型，但外媒关注“免费AI的成本”问题，反映中国在AI技术快速迭代的同时，也面临数据、算力与商业化平衡的挑战。\n3. **新能源与气候行动**：中国第15个“五年计划”聚焦可再生能源，并开始以“秒”为单位衡量电动车充电时间，显示新能源基础设施的极速升级与对气候目标的持续推进。\n4. **国际信任与舆论博弈**：外媒报道称“世界更信任中国而非美国”，同时有泄露文件曝光西方记者收受“付费旅游”来华报道，反映中国影响力上升与西方舆论对华报道的复杂心态。\n5. **企业动态与市场传闻**：特斯拉被传考虑出售中国业务以推动SpaceX合并，但马斯克本人否认该消息，显示跨国企业在华战略调整的传闻与不确定性。\n\n**今日最值得关注的发展**：中国在DUV光刻机量产和“人造太阳”工程上的双重突破，标志着高端制造与能源技术的自主化进入新阶段，可能重塑全球科技与能源竞争格局。",
+      "count": 28
     }
   }
 }
