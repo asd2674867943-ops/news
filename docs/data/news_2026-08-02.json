@@ -1,9 +1,54 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T15:03:05.967993",
+  "generated_at": "2026-08-02T22:59:18.911576",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "60dae2a73438",
+          "title": "The global memory shortage hits the MacBook Air",
+          "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+          "description": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 02 Aug 2026 21:33:59 +0000"
+        },
+        {
+          "id": "584b6c4ae85e",
+          "title": "Sam Altman and AI’s decel debate",
+          "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 02 Aug 2026 20:54:22 +0000"
+        },
+        {
+          "id": "8661a4ba3c6f",
+          "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+          "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+          "description": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 02 Aug 2026 17:05:07 +0000"
+        },
+        {
+          "id": "1822c41345f9",
+          "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+          "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+          "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 02 Aug 2026 16:05:00 +0000"
+        },
+        {
+          "id": "4f6e0dcbf03d",
+          "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+          "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+          "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 02 Aug 2026 15:23:19 +0000"
+        },
         {
           "id": "a507bc82d815",
           "title": "Inside the London hacker house taking a stand against founder burnout",
@@ -138,51 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 31 Jul 2026 19:39:51 +0000"
-        },
-        {
-          "id": "f86b1e427ea2",
-          "title": "VC-backed startups commit more fraud, and researchers think they know why",
-          "link": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-          "description": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 19:00:00 +0000"
-        },
-        {
-          "id": "0b31d41e2322",
-          "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-          "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-          "description": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 17:26:32 +0000"
-        },
-        {
-          "id": "b71a41bc03dc",
-          "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-          "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-          "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 16:49:08 +0000"
-        },
-        {
-          "id": "799c3f56a7d0",
-          "title": "Siri AI could come with a paywall for power users",
-          "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-          "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 16:08:18 +0000"
-        },
-        {
-          "id": "f5cd2e4ca42a",
-          "title": "GM and Ford are talking less and less about EVs",
-          "link": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/",
-          "description": "The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 31 Jul 2026 15:47:46 +0000"
         },
         {
           "id": "a04901acbc3a",
@@ -365,7 +365,7 @@
           "pub_date": "Fri, 31 Jul 2026 13:00:18 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI监管与伦理争议**：美国法官驳回xAI关于禁止明尼苏达州“脱衣”应用禁令的请求；OpenAI发现更多AI代理出现异常行为；谷歌在推出Earth AI功能一天后即因 misinformation 风险将其下架。\n\n2. **创始人健康与创业文化反思**：伦敦“黑客屋”倡导抵制创始人过劳；硅谷对年轻创始人的追捧开始出现转向；YouTuber Hank Green公开表示自己的AI使用“不健康”。\n\n3. **消费科技趋势**：智能手机“订阅制”模式引发讨论；一款9美元实体钥匙可物理锁定上瘾应用；多款应用帮助用户摆脱“末日刷屏”并增加运动；Rivian旗下电动自行车公司Also在延迟数月后开始交付。\n\n4. **AI与育儿争议**：Sam Altman仍为“用ChatGPT育儿”辩护，引发社会对AI介入家庭教育的广泛争论。\n\n5. **投资与产业动态**：Index Ventures在获得Wiz退出收益后，新募20亿美元三支基金；Uber正通过多家公司构建自动驾驶帝国；印度用户开始为应用付费而非仅下载。\n\n**今日最值得关注的发展**：AI监管与伦理问题密集爆发——从“脱衣”应用禁令、AI代理失控到地球AI功能紧急下架，凸显技术快速扩张与治理滞后的矛盾正成为行业核心挑战。",
+      "summary": "今日科技动态摘要\n\n1. **全球内存短缺冲击MacBook Air**：TechCrunch报道，内存供应紧张已开始影响苹果MacBook Air的产能或成本，可能波及消费电子市场。\n\n2. **AI行业“减速派”辩论升温**：Sam Altman再次成为焦点，围绕AI发展速度的争论（“加速”与“减速”）持续发酵，同时OpenAI内部报告称更多AI代理出现“失控”行为，引发安全担忧。\n\n3. **监管与法律边界收紧**：美国法院驳回xAI关于推翻明尼苏达州“脱衣AI”应用禁令的请求；马来西亚据报道叫停Balaji Srinivasan的“网络学校”，显示各国对新兴科技业态的监管趋严。\n\n4. **自动驾驶竞争格局清晰化**：Uber正通过多家公司构建自动驾驶“帝国”，而TechCrunch Mobility指出robotaxi赛道出现“两条分叉路”，行业路线选择成关键。\n\n5. **数字健康与防沉迷新工具涌现**：YouTube博主Hank Green公开承认自己的AI使用“不健康”；市场出现物理锁App的9美元小工具、反“末日刷屏”应用等，同时有观点建议手机订阅制或成新趋势。\n\n**今日最值得关注的发展**：内存短缺对主流消费硬件（MacBook Air）的实际冲击，叠加AI代理失控证据与监管收紧，表明科技行业正从“扩张叙事”转向“供给约束与治理风险”并存的阶段。",
       "count": 40
     },
     "ai": {
@@ -549,259 +549,105 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Mon, 27 Jul 2026 03:30:00 GMT"
+        },
+        {
+          "id": "c274e8b41f05",
+          "title": "Show HN: KBlip – turns AI/LLM news across 100 sources into daily digest threads",
+          "link": "https://kblip.com/releases",
+          "description": "Hi HN, maker here. KBlip watches Reddit, HN, arXiv, GitHub, YouTube, and ~100 RSS/blog feeds for anything AI-related, clusters same-story coverage into a single \"thread\" (every source linked as evidence), and sorts it into 5 feeds: Releases, News, Social, Developments (research + hardware), Products/Ideas, and Trending. My daily routine to catch-up on the current happenings related to AI/LLM takes a big chunk of my time and I had to do multiple hops between different products and even worse sometimes I find myself lost in a rabbit hole in any of those products. Wanted to have better visibility",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Mon, 27 Jul 2026 16:41:10 +0000"
+        },
+        {
+          "id": "cc907c70e4db",
+          "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+          "link": "https://www.qbitai.com/2026/08/464781.html",
+          "description": "具身智能的τ（bushi）",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 01 Aug 2026 10:45:46 +0000"
+        },
+        {
+          "id": "d24dca9e1522",
+          "title": "获奖之后，王虹最想感谢的人",
+          "link": "https://www.qbitai.com/2026/08/464761.html",
+          "description": "\"他真的给了我很大的帮助\"",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 01 Aug 2026 10:38:47 +0000"
+        },
+        {
+          "id": "25e114fafdc2",
+          "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+          "link": "https://www.qbitai.com/2026/08/464713.html",
+          "description": "狂刷3小时！",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 01 Aug 2026 10:33:18 +0000"
+        },
+        {
+          "id": "f1c56723fc6e",
+          "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+          "link": "https://www.qbitai.com/2026/08/464693.html",
+          "description": "对前沿实验室估值悲观",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 01 Aug 2026 05:02:49 +0000"
+        },
+        {
+          "id": "1d37304406e9",
+          "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+          "link": "https://www.qbitai.com/2026/08/464532.html",
+          "description": "下一场竞争，是谁能造出更多“有用的世界”",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 01 Aug 2026 04:53:33 +0000"
+        },
+        {
+          "id": "8c63f30dd421",
+          "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
+          "link": "https://www.qbitai.com/2026/08/464452.html",
+          "description": "三本教科书，救活英伟达",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 01 Aug 2026 03:38:10 +0000"
+        },
+        {
+          "id": "964054dd35ab",
+          "title": "Anthropic模型，也失控了。。。",
+          "link": "https://www.qbitai.com/2026/08/464412.html",
+          "description": "14万次测试翻旧账",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 01 Aug 2026 03:18:46 +0000"
+        },
+        {
+          "id": "ff8eb13f0d03",
+          "title": "AI顶会现场，见到了一家美妆巨头",
+          "link": "https://www.qbitai.com/2026/08/464364.html",
+          "description": "欧莱雅把AI装进mei'zhuang'quan'lian'lu",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 01 Aug 2026 02:52:18 +0000"
+        },
+        {
+          "id": "c2cbf9a08716",
+          "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+          "link": "https://www.qbitai.com/2026/07/464328.html",
+          "description": "开源项目GitHub狂揽8000+Star",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 31 Jul 2026 09:11:32 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **GPU资源管理成为焦点**：Hugging Face将闲置GPU比作“停飞飞机”，强调算力浪费问题，并推动更高效的GPU调度与利用策略。\n2. **AI加速地理空间与科学计算**：Hugging Face发布OlmoEarth平台，支持行星尺度的地理空间推理；同时推出LFM2.5-Encoders，实现CPU上的快速长上下文推理，降低硬件依赖。\n3. **生成式AI进入医疗与安全实战**：NVIDIA Cosmos-H-Dreams用于手术机器人的实时生成式仿真；OpenAI披露2026年7月前沿实验室遭遇智能体入侵的技术时间线，凸显AI安全挑战。\n4. **AI Agent与搜索产品密集迭代**：Google推出Gemini API托管Agent（3.6 Flash及hooks），并宣传AI模式在搜索中帮助用户“享受现实世界”和策划晚宴；OpenAI也展示了GPT-Realtime在零售（avatarin）与反诈骗行动中的应用。\n5. **AI前沿与责任并重**：OpenAI发布数学与理论计算机科学十大进展、欧洲负责任AI推进计划，以及“构建富足智能”愿景，同时强调GPT-5.6在性价比上的突破。\n\n**今日最值得关注的发展**：多家机构从“算力优化”到“场景落地”全面提速，但AI安全事件（如智能体入侵）与责任框架的同步推进，表明行业正从狂飙转向“可控增长”。",
-      "count": 20
+      "summary": "今日AI动态摘要\n\n1. **AI基础设施与效率**：Hugging Face关注GPU闲置问题（类比停飞飞机），推出OlmoEarth平台实现行星级地理空间推理，并发布LFM2.5编码器加速CPU长上下文推理；OpenAI则发布GPT-5.6，强调价格-性能前沿的推进。\n\n2. **AI智能体与自动化应用**：Google发布Gemini API托管智能体（3.6 Flash、hooks等），OpenAI展示avatarin利用GPT-Realtime构建24/7零售智能体，并披露2026年7月前沿实验室智能体入侵事件的技术时间线（安全分析）。\n\n3. **AI与行业场景创新**：NVIDIA Cosmos-H-Dreams将实时生成式仿真引入手术机器人；Google AI Mode在搜索中帮助用户“享受真实世界”并策划晚宴；OpenAI报道Univé打造AI就绪劳动力、扰乱犯罪诈骗行动。\n\n4. **数学与科学进展**：OpenAI宣布数学与理论计算机科学领域的十项突破，并强调在欧洲推进负责任AI。\n\n5. **AI战略愿景**：OpenAI提出“构建富足智能”（Building abundant intelligence）的宏观目标，呼应基础设施优化与规模化应用方向。\n\n**今日最值得关注的发展**：OpenAI发布GPT-5.6并明确“价格-性能前沿”战略，叠加其“富足智能”愿景，显示行业正从模型能力竞赛转向基础设施效率与规模化落地的双轮驱动。",
+      "count": 30
     },
     "cctv": {
-      "articles": [
-        {
-          "id": "87cf055002a4",
-          "title": "China Crosses Energy Milestone as Coal Falls Below 50% of Power",
-          "link": "https://financialpost.com/pmn/business-pmn/china-crosses-energy-milestone-as-coal-falls-below-50-of-power",
-          "description": "Article URL: https://financialpost.com/pmn/business-pmn/china-crosses-energy-milestone-as-coal-falls-below-50-of-power Comments URL: https://news.ycombinator.com/item?id=49145236 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 02 Aug 2026 14:56:15 +0000"
-        },
-        {
-          "id": "00c91186804c",
-          "title": "China's free Kimi K3 AI model shakes up global tech market",
-          "link": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/",
-          "description": "Article URL: https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/ Comments URL: https://news.ycombinator.com/item?id=49144128 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 02 Aug 2026 12:50:38 +0000"
-        },
-        {
-          "id": "a03f2f63ddf8",
-          "title": "Token diplomacy: How China is shaping the AI future",
-          "link": "https://www.semafor.com/article/07/28/2026/token-diplomacy-how-china-is-shaping-the-worlds-ai-future",
-          "description": "Article URL: https://www.semafor.com/article/07/28/2026/token-diplomacy-how-china-is-shaping-the-worlds-ai-future Comments URL: https://news.ycombinator.com/item?id=49140291 Points: 5 # Comments: 4",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 02 Aug 2026 01:48:53 +0000"
-        },
-        {
-          "id": "9318263ba066",
-          "title": "China's tech advances are causing chaos from Silicon Valley to the White House",
-          "link": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
-          "description": "Article URL: https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house Comments URL: https://news.ycombinator.com/item?id=49139946 Points: 8 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 02 Aug 2026 00:30:51 +0000"
-        },
-        {
-          "id": "b992f7ae752e",
-          "title": "The Rise of Zero Fertility Desire in China",
-          "link": "https://www.researchsquare.com/article/rs-8921502/v1",
-          "description": "Article URL: https://www.researchsquare.com/article/rs-8921502/v1 Comments URL: https://news.ycombinator.com/item?id=49136667 Points: 6 # Comments: 4",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 01 Aug 2026 17:49:40 +0000"
-        },
-        {
-          "id": "c45563426a7a",
-          "title": "Leaked Document Names Mainstream Journalists Taking Pay-for-Play Trips to China",
-          "link": "https://nataliegwinters.substack.com/p/exc-leaked-document-names-mainstream",
-          "description": "Article URL: https://nataliegwinters.substack.com/p/exc-leaked-document-names-mainstream Comments URL: https://news.ycombinator.com/item?id=49135496 Points: 6 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 01 Aug 2026 15:56:21 +0000"
-        },
-        {
-          "id": "26563800a784",
-          "title": "China begins mass production of DUV chipmaking machines in major breakthrough",
-          "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines Comments URL: https://news.ycombinator.com/item?id=49133840 Points: 7 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 01 Aug 2026 12:28:48 +0000"
-        },
-        {
-          "id": "6384766f535b",
-          "title": "The Cost of China's Free A.I",
-          "link": "https://www.nytimes.com/2026/07/29/opinion/ai-china-us-free-models.html",
-          "description": "Article URL: https://www.nytimes.com/2026/07/29/opinion/ai-china-us-free-models.html Comments URL: https://news.ycombinator.com/item?id=49130745 Points: 6 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 01 Aug 2026 03:22:39 +0000"
-        },
-        {
-          "id": "3a9f810b96fd",
-          "title": "China's Xi urges military to step up use of unmanned AI technologies",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies Comments URL: https://news.ycombinator.com/item?id=49129809 Points: 7 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 31 Jul 2026 23:53:43 +0000"
-        },
-        {
-          "id": "8c36f616dbca",
-          "title": "Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger",
-          "link": "https://www.wsj.com/business/autos/tesla-weighs-sale-of-china-business-to-pave-way-for-potential-spacex-merger-5ae26026",
-          "description": "Article URL: https://www.wsj.com/business/autos/tesla-weighs-sale-of-china-business-to-pave-way-for-potential-spacex-merger-5ae26026 Comments URL: https://news.ycombinator.com/item?id=49129764 Points: 3 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 31 Jul 2026 23:44:38 +0000"
-        },
-        {
-          "id": "041e5e330e84",
-          "title": "Tesla Weighs China Unit Sale Ahead of SpaceX Deal",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-31/tesla-weighs-china-unit-sale-ahead-of-spacex-deal-wsj-says",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-31/tesla-weighs-china-unit-sale-ahead-of-spacex-deal-wsj-says Comments URL: https://news.ycombinator.com/item?id=49124081 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 31 Jul 2026 15:05:09 +0000"
-        },
-        {
-          "id": "37792f6aab7a",
-          "title": "China's MiniMax releases H3 video model",
-          "link": "https://www.reuters.com/world/china/chinas-minimax-releases-h3-video-model-2026-07-31/",
-          "description": "Article URL: https://www.reuters.com/world/china/chinas-minimax-releases-h3-video-model-2026-07-31/ Comments URL: https://news.ycombinator.com/item?id=49123178 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 31 Jul 2026 13:54:31 +0000"
-        },
-        {
-          "id": "4571103607b3",
-          "title": "Why the world trusts China more than America",
-          "link": "https://www.ft.com/content/f3ad032f-3c06-4ed4-82e2-7c2e5e68af26",
-          "description": "Article URL: https://www.ft.com/content/f3ad032f-3c06-4ed4-82e2-7c2e5e68af26 Comments URL: https://news.ycombinator.com/item?id=49121634 Points: 5 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 31 Jul 2026 11:04:57 +0000"
-        },
-        {
-          "id": "aa04f4bf93da",
-          "title": "Ask HN: How do you sell software to customers in China?",
-          "link": "https://news.ycombinator.com/item?id=49120807",
-          "description": "I have been developing and selling B2B VoIP software (SIP server, softphone, library/SDK) for about 20 years and already have customers from all around the world, but not a single one from China. What is the trick? Am I missing something? Are there regulatory or other barriers for foreign software vendors or do businesses in China simply not buy foreign software? Comments URL: https://news.ycombinator.com/item?id=49120807 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 31 Jul 2026 09:16:18 +0000"
-        },
-        {
-          "id": "69de20012fc9",
-          "title": "China is starting to measure EV charging times in seconds, not minutes",
-          "link": "https://electrek.co/2026/07/30/china-is-starting-to-measure-ev-charging-times-in-seconds-not-minutes/",
-          "description": "Article URL: https://electrek.co/2026/07/30/china-is-starting-to-measure-ev-charging-times-in-seconds-not-minutes/ Comments URL: https://news.ycombinator.com/item?id=49120392 Points: 5 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 31 Jul 2026 08:14:30 +0000"
-        },
-        {
-          "id": "6870d116c71e",
-          "title": "Musk dismisses report of Tesla's potential China business sale",
-          "link": "https://www.reuters.com/business/media-telecom/tesla-weighs-sale-china-business-pave-way-potential-spacex-merger-wsj-reports-2026-07-31/",
-          "description": "Article URL: https://www.reuters.com/business/media-telecom/tesla-weighs-sale-china-business-pave-way-potential-spacex-merger-wsj-reports-2026-07-31/ Comments URL: https://news.ycombinator.com/item?id=49120021 Points: 6 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 31 Jul 2026 07:18:27 +0000"
-        },
-        {
-          "id": "c407999e6731",
-          "title": "What does China's 15th '5-year plan' for renewables mean for climate change?",
-          "link": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-renewables-mean-for-climate-change",
-          "description": "Article URL: https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-renewables-mean-for-climate-change Comments URL: https://news.ycombinator.com/item?id=49119602 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 31 Jul 2026 06:15:29 +0000"
-        },
-        {
-          "id": "5d1853c977cb",
-          "title": "China's \"artificial sun\" project achieves new engineering milestone",
-          "link": "https://en.people.cn/n3/2026/0629/c90000-20472114.html",
-          "description": "Article URL: https://en.people.cn/n3/2026/0629/c90000-20472114.html Comments URL: https://news.ycombinator.com/item?id=49112947 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 30 Jul 2026 17:22:37 +0000"
-        },
-        {
-          "id": "126d9ae4a4e6",
-          "title": "China Built the Largest Fusion Magnet – \"Artificial Sun\"",
-          "link": "https://www.gadgetreview.com/china-built-the-worlds-largest-fusion-magnet-artificial-sun",
-          "description": "Article URL: https://www.gadgetreview.com/china-built-the-worlds-largest-fusion-magnet-artificial-sun Comments URL: https://news.ycombinator.com/item?id=49111994 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 30 Jul 2026 16:07:52 +0000"
-        },
-        {
-          "id": "f84d6b471064",
-          "title": "Volkswagen's flying-car dream crashed in China",
-          "link": "https://www.reuters.com/investigations/how-volkswagens-flying-car-dream-crashed-china-2026-07-30/",
-          "description": "Article URL: https://www.reuters.com/investigations/how-volkswagens-flying-car-dream-crashed-china-2026-07-30/ Comments URL: https://news.ycombinator.com/item?id=49110814 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 30 Jul 2026 14:45:51 +0000"
-        },
-        {
-          "id": "830d5e797645",
-          "title": "China begins producing advanced chipmaking deep-ultraviolet lithography machines",
-          "link": "https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/",
-          "description": "Article URL: https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/ Comments URL: https://news.ycombinator.com/item?id=49110319 Points: 106 # Comments: 96",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 30 Jul 2026 14:12:44 +0000"
-        },
-        {
-          "id": "e2a420eeb75b",
-          "title": "China Crosses Energy Milestone as Coal Falls Below 50% of Power",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-30/china-crosses-energy-milestone-as-coal-falls-below-50-of-power",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-30/china-crosses-energy-milestone-as-coal-falls-below-50-of-power Comments URL: https://news.ycombinator.com/item?id=49110187 Points: 6 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 30 Jul 2026 14:02:04 +0000"
-        },
-        {
-          "id": "7fabb2ba7e0a",
-          "title": "Boarding China's Last Bus",
-          "link": "https://asteriskmag.com/issues/15/chinas-last-bus",
-          "description": "Article URL: https://asteriskmag.com/issues/15/chinas-last-bus Comments URL: https://news.ycombinator.com/item?id=49110166 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 30 Jul 2026 14:00:53 +0000"
-        },
-        {
-          "id": "0af48d6742af",
-          "title": "The 73,000-server market reselling Western frontier AI into China",
-          "link": "https://infrawatch.com/blog/73000-servers-selling-western-frontier-ai-into-china-transfer-stations",
-          "description": "Article URL: https://infrawatch.com/blog/73000-servers-selling-western-frontier-ai-into-china-transfer-stations Comments URL: https://news.ycombinator.com/item?id=49109964 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 30 Jul 2026 13:45:48 +0000"
-        },
-        {
-          "id": "3533c51cea44",
-          "title": "Back from China: Two Cosmologies, Two AIs, and One Social Soil",
-          "link": "https://ottoscharmer.substack.com/p/back-from-china-two-cosmologies-two",
-          "description": "Article URL: https://ottoscharmer.substack.com/p/back-from-china-two-cosmologies-two Comments URL: https://news.ycombinator.com/item?id=49109590 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 30 Jul 2026 13:19:01 +0000"
-        },
-        {
-          "id": "e9ee489155b5",
-          "title": "China's Moonshot AI reportedly used Nvidia Blackwell chips for training Kimi K3",
-          "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute Comments URL: https://news.ycombinator.com/item?id=49102326 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 29 Jul 2026 20:05:14 +0000"
-        },
-        {
-          "id": "19b9eb04be38",
-          "title": "China starts production of home-grown immersion DUV chipmaking tools",
-          "link": "https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/",
-          "description": "Article URL: https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/ Comments URL: https://news.ycombinator.com/item?id=49102159 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 29 Jul 2026 19:51:50 +0000"
-        }
-      ],
-      "summary": "今日新闻联播动态摘要\n\n1. **能源结构里程碑**：中国煤电占比首次降至50%以下，标志着能源转型取得关键突破。\n\n2. **AI技术全面发力**：国产Kimi K3模型免费开放引发全球科技市场震动；MiniMax发布H3视频模型；DUV芯片制造设备实现量产，中国AI与半导体自主化进程加速。\n\n3. **军事与地缘科技竞争**：习近平要求军队加强无人化与AI技术应用；美国科技界与白宫对中国技术进展感到“混乱”，同时有泄露文件曝光西方记者收受“付费旅行”涉华报道，凸显中美科技与舆论博弈加剧。\n\n4. **社会与经济新动向**：中国出现“零生育意愿”上升趋势；电动车充电时间进入“秒级”时代，显示社会结构与消费体验快速演变。\n\n5. **国际企业与信任对比**：特斯拉考虑出售中国业务以推进SpaceX合并；民调与评论显示全球对华信任度高于美国，反映中国影响力持续上升。\n\n**今日最值得关注**：中国AI与芯片技术的集中突破（Kimi K3、DUV量产）正同时冲击全球科技市场、军事战略与国际舆论格局，标志着中国从技术追随者向规则塑造者的转折。",
-      "count": 27
+      "articles": [],
+      "summary": "今日暂无相关新闻。",
+      "count": 0
     }
   }
 }
