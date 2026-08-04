@@ -1,9 +1,135 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T16:12:42.758887",
+  "generated_at": "2026-08-04T23:06:37.483636",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "72f5563d2f49",
+          "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+          "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+          "description": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 22:30:58 +0000"
+        },
+        {
+          "id": "c67f39831292",
+          "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+          "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+          "description": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 22:24:00 +0000"
+        },
+        {
+          "id": "ef16e5ffd342",
+          "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+          "description": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 22:18:30 +0000"
+        },
+        {
+          "id": "2bc8ed7e6c9c",
+          "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+          "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+          "description": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 21:07:26 +0000"
+        },
+        {
+          "id": "bdd083a611f7",
+          "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+          "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+          "description": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 20:36:30 +0000"
+        },
+        {
+          "id": "86767423b72b",
+          "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+          "link": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+          "description": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 20:26:53 +0000"
+        },
+        {
+          "id": "40bb96f7c8bb",
+          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+          "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+          "description": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 20:05:26 +0000"
+        },
+        {
+          "id": "a22cc30cab7d",
+          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 19:48:40 +0000"
+        },
+        {
+          "id": "304b5b550d2f",
+          "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+          "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+          "description": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 19:34:34 +0000"
+        },
+        {
+          "id": "4f9bbd991dea",
+          "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+          "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+          "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 19:28:49 +0000"
+        },
+        {
+          "id": "16e2c8c37261",
+          "title": "Waymo opens up robotaxi service in Dallas to everyone",
+          "link": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+          "description": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 17:31:01 +0000"
+        },
+        {
+          "id": "6f16fa372a19",
+          "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
+          "link": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
+          "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 17:20:54 +0000"
+        },
+        {
+          "id": "ecd94609299a",
+          "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
+          "link": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
+          "description": "Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing history.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 17:05:48 +0000"
+        },
+        {
+          "id": "abdeb8880cf1",
+          "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
+          "link": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+          "description": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain-monitoring firms.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 04 Aug 2026 16:27:59 +0000"
+        },
         {
           "id": "90cd3878ea6e",
           "title": "Spotify expands AI remix and covers project with Merlin partnership",
@@ -17,7 +143,7 @@
           "id": "3ec4d26f65ce",
           "title": "Texas halts new data centers as governor calls for audits",
           "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-          "description": "Texas Governor Greg Abbott has paused new data center development until an audit has been completed.",
+          "description": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Tue, 04 Aug 2026 15:42:35 +0000"
@@ -26,7 +152,7 @@
           "id": "a4e477118659",
           "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
           "link": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
-          "description": "The acquisition, which was first announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
+          "description": "The acquisition, which was announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Tue, 04 Aug 2026 15:38:22 +0000"
@@ -35,7 +161,7 @@
           "id": "d245efc3d47b",
           "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
           "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-          "description": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+          "description": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Tue, 04 Aug 2026 15:20:06 +0000"
@@ -59,130 +185,67 @@
           "pub_date": "Tue, 04 Aug 2026 14:03:01 +0000"
         },
         {
-          "id": "881b9ff1105e",
-          "title": "Spotify now has over 300M subscribers",
-          "link": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
-          "description": "Notably, the company saw its subscriber base swell by 9% in the second quarter despite raising prices in several regions this year.",
-          "source": "TechCrunch",
+          "id": "a2ec1ee2b440",
+          "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+          "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+          "description": "Fire experts warn such markets could incentivize arson.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 13:52:58 +0000"
+          "pub_date": "Tue, 04 Aug 2026 21:52:31 +0000"
         },
         {
-          "id": "6256fe81fa68",
-          "title": "India moves to give its instant payments network a business model",
-          "link": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
-          "description": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020.",
-          "source": "TechCrunch",
+          "id": "bdb34f50d9e5",
+          "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+          "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+          "description": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 13:31:17 +0000"
+          "pub_date": "Tue, 04 Aug 2026 21:27:05 +0000"
         },
         {
-          "id": "43cfb55d61d7",
-          "title": "Is the future of data centers portable? Runware builds a pod to find out",
-          "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-          "description": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-          "source": "TechCrunch",
+          "id": "8715af998ffe",
+          "title": "Texas halts data center connections to power grid amid overwhelming demand",
+          "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+          "description": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 13:00:00 +0000"
+          "pub_date": "Tue, 04 Aug 2026 20:34:28 +0000"
         },
         {
-          "id": "f1a441aa15e8",
-          "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-          "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-          "description": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
-          "source": "TechCrunch",
+          "id": "66cbf058289a",
+          "title": "China is Tesla's cash cow, but for how much longer?",
+          "link": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
+          "description": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 12:00:00 +0000"
+          "pub_date": "Tue, 04 Aug 2026 17:34:48 +0000"
         },
         {
-          "id": "416efad672d5",
-          "title": "Bending Spoons to buy Airtable for $1.28B",
-          "link": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
-          "description": "At its peak in 2021, Airtable was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion.",
-          "source": "TechCrunch",
+          "id": "b88ddb0bb4f8",
+          "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
+          "link": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
+          "description": "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 11:30:56 +0000"
+          "pub_date": "Tue, 04 Aug 2026 16:11:05 +0000"
         },
         {
-          "id": "5f00e626a5b5",
-          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-          "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-          "source": "TechCrunch",
+          "id": "681b39eb9a2c",
+          "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
+          "link": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
+          "description": "Congress set ownership limit at 39%, but FCC claims authority to kill the rule.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 03 Aug 2026 23:19:50 +0000"
+          "pub_date": "Tue, 04 Aug 2026 15:51:00 +0000"
         },
         {
-          "id": "b9a1b8e684ef",
-          "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
-          "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
-          "description": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
-          "source": "TechCrunch",
+          "id": "c0d7332cd863",
+          "title": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
+          "link": "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
+          "description": "Federal officials will update the outbreak sometime \"this week,\" a spokesperson said.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 03 Aug 2026 22:10:58 +0000"
-        },
-        {
-          "id": "364b723a20b9",
-          "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-          "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-          "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 03 Aug 2026 20:00:00 +0000"
-        },
-        {
-          "id": "3e13af797c4e",
-          "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
-          "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-          "description": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking laws to find out.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 03 Aug 2026 19:45:35 +0000"
-        },
-        {
-          "id": "8126d1321ed5",
-          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-          "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-          "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 03 Aug 2026 19:28:57 +0000"
-        },
-        {
-          "id": "8588a75a7265",
-          "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-          "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-          "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 03 Aug 2026 19:09:56 +0000"
-        },
-        {
-          "id": "5b6959061808",
-          "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
-          "link": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
-          "description": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 03 Aug 2026 18:54:09 +0000"
-        },
-        {
-          "id": "e465f2b14f60",
-          "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-          "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-          "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 03 Aug 2026 18:43:43 +0000"
-        },
-        {
-          "id": "07343cf111b1",
-          "title": "Outernet turns your saved posts into real-world adventures",
-          "link": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
-          "description": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actually go.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 03 Aug 2026 18:00:24 +0000"
+          "pub_date": "Tue, 04 Aug 2026 15:06:07 +0000"
         },
         {
           "id": "9412bd0b6606",
@@ -275,97 +338,34 @@
           "pub_date": "Mon, 03 Aug 2026 11:00:11 +0000"
         },
         {
-          "id": "a04901acbc3a",
-          "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-          "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-          "description": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sat, 01 Aug 2026 18:20:11 +0000"
-        },
-        {
-          "id": "8d96c0deb26c",
-          "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-          "link": "https://toneyalexander.github.io/inclusive-color-space/",
-          "description": "Hello HN! I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy. I've built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what properties the space has. The methodology might be a bit shaky, but hopefully the result is as helpful for other",
+          "id": "3f118569ecb6",
+          "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+          "link": "https://techascent.com/blog/just-ducking-around.html",
+          "description": "Article URL: https://techascent.com/blog/just-ducking-around.html Comments URL: https://news.ycombinator.com/item?id=49175924 Points: 8 # Comments: 0",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 15:16:22 +0000"
+          "pub_date": "Tue, 04 Aug 2026 22:09:43 +0000"
         },
         {
-          "id": "3dfa223f82c4",
-          "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
-          "link": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
-          "description": "Article URL: https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/ Comments URL: https://news.ycombinator.com/item?id=49170001 Points: 33 # Comments: 6",
+          "id": "553b9919c951",
+          "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+          "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+          "description": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 50 # Comments: 19",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 15:05:33 +0000"
+          "pub_date": "Tue, 04 Aug 2026 22:01:41 +0000"
         },
         {
-          "id": "5546e6e19a6f",
-          "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-          "link": "https://github.com/tikalk/adlc-team-skills",
-          "description": "Article URL: https://github.com/tikalk/adlc-team-skills Comments URL: https://news.ycombinator.com/item?id=49169640 Points: 46 # Comments: 17",
+          "id": "93f84220f8b6",
+          "title": "Third-party cyber evaluations involving OpenAI models",
+          "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+          "description": "Article URL: https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/ Comments URL: https://news.ycombinator.com/item?id=49175248 Points: 24 # Comments: 2",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 14:38:31 +0000"
-        },
-        {
-          "id": "5a37536f64cc",
-          "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
-          "link": "https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/",
-          "description": "Article URL: https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/ Comments URL: https://news.ycombinator.com/item?id=49168886 Points: 41 # Comments: 9",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 13:43:00 +0000"
-        },
-        {
-          "id": "711d9806327b",
-          "title": "Xbox goes down. You can't play games you own on disc",
-          "link": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-          "description": "Article URL: https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/ Comments URL: https://news.ycombinator.com/item?id=49167448 Points: 343 # Comments: 376",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 12:01:02 +0000"
-        },
-        {
-          "id": "2fbf99b6114f",
-          "title": "Roame (YC S23) Is Hiring Lead Engineer",
-          "link": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
-          "description": "Article URL: https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer Comments URL: https://news.ycombinator.com/item?id=49167444 Points: 0 # Comments: 0",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 12:00:51 +0000"
-        },
-        {
-          "id": "778c76bb25c5",
-          "title": "Buckminster Fuller: everything I know",
-          "link": "https://www.bfi.org/about-fuller/everything-i-know/",
-          "description": "Article URL: https://www.bfi.org/about-fuller/everything-i-know/ Comments URL: https://news.ycombinator.com/item?id=49167147 Points: 72 # Comments: 23",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 11:33:32 +0000"
-        },
-        {
-          "id": "4355fd4f1341",
-          "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-          "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-          "description": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 577 # Comments: 339",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 11:30:17 +0000"
-        },
-        {
-          "id": "f2f0f3f03bf8",
-          "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
-          "link": "https://github.com/MakazhanAlpamys/Soup",
-          "description": "Article URL: https://github.com/MakazhanAlpamys/Soup Comments URL: https://news.ycombinator.com/item?id=49166984 Points: 73 # Comments: 8",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 04 Aug 2026 11:17:57 +0000"
+          "pub_date": "Tue, 04 Aug 2026 21:14:19 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI与音乐融合加速**：Spotify通过Merlin合作扩展AI混音和翻唱功能，同时订阅用户突破3亿，显示AI在内容创作与用户增长上的双重推力。\n2. **数据中心与能源监管收紧**：德克萨斯州暂停新建数据中心并要求审计，反映AI算力扩张与电网负荷、监管之间的紧张关系；同时Runware推出便携式数据中心“Pod”探索未来基础设施形态。\n3. **科技巨头并购与数据安全争议**：沃尔玛完成对电视广告公司Vibe.co的收购；Bending Spoons以12.8亿美元收购Airtable；苹果披露更多前员工可能将机密数据泄露给OpenAI，引发企业数据边界与竞业合规讨论。\n4. **AI行业话语权与商业模式探索**：Palantir CEO称AI行业“马克思主义化”，Snap CEO回避Spects预购问题，AWS支持“vibe-coding”初创公司Superblocks，显示AI从技术竞争转向商业模式与意识形态交锋。\n5. **支付与通信基础设施变革**：印度为即时支付网络建立商业模式；EON公司计划用太空激光替代海底光纤传输数据，指向全球金融与通信底层架构的升级方向。\n\n**今日最值得关注的发展**：AI正从技术应用层面全面渗透至音乐、数据中心、广告、企业软件和支付网络，但随之而来的能源监管、数据安全争议与行业话语权冲突，正在成为科技巨头必须面对的新常态。",
+      "summary": "今日科技动态摘要\n\n1. **SpaceX首次财报电话会议亮点**：马斯克在会议中多次超越高管发言，同时公司今年已购入价值3.29亿美元的特斯拉Megapack储能设备，并因Anthropic、谷歌计算交易及Starlink增长实现营收翻倍。\n\n2. **AI行业巨额投资与竞争加剧**：Anthropic与AI云初创公司Volta签署100亿美元协议；开放权重AI模型正快速逼近前沿水平，但安全差距依然显著；英伟达在开放AI行业组织成立一周后即展示进展，凸显其主导力。\n\n3. **自动驾驶与机器人出租车进展**：Waymo在达拉斯向公众开放机器人出租车服务；Lucid的转型计划则依赖14亿美元现金节省及机器人出租车业务，显示行业竞争白热化。\n\n4. **安全与隐私风险警示**：黑客利用离线硬件钱包漏洞窃取超1.3亿美元；Android应用开发者可能在不知情下向广告商共享用户位置数据，移动端隐私问题再引关注。\n\n5. **消费科技与娱乐动态**：Spotify与Merlin合作扩展AI混音和翻唱项目；TV Time联合创始人推出新应用Bingers以复活经典追剧工具；新应用Wrinkles帮助用户探索周边地点的隐藏故事；TechCrunch Disrupt 2026门票优惠活动进行中。\n\n今日最值得关注的是SpaceX在财报中展现的强劲增长与AI算力领域的巨额交易，两者共同勾勒出科技巨头在能源、AI和基础设施上的战略投入加速。",
       "count": 40
     },
     "ai": {
@@ -389,15 +389,6 @@
           "pub_date": "Thu, 30 Jul 2026 15:09:09 GMT"
         },
         {
-          "id": "1cd7b3e68a87",
-          "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-          "description": "",
-          "source": "Hugging Face",
-          "category": "ai",
-          "pub_date": "Tue, 28 Jul 2026 16:27:42 GMT"
-        },
-        {
           "id": "61dbda9a5440",
           "title": "The latest AI news we announced in July 2026",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
@@ -414,6 +405,24 @@
           "source": "Google AI Blog",
           "category": "ai",
           "pub_date": "Mon, 03 Aug 2026 15:00:00 +0000"
+        },
+        {
+          "id": "27d714ed250d",
+          "title": "Third-party cyber evaluations involving OpenAI models",
+          "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 04 Aug 2026 19:00:00 GMT"
+        },
+        {
+          "id": "15f0aaa2f7d7",
+          "title": "New ways to learn and teach with ChatGPT Work and Codex",
+          "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "description": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 04 Aug 2026 00:00:00 GMT"
         },
         {
           "id": "04fb56e737d3",
@@ -533,15 +542,6 @@
           "pub_date": "Wed, 29 Jul 2026 00:00:00 GMT"
         },
         {
-          "id": "0661cc2da57e",
-          "title": "Scientific computing in the age of agentic AI",
-          "link": "https://openai.com/index/scientific-computing-agentic-ai",
-          "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Tue, 28 Jul 2026 17:00:00 GMT"
-        },
-        {
           "id": "71ee206c430d",
           "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
           "link": "https://www.qbitai.com/2026/08/466386.html",
@@ -632,13 +632,266 @@
           "pub_date": "Mon, 03 Aug 2026 11:59:32 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **模型部署与性能优化**：Hugging Face发布LFM2.5-2.6B小模型，支持本地化部署；OpenAI推出GPT-5.6，强调性价比突破，并展示基于GPT-Realtime的实时语音AI系统（avatarin零售代理、电信个性化等应用）。\n2. **AI基础设施与地理空间计算**：Hugging Face提出闲置GPU管理问题（类比停飞飞机），并发布OlmoEarth平台，实现行星尺度的地理空间推理；Google公布2026年7月AI新闻，包括大规模“vibe coding”课程（35.3万人参与）。\n3. **AI安全与社会责任**：OpenAI披露打击诈骗犯罪行动，强调欧洲负责任AI推进；同时批评苹果在AI策略上的失误，并发布数学与理论计算机科学领域10项进展。\n4. **企业AI转型与劳动力**：Univé（保险）与OpenAI合作建设AI-ready员工队伍，Google则通过大规模编程课程推动AI普及教育。\n5. **长期愿景与战略**：OpenAI提出“构建富足智能”（Building abundant intelligence）的宏观目标，强调AI作为基础设施的规模化部署与可持续性。\n\n**总结**：今日AI焦点从模型部署、实时语音应用扩展到地理空间计算与企业转型，但最值得关注的是OpenAI对“富足智能”的长期愿景——AI正从工具层面向社会基础设施与安全治理全面渗透。",
+      "summary": "今日AI动态摘要\n\n1. **模型部署与性能优化**：Hugging Face发布LFM2.5-2.6B，支持在本地环境广泛部署；OpenAI推出GPT-5.6，进一步推动价格-性能比前沿，强化AI成本效益。\n2. **GPU资源管理成为焦点**：业界将闲置GPU比作“停飞飞机”，强调算力资源高效利用的重要性，反映AI基础设施管理的新挑战。\n3. **AI教育与人才培养加速**：Google开设35.3万人参与的“vibe coding”课程，OpenAI推出ChatGPT Work和Codex教学新功能，Univé等企业也在建设AI-ready workforce，显示AI技能普及成为主流趋势。\n4. **安全与责任AI并重**：OpenAI发布第三方网络评估结果、打击犯罪诈骗行动、推进欧洲负责任AI发展，并批评苹果在AI策略上的失误，凸显行业对安全、伦理和合规的高度关注。\n5. **AI技术前沿拓展**：OpenAI在数学与理论计算机科学取得十项进展，并自研实时语音AI系统（六个月建成），同时电信行业（Circles）借助OpenAI技术实现个性化服务，AI应用领域持续深化。\n\n**总结**：今日最值得关注的是OpenAI在模型性能（GPT-5.6）、实时语音系统及负责任AI推进上的多线突破，同时GPU资源管理与AI教育普及成为行业共识，预示AI正从技术竞赛转向效率、安全与人才生态的综合较量。",
       "count": 29
     },
     "cctv": {
-      "articles": [],
-      "summary": "今日暂无相关新闻。",
-      "count": 0
+      "articles": [
+        {
+          "id": "bcf590219404",
+          "title": "China turns up the heat with open model blitz as US model makers panic",
+          "link": "https://www.theregister.com/ai-and-ml/2026/08/03/china-turns-up-the-heat-with-open-model-blitz-as-us-model-makers-panic/5282526",
+          "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/china-turns-up-the-heat-with-open-model-blitz-as-us-model-makers-panic/5282526 Comments URL: https://news.ycombinator.com/item?id=49175524 Points: 4 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 04 Aug 2026 21:37:10 +0000"
+        },
+        {
+          "id": "cc9205b08bf3",
+          "title": "China's AI Blitz Creates 'Death Zone' for Rival US Model Makers",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers Comments URL: https://news.ycombinator.com/item?id=49170176 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 04 Aug 2026 15:17:08 +0000"
+        },
+        {
+          "id": "ea6673a54f76",
+          "title": "China's CXMT Eyes Second Beijing Fab to Fight Memory Shortage",
+          "link": "https://hothardware.com/news/chinas-cxmt-eyes-second-beijing-fab-to-fight-memory-shortage",
+          "description": "Article URL: https://hothardware.com/news/chinas-cxmt-eyes-second-beijing-fab-to-fight-memory-shortage Comments URL: https://news.ycombinator.com/item?id=49169856 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 04 Aug 2026 14:54:50 +0000"
+        },
+        {
+          "id": "edff34178a94",
+          "title": "China gets better bang for its buck than America in AI",
+          "link": "https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai",
+          "description": "Article URL: https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai Comments URL: https://news.ycombinator.com/item?id=49165100 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 04 Aug 2026 06:49:45 +0000"
+        },
+        {
+          "id": "676de8155dd6",
+          "title": "China has changed its legal definition of semiconductors",
+          "link": "https://www.theregister.com/legal/2026/08/04/china-claims-global-chip-leadership-thanks-to-new-legal-definition-of-integrated-circuits/5282563",
+          "description": "Article URL: https://www.theregister.com/legal/2026/08/04/china-claims-global-chip-leadership-thanks-to-new-legal-definition-of-integrated-circuits/5282563 Comments URL: https://news.ycombinator.com/item?id=49164545 Points: 6 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 04 Aug 2026 05:11:05 +0000"
+        },
+        {
+          "id": "3bcbf861dfab",
+          "title": "The U.S. lead over China in AI is all but gone",
+          "link": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+          "description": "Article URL: https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html Comments URL: https://news.ycombinator.com/item?id=49160745 Points: 15 # Comments: 7",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 03 Aug 2026 20:06:08 +0000"
+        },
+        {
+          "id": "78153bcbc6ac",
+          "title": "The Race to Build an American Alternative to Cheap AI from China",
+          "link": "https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a",
+          "description": "Article URL: https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a Comments URL: https://news.ycombinator.com/item?id=49158319 Points: 5 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 03 Aug 2026 16:53:34 +0000"
+        },
+        {
+          "id": "d4654a80e9e6",
+          "title": "How AI is killing smartphone apps in China",
+          "link": "https://www.computerworld.com/article/4203560/how-ai-in-china-is-killing-smartphone-apps.html",
+          "description": "Article URL: https://www.computerworld.com/article/4203560/how-ai-in-china-is-killing-smartphone-apps.html Comments URL: https://news.ycombinator.com/item?id=49157700 Points: 5 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 03 Aug 2026 16:10:57 +0000"
+        },
+        {
+          "id": "c57588466434",
+          "title": "The Future, Made in China",
+          "link": "https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china",
+          "description": "Article URL: https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china Comments URL: https://news.ycombinator.com/item?id=49155940 Points: 63 # Comments: 109",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 03 Aug 2026 14:02:37 +0000"
+        },
+        {
+          "id": "16b8dd1018eb",
+          "title": "Is This All About China?",
+          "link": "https://www.rosshartshorn.net/stuffrossthinksabout/is_this_all_about_china/",
+          "description": "Article URL: https://www.rosshartshorn.net/stuffrossthinksabout/is_this_all_about_china/ Comments URL: https://news.ycombinator.com/item?id=49155872 Points: 1 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 03 Aug 2026 13:56:21 +0000"
+        },
+        {
+          "id": "41422aceb939",
+          "title": "Microdrama is no more a China thing",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-31/chinese-microdramas-go-global-as-ai-slashes-production-costs",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-31/chinese-microdramas-go-global-as-ai-slashes-production-costs Comments URL: https://news.ycombinator.com/item?id=49154027 Points: 3 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 03 Aug 2026 10:54:37 +0000"
+        },
+        {
+          "id": "0cdd2e3b3679",
+          "title": "China, Open Source and AI Competitiveness with Andrew Ng",
+          "link": "https://www.youtube.com/watch?v=2OUGXI9Y1sk",
+          "description": "Article URL: https://www.youtube.com/watch?v=2OUGXI9Y1sk Comments URL: https://news.ycombinator.com/item?id=49150993 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 03 Aug 2026 03:45:47 +0000"
+        },
+        {
+          "id": "e1ada97e2ac9",
+          "title": "Wham! 10 Days in China [video]",
+          "link": "https://www.youtube.com/watch?v=P7oAaJqqv8w",
+          "description": "Article URL: https://www.youtube.com/watch?v=P7oAaJqqv8w Comments URL: https://news.ycombinator.com/item?id=49149220 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 02 Aug 2026 22:49:07 +0000"
+        },
+        {
+          "id": "d134e8f12d46",
+          "title": "How 'salmon' raised in landlocked Xinjiang is netting fans in China",
+          "link": "https://www.scmp.com/economy/china-economy/article/3347727/how-salmon-raised-landlocked-xinjiang-netting-fans-china",
+          "description": "Article URL: https://www.scmp.com/economy/china-economy/article/3347727/how-salmon-raised-landlocked-xinjiang-netting-fans-china Comments URL: https://news.ycombinator.com/item?id=49146977 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 02 Aug 2026 18:24:02 +0000"
+        },
+        {
+          "id": "729980817e9b",
+          "title": "How China Keeps Tabs on Foreigners",
+          "link": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html",
+          "description": "Article URL: https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html Comments URL: https://news.ycombinator.com/item?id=49146696 Points: 49 # Comments: 23",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 02 Aug 2026 17:55:33 +0000"
+        },
+        {
+          "id": "87cf055002a4",
+          "title": "China Crosses Energy Milestone as Coal Falls Below 50% of Power",
+          "link": "https://financialpost.com/pmn/business-pmn/china-crosses-energy-milestone-as-coal-falls-below-50-of-power",
+          "description": "Article URL: https://financialpost.com/pmn/business-pmn/china-crosses-energy-milestone-as-coal-falls-below-50-of-power Comments URL: https://news.ycombinator.com/item?id=49145236 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 02 Aug 2026 14:56:15 +0000"
+        },
+        {
+          "id": "00c91186804c",
+          "title": "China's free Kimi K3 AI model shakes up global tech market",
+          "link": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/",
+          "description": "Article URL: https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/ Comments URL: https://news.ycombinator.com/item?id=49144128 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 02 Aug 2026 12:50:38 +0000"
+        },
+        {
+          "id": "a03f2f63ddf8",
+          "title": "Token diplomacy: How China is shaping the AI future",
+          "link": "https://www.semafor.com/article/07/28/2026/token-diplomacy-how-china-is-shaping-the-worlds-ai-future",
+          "description": "Article URL: https://www.semafor.com/article/07/28/2026/token-diplomacy-how-china-is-shaping-the-worlds-ai-future Comments URL: https://news.ycombinator.com/item?id=49140291 Points: 6 # Comments: 6",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 02 Aug 2026 01:48:53 +0000"
+        },
+        {
+          "id": "9318263ba066",
+          "title": "China's tech advances are causing chaos from Silicon Valley to the White House",
+          "link": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
+          "description": "Article URL: https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house Comments URL: https://news.ycombinator.com/item?id=49139946 Points: 8 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 02 Aug 2026 00:30:51 +0000"
+        },
+        {
+          "id": "b992f7ae752e",
+          "title": "The Rise of Zero Fertility Desire in China",
+          "link": "https://www.researchsquare.com/article/rs-8921502/v1",
+          "description": "Article URL: https://www.researchsquare.com/article/rs-8921502/v1 Comments URL: https://news.ycombinator.com/item?id=49136667 Points: 6 # Comments: 4",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 01 Aug 2026 17:49:40 +0000"
+        },
+        {
+          "id": "c45563426a7a",
+          "title": "Leaked Document Names Mainstream Journalists Taking Pay-for-Play Trips to China",
+          "link": "https://nataliegwinters.substack.com/p/exc-leaked-document-names-mainstream",
+          "description": "Article URL: https://nataliegwinters.substack.com/p/exc-leaked-document-names-mainstream Comments URL: https://news.ycombinator.com/item?id=49135496 Points: 6 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 01 Aug 2026 15:56:21 +0000"
+        },
+        {
+          "id": "26563800a784",
+          "title": "China begins mass production of DUV chipmaking machines in major breakthrough",
+          "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines",
+          "description": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines Comments URL: https://news.ycombinator.com/item?id=49133840 Points: 7 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 01 Aug 2026 12:28:48 +0000"
+        },
+        {
+          "id": "6384766f535b",
+          "title": "The Cost of China's Free A.I",
+          "link": "https://www.nytimes.com/2026/07/29/opinion/ai-china-us-free-models.html",
+          "description": "Article URL: https://www.nytimes.com/2026/07/29/opinion/ai-china-us-free-models.html Comments URL: https://news.ycombinator.com/item?id=49130745 Points: 6 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 01 Aug 2026 03:22:39 +0000"
+        },
+        {
+          "id": "3a9f810b96fd",
+          "title": "China's Xi urges military to step up use of unmanned AI technologies",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies Comments URL: https://news.ycombinator.com/item?id=49129809 Points: 7 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 31 Jul 2026 23:53:43 +0000"
+        },
+        {
+          "id": "8c36f616dbca",
+          "title": "Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger",
+          "link": "https://www.wsj.com/business/autos/tesla-weighs-sale-of-china-business-to-pave-way-for-potential-spacex-merger-5ae26026",
+          "description": "Article URL: https://www.wsj.com/business/autos/tesla-weighs-sale-of-china-business-to-pave-way-for-potential-spacex-merger-5ae26026 Comments URL: https://news.ycombinator.com/item?id=49129764 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 31 Jul 2026 23:44:38 +0000"
+        },
+        {
+          "id": "041e5e330e84",
+          "title": "Tesla Weighs China Unit Sale Ahead of SpaceX Deal",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-31/tesla-weighs-china-unit-sale-ahead-of-spacex-deal-wsj-says",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-31/tesla-weighs-china-unit-sale-ahead-of-spacex-deal-wsj-says Comments URL: https://news.ycombinator.com/item?id=49124081 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 31 Jul 2026 15:05:09 +0000"
+        },
+        {
+          "id": "37792f6aab7a",
+          "title": "China's MiniMax releases H3 video model",
+          "link": "https://www.reuters.com/world/china/chinas-minimax-releases-h3-video-model-2026-07-31/",
+          "description": "Article URL: https://www.reuters.com/world/china/chinas-minimax-releases-h3-video-model-2026-07-31/ Comments URL: https://news.ycombinator.com/item?id=49123178 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 31 Jul 2026 13:54:31 +0000"
+        },
+        {
+          "id": "4571103607b3",
+          "title": "Why the world trusts China more than America",
+          "link": "https://www.ft.com/content/f3ad032f-3c06-4ed4-82e2-7c2e5e68af26",
+          "description": "Article URL: https://www.ft.com/content/f3ad032f-3c06-4ed4-82e2-7c2e5e68af26 Comments URL: https://news.ycombinator.com/item?id=49121634 Points: 5 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 31 Jul 2026 11:04:57 +0000"
+        }
+      ],
+      "summary": "今日新闻联播动态摘要\n\n1. **中国AI开源模型引发全球关注**：多家国际媒体报道称，中国以开源模型密集发布掀起AI领域攻势，对美国模型厂商形成竞争压力，美方领先优势被认为“几乎消失”，且中国在AI投入产出比上更优。\n\n2. **中国半导体产业加速自主布局**：长鑫存储（CXMT）计划在北京建设第二座晶圆厂以应对内存短缺，同时中国已修改半导体法律定义，强化本土产业链自主可控。\n\n3. **美国寻求替代中国低成本AI方案**：报道指出美国正竞相构建可替代中国廉价AI的自主体系，反映中国AI成本与效率优势对全球产业格局的深刻影响。\n\n4. **中国AI应用生态变革**：AI正“杀死”中国手机APP传统模式，微短剧等新内容形态走向国际化，不再局限于中国市场。\n\n5. **新疆三文鱼养殖引发关注**：内陆地区通过现代技术养殖“三文鱼”获得国内消费者青睐，展示中国在非传统农业领域的创新。\n\n**今日最值得关注的发展**：中国AI开源模型攻势被国际视为改变全球AI竞争格局的关键节点，美国领先地位动摇，中国正从成本、生态到标准层面重塑行业。",
+      "count": 28
     }
   }
 }
