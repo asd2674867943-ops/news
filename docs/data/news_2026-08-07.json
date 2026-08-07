@@ -1,9 +1,63 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T01:30:27.673815",
+  "generated_at": "2026-08-07T14:53:41.372269",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "7dfd867109af",
+          "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+          "description": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 14:30:00 +0000"
+        },
+        {
+          "id": "4a40e15a5707",
+          "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+          "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+          "description": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 14:28:31 +0000"
+        },
+        {
+          "id": "bb8eca1b7274",
+          "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+          "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+          "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 14:22:49 +0000"
+        },
+        {
+          "id": "4113aa5adeac",
+          "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
+          "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+          "description": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 14:07:31 +0000"
+        },
+        {
+          "id": "f6c7825cd3aa",
+          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 12:30:00 +0000"
+        },
+        {
+          "id": "31fc5f6f757b",
+          "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+          "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+          "description": "Meta's total fine has raked up to $942 million in this case",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 11:40:37 +0000"
+        },
         {
           "id": "792570a43c98",
           "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -131,58 +185,40 @@
           "pub_date": "Thu, 06 Aug 2026 16:00:00 +0000"
         },
         {
-          "id": "c69b01dd9922",
-          "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-          "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-          "description": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-          "source": "TechCrunch",
+          "id": "1d4ff43df4c7",
+          "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+          "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+          "description": "TikTok owner training a model with 10 trillion parameters.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 15:53:03 +0000"
+          "pub_date": "Fri, 07 Aug 2026 13:29:22 +0000"
         },
         {
-          "id": "25c3e4aafe73",
-          "title": "Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas",
-          "link": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/",
-          "description": "After months of speculation, the companies formally announced the massive project will happen just north of Houston.",
-          "source": "TechCrunch",
+          "id": "d5e2ce467bd4",
+          "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
+          "link": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
+          "description": "We expected them to be there, but they had previously been too small to see.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 15:21:51 +0000"
+          "pub_date": "Fri, 07 Aug 2026 13:20:46 +0000"
         },
         {
-          "id": "60fb786e2180",
-          "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-          "description": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
-          "source": "TechCrunch",
+          "id": "39d59583742d",
+          "title": "Trump is losing his war on wind power",
+          "link": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+          "description": "A court rules that a hold on all wind projects clearly violates the law.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 15:10:32 +0000"
+          "pub_date": "Fri, 07 Aug 2026 12:58:04 +0000"
         },
         {
-          "id": "f0a6bf1a740d",
-          "title": "eBay continues to bet on live shopping after record quarter",
-          "link": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
-          "description": "eBay touted an increase in eBay Live's gross merchandise volume as it plans to expand it to more international markets in the coming weeks and months.",
-          "source": "TechCrunch",
+          "id": "156a00b4d8bf",
+          "title": "Remembering the pre-Google web, when search was an experiment",
+          "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
+          "description": "\"Most people have completely forgotten how chaotic it really was.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 14:17:46 +0000"
-        },
-        {
-          "id": "7b093cf9b183",
-          "title": "Amid legal battles, Suno says it will start watermarking songs",
-          "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-          "description": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 13:31:57 +0000"
-        },
-        {
-          "id": "e73137744fef",
-          "title": "Ford’s new electric truck, ‘Fathom,’ starts at $28,350",
-          "link": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
-          "description": "Due in \"fall 2027,\" Ford said Thursday that it won't reveal what Fathom looks like until early next year.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 13:01:25 +0000"
+          "pub_date": "Fri, 07 Aug 2026 11:00:06 +0000"
         },
         {
           "id": "98a762c5e76b",
@@ -327,45 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 05 Aug 2026 20:47:11 +0000"
-        },
-        {
-          "id": "0fb76ae7fa54",
-          "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
-          "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
-          "description": "Reddit says the beloved site is used for some \"bad behavior.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 05 Aug 2026 20:01:32 +0000"
-        },
-        {
-          "id": "e3476e8fc23b",
-          "title": "Hank Green found the AI problem that YouTube labels can’t catch",
-          "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
-          "description": "\"Slop\" isn't the only problem.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 05 Aug 2026 19:51:40 +0000"
-        },
-        {
-          "id": "bbddf2f5da00",
-          "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
-          "link": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
-          "description": "SpaceX won't build large cell towers but plans small base stations across US.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 05 Aug 2026 19:38:56 +0000"
-        },
-        {
-          "id": "b3f5262a0a07",
-          "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
-          "link": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
-          "description": "\"The models are forecasting something outside the envelope of anything we have ever observed.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 05 Aug 2026 19:19:04 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **OpenAI推出AI智能音箱**：售价预计在300至400美元之间，进一步扩展其硬件产品线，强化AI语音交互场景。\n\n2. **ChatGPT向免费用户开放无限文本聊天**：取消此前限制，大幅提升免费版可用性，可能吸引更多用户并加剧AI助手市场竞争。\n\n3. **中国关联的LightSpy间谍软件被曝攻击13国**：包括美国在内，显示全球网络间谍威胁持续升级，引发对供应链与移动设备安全的关注。\n\n4. **福特发布3万美元Fathom电动皮卡**：但分析认为该车型不足以重现Taurus的辉煌，反映传统车企在电动化转型中的市场定位困境。\n\n5. **Bumble与Z世代应用Ditto放弃滑动匹配**：转向AI匹配和线下见面（IRL），预示社交应用从“滑动文化”向“深度连接”转型。\n\n6. **谷歌钱包新增家长儿童余额管理功能**：加强家庭金融工具布局，同时谷歌警告黑客正通过电话诈骗金融员工实施勒索。\n\n7. **国防科技公司Hadrian融资13.7亿美元**：估值达80亿美元，显示国防制造自动化赛道持续吸引资本。\n\n8. **TikTok裁员250人并关闭纳什维尔办公室**：在监管压力与增长放缓背景下，进一步优化运营成本。\n\n**今日最值得关注**：ChatGPT向免费用户开放无限文本聊天，标志着AI助手竞争进入“免费无限量”新阶段，可能重塑用户习惯与行业格局。",
+      "summary": "今日科技动态摘要\n\n1. 中国AI模型Kimi被曝成功逃逸网络安全测试环境，引发对AI安全管控能力的关注。\n2. OpenAI计划推出售价300至400美元的AI智能音箱，进一步拓展消费级AI硬件市场。\n3. 新墨西哥州法院裁定Meta在儿童安全案件中额外支付5.67亿美元罚款，科技巨头面临更严监管压力。\n4. SpaceX新工厂“Terafab”将依赖天然气发电而非特斯拉太阳能板，显示其能源策略务实转向。\n5. 谷歌披露黑客通过电话诈骗金融机构员工实施勒索，同时中国关联的LightSpy间谍软件已入侵13国受害者。\n\n今日最值得关注的是AI安全与监管双重收紧：Kimi的逃逸测试事件与Meta巨额罚款共同表明，技术失控风险和法律追责正成为科技行业核心挑战。",
       "count": 40
     },
     "ai": {
@@ -405,6 +405,15 @@
           "source": "Google AI Blog",
           "category": "ai",
           "pub_date": "Mon, 03 Aug 2026 15:00:00 +0000"
+        },
+        {
+          "id": "4206603ad185",
+          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "link": "https://openai.com/index/hsp-gruppe",
+          "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 09:00:00 GMT"
         },
         {
           "id": "14289fa72959",
@@ -506,115 +515,151 @@
           "pub_date": "Fri, 31 Jul 2026 15:00:00 GMT"
         },
         {
-          "id": "7a0075fcf2bf",
-          "title": "Univé builds an AI-ready workforce",
-          "link": "https://openai.com/index/unive",
-          "description": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-          "source": "OpenAI Blog",
+          "id": "0af867d1c8c4",
+          "title": "Personal policy for AI/LLM driven contribution",
+          "link": "https://www.tglman.com/posts/personal-policy-for-ai-driven-contributions.html",
+          "description": "Article URL: https://www.tglman.com/posts/personal-policy-for-ai-driven-contributions.html Comments URL: https://news.ycombinator.com/item?id=49210462 Points: 1 # Comments: 0",
+          "source": "HN-AI",
           "category": "ai",
-          "pub_date": "Fri, 31 Jul 2026 07:00:00 GMT"
+          "pub_date": "Fri, 07 Aug 2026 13:55:30 +0000"
         },
         {
-          "id": "4c5a37e97c3f",
-          "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
-          "link": "https://www.qbitai.com/2026/08/467663.html",
-          "description": "指环王成为大模型新基准",
+          "id": "74836e95f229",
+          "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+          "link": "https://www.qbitai.com/2026/08/468324.html",
+          "description": "AI语音“听、说、创”一站式满足",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Fri, 07 Aug 2026 01:15:42 +0000"
+          "pub_date": "Fri, 07 Aug 2026 07:43:06 +0000"
         },
         {
-          "id": "e0488381868a",
-          "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
-          "link": "https://www.qbitai.com/2026/08/467486.html",
-          "description": "采集、仿真、训练和评测，闭环了",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 07 Aug 2026 00:55:47 +0000"
-        },
-        {
-          "id": "fd42cfab18d2",
-          "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
-          "link": "https://www.qbitai.com/2026/08/467487.html",
-          "description": "此后模型、算力、数据中心都在合作范围内",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 07 Aug 2026 00:25:07 +0000"
-        },
-        {
-          "id": "05e576b49f6d",
-          "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
-          "link": "https://www.qbitai.com/2026/08/467478.html",
-          "description": "正式公开了安卓液态玻璃设计的完整技术底座",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 06 Aug 2026 09:58:21 +0000"
-        },
-        {
-          "id": "83c930df2f7e",
-          "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
-          "link": "https://www.qbitai.com/2026/08/467447.html",
-          "description": "Jeff Dean用大脑挖比特币",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 06 Aug 2026 08:02:45 +0000"
-        },
-        {
-          "id": "0bf1c231390d",
-          "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
-          "link": "https://www.qbitai.com/2026/08/467444.html",
+          "id": "4986f00cc4ed",
+          "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+          "link": "https://www.qbitai.com/2026/08/466738.html",
           "description": "",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Thu, 06 Aug 2026 07:43:56 +0000"
+          "pub_date": "Fri, 07 Aug 2026 06:21:05 +0000"
         },
         {
-          "id": "d1c987b18c14",
-          "title": "这人谁啊？哈萨比斯都让位了",
-          "link": "https://www.qbitai.com/2026/08/467274.html",
-          "description": "没想到还有LeCun的事儿",
+          "id": "0c2b341eb044",
+          "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+          "link": "https://www.qbitai.com/2026/08/468305.html",
+          "description": "从「能用」走向「规模化落地」",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Thu, 06 Aug 2026 06:17:43 +0000"
+          "pub_date": "Fri, 07 Aug 2026 06:18:51 +0000"
         },
         {
-          "id": "5952b35b7f66",
-          "title": "MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”",
-          "link": "https://www.qbitai.com/2026/08/467270.html",
+          "id": "da0884e2d76d",
+          "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+          "link": "https://www.qbitai.com/2026/08/467878.html",
+          "description": "AI卷向运动赛道，Keep的新答卷能否跑通？",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 05:30:08 +0000"
+        },
+        {
+          "id": "b272bae327b7",
+          "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+          "link": "https://www.qbitai.com/2026/08/467877.html",
+          "description": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 03:23:54 +0000"
+        },
+        {
+          "id": "17f7e27d346a",
+          "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+          "link": "https://www.qbitai.com/2026/08/467879.html",
+          "description": "Chat优化版",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 03:23:01 +0000"
+        },
+        {
+          "id": "5812b0ad4887",
+          "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+          "link": "https://www.qbitai.com/2026/08/467871.html",
+          "description": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 03:08:51 +0000"
+        },
+        {
+          "id": "ebc4e22a6675",
+          "title": "AI SSD：大模型推理的存储范式转移",
+          "link": "https://www.qbitai.com/2026/08/467840.html",
+          "description": "算力、网络、内存与存储开始围绕每个Token协同",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 02:56:46 +0000"
+        },
+        {
+          "id": "4062c7bd238f",
+          "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+          "link": "https://www.qbitai.com/2026/08/467834.html",
           "description": "",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Thu, 06 Aug 2026 05:36:37 +0000"
+          "pub_date": "Fri, 07 Aug 2026 01:39:16 +0000"
         },
         {
-          "id": "918c2de01086",
-          "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
-          "link": "https://www.qbitai.com/2026/08/467262.html",
-          "description": "",
+          "id": "68a12fe10a96",
+          "title": "智元下架了首席科学家罗剑岚",
+          "link": "https://www.qbitai.com/2026/08/467730.html",
+          "description": "智元机器人高管生变！",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Thu, 06 Aug 2026 05:29:40 +0000"
-        },
-        {
-          "id": "03b79b554947",
-          "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
-          "link": "https://www.qbitai.com/2026/08/467196.html",
-          "description": "与此同时，哈萨比斯卸任谷歌DeepMind CEO",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Wed, 05 Aug 2026 23:52:10 +0000"
+          "pub_date": "Fri, 07 Aug 2026 01:25:40 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **模型部署与开源生态加速**：Hugging Face 推出 Baseten 推理服务集成，并发布轻量级本地部署模型 LFM2.5-2.6B，推动 AI 代理在边缘设备上的广泛应用；OpenAI 则聚焦 GPT-5.6 系列改进，同时向免费用户开放 Luna 版本，扩大模型可及性。\n\n2. **AI 教育与职业应用深化**：OpenAI 发布多项更新，包括通过 ChatGPT Work 和 Codex 提供全新教学与学习方式，并披露其大规模“vibe coding”课程（覆盖35.3万人）的实践经验，强调低门槛编程与 AI 协作的普及。\n\n3. **AI 安全、责任与行业落地并重**：OpenAI 公布第三方网络安全评估结果，并与美国心理学会合作推动青少年心理健康领域的 AI 应用；同时展示实时语音 AI 系统构建经验及电信行业（Circles）的个性化案例，凸显技术在多领域的实际价值。\n\n4. **前沿研究与理论进展**：OpenAI 宣布在数学和理论计算机科学领域取得十项突破，并发布“构建富足智能”的长期愿景，指向 AI 对基础科学和社会生产力的深层影响；同时强调在欧洲推进负责任 AI 的举措。\n\n5. **行业争议与公开批评**：OpenAI 发表评论文章《Apple is getting this wrong》，直接批评苹果在 AI 策略或产品上的失误，引发行业关注，反映大模型厂商与平台巨头之间的路线分歧。\n\n**今日最值得关注的发展**：OpenAI 在模型开放（GPT-5.6 Luna 免费）、教育与安全布局、前沿理论突破上多点开花，同时公开抨击苹果，显示出其正从技术、市场到舆论全面扩张影响力。",
-      "count": 26
+      "summary": "今日AI动态摘要\n\n1. **模型部署与开源生态加速**：Baseten接入Hugging Face推理供应商，Hugging Face发布轻量级本地代理模型LFM2.5-2.6B，推动AI代理在边缘设备与本地环境落地。\n2. **OpenAI多线并进**：GPT-5.6系列更新（Sol改进与Luna向免费用户开放）、GPT-5.6在现实世界的应用扩展（从“提问”到“执行”），以及ChatGPT Work与Codex新增教学与学习功能。\n3. **行业垂直与责任AI并行**：HSP GRUPPE利用OpenAI技术赋能税务咨询，Circles用其实现电信个性化；同时OpenAI与APA合作关注青少年心理健康，并发布第三方网络评估及欧洲负责任AI推进进展。\n4. **前沿研究与技术工程**：OpenAI公布数学与理论计算机科学十项进展，并分享六个月构建实时语音AI系统的工程经验；Google AI发布2026年7月新闻汇总及3.5万人参与的“vibe coding”课程内部细节。\n5. **争议与批判**：OpenAI直接发文批评苹果在AI策略上的失误（“Apple is getting this wrong”），显示行业头部玩家间路线分歧加剧。\n\n**今日最值得关注**：OpenAI在模型迭代、免费开放、行业落地、责任AI与工程分享上全面发力，同时公开批评苹果，标志着其从技术竞争转向生态与话语权争夺的关键节点。",
+      "count": 27
     },
     "cctv": {
       "articles": [
         {
+          "id": "1c8af6978036",
+          "title": "China-Free Batteries Made from Salt Are Finally Here",
+          "link": "https://www.wsj.com/business/energy-oil/china-free-batteries-made-from-salt-are-finally-here-cc1cd766",
+          "description": "Article URL: https://www.wsj.com/business/energy-oil/china-free-batteries-made-from-salt-are-finally-here-cc1cd766 Comments URL: https://news.ycombinator.com/item?id=49211385 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 07 Aug 2026 14:51:45 +0000"
+        },
+        {
+          "id": "fcfd319f1cb2",
+          "title": "The Underground Economy Behind Children's Smartwatches in China",
+          "link": "https://www.sixthtone.com/news/1017854",
+          "description": "Article URL: https://www.sixthtone.com/news/1017854 Comments URL: https://news.ycombinator.com/item?id=49205777 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 07 Aug 2026 04:01:53 +0000"
+        },
+        {
+          "id": "aeff665774d4",
+          "title": "One of China's Most Powerful AI Models Has Also Broken Containment",
+          "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+          "description": "Article URL: https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/ Comments URL: https://news.ycombinator.com/item?id=49204993 Points: 5 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 07 Aug 2026 01:46:50 +0000"
+        },
+        {
+          "id": "7b3738b7a311",
+          "title": "A glimpse from China of AI's future",
+          "link": "https://www.economist.com/insider/the-insider/a-glimpse-from-china-of-ais-future",
+          "description": "Article URL: https://www.economist.com/insider/the-insider/a-glimpse-from-china-of-ais-future Comments URL: https://news.ycombinator.com/item?id=49204887 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 07 Aug 2026 01:33:36 +0000"
+        },
+        {
           "id": "5d4fed39a0ec",
           "title": "One Startup Built a (Mostly) China-Free Robot",
           "link": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
-          "description": "Article URL: https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/ Comments URL: https://news.ycombinator.com/item?id=49204391 Points: 3 # Comments: 0",
+          "description": "Article URL: https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/ Comments URL: https://news.ycombinator.com/item?id=49204391 Points: 4 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 07 Aug 2026 00:10:57 +0000"
@@ -623,7 +668,7 @@
           "id": "6e8f098e2fdb",
           "title": "Why AI is a risk to Communist China",
           "link": "https://www.economist.com/leaders/2026/08/06/why-ai-is-a-risk-to-communist-china",
-          "description": "Article URL: https://www.economist.com/leaders/2026/08/06/why-ai-is-a-risk-to-communist-china Comments URL: https://news.ycombinator.com/item?id=49203368 Points: 4 # Comments: 0",
+          "description": "Article URL: https://www.economist.com/leaders/2026/08/06/why-ai-is-a-risk-to-communist-china Comments URL: https://news.ycombinator.com/item?id=49203368 Points: 6 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 06 Aug 2026 22:15:06 +0000"
@@ -650,7 +695,7 @@
           "id": "43204fb45d4b",
           "title": "Why China's A.I. Models Could Threaten the Communist Party",
           "link": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
-          "description": "Article URL: https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html Comments URL: https://news.ycombinator.com/item?id=49202344 Points: 4 # Comments: 1",
+          "description": "Article URL: https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html Comments URL: https://news.ycombinator.com/item?id=49202344 Points: 5 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 06 Aug 2026 20:49:39 +0000"
@@ -659,7 +704,7 @@
           "id": "1bd2a1184931",
           "title": "China's AI drive threatens the largest workforce",
           "link": "https://economist.com/briefing/2026/08/06/chinas-ai-drive-threatens-the-worlds-largest-workforce",
-          "description": "Article URL: https://economist.com/briefing/2026/08/06/chinas-ai-drive-threatens-the-worlds-largest-workforce Comments URL: https://news.ycombinator.com/item?id=49197962 Points: 1 # Comments: 0",
+          "description": "Article URL: https://economist.com/briefing/2026/08/06/chinas-ai-drive-threatens-the-worlds-largest-workforce Comments URL: https://news.ycombinator.com/item?id=49197962 Points: 2 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 06 Aug 2026 15:22:46 +0000"
@@ -686,7 +731,7 @@
           "id": "c2f7a633441b",
           "title": "Pentagon draws up new nuclear weapons strategy for war with Russia and China",
           "link": "https://www.yahoo.com/news/politics/articles/pentagon-draws-nuclear-weapons-strategy-160127758.html",
-          "description": "Article URL: https://www.yahoo.com/news/politics/articles/pentagon-draws-nuclear-weapons-strategy-160127758.html Comments URL: https://news.ycombinator.com/item?id=49195980 Points: 2 # Comments: 1",
+          "description": "Article URL: https://www.yahoo.com/news/politics/articles/pentagon-draws-nuclear-weapons-strategy-160127758.html Comments URL: https://news.ycombinator.com/item?id=49195980 Points: 3 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 06 Aug 2026 12:52:29 +0000"
@@ -834,45 +879,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Tue, 04 Aug 2026 05:11:05 +0000"
-        },
-        {
-          "id": "3bcbf861dfab",
-          "title": "The U.S. lead over China in AI is all but gone",
-          "link": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
-          "description": "Article URL: https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html Comments URL: https://news.ycombinator.com/item?id=49160745 Points: 15 # Comments: 8",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 03 Aug 2026 20:06:08 +0000"
-        },
-        {
-          "id": "78153bcbc6ac",
-          "title": "The Race to Build an American Alternative to Cheap AI from China",
-          "link": "https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a",
-          "description": "Article URL: https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a Comments URL: https://news.ycombinator.com/item?id=49158319 Points: 5 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 03 Aug 2026 16:53:34 +0000"
-        },
-        {
-          "id": "d4654a80e9e6",
-          "title": "How AI is killing smartphone apps in China",
-          "link": "https://www.computerworld.com/article/4203560/how-ai-in-china-is-killing-smartphone-apps.html",
-          "description": "Article URL: https://www.computerworld.com/article/4203560/how-ai-in-china-is-killing-smartphone-apps.html Comments URL: https://news.ycombinator.com/item?id=49157700 Points: 5 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 03 Aug 2026 16:10:57 +0000"
-        },
-        {
-          "id": "c57588466434",
-          "title": "The Future, Made in China",
-          "link": "https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china",
-          "description": "Article URL: https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china Comments URL: https://news.ycombinator.com/item?id=49155940 Points: 63 # Comments: 110",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 03 Aug 2026 14:02:37 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中美科技与AI竞争加剧**：多篇报道聚焦中国AI发展对美西方构成的战略挑战，包括中国“曼哈顿计划”式芯片研发、AI模型对政治体制的潜在影响，以及中美在“天网”级自主武器系统上的竞赛风险。\n2. **AI冲击就业与产业变革**：中国AI应用加速渗透，一季度微短剧超95%由AI生成，同时引发对最大规模劳动力就业威胁的担忧；低薪工厂工人工作实况亦被关注。\n3. **中国新能源与技术创新突破**：钠离子电动矿卡投入使用、电动汽车发展削弱石油运输咽喉要道，以及“蓝色粮仓”建设，显示中国在绿色能源、海洋农业与运输转型上的实质进展。\n4. **地缘安全与网络安全博弈**：五角大楼制定针对中俄的新核战略，欧盟对中国联网汽车提出网络安全新规，凸显技术竞争与安全审查交织的国际环境。\n\n**今日最值得关注**：中美在AI与芯片领域的“军备竞赛”已从经济层面延伸至核战略与自主武器系统，技术竞争正深刻重塑全球安全格局。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国AI技术突破与产业影响**：中国自主研发的AI模型在性能上取得重大进展，部分模型已突破“限制”并展现出全球竞争力；AI技术正在深刻改变中国产业格局，包括对劳动力市场的潜在冲击，以及微短剧等新兴内容领域（Q1超95%由AI生成）的爆发式增长。\n\n2. **中美科技竞争与战略博弈**：中美在AI芯片、核武器战略及“天网”级自主系统领域展开激烈竞赛，美方发布针对中俄的新核战略，同时中国以“曼哈顿工程”式举国体制推进AI芯片自主研发，试图在关键技术上摆脱对西方依赖。\n\n3. **中国供应链自主化与民生科技**：国内企业正积极构建“去中国化”程度较高的机器人产业链，同时盐基无中国电池技术正式问世；儿童智能手表地下经济乱象被曝光，引发对未成年人数据安全与消费陷阱的担忧。\n\n4. **中国海洋与粮食安全新布局**：中国正推进“蓝色粮仓”计划，通过海洋资源开发拓展粮食供给渠道，以应对传统耕地压力与全球粮食波动。\n\n5. **国际视角下的中国形象分化**：全球民调显示2026年世界对中国与美国看法存在显著差异，同时欧盟对中国联网汽车提出网络安全新规，反映中国科技产品出海面临更复杂的国际监管环境。\n\n**今日最值得关注的发展**：中国AI模型在技术突破与产业渗透上双线加速，既成为与美国战略竞争的核心筹码，也正引发国内就业结构与内容生产模式的根本性变革。",
       "count": 29
     }
   }
