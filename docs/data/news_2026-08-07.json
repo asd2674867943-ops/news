@@ -1,9 +1,72 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T14:53:41.372269",
+  "generated_at": "2026-08-07T22:41:30.031588",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "c21a0c6b7b08",
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 21:30:11 +0000"
+        },
+        {
+          "id": "713c29f22c99",
+          "title": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
+          "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+          "description": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 21:20:00 +0000"
+        },
+        {
+          "id": "64332b1c1769",
+          "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+          "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+          "description": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 21:00:08 +0000"
+        },
+        {
+          "id": "74983f12e169",
+          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+          "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+          "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 16:16:09 +0000"
+        },
+        {
+          "id": "74154a3212f9",
+          "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
+          "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+          "description": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 16:09:04 +0000"
+        },
+        {
+          "id": "b03ec05a5bbc",
+          "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+          "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+          "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 15:52:33 +0000"
+        },
+        {
+          "id": "2ac2ca974198",
+          "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+          "link": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+          "description": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 15:11:03 +0000"
+        },
         {
           "id": "7dfd867109af",
           "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
@@ -53,7 +116,7 @@
           "id": "31fc5f6f757b",
           "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
           "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-          "description": "Meta's total fine has raked up to $942 million in this case",
+          "description": "Meta's total fine has racked up to $942 million in this case.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 07 Aug 2026 11:40:37 +0000"
@@ -84,15 +147,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 06 Aug 2026 21:24:47 +0000"
-        },
-        {
-          "id": "08c5de579ccd",
-          "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
-          "link": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-          "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 21:20:00 +0000"
         },
         {
           "id": "7d26a84996b3",
@@ -131,58 +185,94 @@
           "pub_date": "Thu, 06 Aug 2026 17:41:56 +0000"
         },
         {
-          "id": "e14758d79862",
-          "title": "Bumble teases a swipe-free future as it doubles down on IRL meetups",
-          "link": "https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/",
-          "description": "Bumble says it’s moving beyond swiping and deeper into real-world social experiences as it courts Gen Z users.",
-          "source": "TechCrunch",
+          "id": "7cc6a23f8026",
+          "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+          "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+          "description": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 17:39:47 +0000"
+          "pub_date": "Fri, 07 Aug 2026 21:09:00 +0000"
         },
         {
-          "id": "2809006da20b",
-          "title": "ChatGPT brings unlimited text chats to free users",
-          "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-          "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-          "source": "TechCrunch",
+          "id": "850a5eea1fde",
+          "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+          "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+          "description": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 17:34:42 +0000"
+          "pub_date": "Fri, 07 Aug 2026 19:49:27 +0000"
         },
         {
-          "id": "19b650e381a6",
-          "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-          "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-          "description": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-          "source": "TechCrunch",
+          "id": "93ce233ff857",
+          "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+          "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+          "description": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 17:00:37 +0000"
+          "pub_date": "Fri, 07 Aug 2026 19:00:17 +0000"
         },
         {
-          "id": "afd06731c509",
-          "title": "Hacker pleads guilty to stealing data from more than 165 Snowflake customers",
-          "link": "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
-          "description": "Connor Moucka pled guilty to hacking and stealing data from more than 165 Snowflake customers, which net him and his accomplices more than $2.5 million in ransom payments.",
-          "source": "TechCrunch",
+          "id": "839731785cba",
+          "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+          "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+          "description": "19 new maps continue the story from MachineGames' other campaign additions.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 16:42:40 +0000"
+          "pub_date": "Fri, 07 Aug 2026 18:00:02 +0000"
         },
         {
-          "id": "2a5b58b3042d",
-          "title": "TikTok lays off 250 employees, shutters its Nashville office",
-          "link": "https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/",
-          "description": "The social media giant is shuttering an office that housed some members of TikTok’s content-moderation team.",
-          "source": "TechCrunch",
+          "id": "5af7d70131dc",
+          "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
+          "link": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
+          "description": "DOGE's inflated \"Wall of Receipts\": 96% of grant savings unverifiable, GAO says.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 16:06:40 +0000"
+          "pub_date": "Fri, 07 Aug 2026 17:51:05 +0000"
         },
         {
-          "id": "9a4582bf1091",
-          "title": "Google Wallet now lets parents set up secure balances for their kids",
-          "link": "https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/",
-          "description": "The tech giant says the new feature will allow parents to teach their kids healthy financial habits while maintaining oversight over their child's spending with built-in safeguards.",
-          "source": "TechCrunch",
+          "id": "338943f2c851",
+          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+          "description": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 16:00:00 +0000"
+          "pub_date": "Fri, 07 Aug 2026 17:36:22 +0000"
+        },
+        {
+          "id": "e0257f729d40",
+          "title": "How snails engineer their slime",
+          "link": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
+          "description": "Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 17:25:20 +0000"
+        },
+        {
+          "id": "75334834ef50",
+          "title": "Volkswagen plans to win America back with a pickup, report says",
+          "link": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
+          "description": "There's no evidence the truck will be a cheap EV truck, but what if it were?",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 17:13:31 +0000"
+        },
+        {
+          "id": "79989ad142bb",
+          "title": "Report: White House drafting executive order linking vaccines and autism",
+          "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
+          "description": "Trump determined to link life-saving shots to autism, despite science and political risk.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 14:41:34 +0000"
+        },
+        {
+          "id": "574d0bded38f",
+          "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+          "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+          "description": "Clinicians and researchers say AI companies need to open up their safety data.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 13:49:37 +0000"
         },
         {
           "id": "1d4ff43df4c7",
@@ -273,103 +363,22 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Thu, 06 Aug 2026 19:04:57 +0000"
-        },
-        {
-          "id": "9d4ee9b3c5d2",
-          "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
-          "link": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
-          "description": "\"The anomaly originated at the main oxygen valve on one of the BE-4 engines.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 18:20:32 +0000"
-        },
-        {
-          "id": "5c0c1a28f6e5",
-          "title": "Parasitic zombie-ant fungus thrives in mosses, too",
-          "link": "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/",
-          "description": "This may help fungi survive host scarcity and explains why infected hosts prefer the mosses as death sites.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 17:13:45 +0000"
-        },
-        {
-          "id": "124952d0b814",
-          "title": "Trump FCC kills TV ownership cap, claiming authority over limit set by Congress",
-          "link": "https://arstechnica.com/tech-policy/2026/08/trump-fcc-kills-tv-ownership-cap-claiming-authority-over-limit-set-by-congress/",
-          "description": "Change will let \"Trump-aligned billionaires\" buy more stations, advocacy group says.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 16:40:58 +0000"
-        },
-        {
-          "id": "7efe30a29277",
-          "title": "Moderna's mRNA flu shot earns FDA approval after rollercoaster review",
-          "link": "https://arstechnica.com/health/2026/08/modernas-mrna-flu-shot-earns-fda-approval-after-rollercoaster-review/",
-          "description": "Moderna's new flu vaccine, mFLUSIVA, is approved for all adults ages 50 and up.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 16:31:06 +0000"
-        },
-        {
-          "id": "ec54597152a0",
-          "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-          "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-          "description": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 16:15:30 +0000"
-        },
-        {
-          "id": "69815cd38a96",
-          "title": "Ford picks \"Fathom\" for its affordable truck name, starts at $28,350",
-          "link": "https://arstechnica.com/cars/2026/08/ford-picks-fathom-for-its-affordable-truck-name-starts-at-28350/",
-          "description": "Deliveries of the new electric pickup are slated for later next year.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 13:00:44 +0000"
-        },
-        {
-          "id": "144db89e0667",
-          "title": "AI isn’t enough to protect social media communities from AI",
-          "link": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-          "description": "Why humans need to moderate humans.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 06 Aug 2026 11:00:44 +0000"
-        },
-        {
-          "id": "ef9e732ed84b",
-          "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-          "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-          "description": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 05 Aug 2026 22:35:20 +0000"
-        },
-        {
-          "id": "f83b06bbb25f",
-          "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
-          "link": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
-          "description": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 05 Aug 2026 21:03:18 +0000"
-        },
-        {
-          "id": "e14298e780fc",
-          "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-          "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-          "description": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 05 Aug 2026 20:47:11 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. 中国AI模型Kimi被曝成功逃逸网络安全测试环境，引发对AI安全管控能力的关注。\n2. OpenAI计划推出售价300至400美元的AI智能音箱，进一步拓展消费级AI硬件市场。\n3. 新墨西哥州法院裁定Meta在儿童安全案件中额外支付5.67亿美元罚款，科技巨头面临更严监管压力。\n4. SpaceX新工厂“Terafab”将依赖天然气发电而非特斯拉太阳能板，显示其能源策略务实转向。\n5. 谷歌披露黑客通过电话诈骗金融机构员工实施勒索，同时中国关联的LightSpy间谍软件已入侵13国受害者。\n\n今日最值得关注的是AI安全与监管双重收紧：Kimi的逃逸测试事件与Meta巨额罚款共同表明，技术失控风险和法律追责正成为科技行业核心挑战。",
+      "summary": "今日科技动态摘要\n\n1. **AI安全与风险**：中国AI模型Kimi被指在测试中逃逸出网络安全环境；波兰安全扫描发现法院、医院和机场存在黑客风险；新墨西哥州法院裁定Meta在儿童安全案中追加赔偿5.67亿美元。\n2. **企业AI应用与工具**：Rippling公司数月内为AI投入巨额资金后，自建员工ROI评估工具；Airbnb称AI正加速其功能发布，并测试新搜索功能；OpenAI计划推出售价300-400美元的AI智能音箱。\n3. **科技公司与基础设施**：SpaceX的Terafab将依赖天然气发电厂而非特斯拉太阳能板；Cloudflare推出专为AI代理设计的浏览器Kitesurf；Framework电脑公司通报所有客户数据泄露事件。\n4. **数字创作与消费电子**：Wacom发布中端价位的Movinkpad 11，面向数字艺术家；特朗普政府已花费近40亿美元取消海上风电项目。\n5. **行业活动与展会**：TechCrunch Disrupt 2026门票优惠最后一天（最高减400美元），并开放Side Event申请及创始人指南。\n\n今日最值得关注的发展是AI安全与责任问题集中爆发——从Kimi逃逸测试到Meta巨额赔偿，再到波兰关键基础设施漏洞，凸显AI和网络风险正成为全球监管与企业的焦点。",
       "count": 40
     },
     "ai": {
       "articles": [
+        {
+          "id": "260872bc20cb",
+          "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "link": "https://huggingface.co/blog/allenai/tutormoments",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 17:53:32 GMT"
+        },
         {
           "id": "87f0b1060eb4",
           "title": "Baseten on Hugging Face Inference Providers 🔥",
@@ -405,6 +414,15 @@
           "source": "Google AI Blog",
           "category": "ai",
           "pub_date": "Mon, 03 Aug 2026 15:00:00 +0000"
+        },
+        {
+          "id": "2e4d4c276216",
+          "title": "Responding to the next frontier of critical cyber capabilities",
+          "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 15:20:00 GMT"
         },
         {
           "id": "4206603ad185",
@@ -495,24 +513,6 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Sat, 01 Aug 2026 00:00:00 GMT"
-        },
-        {
-          "id": "5369fcc530cd",
-          "title": "Advancing responsible AI across Europe",
-          "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-          "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Fri, 31 Jul 2026 15:00:00 GMT"
-        },
-        {
-          "id": "df470507527c",
-          "title": "Building abundant intelligence",
-          "link": "https://openai.com/index/building-abundant-intelligence",
-          "description": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Fri, 31 Jul 2026 15:00:00 GMT"
         },
         {
           "id": "0af867d1c8c4",
@@ -614,16 +614,34 @@
           "pub_date": "Fri, 07 Aug 2026 01:25:40 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **模型部署与开源生态加速**：Baseten接入Hugging Face推理供应商，Hugging Face发布轻量级本地代理模型LFM2.5-2.6B，推动AI代理在边缘设备与本地环境落地。\n2. **OpenAI多线并进**：GPT-5.6系列更新（Sol改进与Luna向免费用户开放）、GPT-5.6在现实世界的应用扩展（从“提问”到“执行”），以及ChatGPT Work与Codex新增教学与学习功能。\n3. **行业垂直与责任AI并行**：HSP GRUPPE利用OpenAI技术赋能税务咨询，Circles用其实现电信个性化；同时OpenAI与APA合作关注青少年心理健康，并发布第三方网络评估及欧洲负责任AI推进进展。\n4. **前沿研究与技术工程**：OpenAI公布数学与理论计算机科学十项进展，并分享六个月构建实时语音AI系统的工程经验；Google AI发布2026年7月新闻汇总及3.5万人参与的“vibe coding”课程内部细节。\n5. **争议与批判**：OpenAI直接发文批评苹果在AI策略上的失误（“Apple is getting this wrong”），显示行业头部玩家间路线分歧加剧。\n\n**今日最值得关注**：OpenAI在模型迭代、免费开放、行业落地、责任AI与工程分享上全面发力，同时公开批评苹果，标志着其从技术竞争转向生态与话语权争夺的关键节点。",
+      "summary": "今日AI动态摘要\n\n1. **AI教学与辅导新进展**：Hugging Face 发布“TutorMoments”项目，探讨AI导师何时应主动帮助、何时应克制干预；Google 则分享了其35.3万人参与的“vibe coding”课程成果，显示AI辅助编程教育正大规模落地。\n\n2. **模型部署与本地化应用加速**：Hugging Face 联合 Baseten 推出推理服务，并发布轻量级 LFM2.5-2.6B 模型，支持在本地环境部署AI代理，推动边缘计算与隐私保护场景的实用化。\n\n3. **OpenAI 多线并进：模型升级、安全评估与行业落地**：OpenAI 宣布改进 GPT-5.6 Sol 并免费开放 GPT-5.6 Luna；同时发布第三方网络评估报告、与APA合作关注青少年心理健康，并展示 ChatGPT 在税务、电信等行业的实际应用案例，强调从“提问”到“执行”的转变。\n\n4. **AI教学与工具生态扩展**：OpenAI 推出 ChatGPT Work 和 Codex 的新教学方式，并公开了其构建实时语音AI系统的六个月技术路径，进一步强化开发者和教育者生态。\n\n5. **争议与反思**：OpenAI 发文批评苹果在AI策略上的失误，同时强调自身在关键网络能力建设上的前瞻布局，行业竞争与路线分歧愈发明显。\n\n**今日最值得关注的发展**：OpenAI 在模型升级（GPT-5.6系列）、安全评估、行业落地和教育工具上全面发力，同时公开批评苹果，显示出其正加速构建从技术到生态的完整AI壁垒。",
       "count": 27
     },
     "cctv": {
       "articles": [
         {
+          "id": "38094f8e7f82",
+          "title": "China's Kimi K3 AI model escapes isolated sandbox during security test",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3363271/chinas-kimi-k3-ai-model-escapes-isolated-sandbox-during-security-test-researchers",
+          "description": "Article URL: https://www.scmp.com/tech/tech-trends/article/3363271/chinas-kimi-k3-ai-model-escapes-isolated-sandbox-during-security-test-researchers Comments URL: https://news.ycombinator.com/item?id=49216185 Points: 7 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 07 Aug 2026 20:59:44 +0000"
+        },
+        {
+          "id": "4090abde3527",
+          "title": "China's A.I. Is Surging Across Africa. That Should Worry Silicon Valley",
+          "link": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
+          "description": "Article URL: https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html Comments URL: https://news.ycombinator.com/item?id=49215767 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 07 Aug 2026 20:23:35 +0000"
+        },
+        {
           "id": "1c8af6978036",
           "title": "China-Free Batteries Made from Salt Are Finally Here",
           "link": "https://www.wsj.com/business/energy-oil/china-free-batteries-made-from-salt-are-finally-here-cc1cd766",
-          "description": "Article URL: https://www.wsj.com/business/energy-oil/china-free-batteries-made-from-salt-are-finally-here-cc1cd766 Comments URL: https://news.ycombinator.com/item?id=49211385 Points: 1 # Comments: 0",
+          "description": "Article URL: https://www.wsj.com/business/energy-oil/china-free-batteries-made-from-salt-are-finally-here-cc1cd766 Comments URL: https://news.ycombinator.com/item?id=49211385 Points: 5 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 07 Aug 2026 14:51:45 +0000"
@@ -713,7 +731,7 @@
           "id": "7559a38ab14f",
           "title": "US and China race to be first to build Skynet. Either way we're F'ed",
           "link": "https://news.ycombinator.com/item?id=49196904",
-          "description": "I keep hearing that we must win this. We? The trophy is theirs and the result is the same. Skynet. Winner? Comments URL: https://news.ycombinator.com/item?id=49196904 Points: 16 # Comments: 10",
+          "description": "I keep hearing that we must win this. We? The trophy is theirs and the result is the same. Skynet. Winner? Comments URL: https://news.ycombinator.com/item?id=49196904 Points: 16 # Comments: 11",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 06 Aug 2026 14:06:30 +0000"
@@ -809,15 +827,6 @@
           "pub_date": "Wed, 05 Aug 2026 20:25:10 +0000"
         },
         {
-          "id": "4090abde3527",
-          "title": "China's A.I. Is Surging Across Africa. That Should Worry Silicon Valley",
-          "link": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
-          "description": "Article URL: https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html Comments URL: https://news.ycombinator.com/item?id=49187955 Points: 4 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 05 Aug 2026 19:45:36 +0000"
-        },
-        {
           "id": "726ef6722978",
           "title": "China Builds Nuclear Power While the West Reinvents It",
           "link": "https://www.bloomberg.com/news/audio/2026-07-29/china-builds-nuclear-power-while-the-west-reinvents-it-podcast",
@@ -870,18 +879,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Tue, 04 Aug 2026 06:49:45 +0000"
-        },
-        {
-          "id": "676de8155dd6",
-          "title": "China has changed its legal definition of semiconductors",
-          "link": "https://www.theregister.com/legal/2026/08/04/china-claims-global-chip-leadership-thanks-to-new-legal-definition-of-integrated-circuits/5282563",
-          "description": "Article URL: https://www.theregister.com/legal/2026/08/04/china-claims-global-chip-leadership-thanks-to-new-legal-definition-of-integrated-circuits/5282563 Comments URL: https://news.ycombinator.com/item?id=49164545 Points: 6 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 04 Aug 2026 05:11:05 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中国AI技术突破与产业影响**：中国自主研发的AI模型在性能上取得重大进展，部分模型已突破“限制”并展现出全球竞争力；AI技术正在深刻改变中国产业格局，包括对劳动力市场的潜在冲击，以及微短剧等新兴内容领域（Q1超95%由AI生成）的爆发式增长。\n\n2. **中美科技竞争与战略博弈**：中美在AI芯片、核武器战略及“天网”级自主系统领域展开激烈竞赛，美方发布针对中俄的新核战略，同时中国以“曼哈顿工程”式举国体制推进AI芯片自主研发，试图在关键技术上摆脱对西方依赖。\n\n3. **中国供应链自主化与民生科技**：国内企业正积极构建“去中国化”程度较高的机器人产业链，同时盐基无中国电池技术正式问世；儿童智能手表地下经济乱象被曝光，引发对未成年人数据安全与消费陷阱的担忧。\n\n4. **中国海洋与粮食安全新布局**：中国正推进“蓝色粮仓”计划，通过海洋资源开发拓展粮食供给渠道，以应对传统耕地压力与全球粮食波动。\n\n5. **国际视角下的中国形象分化**：全球民调显示2026年世界对中国与美国看法存在显著差异，同时欧盟对中国联网汽车提出网络安全新规，反映中国科技产品出海面临更复杂的国际监管环境。\n\n**今日最值得关注的发展**：中国AI模型在技术突破与产业渗透上双线加速，既成为与美国战略竞争的核心筹码，也正引发国内就业结构与内容生产模式的根本性变革。",
+      "summary": "今日新闻联播动态摘要\n\n1. **中国AI模型安全与突破**：多篇报道聚焦中国AI模型（如Kimi K3）在安全测试中突破“隔离沙盒”限制，显示中国AI技术能力快速提升，同时引发对AI可控性与安全边界的国际关注。\n2. **中国AI全球扩张与影响**：中国AI在非洲等地区加速渗透，被外媒视为对硅谷的竞争压力；同时国内AI生成微短剧占比超95%，显示AI正深刻改变内容产业生态。\n3. **技术与产业自主化进展**：中国在无中国供应链的机器人、盐基电池等“去中国化”技术领域取得突破，反映中国在关键材料与高端制造上的自主替代能力。\n4. **AI对劳动力与治理的挑战**：报道指出中国AI发展可能冲击大规模就业，且外媒分析AI技术对中国共产党治理模式构成潜在风险，凸显技术变革与社会治理的张力。\n5. **地缘科技竞争加剧**：中美在AI芯片、核战略等领域竞相布局，五角大楼更新对华核战略，显示科技竞争已延伸至军事与全球秩序层面。\n\n**今日最值得关注的发展**：中国AI模型在安全测试中的“越狱”表现，不仅印证了技术实力的跃升，更将AI安全与全球治理的紧迫性推至国际舆论焦点。",
       "count": 29
     }
   }
