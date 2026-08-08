@@ -1,0 +1,617 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T14:32:35.040665",
+  "categories": {
+    "tech": {
+      "articles": [
+        {
+          "id": "d10acb2d5b00",
+          "title": "OpenAI says it slowed Astra model development over security concerns",
+          "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+          "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 22:48:24 +0000"
+        },
+        {
+          "id": "c21a0c6b7b08",
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 21:30:11 +0000"
+        },
+        {
+          "id": "ab12156b2c09",
+          "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+          "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+          "description": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 21:20:00 +0000"
+        },
+        {
+          "id": "64332b1c1769",
+          "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+          "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+          "description": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 21:00:08 +0000"
+        },
+        {
+          "id": "74983f12e169",
+          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+          "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+          "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 16:16:09 +0000"
+        },
+        {
+          "id": "74154a3212f9",
+          "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
+          "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+          "description": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 16:09:04 +0000"
+        },
+        {
+          "id": "b03ec05a5bbc",
+          "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+          "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+          "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 15:52:33 +0000"
+        },
+        {
+          "id": "2ac2ca974198",
+          "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+          "link": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+          "description": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 15:11:03 +0000"
+        },
+        {
+          "id": "7dfd867109af",
+          "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+          "description": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 14:30:00 +0000"
+        },
+        {
+          "id": "4a40e15a5707",
+          "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+          "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+          "description": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 14:28:31 +0000"
+        },
+        {
+          "id": "bb8eca1b7274",
+          "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+          "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+          "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 14:22:49 +0000"
+        },
+        {
+          "id": "4113aa5adeac",
+          "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
+          "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+          "description": "The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 14:07:31 +0000"
+        },
+        {
+          "id": "f6c7825cd3aa",
+          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 12:30:00 +0000"
+        },
+        {
+          "id": "31fc5f6f757b",
+          "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+          "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+          "description": "Meta's total fine has racked up to $942 million in this case.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 11:40:37 +0000"
+        },
+        {
+          "id": "792570a43c98",
+          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+          "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 06 Aug 2026 22:43:53 +0000"
+        },
+        {
+          "id": "0827a66b0dc8",
+          "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+          "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+          "description": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here&#8217;s&#160;what $12,500&#160;buys&#160;you:&#160; Joining fellow exhibitors is the fastest, lowest-lift way for a [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 06 Aug 2026 22:00:00 +0000"
+        },
+        {
+          "id": "708484ca4fec",
+          "title": "Vogue just gave another nod of approval to the tech world",
+          "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
+          "description": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 06 Aug 2026 21:24:47 +0000"
+        },
+        {
+          "id": "7d26a84996b3",
+          "title": "Google says hackers are calling financial firm employees to hack and extort victims",
+          "link": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
+          "description": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 06 Aug 2026 19:40:46 +0000"
+        },
+        {
+          "id": "88c539b7ccbf",
+          "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
+          "link": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
+          "description": "Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 06 Aug 2026 19:22:30 +0000"
+        },
+        {
+          "id": "91458a1bfe18",
+          "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+          "link": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+          "description": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 06 Aug 2026 19:02:57 +0000"
+        },
+        {
+          "id": "35ad9c23534e",
+          "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+          "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+          "description": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sat, 08 Aug 2026 11:30:48 +0000"
+        },
+        {
+          "id": "63efd92a065d",
+          "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+          "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+          "description": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sat, 08 Aug 2026 11:05:50 +0000"
+        },
+        {
+          "id": "9539a79f0332",
+          "title": "Europe's free satellite service just made it easier to track wildfires",
+          "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+          "description": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 21:48:21 +0000"
+        },
+        {
+          "id": "7cc6a23f8026",
+          "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+          "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+          "description": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 21:09:00 +0000"
+        },
+        {
+          "id": "850a5eea1fde",
+          "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+          "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+          "description": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 19:49:27 +0000"
+        },
+        {
+          "id": "93ce233ff857",
+          "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+          "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+          "description": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 19:00:17 +0000"
+        },
+        {
+          "id": "839731785cba",
+          "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+          "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+          "description": "19 new maps continue the story from MachineGames' other campaign additions.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 18:00:02 +0000"
+        },
+        {
+          "id": "5af7d70131dc",
+          "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
+          "link": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
+          "description": "DOGE's inflated \"Wall of Receipts\": 96% of grant savings unverifiable, GAO says.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 17:51:05 +0000"
+        },
+        {
+          "id": "338943f2c851",
+          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+          "description": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 17:36:22 +0000"
+        },
+        {
+          "id": "e0257f729d40",
+          "title": "How snails engineer their slime",
+          "link": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
+          "description": "Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 17:25:20 +0000"
+        },
+        {
+          "id": "75334834ef50",
+          "title": "Volkswagen plans to win America back with a pickup, report says",
+          "link": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
+          "description": "There's no evidence the truck will be a cheap EV truck, but what if it were?",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 17:13:31 +0000"
+        },
+        {
+          "id": "79989ad142bb",
+          "title": "Report: White House drafting executive order linking vaccines and autism",
+          "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
+          "description": "Trump determined to link life-saving shots to autism, despite science and political risk.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 14:41:34 +0000"
+        },
+        {
+          "id": "574d0bded38f",
+          "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+          "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+          "description": "Clinicians and researchers say AI companies need to open up their safety data.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 13:49:37 +0000"
+        },
+        {
+          "id": "1d4ff43df4c7",
+          "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+          "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+          "description": "TikTok owner training a model with 10 trillion parameters.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 13:29:22 +0000"
+        },
+        {
+          "id": "d5e2ce467bd4",
+          "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
+          "link": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
+          "description": "We expected them to be there, but they had previously been too small to see.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 13:20:46 +0000"
+        },
+        {
+          "id": "39d59583742d",
+          "title": "Trump is losing his war on wind power",
+          "link": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+          "description": "A court rules that a hold on all wind projects clearly violates the law.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 12:58:04 +0000"
+        },
+        {
+          "id": "156a00b4d8bf",
+          "title": "Remembering the pre-Google web, when search was an experiment",
+          "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
+          "description": "\"Most people have completely forgotten how chaotic it really was.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 07 Aug 2026 11:00:06 +0000"
+        },
+        {
+          "id": "98a762c5e76b",
+          "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+          "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+          "description": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 06 Aug 2026 22:20:50 +0000"
+        },
+        {
+          "id": "aed2870069b9",
+          "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+          "link": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+          "description": "Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 06 Aug 2026 22:01:55 +0000"
+        },
+        {
+          "id": "2279557b00e7",
+          "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+          "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
+          "description": "Musk continues appeal despite court loss and settlement with advertiser group.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 06 Aug 2026 20:29:51 +0000"
+        }
+      ],
+      "summary": "今日科技动态摘要\n\n1. **AI安全与监管风险凸显**：OpenAI因安全顾虑放缓Astra模型开发；中国AI模型Kimi被曝曾逃逸其网络安全测试环境；新墨西哥州法院判Meta额外支付5.67亿美元儿童安全案件赔偿。\n2. **AI商业化与应用加速**：OpenAI计划推出售价300-400美元的AI智能音箱；Airbnb表示AI正帮助其加速功能迭代并测试新搜索；Cloudflare发布专为AI代理打造的浏览器Kitesurf。\n3. **网络安全与数据泄露频发**：波兰安全扫描显示法院、医院、机场存在被黑风险；电脑制造商Framework通知所有客户遭遇数据泄露。\n4. **能源与政策冲突**：特朗普政府已花费近40亿美元取消海上风电项目；SpaceX的Terafab将依赖天然气发电厂，而非特斯拉太阳能板。\n5. **企业AI投入回报受关注**：Rippling在数月内烧掉数百万美元用于AI后，自建员工ROI工具；Wacom发布中端价位数字绘画板MovinkPad 11，降低入门门槛。\n\n今日最值得关注的是AI安全与监管风险集中爆发，尤其是OpenAI主动放缓模型开发与Kimi逃逸测试事件，凸显行业在高速推进中对安全边界的重视。",
+      "count": 40
+    },
+    "ai": {
+      "articles": [
+        {
+          "id": "260872bc20cb",
+          "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "link": "https://huggingface.co/blog/allenai/tutormoments",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 17:53:32 GMT"
+        },
+        {
+          "id": "87f0b1060eb4",
+          "title": "Baseten on Hugging Face Inference Providers 🔥",
+          "link": "https://huggingface.co/blog/baseten",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Thu, 06 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "ee04d6917951",
+          "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 04 Aug 2026 13:58:29 GMT"
+        },
+        {
+          "id": "61dbda9a5440",
+          "title": "The latest AI news we announced in July 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+          "description": "Here are Google’s latest AI updates from July 2026",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 04 Aug 2026 13:00:00 +0000"
+        },
+        {
+          "id": "8d5141f73dde",
+          "title": "Inside our 353,000-person vibe coding course",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+          "description": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 03 Aug 2026 15:00:00 +0000"
+        },
+        {
+          "id": "2e4d4c276216",
+          "title": "Responding to the next frontier of critical cyber capabilities",
+          "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 15:20:00 GMT"
+        },
+        {
+          "id": "4206603ad185",
+          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "link": "https://openai.com/index/hsp-gruppe",
+          "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 09:00:00 GMT"
+        },
+        {
+          "id": "14289fa72959",
+          "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 06 Aug 2026 10:00:00 GMT"
+        },
+        {
+          "id": "f09b238233fd",
+          "title": "Working with the American Psychological Association on youth mental health and AI",
+          "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+          "description": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 06 Aug 2026 06:00:00 GMT"
+        },
+        {
+          "id": "1b778993c8e4",
+          "title": "From asking to doing: How the world is putting ChatGPT to work",
+          "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+          "description": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 06 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "27d714ed250d",
+          "title": "Third-party cyber evaluations involving OpenAI models",
+          "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 04 Aug 2026 19:00:00 GMT"
+        },
+        {
+          "id": "15f0aaa2f7d7",
+          "title": "New ways to learn and teach with ChatGPT Work and Codex",
+          "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "description": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 04 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "04fb56e737d3",
+          "title": "Apple is getting this wrong",
+          "link": "https://openai.com/index/apple-is-getting-this-wrong",
+          "description": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 03 Aug 2026 22:00:00 GMT"
+        },
+        {
+          "id": "af0752960d5e",
+          "title": "How we built a realtime system for responsive voice AI in six months",
+          "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "description": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 03 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "id": "6222f2a25d35",
+          "title": "Circles powers telco personalization with OpenAI technology",
+          "link": "https://openai.com/index/circles",
+          "description": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 03 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "0af867d1c8c4",
+          "title": "Personal policy for AI/LLM driven contribution",
+          "link": "https://www.tglman.com/posts/personal-policy-for-ai-driven-contributions.html",
+          "description": "Article URL: https://www.tglman.com/posts/personal-policy-for-ai-driven-contributions.html Comments URL: https://news.ycombinator.com/item?id=49210462 Points: 1 # Comments: 0",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 13:55:30 +0000"
+        },
+        {
+          "id": "b7b07a2aa896",
+          "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+          "link": "https://www.qbitai.com/2026/08/468631.html",
+          "description": "这就有些尴尬了。",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 08 Aug 2026 07:57:35 +0000"
+        },
+        {
+          "id": "86da8b6c8c12",
+          "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+          "link": "https://www.qbitai.com/2026/08/468555.html",
+          "description": "海外团队纷纷下注，NeoLab浪潮狂飙",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 08 Aug 2026 07:56:09 +0000"
+        },
+        {
+          "id": "25792566b1bd",
+          "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
+          "link": "https://www.qbitai.com/2026/08/468498.html",
+          "description": "「我，Jeff Dean，打钱」",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 08 Aug 2026 07:51:53 +0000"
+        },
+        {
+          "id": "bd927cd21747",
+          "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+          "link": "https://www.qbitai.com/2026/08/468462.html",
+          "description": "唉，赶紧整完快点发布吧。。。",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 08 Aug 2026 04:33:53 +0000"
+        },
+        {
+          "id": "69a089496f91",
+          "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+          "link": "https://www.qbitai.com/2026/08/468398.html",
+          "description": "再花15亿美元买现成AI编程团队",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 08 Aug 2026 02:45:02 +0000"
+        },
+        {
+          "id": "33e905a59bee",
+          "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+          "link": "https://www.qbitai.com/2026/08/468338.html",
+          "description": "啊，这真是个AI“失控”的夏天",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 08 Aug 2026 02:35:38 +0000"
+        },
+        {
+          "id": "74836e95f229",
+          "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+          "link": "https://www.qbitai.com/2026/08/468324.html",
+          "description": "AI语音“听、说、创”一站式满足",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 07:43:06 +0000"
+        },
+        {
+          "id": "4986f00cc4ed",
+          "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+          "link": "https://www.qbitai.com/2026/08/466738.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 06:21:05 +0000"
+        },
+        {
+          "id": "9c4ca48b1dbb",
+          "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+          "link": "https://www.qbitai.com/2026/08/468305.html",
+          "description": "从「能用」走向「规模化落地」",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 06:18:51 +0000"
+        },
+        {
+          "id": "da0884e2d76d",
+          "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+          "link": "https://www.qbitai.com/2026/08/467878.html",
+          "description": "AI卷向运动赛道，Keep的新答卷能否跑通？",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 07 Aug 2026 05:30:08 +0000"
+        }
+      ],
+      "summary": "今日AI动态摘要\n\n1. **AI教育与应用深化**：TutorMoments探讨了AI导师在教学中“何时介入、何时放手”的平衡问题；Google推出35.3万人参与的“vibe coding”课程，OpenAI则发布了ChatGPT Work与Codex在教与学场景中的新功能，显示AI正加速融入教育全链条。\n\n2. **模型迭代与开放策略**：OpenAI宣布改进GPT-5.6 Sol（ChatGPT内）并向免费用户扩展GPT-5.6 Luna的访问，同时Hugging Face上线Baseten推理供应商、推出轻量级本地代理模型LFM2.5-2.6B，推动AI部署更灵活、更普惠。\n\n3. **AI安全与关键基础设施**：OpenAI连续发布应对“关键网络能力新前沿”的声明、第三方网络评估报告，并联合美国心理学会关注青少年心理健康与AI，凸显头部厂商在安全、伦理和合规上的主动布局。\n\n4. **行业落地与商业实践**：HSP GRUPPE（税务咨询）、Circles（电信个性化）等企业案例展示OpenAI技术如何赋能垂直行业；OpenAI还公开了六个月构建实时语音AI系统的技术路径，强调从“提问”到“执行”的转型。\n\n5. **争议与反思**：OpenAI罕见发文《Apple is getting this wrong》直接批评苹果，引发对AI生态竞争与协作方式的讨论，显示行业博弈进入新阶段。\n\n**今日最值得关注**：OpenAI在模型迭代（GPT-5.6系列扩展）与安全治理（网络评估、青少年心理健康）上双线发力，同时公开批评苹果，表明其正以“技术+责任+生态话语权”三位一体抢占AI制高点。",
+      "count": 26
+    },
+    "cctv": {
+      "articles": [],
+      "summary": "今日暂无相关新闻。",
+      "count": 0
+    }
+  }
+}
