@@ -1,9 +1,45 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T14:23:39.159615",
+  "generated_at": "2026-08-15T22:27:14.644658",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "bec7677beefa",
+          "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+          "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 15 Aug 2026 21:29:19 +0000"
+        },
+        {
+          "id": "b8e67085c01e",
+          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+          "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 15 Aug 2026 18:58:39 +0000"
+        },
+        {
+          "id": "8b4e45a3832f",
+          "title": "SpaceX officially closes its Cursor acquisition",
+          "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+          "description": "AI coding startup Cursor is now officially a part of SpaceX.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 15 Aug 2026 16:30:00 +0000"
+        },
+        {
+          "id": "62d42a85279d",
+          "title": "How to tell if your AI platforms’ accounts have been hacked",
+          "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+          "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 15 Aug 2026 16:10:00 +0000"
+        },
         {
           "id": "32932d6a6c89",
           "title": "Every fusion startup that has raised over $100M",
@@ -140,40 +176,13 @@
           "pub_date": "Thu, 13 Aug 2026 22:02:04 +0000"
         },
         {
-          "id": "e2c2d894dd1e",
-          "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-          "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-          "description": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
-          "source": "TechCrunch",
+          "id": "8ac671918960",
+          "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+          "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+          "description": "\"Flamingo missiles were used. A good achievement.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 13 Aug 2026 21:50:11 +0000"
-        },
-        {
-          "id": "5a8eb51e0a3c",
-          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-          "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-          "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 13 Aug 2026 21:13:24 +0000"
-        },
-        {
-          "id": "12167f402830",
-          "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-          "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-          "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 13 Aug 2026 20:14:39 +0000"
-        },
-        {
-          "id": "e5ceb9d4d656",
-          "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-          "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-          "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 13 Aug 2026 19:22:40 +0000"
+          "pub_date": "Sat, 15 Aug 2026 15:46:05 +0000"
         },
         {
           "id": "45af3e72efda",
@@ -347,25 +356,16 @@
           "pub_date": "Thu, 13 Aug 2026 18:31:56 +0000"
         },
         {
-          "id": "5b3d856c7900",
-          "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
-          "link": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
-          "description": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 13 Aug 2026 18:10:14 +0000"
-        },
-        {
-          "id": "cf941410c926",
-          "title": "Secondhand book sales are booming. Is it because of AI?",
-          "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "description": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 4 # Comments: 0",
+          "id": "cf244a721227",
+          "title": "Bede Liu, a digital signal processing pioneer, has died",
+          "link": "https://spectrum.ieee.org/digital-signal-processing",
+          "description": "Article URL: https://spectrum.ieee.org/digital-signal-processing Comments URL: https://news.ycombinator.com/item?id=49314615 Points: 14 # Comments: 0",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 15 Aug 2026 14:08:55 +0000"
+          "pub_date": "Sat, 15 Aug 2026 21:45:54 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI行业泡沫争议与监管动向**：Thrive Capital的Joshua Kushner批评硅谷VC对AI的过度狂热，同时Google允许用户移除AI生成内容的可见水印，引发对AI透明度和行业理性投资的讨论。\n\n2. **科技巨头战略调整**：Apple提议对App Store外购买收取15%佣金，PayPal与Stripe及Advent的出售谈判升温，显示支付与平台生态正经历重大重构。\n\n3. **自动驾驶与能源风险**：自动驾驶卡车正式在加州高速测试，而超大规模数据中心若依赖天然气可能面临预测中的能源风险，凸显技术扩张与可持续性矛盾。\n\n4. **网络安全与隐私诉讼**：美国法院将公布政府间谍软件使用频率，针对伊朗黑客攻击水务设施的指控曝光，同时投资者起诉Selena Gomez的心理健康初创公司涉嫌欺诈。\n\n5. **生产力工具与AI应用创新**：Pocket关闭后出现替代方案，新应用Unforgetful针对“贪睡用户”设计提醒，Kog则致力于提升GPU推理效率，反映AI工具向细分场景渗透。\n\n**今日最值得关注**：AI行业在资本狂热与监管收紧的双重压力下，正从“概念炒作”转向“务实治理”，而苹果佣金调整和PayPal出售谈判则标志着科技巨头核心商业模式进入新一轮博弈期。",
+      "summary": "今日科技动态摘要\n\n1. **AI伦理与安全争议**：一名女性指控其继父利用Grok将童年照片转化为露骨图像，引发对AI生成内容滥用的关注；同时谷歌宣布允许用户移除AI生成内容上的可见水印，或加剧深度伪造风险。\n\n2. **AI技术进展与商业动态**：Anthropic披露Claude新水印技术细节，以增强内容溯源；SpaceX正式完成对Cursor的收购，布局AI编程工具；Kog公司探索更深入的GPU推理优化方案。\n\n3. **行业并购与支付领域变动**：PayPal与Stripe、Advent的出售谈判升温，或重塑支付格局；苹果提议对App Store外购买收取15%佣金，调整其应用商店政策。\n\n4. **网络安全与基础设施风险**：美国水利设施遭疑似伊朗黑客攻击，引发关键基础设施安全担忧；文章提供AI平台账户被黑后的识别与应对指南。\n\n5. **自动驾驶与能源创新**：自动驾驶卡车正式在加州高速公路测试，推进物流自动化；文章盘点融资超1亿美元的核聚变初创公司，显示该领域投资热度。\n\n今日最值得关注的动向是AI滥用风险与监管博弈加剧——从Grok生成露骨图像到谷歌移除水印，技术开放与伦理约束的平衡成为行业焦点。",
       "count": 40
     },
     "ai": {
@@ -617,7 +617,7 @@
           "id": "1fd06cbae52e",
           "title": "Debian has begun voting on the future of AI/LLM contributions",
           "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-          "description": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 58 # Comments: 44",
+          "description": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 65 # Comments: 57",
           "source": "HN-AI",
           "category": "ai",
           "pub_date": "Sat, 15 Aug 2026 09:20:07 +0000"
@@ -641,13 +641,275 @@
           "pub_date": "Sat, 15 Aug 2026 06:36:05 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **开源模型生态持续壮大**：Hugging Face发布“2026年夏季开源模型观察”，并推出OlmoEarth embeddings自定义导出、LFM2.5-VL-3B边缘视觉模型等新工具，同时验证了从记录、训练到部署的一体化工作流（Strands Agents、LeRobot、Storage Buckets）。Meta则携Muse Glimmer回归，主打本地化、智能体化、多模态且开源。\n\n2. **AI效率与部署成本成焦点**：多项研究聚焦“降本增效”——包括用更少token实现ACE任务、将知识蒸馏成本降至可规模化运行、以及通过NVIDIA Magpie TTS构建低延迟多语言语音智能体（开放权重、完全控制部署）。OpenAI预览“Ultrafast模式”，GPT-5.6 Sol速度提升最高达14倍。\n\n3. **AI应用深入行业与日常**：Google AI发布医疗AI系统AMIE，在首创研究中展示实时临床视频会诊能力；同时推出Sheets canvas（将电子表格数据可视化）和面向营销的新AI工具。OpenAI发布GPT-5.6构建者指南，并任命Dali Rajic为首任首席营收官，加速商业化。\n\n4. **研究可复现性与规模化验证**：Hugging Face团队复现ICML 2200篇论文并总结经验，强调开源社区对科研可复现性的重视，也为后续模型训练与评测提供扎实基线。\n\n**今日最值得关注的发展**：开源生态与效率优化并进——Meta携Muse Glimmer重回开源多模态智能体赛道，而OpenAI则通过Ultrafast模式展示速度极限，两者共同指向“更强、更快、更便宜”的AI落地趋势。",
+      "summary": "今日AI动态摘要\n\n1. **开源模型生态持续壮大**：Hugging Face发布2026年夏季开源模型观察报告，Meta推出全新开源多模态智能体模型Muse Glimmer，主打本地化、智能体化与多模态能力，进一步巩固开源AI阵营。\n2. **AI开发工具链一体化与效率提升**：Hugging Face推出Strands Agents、LeRobot及存储桶集成方案，实现从记录、训练到部署的一站式流程；同时发布LFM2.5-VL-3B边缘视觉模型，并探索低成本知识蒸馏技术，使大规模模型训练更经济高效。\n3. **研究复现与数据服务创新**：Hugging Face成功复现ICML 2200篇论文，验证学术成果可复现性；OlmoEarth推出自定义嵌入导出功能，支持下游分析，提升地理空间数据应用灵活性。\n4. **多模态与语音AI突破**：NVIDIA Magpie TTS实现低延迟多语言语音智能体，支持开放权重与完全部署控制；Google医疗AI系统AMIE首次完成实时临床视频会诊研究，展现AI在医疗场景的实用潜力。\n5. **商业与产品加速落地**：OpenAI发布GPT-5.6构建指南，并预览超快模式（GPT-5.6 Sol，速度提升14倍），同时任命新任首席营收官；Google推出Sheets画布及营销AI工具，将AI能力深度嵌入日常办公与商业场景。\n\n**今日最值得关注**：开源模型与工具链的全面成熟（如Muse Glimmer、Strands Agents）正加速AI从实验室走向实际应用，而OpenAI与Google在速度、医疗及办公场景的突破则标志着AI商业化竞争进入新阶段。",
       "count": 30
     },
     "cctv": {
-      "articles": [],
-      "summary": "今日暂无相关新闻。",
-      "count": 0
+      "articles": [
+        {
+          "id": "9bd5405dc4c0",
+          "title": "Ask HN: Why don't we see ARM laptops from China?",
+          "link": "https://news.ycombinator.com/item?id=49312263",
+          "description": "Just wondering: how comes we haven't seen a flood of ARM laptops on shops like Aliexpress? Comments URL: https://news.ycombinator.com/item?id=49312263 Points: 5 # Comments: 4",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 15 Aug 2026 17:04:46 +0000"
+        },
+        {
+          "id": "d54ca097fe18",
+          "title": "US to tell partners they must pick sides in AI race with China",
+          "link": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+          "description": "Article URL: https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49311888 Points: 17 # Comments: 7",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 15 Aug 2026 16:25:14 +0000"
+        },
+        {
+          "id": "eb0fbcd11cb2",
+          "title": "China is shaping the future of open‑source technology – including AI",
+          "link": "https://theconversation.com/china-is-shaping-the-future-of-open-source-technology-including-ai-288061",
+          "description": "Article URL: https://theconversation.com/china-is-shaping-the-future-of-open-source-technology-including-ai-288061 Comments URL: https://news.ycombinator.com/item?id=49311121 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 15 Aug 2026 14:56:31 +0000"
+        },
+        {
+          "id": "878883d7d128",
+          "title": "U.S. to tell partners they must pick sides in AI race with China",
+          "link": "https://www.japantimes.co.jp/business/2026/08/15/tech/us-ai-coalition-china-warning/",
+          "description": "Article URL: https://www.japantimes.co.jp/business/2026/08/15/tech/us-ai-coalition-china-warning/ Comments URL: https://news.ycombinator.com/item?id=49310765 Points: 4 # Comments: 4",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 15 Aug 2026 14:14:03 +0000"
+        },
+        {
+          "id": "9f5436754f4e",
+          "title": "The Next Global Economic Crisis Could Be Made in China",
+          "link": "https://www.foreignaffairs.com/china/next-global-economic-crisis-made-china-michael-froman",
+          "description": "Article URL: https://www.foreignaffairs.com/china/next-global-economic-crisis-made-china-michael-froman Comments URL: https://news.ycombinator.com/item?id=49310486 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 15 Aug 2026 13:43:02 +0000"
+        },
+        {
+          "id": "ece1eab0505d",
+          "title": "China Is Opening the First Regular Cargo Route Through the Arctic",
+          "link": "https://www.wsj.com/world/china-is-opening-the-first-regular-cargo-route-through-the-arctic-445245bc",
+          "description": "Article URL: https://www.wsj.com/world/china-is-opening-the-first-regular-cargo-route-through-the-arctic-445245bc Comments URL: https://news.ycombinator.com/item?id=49310062 Points: 7 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 15 Aug 2026 12:32:13 +0000"
+        },
+        {
+          "id": "a2de7e2d82e0",
+          "title": "Microsoft Walks Away from China",
+          "link": "https://247wallst.com/investing/2026/08/14/microsoft-walks-away-from-china/",
+          "description": "Article URL: https://247wallst.com/investing/2026/08/14/microsoft-walks-away-from-china/ Comments URL: https://news.ycombinator.com/item?id=49308216 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 15 Aug 2026 06:28:25 +0000"
+        },
+        {
+          "id": "df2750fd9e88",
+          "title": "There Aren't Enough Ships to Handle China's Booming Car Exports",
+          "link": "https://www.wsj.com/business/logistics/there-arent-enough-ships-to-handle-chinas-booming-car-exports-d2b66787",
+          "description": "Article URL: https://www.wsj.com/business/logistics/there-arent-enough-ships-to-handle-chinas-booming-car-exports-d2b66787 Comments URL: https://news.ycombinator.com/item?id=49303487 Points: 7 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 14 Aug 2026 19:27:08 +0000"
+        },
+        {
+          "id": "8f5c187ffd0b",
+          "title": "Apple trains its own AI model for China market with Alibaba's support, sources",
+          "link": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+          "description": "Article URL: https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49302098 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 14 Aug 2026 17:43:35 +0000"
+        },
+        {
+          "id": "40f7f4da4b1f",
+          "title": "Apple trained its own AI model for China with help from Alibaba",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+          "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba Comments URL: https://news.ycombinator.com/item?id=49299463 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 14 Aug 2026 14:49:43 +0000"
+        },
+        {
+          "id": "e96f20fc37b5",
+          "title": "Apple Trained Own AI Model for China Market with Help from Alibaba",
+          "link": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
+          "description": "Article URL: https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/ Comments URL: https://news.ycombinator.com/item?id=49298360 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 14 Aug 2026 13:23:48 +0000"
+        },
+        {
+          "id": "4809251a8038",
+          "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+          "link": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
+          "description": "Article URL: https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html Comments URL: https://news.ycombinator.com/item?id=49298105 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 14 Aug 2026 12:58:46 +0000"
+        },
+        {
+          "id": "831f9c70f9e0",
+          "title": "China-linked hackers hit Taiwan in 'autonomous' AI cyber attack",
+          "link": "https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795",
+          "description": "Article URL: https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795 Comments URL: https://news.ycombinator.com/item?id=49295227 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 14 Aug 2026 06:07:08 +0000"
+        },
+        {
+          "id": "4dbe872b117b",
+          "title": "Apple trains its own AI model for China market with Alibaba's support",
+          "link": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+          "description": "Article URL: https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49294844 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 14 Aug 2026 04:47:51 +0000"
+        },
+        {
+          "id": "9f897e6763b1",
+          "title": "China's renewable boom masks a quiet Coal-to-Liquids expansion",
+          "link": "https://oilprice.com/Energy/Coal/Chinas-Renewable-Boom-Masks-a-Quiet-Coal-to-Liquids-Expansion.html",
+          "description": "Article URL: https://oilprice.com/Energy/Coal/Chinas-Renewable-Boom-Masks-a-Quiet-Coal-to-Liquids-Expansion.html Comments URL: https://news.ycombinator.com/item?id=49291698 Points: 5 # Comments: 12",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 13 Aug 2026 20:51:37 +0000"
+        },
+        {
+          "id": "6f79118be900",
+          "title": "Microsoft Retreats in China",
+          "link": "https://www.reuters.com/world/china/microsoft-retreats-china-ai-boom-helps-it-keep-window-open-2026-08-13/",
+          "description": "Article URL: https://www.reuters.com/world/china/microsoft-retreats-china-ai-boom-helps-it-keep-window-open-2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291638 Points: 4 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 13 Aug 2026 20:46:53 +0000"
+        },
+        {
+          "id": "ad94c98af6c8",
+          "title": "Microsoft Scales Back in China, Shutting 15 Sites in Five Years",
+          "link": "https://en.sedaily.com/international/2026/08/13/microsoft-scales-back-in-china-shutting-15-sites-in-five",
+          "description": "Article URL: https://en.sedaily.com/international/2026/08/13/microsoft-scales-back-in-china-shutting-15-sites-in-five Comments URL: https://news.ycombinator.com/item?id=49290340 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 13 Aug 2026 18:50:46 +0000"
+        },
+        {
+          "id": "95a480cf8219",
+          "title": "800 km/h (497mph) in 5.3 seconds: China's 1110kg model train sets another record",
+          "link": "https://news.cgtn.com/news/2026-08-10/800-km-h-in-5-3-seconds-China-s-maglev-sets-another-record-1PuDXjhEaFW/p.html",
+          "description": "Article URL: https://news.cgtn.com/news/2026-08-10/800-km-h-in-5-3-seconds-China-s-maglev-sets-another-record-1PuDXjhEaFW/p.html Comments URL: https://news.ycombinator.com/item?id=49282734 Points: 4 # Comments: 4",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 13 Aug 2026 07:25:40 +0000"
+        },
+        {
+          "id": "22ce5714cb09",
+          "title": "Zhu Rongji, China's chief engineer of economic reform and former premier, dies",
+          "link": "https://www.scmp.com/news/china/politics/article/3363792/chinese-economic-reformer-zhu-rongji-dies-aged-97",
+          "description": "Article URL: https://www.scmp.com/news/china/politics/article/3363792/chinese-economic-reformer-zhu-rongji-dies-aged-97 Comments URL: https://news.ycombinator.com/item?id=49282319 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 13 Aug 2026 06:14:53 +0000"
+        },
+        {
+          "id": "bbd7a3ea7e2e",
+          "title": "The West has given China the keys to the medicine cabinet",
+          "link": "https://www.ft.com/content/5924d083-b5a4-4f95-8c2d-400f2b914159",
+          "description": "Article URL: https://www.ft.com/content/5924d083-b5a4-4f95-8c2d-400f2b914159 Comments URL: https://news.ycombinator.com/item?id=49276873 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 12 Aug 2026 18:46:42 +0000"
+        },
+        {
+          "id": "a6325bad119e",
+          "title": "China's top AI continues using Nvidia amid high costs of local chip transition",
+          "link": "https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech",
+          "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech Comments URL: https://news.ycombinator.com/item?id=49276563 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 12 Aug 2026 18:19:18 +0000"
+        },
+        {
+          "id": "effb99d930bc",
+          "title": "How do payments work in the US, China, and Brazil?",
+          "link": "https://andrewacomb.substack.com/p/a-tale-of-three-refunds",
+          "description": "Article URL: https://andrewacomb.substack.com/p/a-tale-of-three-refunds Comments URL: https://news.ycombinator.com/item?id=49274336 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 12 Aug 2026 15:50:34 +0000"
+        },
+        {
+          "id": "fab8757469b5",
+          "title": "China-linked hackers hit Taiwan in unprecedented 'autonomous' AI cyber attack",
+          "link": "https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795",
+          "description": "Article URL: https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795 Comments URL: https://news.ycombinator.com/item?id=49274007 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 12 Aug 2026 15:31:55 +0000"
+        },
+        {
+          "id": "26d6ae246e04",
+          "title": "China's Great Jobs Squeeze",
+          "link": "https://www.ft.com/content/a3803e70-cb4d-444f-a31e-05be2f2c44f6",
+          "description": "Article URL: https://www.ft.com/content/a3803e70-cb4d-444f-a31e-05be2f2c44f6 Comments URL: https://news.ycombinator.com/item?id=49270851 Points: 11 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 12 Aug 2026 11:42:06 +0000"
+        },
+        {
+          "id": "c601419b95d5",
+          "title": "China bypasses shipping chokepoints with 'Ice Silk Road' through Arctic",
+          "link": "https://www.ft.com/content/4456f475-f2c8-4cb7-8312-0c47c5f781b8",
+          "description": "Article URL: https://www.ft.com/content/4456f475-f2c8-4cb7-8312-0c47c5f781b8 Comments URL: https://news.ycombinator.com/item?id=49268769 Points: 2 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 12 Aug 2026 07:04:41 +0000"
+        },
+        {
+          "id": "ee74e0c1b1d7",
+          "title": "China bans AI companions, forcing millions to break up with virtual partners",
+          "link": "https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352",
+          "description": "Article URL: https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352 Comments URL: https://news.ycombinator.com/item?id=49268498 Points: 9 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 12 Aug 2026 06:21:59 +0000"
+        },
+        {
+          "id": "662b407c9c11",
+          "title": "Spy cameras on Royal Navy drones sent data to China",
+          "link": "https://www.telegraph.co.uk/news/2026/08/09/spy-cameras-on-navy-drones-secretly-sent-data-to-china",
+          "description": "Article URL: https://www.telegraph.co.uk/news/2026/08/09/spy-cameras-on-navy-drones-secretly-sent-data-to-china Comments URL: https://news.ycombinator.com/item?id=49267465 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 12 Aug 2026 03:19:01 +0000"
+        },
+        {
+          "id": "3c37937dd9fd",
+          "title": "China warns of \"security backdoor\" in Anthropic AI coding tool [July 8, 2026]",
+          "link": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/",
+          "description": "Article URL: https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/ Comments URL: https://news.ycombinator.com/item?id=49261800 Points: 4 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 11 Aug 2026 17:43:55 +0000"
+        },
+        {
+          "id": "2475c582174b",
+          "title": "Electrostates vs. petrostates: the US, China, and the Hormuz energy shock",
+          "link": "https://www.brookings.edu/articles/electrostates-vs-petrostates-the-us-china-and-the-hormuz-energy-shock/",
+          "description": "Article URL: https://www.brookings.edu/articles/electrostates-vs-petrostates-the-us-china-and-the-hormuz-energy-shock/ Comments URL: https://news.ycombinator.com/item?id=49258912 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 11 Aug 2026 14:23:50 +0000"
+        }
+      ],
+      "summary": "今日新闻联播动态摘要\n\n1. **AI领域竞争加剧**：美国要求合作伙伴在中美AI竞赛中“选边站”，同时Hugging Face CEO指出中国在开源模型领域正占据主导地位，苹果则联合阿里巴巴为中国市场训练专属AI模型，显示中国AI生态的国际影响力持续上升。\n\n2. **中国科技与产业外溢效应显著**：微软被曝正逐步撤离中国业务，而中国汽车出口激增导致全球航运运力紧张，同时北极首条常态化货运航线由中国开通，体现中国在重塑全球供应链与物流格局中的关键角色。\n\n3. **地缘政治与网络安全风险升温**：美国明确施压盟友在中美技术竞争中表态，中国关联黑客被曝对台湾发动“自主式”AI网络攻击，凸显技术竞争与安全博弈交织的复杂态势。\n\n4. **能源转型中的矛盾现象**：中国可再生能源高速扩张的同时，煤制油项目悄然扩容，揭示能源结构转型过程中传统与新兴路径并存的现实挑战。\n\n5. **开源技术领导力与全球影响**：中国正通过开源社区塑造包括AI在内的全球技术未来，其参与度和贡献度日益受到国际关注，成为技术标准与协作网络中的重要力量。\n\n**今日最值得关注的发展**：美国公开要求盟友在中美AI竞赛中“选边站”，叠加中国在开源模型、本土AI应用（如苹果-阿里合作）及地缘技术出口上的多重动作，表明AI竞争已从技术层面升级为全球战略与产业链主导权的全面博弈。",
+      "count": 29
     }
   }
 }
