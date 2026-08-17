@@ -1,0 +1,653 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T14:28:56.409138",
+  "categories": {
+    "tech": {
+      "articles": [
+        {
+          "id": "211005542796",
+          "title": "Uber adds Zipline drones to its Eats delivery network",
+          "link": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
+          "description": "Uber is also making investing in Zipline as part of the tie-up.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 17 Aug 2026 13:18:49 +0000"
+        },
+        {
+          "id": "562eea6df41d",
+          "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+          "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+          "description": "Wispr’s total funding is now over $361 million.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 17 Aug 2026 13:10:05 +0000"
+        },
+        {
+          "id": "9488ba5b2f51",
+          "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
+          "link": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/",
+          "description": "The hacks at shipping companies used to mail out hardware wallets puts crypto owners at greater risk of real-world attacks.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 17 Aug 2026 13:00:19 +0000"
+        },
+        {
+          "id": "b05826b9cc28",
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 16 Aug 2026 20:57:04 +0000"
+        },
+        {
+          "id": "342fcb590ae4",
+          "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+          "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+          "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 16 Aug 2026 20:32:01 +0000"
+        },
+        {
+          "id": "da2330648678",
+          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+          "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 16 Aug 2026 16:53:51 +0000"
+        },
+        {
+          "id": "3d76a46ab046",
+          "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+          "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+          "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 16 Aug 2026 16:04:00 +0000"
+        },
+        {
+          "id": "bec7677beefa",
+          "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+          "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 15 Aug 2026 21:29:19 +0000"
+        },
+        {
+          "id": "b8e67085c01e",
+          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+          "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 15 Aug 2026 18:58:39 +0000"
+        },
+        {
+          "id": "8b4e45a3832f",
+          "title": "SpaceX officially closes its Cursor acquisition",
+          "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+          "description": "AI coding startup Cursor is now officially a part of SpaceX.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 15 Aug 2026 16:30:00 +0000"
+        },
+        {
+          "id": "62d42a85279d",
+          "title": "How to tell if your AI platforms’ accounts have been hacked",
+          "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+          "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 15 Aug 2026 16:10:00 +0000"
+        },
+        {
+          "id": "32932d6a6c89",
+          "title": "Every fusion startup that has raised over $100M",
+          "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+          "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 15 Aug 2026 13:15:20 +0000"
+        },
+        {
+          "id": "493ec6673319",
+          "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+          "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+          "description": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 22:43:24 +0000"
+        },
+        {
+          "id": "11ae3de022ca",
+          "title": "Self-driving trucks are officially testing on California highways",
+          "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+          "description": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 20:37:49 +0000"
+        },
+        {
+          "id": "93c35a833e80",
+          "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+          "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+          "description": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 19:33:00 +0000"
+        },
+        {
+          "id": "b0fe80fba002",
+          "title": "What we know about the alleged Iranian hacks on US water utilities",
+          "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+          "description": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 19:04:32 +0000"
+        },
+        {
+          "id": "1ba62bb3c23f",
+          "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+          "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+          "description": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 18:58:15 +0000"
+        },
+        {
+          "id": "dac7d9a41348",
+          "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+          "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+          "description": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 16:21:04 +0000"
+        },
+        {
+          "id": "1618f3addbb6",
+          "title": "Google will now allow users to remove visible watermark from its AI generations",
+          "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+          "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 16:13:40 +0000"
+        },
+        {
+          "id": "701504212b1f",
+          "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+          "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+          "description": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 15:43:28 +0000"
+        },
+        {
+          "id": "8c5d3fbd8d95",
+          "title": "Meet the only known trebuchet casualty in history",
+          "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+          "description": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 17 Aug 2026 13:41:35 +0000"
+        },
+        {
+          "id": "973feb95b750",
+          "title": "Satellite operators are in panic mode due to a worsening launch crisis",
+          "link": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
+          "description": "What happens if the Falcon rockets stop flying?",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 17 Aug 2026 11:00:26 +0000"
+        },
+        {
+          "id": "d1a1068717c4",
+          "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+          "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+          "description": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sun, 16 Aug 2026 10:00:59 +0000"
+        },
+        {
+          "id": "09196da76d2a",
+          "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+          "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+          "description": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter .",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sat, 15 Aug 2026 21:21:27 +0000"
+        },
+        {
+          "id": "8ac671918960",
+          "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+          "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+          "description": "\"Flamingo missiles were used. A good achievement.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sat, 15 Aug 2026 15:46:05 +0000"
+        },
+        {
+          "id": "45af3e72efda",
+          "title": "So much solar: Digging into the list of every US power plant that went online this year",
+          "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+          "description": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sat, 15 Aug 2026 11:09:57 +0000"
+        },
+        {
+          "id": "615459370a7d",
+          "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+          "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+          "description": "Screen-sharing bug lets remote hackers log in without a password.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 18:32:14 +0000"
+        },
+        {
+          "id": "7e79b7dbc2f9",
+          "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+          "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+          "description": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 18:00:23 +0000"
+        },
+        {
+          "id": "98c088675b48",
+          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+          "description": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 17:26:53 +0000"
+        },
+        {
+          "id": "49cbfde797bf",
+          "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+          "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+          "description": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 17:13:14 +0000"
+        },
+        {
+          "id": "652fa3e7897e",
+          "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+          "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+          "description": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 17:03:54 +0000"
+        },
+        {
+          "id": "e0854c2cad90",
+          "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+          "link": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+          "description": "It turns out that the economics of rocket reuse are pretty, pretty good.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 16:29:21 +0000"
+        },
+        {
+          "id": "8d93a653ac14",
+          "title": "Ars Live recap: How can we stop publishers from killing their own games?",
+          "link": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
+          "description": "The Stop Killing Games movement faces an uphill battle.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 16:11:37 +0000"
+        },
+        {
+          "id": "9d9d095caa25",
+          "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+          "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+          "description": "Third-party app stores are about to become more visible in Google Play.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 15:46:40 +0000"
+        },
+        {
+          "id": "ef40bc5a05ee",
+          "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
+          "link": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
+          "description": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 15:18:22 +0000"
+        },
+        {
+          "id": "c8b21952f4fc",
+          "title": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
+          "link": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
+          "description": "Senator Warren questions whether Taylor Farms' influence swayed Trump admin.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 14 Aug 2026 15:03:16 +0000"
+        },
+        {
+          "id": "a185190e4dbe",
+          "title": "Ask HN: Alternatives to GitHub",
+          "link": "https://news.ycombinator.com/item?id=49331033",
+          "description": "Github has been down consistently over the last few months - does it make sense to switch to alternatives? Comments URL: https://news.ycombinator.com/item?id=49331033 Points: 18 # Comments: 9",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 17 Aug 2026 13:59:17 +0000"
+        },
+        {
+          "id": "3e53677b0496",
+          "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+          "description": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 14 # Comments: 13",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 17 Aug 2026 13:44:23 +0000"
+        },
+        {
+          "id": "84607877ea9f",
+          "title": "Incident with Github.com",
+          "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+          "description": "Article URL: https://www.githubstatus.com/incidents/zkxwbgr0cnmx Comments URL: https://news.ycombinator.com/item?id=49330684 Points: 318 # Comments: 251",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 17 Aug 2026 13:40:55 +0000"
+        },
+        {
+          "id": "42d2a373e1b2",
+          "title": "GitHub down again? no PR access",
+          "link": "https://news.ycombinator.com/item?id=49330632",
+          "description": "Githubstatus.com currently says everything is working, but it isn't Comments URL: https://news.ycombinator.com/item?id=49330632 Points: 80 # Comments: 22",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 17 Aug 2026 13:37:28 +0000"
+        }
+      ],
+      "summary": "今日科技动态摘要\n\n1. **Uber与Zipline合作**：Uber Eats将引入Zipline无人机配送，拓展其外卖网络，提升配送效率与覆盖范围。\n2. **AI初创融资与并购活跃**：Wispr以20亿美元估值融资2.8亿美元；Stripe拟超70亿美元收购AI网关初创OpenRouter；SpaceX完成对Cursor的收购。\n3. **AI信任与安全危机凸显**：Anthropic CEO称AI反弹本质是“信任危机”；Meta的Grok被曝用于生成儿童色情图像；多家AI平台账户遭黑客攻击，用户需警惕安全风险。\n4. **AI行业内部反思**：Thrive的Joshua Kushner批评硅谷风投对AI过度狂热；Mark Zuckerberg的AI未来愿景遭公众质疑。\n5. **新兴科技进展**：自动驾驶卡车正式在加州高速测试；电动空中出租车航线调整；多笔核聚变初创融资超1亿美元；PayPal出售给Stripe和Advent的谈判升温。\n\n**今日最值得关注**：AI行业在高速扩张的同时，正面临信任、安全与伦理的多重挑战，行业领袖与投资者的反思或预示新一轮调整。",
+      "count": 40
+    },
+    "ai": {
+      "articles": [
+        {
+          "id": "91f27f70b7db",
+          "title": "State of Open Models: Summer 2026 Observations",
+          "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Fri, 14 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "3cb717c7ad55",
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Thu, 13 Aug 2026 17:16:04 GMT"
+        },
+        {
+          "id": "4c6e0a03fa4f",
+          "title": "What We Learned by Reproducing 2,200 papers from ICML",
+          "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Thu, 13 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "1c2861165129",
+          "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 12 Aug 2026 16:14:36 GMT"
+        },
+        {
+          "id": "c9224331b6dc",
+          "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 12 Aug 2026 14:00:51 GMT"
+        },
+        {
+          "id": "615651bb2d03",
+          "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 11 Aug 2026 13:37:10 GMT"
+        },
+        {
+          "id": "a4544c673554",
+          "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Mon, 10 Aug 2026 16:25:36 GMT"
+        },
+        {
+          "id": "9e1c757e2ef5",
+          "title": "Get closer to the game with Gemini and Pixel",
+          "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+          "description": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 17 Aug 2026 08:00:00 +0000"
+        },
+        {
+          "id": "95369afda5dd",
+          "title": "Bring your spreadsheet data to life with Sheets canvas",
+          "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+          "description": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 13 Aug 2026 16:45:00 +0000"
+        },
+        {
+          "id": "75256fd094ce",
+          "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+          "description": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 11 Aug 2026 17:00:00 +0000"
+        },
+        {
+          "id": "1f4e3e2f0d46",
+          "title": "Evolve your marketing with new AI tools",
+          "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+          "description": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 10 Aug 2026 14:30:00 +0000"
+        },
+        {
+          "id": "b93f60b0bd46",
+          "title": "The Defender’s Window",
+          "link": "https://openai.com/index/the-defenders-window",
+          "description": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 17 Aug 2026 05:30:00 GMT"
+        },
+        {
+          "id": "238d24bbfab7",
+          "title": "OpenAI joins PORTS-Pike project",
+          "link": "https://openai.com/index/openai-joins-ports-pike-project",
+          "description": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 17 Aug 2026 05:00:00 GMT"
+        },
+        {
+          "id": "a09cfa95c5d6",
+          "title": "New policy ideas for the Intelligence Age",
+          "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "description": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 17 Aug 2026 03:15:00 GMT"
+        },
+        {
+          "id": "7892b2526ea5",
+          "title": "The builder’s guide to GPT‑5.6",
+          "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 13 Aug 2026 11:00:00 GMT"
+        },
+        {
+          "id": "ed394ced099f",
+          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "link": "https://openai.com/index/previewing-ultrafast",
+          "description": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 13 Aug 2026 10:00:00 GMT"
+        },
+        {
+          "id": "57a23a27f9be",
+          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 13 Aug 2026 09:00:00 GMT"
+        },
+        {
+          "id": "95695b645efc",
+          "title": "From assistance to execution: How enterprises put AI to work",
+          "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 12 Aug 2026 06:00:00 GMT"
+        },
+        {
+          "id": "0a7f5eebcff6",
+          "title": "How RingCentral builds AI-native work from engineering to ops",
+          "link": "https://openai.com/index/ringcentral",
+          "description": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 12 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "4f24933fe961",
+          "title": "Testing ads in ChatGPT",
+          "link": "https://openai.com/index/testing-ads-in-chatgpt",
+          "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 11 Aug 2026 10:00:00 GMT"
+        },
+        {
+          "id": "78f68cc621a7",
+          "title": "Daybreak models are now available on AWS",
+          "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+          "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 11 Aug 2026 10:00:00 GMT"
+        },
+        {
+          "id": "9f99596e6f69",
+          "title": "What building an AI-native finance function taught me",
+          "link": "https://openai.com/index/building-an-ai-native-finance-function",
+          "description": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 10 Aug 2026 17:00:00 GMT"
+        },
+        {
+          "id": "1fd06cbae52e",
+          "title": "Debian has begun voting on the future of AI/LLM contributions",
+          "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+          "description": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 66 # Comments: 53",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Sat, 15 Aug 2026 09:20:07 +0000"
+        },
+        {
+          "id": "472cce5a8555",
+          "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+          "link": "https://www.qbitai.com/2026/08/474537.html",
+          "description": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Mon, 17 Aug 2026 09:30:49 +0000"
+        },
+        {
+          "id": "ed62b1bb9c68",
+          "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+          "link": "https://www.qbitai.com/2026/08/474518.html",
+          "description": "没有遥控、没人喂球",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Mon, 17 Aug 2026 09:04:37 +0000"
+        },
+        {
+          "id": "f7d635ae717d",
+          "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+          "link": "https://www.qbitai.com/2026/08/474381.html",
+          "description": "AI最近最出圈的数学突破，都在“找反例”",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Mon, 17 Aug 2026 08:36:07 +0000"
+        },
+        {
+          "id": "c23405cc3c67",
+          "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+          "link": "https://www.qbitai.com/2026/08/474361.html",
+          "description": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Mon, 17 Aug 2026 08:26:25 +0000"
+        },
+        {
+          "id": "245618b6a2a5",
+          "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+          "link": "https://www.qbitai.com/2026/08/474334.html",
+          "description": "即将完全开源",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Mon, 17 Aug 2026 07:39:56 +0000"
+        },
+        {
+          "id": "0609fc7944d7",
+          "title": "杭州95后小伙，5亿买走硅谷城堡",
+          "link": "https://www.qbitai.com/2026/08/474245.html",
+          "description": "辞别马斯克xAI半年之后…",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sun, 16 Aug 2026 11:51:08 +0000"
+        },
+        {
+          "id": "60ab50bace18",
+          "title": "李飞飞最新访谈：AI咋能代替人呢？",
+          "link": "https://www.qbitai.com/2026/08/474140.html",
+          "description": "AI不是替代者，而是个人能力的放大镜",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sun, 16 Aug 2026 10:45:47 +0000"
+        }
+      ],
+      "summary": "今日AI动态摘要\n\n1. **开源模型生态与效率进展**：Hugging Face发布2026年夏季开源模型观察报告，并推出OlmoEarth自定义嵌入导出功能，同时展示LFM2.5-VL-3B边缘视觉模型及用更少Token实现ACE推理的优化方案。\n\n2. **AI开发与部署一体化工具**：Hugging Face推出Strands Agents、LeRobot与存储桶集成方案，支持从记录、训练到部署的全流程闭环；NVIDIA发布Magpie TTS开源模型，赋能低延迟多语言语音代理。\n\n3. **大规模科研复现与医学AI突破**：Hugging Face分享复现ICML 2200篇论文的经验教训；Google的AMIE医学AI系统首次实现实时临床视频会诊能力，标志医疗AI进入新阶段。\n\n4. **企业级AI应用与办公革新**：Google推出Sheets canvas功能，将电子表格数据可视化；同时发布新型AI营销工具，助力企业营销自动化升级。\n\n5. **政策与安全新动向**：OpenAI发布《防御者之窗》安全报告，加入PORTS-Pike项目，并提出面向“智能时代”的新政策建议；同时发布GPT-5.6开发者构建指南。\n\n**今日最值得关注**：开源模型与工具链持续走向一体化、高效化，而医学AI的实时临床落地与OpenAI在安全政策上的布局，标志着AI正从技术突破加速迈向实际应用与治理并重的新阶段。",
+      "count": 30
+    },
+    "cctv": {
+      "articles": [],
+      "summary": "今日暂无相关新闻。",
+      "count": 0
+    }
+  }
+}
