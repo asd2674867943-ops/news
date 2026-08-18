@@ -1,9 +1,108 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T14:34:34.065535",
+  "generated_at": "2026-08-18T22:28:16.129893",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "3e9711bf836d",
+          "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+          "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+          "description": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 18 Aug 2026 22:14:25 +0000"
+        },
+        {
+          "id": "86b0f9e198c6",
+          "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+          "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+          "description": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 18 Aug 2026 20:36:20 +0000"
+        },
+        {
+          "id": "46837b649570",
+          "title": "TikTok explores peer-to-peer payments via DMs, report says",
+          "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+          "description": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 18 Aug 2026 20:03:56 +0000"
+        },
+        {
+          "id": "a79f665773c3",
+          "title": "OpenAI institutes new safeguards after Hugging Face breach",
+          "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+          "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 18 Aug 2026 18:00:00 +0000"
+        },
+        {
+          "id": "16e143dd9e01",
+          "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+          "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+          "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 18 Aug 2026 17:31:01 +0000"
+        },
+        {
+          "id": "8a308ade3ece",
+          "title": "Etched’s valuation doubles to $21B in a month",
+          "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+          "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 18 Aug 2026 17:21:58 +0000"
+        },
+        {
+          "id": "748a119e2497",
+          "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+          "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+          "description": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 18 Aug 2026 17:12:13 +0000"
+        },
+        {
+          "id": "1ee3de2d5b23",
+          "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
+          "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
+          "description": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 18 Aug 2026 16:39:05 +0000"
+        },
+        {
+          "id": "5cb077d795b3",
+          "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+          "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+          "description": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 18 Aug 2026 16:19:10 +0000"
+        },
+        {
+          "id": "b4e2a9ecdb93",
+          "title": "Bluesky says its recent outage was caused by another DDoS attack",
+          "link": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
+          "description": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 18 Aug 2026 15:59:48 +0000"
+        },
+        {
+          "id": "229affcb0add",
+          "title": "Peacock is raising prices across all of its streaming plans",
+          "link": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
+          "description": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres,\" the company wrote on a support page.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 18 Aug 2026 15:26:31 +0000"
+        },
         {
           "id": "d0788ad33b83",
           "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
@@ -17,7 +116,7 @@
           "id": "8978cfb86e82",
           "title": "Warp’s new system is an out-of-the-box software factory for AI development",
           "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-          "description": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+          "description": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Tue, 18 Aug 2026 14:00:00 +0000"
@@ -44,7 +143,7 @@
           "id": "b95de6b27c2a",
           "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
           "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
-          "description": "A video in a MacOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri.",
+          "description": "A video in a macOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Tue, 18 Aug 2026 13:28:51 +0000"
@@ -62,7 +161,7 @@
           "id": "cc4f5f340fee",
           "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
           "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
-          "description": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
+          "description": "Reach Capital announced Tuesday an oversubscribed $265 million Fund V.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Tue, 18 Aug 2026 11:00:00 +0000"
@@ -71,7 +170,7 @@
           "id": "bbe300424335",
           "title": "Fairphone is launching its latest repairable phone in the US too",
           "link": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
-          "description": "The Fairphone 6+ is priced at $649 and will be available on Amazon.",
+          "description": "The Fairphone 6+ is a midrange Android offering, but given the increasing prices of consumer gadgets amid the ongoing component shortages, a repairable device that can be made to last for years may prove a good proposition.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Tue, 18 Aug 2026 11:00:00 +0000"
@@ -80,109 +179,82 @@
           "id": "f3c240d1d06e",
           "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
           "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
-          "description": "Einride will buy the Tesla Semis, which will be made to Amazon and other customers.",
+          "description": "The deal will triple the size of Einride's fleet while sweetening the company's sales pitch for its Saga AI software. The Tesla Semis will be available to customers across North America.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Tue, 18 Aug 2026 10:30:00 +0000"
         },
         {
-          "id": "cdb18c997ed2",
-          "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
-          "link": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
-          "description": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
-          "source": "TechCrunch",
+          "id": "91365bbec48a",
+          "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+          "link": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+          "description": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 10:00:00 +0000"
+          "pub_date": "Tue, 18 Aug 2026 19:01:09 +0000"
         },
         {
-          "id": "0762352d29f4",
-          "title": "Anthropic’s annualized revenue surges to $65B",
-          "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-          "description": "The model maker added $18 billion in annualized revenue in two months.",
-          "source": "TechCrunch",
+          "id": "d8511db5ab4e",
+          "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
+          "link": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
+          "description": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 23:56:26 +0000"
+          "pub_date": "Tue, 18 Aug 2026 18:11:26 +0000"
         },
         {
-          "id": "7f220be70b1d",
-          "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-          "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-          "description": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-          "source": "TechCrunch",
+          "id": "f2ea54653dd5",
+          "title": "Peacock raises prices by 18 percent after becoming profitable",
+          "link": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
+          "description": "Peacock's quarterly profitability isn't guaranteed.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 21:27:05 +0000"
+          "pub_date": "Tue, 18 Aug 2026 16:42:30 +0000"
         },
         {
-          "id": "0198ef7f05c0",
-          "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
-          "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
-          "description": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
-          "source": "TechCrunch",
+          "id": "0589dd80c4e4",
+          "title": "The United States is about to wake up to the threat from China's space program",
+          "link": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
+          "description": "One big question: Will China assert territorial rights where its rover explores?",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 20:18:35 +0000"
+          "pub_date": "Tue, 18 Aug 2026 16:30:07 +0000"
         },
         {
-          "id": "2f633613b396",
-          "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-          "link": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-          "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-          "source": "TechCrunch",
+          "id": "ce67d65f5a2b",
+          "title": "Fairphone's latest repairable phone is finally available in the US for $650",
+          "link": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
+          "description": "Fairphone sells components like the USB port and screen, all swappable with a single torx driver.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 19:33:51 +0000"
+          "pub_date": "Tue, 18 Aug 2026 16:05:00 +0000"
         },
         {
-          "id": "0c7610179c23",
-          "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
-          "link": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
-          "description": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
-          "source": "TechCrunch",
+          "id": "4d4b644c6b3f",
+          "title": "Ford hopes this Hypercar will be its next Le Mans winner",
+          "link": "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/",
+          "description": "The American automaker returns to the top category of endurance racing next year.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 19:24:43 +0000"
+          "pub_date": "Tue, 18 Aug 2026 15:52:50 +0000"
         },
         {
-          "id": "bf831bb859fd",
-          "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
-          "link": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
-          "description": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
-          "source": "TechCrunch",
+          "id": "3325ff707810",
+          "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
+          "link": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
+          "description": "Matte paintings—not CGI—warp a world designed to hit a nerve for slasher fans.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 19:04:27 +0000"
+          "pub_date": "Tue, 18 Aug 2026 15:36:47 +0000"
         },
         {
-          "id": "49a427a464f4",
-          "title": "Reddit begins testing a new audio and video experience, similar to popular TikTok videos",
-          "link": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/",
-          "description": "Reddit is beginning to test video and audio versions of popular posts, allowing users to watch or listen to Reddit stories instead of just reading them.",
-          "source": "TechCrunch",
+          "id": "300247b00d0f",
+          "title": "X-rays add new twist to narwhal's spiral tusk",
+          "link": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
+          "description": "New study finds that the tusks have not one but two spirals, twisting in opposite directions.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 18:42:30 +0000"
-        },
-        {
-          "id": "de621598f5a3",
-          "title": "Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic",
-          "link": "https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/",
-          "description": "Sonic Fire Tech raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 18:32:27 +0000"
-        },
-        {
-          "id": "f6da2ba7252a",
-          "title": "YouTube will now count a view as soon as a video starts playing",
-          "link": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/",
-          "description": "The change comes a year after YouTube applied the same approach to counting views on Shorts videos.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 18:09:33 +0000"
-        },
-        {
-          "id": "7989398fcd47",
-          "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
-          "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
-          "description": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 17:10:59 +0000"
+          "pub_date": "Tue, 18 Aug 2026 15:00:51 +0000"
         },
         {
           "id": "12cc8b741b45",
@@ -291,85 +363,22 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Mon, 17 Aug 2026 14:22:54 +0000"
-        },
-        {
-          "id": "8c5d3fbd8d95",
-          "title": "Meet the only known trebuchet casualty in history",
-          "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
-          "description": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 13:41:35 +0000"
-        },
-        {
-          "id": "973feb95b750",
-          "title": "Satellite operators are in panic mode due to a worsening launch crisis",
-          "link": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
-          "description": "What happens if the Falcon rockets stop flying?",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 11:00:26 +0000"
-        },
-        {
-          "id": "d1a1068717c4",
-          "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-          "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
-          "description": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sun, 16 Aug 2026 10:00:59 +0000"
-        },
-        {
-          "id": "09196da76d2a",
-          "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-          "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
-          "description": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter .",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sat, 15 Aug 2026 21:21:27 +0000"
-        },
-        {
-          "id": "8ac671918960",
-          "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-          "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-          "description": "\"Flamingo missiles were used. A good achievement.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sat, 15 Aug 2026 15:46:05 +0000"
-        },
-        {
-          "id": "377fbfd8c18e",
-          "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-          "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
-          "description": "Article URL: https://opensource.posit.co/resources/cheatsheets/polars/ Comments URL: https://news.ycombinator.com/item?id=49345476 Points: 17 # Comments: 3",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 13:38:23 +0000"
-        },
-        {
-          "id": "1df612757501",
-          "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
-          "link": "https://github.com/pitiflautico/neobrowser",
-          "description": "Article URL: https://github.com/pitiflautico/neobrowser Comments URL: https://news.ycombinator.com/item?id=49345320 Points: 16 # Comments: 5",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 13:25:54 +0000"
-        },
-        {
-          "id": "265641cfc752",
-          "title": "The Amazon Tax",
-          "link": "https://seths.blog/2026/08/the-amazon-tax/",
-          "description": "Article URL: https://seths.blog/2026/08/the-amazon-tax/ Comments URL: https://news.ycombinator.com/item?id=49345263 Points: 31 # Comments: 10",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 13:22:38 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **固态电池与AI基础设施建设**：Anthro Energy开建新工厂，有望推动固态电池技术落地；Warp推出“开箱即用”的AI开发软件工厂系统，降低企业AI应用门槛。\n\n2. **AI应用与市场扩展**：OpenAI针对青少年推出更安全的ChatGPT版本（尽管青少年早已使用）；Perplexity通过免费AI服务在印度新增数百万用户，显示新兴市场对免费AI工具的高需求。\n\n3. **硬件与产品动态**：Apple新macOS更新中疑似出现带摄像头AirPods的视频；Fairphone最新可维修手机将进入美国市场；Einride订购500辆特斯拉Semi，扩大电动卡车车队；底特律初创公司Grounded融资500万美元，用于定制电动/燃油货车。\n\n4. **资本与行业整合**：Reach Capital募资2.65亿美元支持AI领域创业者（聚焦“拓展人类潜能”）；Anthropic年化收入飙升至650亿美元；AI自动化初创公司Relay关闭，员工并入谷歌Chrome团队。\n\n5. **安全与用户服务**：调查人员称“前所未有”数量的苹果用户收到间谍软件警报；Spotify推出“播放列表注释”功能，让用户和编辑解释选歌理由。\n\n**今日最值得关注**：Anthropic年化收入激增至650亿美元，叠加Relay并入谷歌，凸显AI行业资本与人才加速向头部巨头集中。",
+      "summary": "今日科技动态摘要\n\n1. **AI与开发者工具竞争加剧**：Cursor借开发者对GitHub的不满推出竞品托管平台；Warp发布“开箱即用”的AI开发软件工厂；Etched估值一个月翻倍至210亿美元，凸显AI基础设施赛道火热。\n2. **OpenAI安全与青少年策略调整**：OpenAI在Hugging Face遭入侵后加强安全防护，同时推出面向青少年的更安全版ChatGPT，弥补此前长期放任使用的缺口。\n3. **平台与监管动态**：美国司法部对Andreessen Horowitz董事会席位展开调查引发风投困惑；苹果全面调整欧盟App Store费用并放宽替代应用商店规则；Comcast路由器新增运动感应功能但引发隐私争议。\n4. **社交与流媒体服务变化**：TikTok探索通过私信实现点对点支付；Bluesky再次因DDoS攻击宕机；Peacock全系套餐涨价；Perplexity免费AI服务在印度获得数百万新用户。\n5. **硬件与能源突破**：Comcast路由器功能更新外，Apple带摄像头AirPods的隐私担忧被讨论；Anthro Energy破土动工固态电池工厂，或为电池技术铺路。\n\n**总结**：今日最值得关注的是AI开发工具与平台竞争白热化（Cursor、Warp、Etched），以及OpenAI在安全与青少年市场同步补课，显示AI行业正从“野蛮生长”转向“合规与体验并重”。",
       "count": 40
     },
     "ai": {
       "articles": [
+        {
+          "id": "be2b07b4b821",
+          "title": "How Much Memory Does Your Agent Actually Need?",
+          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 18 Aug 2026 18:09:38 GMT"
+        },
         {
           "id": "e3397094598b",
           "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
@@ -452,19 +461,28 @@
           "pub_date": "Thu, 13 Aug 2026 16:45:00 +0000"
         },
         {
-          "id": "75256fd094ce",
-          "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-          "description": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
-          "source": "Google AI Blog",
+          "id": "6074d70c29ac",
+          "title": "Strengthening democratic oversight in national security",
+          "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "description": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+          "source": "OpenAI Blog",
           "category": "ai",
-          "pub_date": "Tue, 11 Aug 2026 17:00:00 +0000"
+          "pub_date": "Tue, 18 Aug 2026 19:00:00 GMT"
         },
         {
           "id": "af2eb2c0ea2c",
           "title": "Partnering with CodeAI to prepare the first AI generation",
           "link": "https://openai.com/index/partnering-with-codeai",
           "description": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 18 Aug 2026 11:00:00 GMT"
+        },
+        {
+          "id": "c08b4caa65cc",
+          "title": "Pacing model development in an era of cyber-critical capabilities",
+          "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "description": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Tue, 18 Aug 2026 11:00:00 GMT"
@@ -477,6 +495,15 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Tue, 18 Aug 2026 11:00:00 GMT"
+        },
+        {
+          "id": "f1c3f2fd557d",
+          "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "link": "https://openai.com/index/asana",
+          "description": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 18 Aug 2026 07:00:00 GMT"
         },
         {
           "id": "b93f60b0bd46",
@@ -612,42 +639,259 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Tue, 18 Aug 2026 07:33:00 +0000"
-        },
-        {
-          "id": "b1bfffbf6e45",
-          "title": "今日起，阿里“千问办公”接入企业微信",
-          "link": "https://www.qbitai.com/2026/08/474803.html",
-          "description": "国内三大办公平台全面支持",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Tue, 18 Aug 2026 07:17:42 +0000"
-        },
-        {
-          "id": "abf1a0a26064",
-          "title": "吉利汽车业绩高点，李书福激流勇退",
-          "link": "https://www.qbitai.com/2026/08/474736.html",
-          "description": "“吉利不再研发传统燃油车”",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Tue, 18 Aug 2026 06:46:46 +0000"
-        },
-        {
-          "id": "659730351762",
-          "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
-          "link": "https://www.qbitai.com/2026/08/474673.html",
-          "description": "回头看，A社就这样完成了反超",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Tue, 18 Aug 2026 05:58:57 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **多向量（晚期交互）嵌入模型与开源生态进展**：Hugging Face发布多向量嵌入模型技术解析，并推出OlmoEarth自定义嵌入导出工具，同时总结2026年夏季开源模型生态观察，强调开放模型在性能与部署灵活性上的持续突破。\n\n2. **AI训练与部署效率提升**：Hugging Face通过重新复现ICML 2200篇论文总结可复现性经验，并推出Strands Agents、LeRobot与存储桶集成方案，实现从记录、训练到部署的一站式流程；另发现仅改变数据顺序即可提升集群利用率33个百分点。\n\n3. **边缘AI与医疗AI重大进展**：Hugging Face发布LFM2.5-VL-3B模型，增强边缘设备视觉能力；Google研究医疗AI系统AMIE首次实现实时临床视频咨询，展示AI在远程医疗中的实际应用潜力。\n\n4. **面向青少年与教育场景的AI产品**：OpenAI推出ChatGPT for Teens，专为学习设计并内置保护措施；同时与CodeAI合作，为“第一代AI原住民”提供编程教育支持。\n\n5. **AI政策与安全框架创新**：OpenAI提出“防御者窗口”概念，并发布面向“智能时代”的新政策建议，同时加入PORTS-Pike项目，关注AI基础设施安全与公共政策协同。\n\n**今日最值得关注的发展**：医疗AI首次实现实时临床视频咨询（AMIE），标志着AI从辅助诊断向交互式临床参与迈出关键一步，可能重塑远程医疗标准。",
+      "summary": "今日AI动态摘要\n\n1. **模型效率与部署优化**：Hugging Face 发布多项技术进展，包括探讨 AI Agent 所需内存规模、多向量（晚期交互）嵌入模型在 Sentence Transformers 中的实现，以及通过调整任务顺序将集群利用率提升 33 个百分点的调度优化案例。\n\n2. **开源模型生态观察**：Hugging Face 发布《2026 年夏季开源模型现状》报告，并分享从 ICML 2200 篇论文复现中获得的经验教训，强调开源模型在可复现性与实际应用中的挑战与突破。\n\n3. **多模态与边缘计算**：Hugging Face 推出 OlmoEarth 嵌入模型定制导出功能，以及 LFM2.5-VL-3B 模型，后者旨在为边缘设备提供更快、更强的视觉理解能力；同时发布 Strands Agents、LeRobot 与存储桶一体化工具，支持记录、训练与部署全流程。\n\n4. **AI 应用与产品创新**：Google 发布 Sheets canvas 以增强电子表格数据可视化，并深化 Gemini 与 Pixel 的整合，提升游戏体验；OpenAI 则推出面向青少年的 ChatGPT 版本，强调学习辅助与安全保护。\n\n5. **AI 治理与安全战略**：OpenAI 连续发文讨论网络安全背景下的模型开发节奏、民主监督机制，以及与 CodeAI 合作培养“第一代 AI 人才”；Asana 案例显示，借助 Codex 在两周内完成了相当于 5 年的工程工作量，凸显 AI 对生产力与安全边界的双重影响。\n\n**今日最值得关注**：开源社区在模型效率、多模态边缘部署和生态复现上的密集突破，与 OpenAI 在青少年安全、民主监督及网络安全的战略布局，共同勾勒出 AI 从技术狂飙向负责任落地转型的双轨图景。",
       "count": 30
     },
     "cctv": {
-      "articles": [],
-      "summary": "今日暂无相关新闻。",
-      "count": 0
+      "articles": [
+        {
+          "id": "c03ba7e21ed6",
+          "title": "Scientists support 150yo Darwinian theory with a carnivorous plant in China",
+          "link": "https://www.livescience.com/planet-earth/plants/darwins-hypothesis-provided-an-important-inspiration-scientists-bolster-150-year-old-darwinian-theory-with-a-carnivorous-plant-in-china",
+          "description": "Article URL: https://www.livescience.com/planet-earth/plants/darwins-hypothesis-provided-an-important-inspiration-scientists-bolster-150-year-old-darwinian-theory-with-a-carnivorous-plant-in-china Comments URL: https://news.ycombinator.com/item?id=49353439 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 18 Aug 2026 22:09:01 +0000"
+        },
+        {
+          "id": "293a8de521b8",
+          "title": "China Is Building a Blue Granary",
+          "link": "https://www.palladiummag.com/2026/08/04/china-is-building-a-blue-granary/",
+          "description": "Article URL: https://www.palladiummag.com/2026/08/04/china-is-building-a-blue-granary/ Comments URL: https://news.ycombinator.com/item?id=49352625 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 18 Aug 2026 20:59:25 +0000"
+        },
+        {
+          "id": "d7f0788d411c",
+          "title": "U.S. to tell partners they must pick sides in AI race with China",
+          "link": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
+          "description": "Article URL: https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html Comments URL: https://news.ycombinator.com/item?id=49351005 Points: 13 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 18 Aug 2026 19:09:00 +0000"
+        },
+        {
+          "id": "ca2a97d0edbe",
+          "title": "What happened to China's property collapse? [video]",
+          "link": "https://www.youtube.com/watch?v=1N2C72OdOxo",
+          "description": "Article URL: https://www.youtube.com/watch?v=1N2C72OdOxo Comments URL: https://news.ycombinator.com/item?id=49350336 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 18 Aug 2026 18:31:38 +0000"
+        },
+        {
+          "id": "04dfa0ce6277",
+          "title": "China Removes Microsoft Windows at State Users Ahead of Plan",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-18/china-axing-microsoft-windows-from-state-agencies-ahead-of-plan",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-18/china-axing-microsoft-windows-from-state-agencies-ahead-of-plan Comments URL: https://news.ycombinator.com/item?id=49348554 Points: 6 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 18 Aug 2026 16:50:14 +0000"
+        },
+        {
+          "id": "bb452d8ca9fd",
+          "title": "U.S. Navy destroyer lost power for 4 days in South China Sea",
+          "link": "https://www.washingtonpost.com/national-security/2026/08/17/us-navy-destroyer-lost-power-4-days-south-china-sea/",
+          "description": "Article URL: https://www.washingtonpost.com/national-security/2026/08/17/us-navy-destroyer-lost-power-4-days-south-china-sea/ Comments URL: https://news.ycombinator.com/item?id=49347734 Points: 6 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 18 Aug 2026 16:00:35 +0000"
+        },
+        {
+          "id": "48204be630c4",
+          "title": "Google plans to stop making Pixel products in China in 2027",
+          "link": "https://www.semafor.com/article/08/18/2026/us-tech-firms-leave-china-amid-decoupling",
+          "description": "Article URL: https://www.semafor.com/article/08/18/2026/us-tech-firms-leave-china-amid-decoupling Comments URL: https://news.ycombinator.com/item?id=49346732 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 18 Aug 2026 15:06:10 +0000"
+        },
+        {
+          "id": "d5309948c40d",
+          "title": "US advisory body says China's data dominance gives it AI advantage",
+          "link": "https://www.reuters.com/world/china/us-advisory-body-says-chinas-data-dominance-gives-it-ai-advantage-2026-08-18/",
+          "description": "Article URL: https://www.reuters.com/world/china/us-advisory-body-says-chinas-data-dominance-gives-it-ai-advantage-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49345869 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 18 Aug 2026 14:08:29 +0000"
+        },
+        {
+          "id": "53ef7bbea9cc",
+          "title": "So Far This Year, China Has Wasted Enough Clean Energy to Power Mexico",
+          "link": "https://e360.yale.edu/digest/china-renewable-curtailments",
+          "description": "Article URL: https://e360.yale.edu/digest/china-renewable-curtailments Comments URL: https://news.ycombinator.com/item?id=49345844 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 18 Aug 2026 14:06:51 +0000"
+        },
+        {
+          "id": "66bdf347067d",
+          "title": "China Hunts for Scientific Talent. The U.S. Is Making It Easier",
+          "link": "https://www.nytimes.com/2026/08/17/business/china-scientific-talent-competition.html",
+          "description": "Article URL: https://www.nytimes.com/2026/08/17/business/china-scientific-talent-competition.html Comments URL: https://news.ycombinator.com/item?id=49341282 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 18 Aug 2026 04:32:47 +0000"
+        },
+        {
+          "id": "bfd1e1de0794",
+          "title": "Niu Lai – a two-person animated film becomes an unlikely hit in China [video]",
+          "link": "https://www.youtube.com/watch?v=5XdeI0cOWSs",
+          "description": "Article URL: https://www.youtube.com/watch?v=5XdeI0cOWSs Comments URL: https://news.ycombinator.com/item?id=49341042 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 18 Aug 2026 03:49:26 +0000"
+        },
+        {
+          "id": "e0accdd1e9bd",
+          "title": "USS Benfold Stalled and Lost Power in the South China Sea for Four Days",
+          "link": "https://news.usni.org/2026/08/14/uss-benfold-was-stalled-in-the-south-china-sea-for-four-days-after-engineering-casualty",
+          "description": "Article URL: https://news.usni.org/2026/08/14/uss-benfold-was-stalled-in-the-south-china-sea-for-four-days-after-engineering-casualty Comments URL: https://news.ycombinator.com/item?id=49340843 Points: 8 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 18 Aug 2026 03:21:21 +0000"
+        },
+        {
+          "id": "f438fb365e66",
+          "title": "Google plans to stop making Pixel products in China in 2027",
+          "link": "https://asia.nikkei.com/spotlight/supply-chain/exclusive-google-plans-to-stop-making-pixel-products-in-china-in-2027",
+          "description": "Article URL: https://asia.nikkei.com/spotlight/supply-chain/exclusive-google-plans-to-stop-making-pixel-products-in-china-in-2027 Comments URL: https://news.ycombinator.com/item?id=49340654 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 18 Aug 2026 02:51:49 +0000"
+        },
+        {
+          "id": "dd14c91e7388",
+          "title": "Penny Pritzker Warns China's Rise in Research Rankings Is 'Not Good' for U.S.",
+          "link": "https://www.thecrimson.com/article/2026/8/10/pritzker-china-research-rankings/",
+          "description": "Article URL: https://www.thecrimson.com/article/2026/8/10/pritzker-china-research-rankings/ Comments URL: https://news.ycombinator.com/item?id=49338241 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 17 Aug 2026 21:55:58 +0000"
+        },
+        {
+          "id": "0c091c006207",
+          "title": "Movie that went viral for terrible animation becomes China box office hit",
+          "link": "https://www.bbc.com/news/articles/c4g4r0mrmlpo",
+          "description": "Article URL: https://www.bbc.com/news/articles/c4g4r0mrmlpo Comments URL: https://news.ycombinator.com/item?id=49336937 Points: 7 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 17 Aug 2026 20:14:57 +0000"
+        },
+        {
+          "id": "88b038d2c3f2",
+          "title": "China Wants to Shape What the A.I. Knows",
+          "link": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
+          "description": "Article URL: https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html Comments URL: https://news.ycombinator.com/item?id=49328934 Points: 7 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 17 Aug 2026 10:48:21 +0000"
+        },
+        {
+          "id": "ece1eab0505d",
+          "title": "China Is Opening the First Regular Cargo Route Through the Arctic",
+          "link": "https://www.wsj.com/world/china-is-opening-the-first-regular-cargo-route-through-the-arctic-445245bc",
+          "description": "Article URL: https://www.wsj.com/world/china-is-opening-the-first-regular-cargo-route-through-the-arctic-445245bc Comments URL: https://news.ycombinator.com/item?id=49320259 Points: 5 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 16 Aug 2026 14:10:28 +0000"
+        },
+        {
+          "id": "7878ae4d69e0",
+          "title": "China's $13K Tiny EV Hit 1k Orders in Japan in Just Two Weeks",
+          "link": "https://www.autoblog.com/news/chinas-13k-tiny-ev-hit-1000-orders-in-japan-in-just-two-weeks",
+          "description": "Article URL: https://www.autoblog.com/news/chinas-13k-tiny-ev-hit-1000-orders-in-japan-in-just-two-weeks Comments URL: https://news.ycombinator.com/item?id=49317086 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 16 Aug 2026 05:08:09 +0000"
+        },
+        {
+          "id": "9bd5405dc4c0",
+          "title": "Ask HN: Why don't we see ARM laptops from China?",
+          "link": "https://news.ycombinator.com/item?id=49312263",
+          "description": "Just wondering: how comes we haven't seen a flood of ARM laptops on shops like Aliexpress? Comments URL: https://news.ycombinator.com/item?id=49312263 Points: 5 # Comments: 4",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 15 Aug 2026 17:04:46 +0000"
+        },
+        {
+          "id": "d54ca097fe18",
+          "title": "US to tell partners they must pick sides in AI race with China",
+          "link": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+          "description": "Article URL: https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49311888 Points: 25 # Comments: 8",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 15 Aug 2026 16:25:14 +0000"
+        },
+        {
+          "id": "eb0fbcd11cb2",
+          "title": "China is shaping the future of open‑source technology – including AI",
+          "link": "https://theconversation.com/china-is-shaping-the-future-of-open-source-technology-including-ai-288061",
+          "description": "Article URL: https://theconversation.com/china-is-shaping-the-future-of-open-source-technology-including-ai-288061 Comments URL: https://news.ycombinator.com/item?id=49311121 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 15 Aug 2026 14:56:31 +0000"
+        },
+        {
+          "id": "878883d7d128",
+          "title": "U.S. to tell partners they must pick sides in AI race with China",
+          "link": "https://www.japantimes.co.jp/business/2026/08/15/tech/us-ai-coalition-china-warning/",
+          "description": "Article URL: https://www.japantimes.co.jp/business/2026/08/15/tech/us-ai-coalition-china-warning/ Comments URL: https://news.ycombinator.com/item?id=49310765 Points: 6 # Comments: 6",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 15 Aug 2026 14:14:03 +0000"
+        },
+        {
+          "id": "9f5436754f4e",
+          "title": "The Next Global Economic Crisis Could Be Made in China",
+          "link": "https://www.foreignaffairs.com/china/next-global-economic-crisis-made-china-michael-froman",
+          "description": "Article URL: https://www.foreignaffairs.com/china/next-global-economic-crisis-made-china-michael-froman Comments URL: https://news.ycombinator.com/item?id=49310486 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 15 Aug 2026 13:43:02 +0000"
+        },
+        {
+          "id": "a2de7e2d82e0",
+          "title": "Microsoft Walks Away from China",
+          "link": "https://247wallst.com/investing/2026/08/14/microsoft-walks-away-from-china/",
+          "description": "Article URL: https://247wallst.com/investing/2026/08/14/microsoft-walks-away-from-china/ Comments URL: https://news.ycombinator.com/item?id=49308216 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 15 Aug 2026 06:28:25 +0000"
+        },
+        {
+          "id": "df2750fd9e88",
+          "title": "There Aren't Enough Ships to Handle China's Booming Car Exports",
+          "link": "https://www.wsj.com/business/logistics/there-arent-enough-ships-to-handle-chinas-booming-car-exports-d2b66787",
+          "description": "Article URL: https://www.wsj.com/business/logistics/there-arent-enough-ships-to-handle-chinas-booming-car-exports-d2b66787 Comments URL: https://news.ycombinator.com/item?id=49303487 Points: 7 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 14 Aug 2026 19:27:08 +0000"
+        },
+        {
+          "id": "8f5c187ffd0b",
+          "title": "Apple trains its own AI model for China market with Alibaba's support, sources",
+          "link": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+          "description": "Article URL: https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49302098 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 14 Aug 2026 17:43:35 +0000"
+        },
+        {
+          "id": "40f7f4da4b1f",
+          "title": "Apple trained its own AI model for China with help from Alibaba",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+          "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba Comments URL: https://news.ycombinator.com/item?id=49299463 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 14 Aug 2026 14:49:43 +0000"
+        }
+      ],
+      "summary": "今日新闻联播动态摘要\n\n1. **科技与科研新进展**：中国科研人员以食虫植物为对象，为达尔文150年前的理论提供了新支持；同时，中国正积极建设“蓝色粮仓”，推动海洋食物资源开发。\n2. **数字主权与信息安全**：中国在部分国家机关用户中推进移除微软Windows系统，以加强自主可控和网络安全；美方咨询机构承认中国在数据规模上拥有AI发展优势。\n3. **中美科技竞争与博弈**：美国要求盟友在AI领域“选边站”，并对中国科研排名上升发出警告；同时，美国海军驱逐舰在南中国海发生动力故障，凸显区域军事存在的脆弱性。\n4. **清洁能源与产业转型**：今年中国清洁能源浪费量相当于墨西哥全国用电量，显示新能源消纳与储能挑战；谷歌计划2027年将Pixel产品移出中国制造，反映供应链调整趋势。\n5. **文化现象与创新活力**：一部仅两人制作的动画电影《牛来》意外走红，成为国内票房黑马，展现中国观众对原创与小成本作品的包容与兴趣。\n\n**总结**：今日最值得关注的是中国在科技自主、海洋资源开发与数字安全上的坚定步伐，同时中美在AI、科研与供应链上的竞争持续升温，而国内文化市场涌现的意外爆款则体现了民间创意与观众审美的多元活力。",
+      "count": 27
     }
   }
 }
