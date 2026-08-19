@@ -1,9 +1,171 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T14:34:35.371416",
+  "generated_at": "2026-08-19T22:29:09.536626",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "5b8807c478bf",
+          "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+          "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+          "description": "The next-generation robotaxi called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 22:25:01 +0000"
+        },
+        {
+          "id": "95178f4edc20",
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 22:10:46 +0000"
+        },
+        {
+          "id": "e8a2b02fb9ce",
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "description": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 21:51:23 +0000"
+        },
+        {
+          "id": "dcc63f7fb190",
+          "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+          "link": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+          "description": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 21:48:24 +0000"
+        },
+        {
+          "id": "46d5c9134b07",
+          "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+          "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+          "description": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 20:12:33 +0000"
+        },
+        {
+          "id": "0af0e0a75426",
+          "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
+          "link": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
+          "description": "The actress' firm Kinship Ventures is an investor in the company.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 20:04:12 +0000"
+        },
+        {
+          "id": "2e36aa7bfee9",
+          "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
+          "link": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
+          "description": "Have we tried turning off society and turning it back on again?",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 20:01:02 +0000"
+        },
+        {
+          "id": "47fa8f9f0ad4",
+          "title": "AI was supposed to win people over by now — it hasn’t",
+          "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+          "description": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 19:11:40 +0000"
+        },
+        {
+          "id": "9b2656e736f5",
+          "title": "Google packs Search and Gemini with new AI study tools",
+          "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+          "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 19:00:00 +0000"
+        },
+        {
+          "id": "4d9ad2033a0f",
+          "title": "Researchers say OpenAI revoked their access to limited cyber program",
+          "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+          "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 18:46:14 +0000"
+        },
+        {
+          "id": "893e301c20f4",
+          "title": "Meet the startup helping Wall Street put a price on AI compute",
+          "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+          "description": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 17:26:48 +0000"
+        },
+        {
+          "id": "a254dd3c277c",
+          "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
+          "link": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+          "description": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 17:26:32 +0000"
+        },
+        {
+          "id": "22dbeec9fe1d",
+          "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
+          "link": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+          "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 16:16:18 +0000"
+        },
+        {
+          "id": "498164d485d9",
+          "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+          "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+          "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 15:44:53 +0000"
+        },
+        {
+          "id": "631708792c48",
+          "title": "Rivian spinout Also raises another $150M",
+          "link": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
+          "description": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 15:39:47 +0000"
+        },
+        {
+          "id": "8efb75bb4cd4",
+          "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
+          "link": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+          "description": "The investment comes amid Navi plans to go public.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 15:01:41 +0000"
+        },
+        {
+          "id": "938da990c977",
+          "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+          "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+          "description": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 15:00:00 +0000"
+        },
+        {
+          "id": "0cabc669ca5e",
+          "title": "Amazon’s Prime Air is taking off in nearly 500 US cities",
+          "link": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
+          "description": "Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 19 Aug 2026 14:57:58 +0000"
+        },
         {
           "id": "f47354f2bb8d",
           "title": "Calendly throws its hat into meeting note-taker circus",
@@ -23,166 +185,94 @@
           "pub_date": "Wed, 19 Aug 2026 14:02:00 +0000"
         },
         {
-          "id": "c467bdb2f9ab",
-          "title": "Home batteries are suddenly cheap and everywhere. Here’s why.",
-          "link": "https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/",
-          "description": "Companies including Tesla and Base Power are vying for a piece of the rapidly growing market for home batteries. One technology has made it all possible.",
-          "source": "TechCrunch",
+          "id": "5f17d59af0d6",
+          "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
+          "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+          "description": "Framework says it's replacing some out-of-warranty AMD mainboards.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 19 Aug 2026 13:40:00 +0000"
+          "pub_date": "Wed, 19 Aug 2026 20:21:59 +0000"
         },
         {
-          "id": "ee515ec5ad1b",
-          "title": "CareCloud confirms 3.7M patients had their medical records stolen in data breach",
-          "link": "https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/",
-          "description": "The cyberattack at CareCloud resulted in one of the largest reported data breaches in the U.S. healthcare industry this year.",
-          "source": "TechCrunch",
+          "id": "95cc647a4a8a",
+          "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+          "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+          "description": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 19 Aug 2026 13:04:10 +0000"
+          "pub_date": "Wed, 19 Aug 2026 20:04:41 +0000"
         },
         {
-          "id": "9200d39b22e8",
-          "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-          "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-          "description": "It's the data, stupid.",
-          "source": "TechCrunch",
+          "id": "1c81f1fac5c7",
+          "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
+          "link": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
+          "description": "FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 19 Aug 2026 12:00:00 +0000"
+          "pub_date": "Wed, 19 Aug 2026 19:45:19 +0000"
         },
         {
-          "id": "38c57930b566",
-          "title": "You can Venmo your college tuition, for some reason",
-          "link": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
-          "description": "Kids these days don't know how good they have it.",
-          "source": "TechCrunch",
+          "id": "1561e0ec4783",
+          "title": "The floodgates are open after another Chinese company lands a reusable rocket",
+          "link": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
+          "description": "\"We will put the booster back into service for another flight as soon as possible.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 19 Aug 2026 12:00:00 +0000"
+          "pub_date": "Wed, 19 Aug 2026 18:41:02 +0000"
         },
         {
-          "id": "68af9a38a989",
-          "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-          "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-          "description": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-          "source": "TechCrunch",
+          "id": "8f9c2f5d61b9",
+          "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
+          "link": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
+          "description": "\"I will tear apart this forest and bring back what it took from me.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 19 Aug 2026 10:00:00 +0000"
+          "pub_date": "Wed, 19 Aug 2026 17:06:06 +0000"
         },
         {
-          "id": "ac99ec9813f1",
-          "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-          "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-          "description": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-          "source": "TechCrunch",
+          "id": "b6895c6d9ff9",
+          "title": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
+          "link": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
+          "description": "The vaccine reportedly thwarted the cancer's return and spread.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 22:14:25 +0000"
+          "pub_date": "Wed, 19 Aug 2026 16:53:56 +0000"
         },
         {
-          "id": "86b0f9e198c6",
-          "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
-          "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
-          "description": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
-          "source": "TechCrunch",
+          "id": "9ea547076022",
+          "title": "Google Pixel 11 series review: Is the magic fading?",
+          "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+          "description": "Google's new Pixels make some compromises but still manage to be good phones.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 20:36:20 +0000"
+          "pub_date": "Wed, 19 Aug 2026 16:11:30 +0000"
         },
         {
-          "id": "46837b649570",
-          "title": "TikTok explores peer-to-peer payments via DMs, report says",
-          "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-          "description": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
-          "source": "TechCrunch",
+          "id": "a6e8639a5816",
+          "title": "Scientists find closest star to the Milky Way's central black hole",
+          "link": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
+          "description": "Star, moving at 8% the speed of light, may let us measure the black hole's rotation.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 20:03:56 +0000"
+          "pub_date": "Wed, 19 Aug 2026 15:56:56 +0000"
         },
         {
-          "id": "a79f665773c3",
-          "title": "OpenAI institutes new safeguards after Hugging Face breach",
-          "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-          "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-          "source": "TechCrunch",
+          "id": "a401f578a645",
+          "title": "Meta ran ads for an app promising to nudify female politicians",
+          "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+          "description": "One ad featured a pornographic video with deepfake closely resembling a US politician.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 18:00:00 +0000"
+          "pub_date": "Wed, 19 Aug 2026 15:45:29 +0000"
         },
         {
-          "id": "16e143dd9e01",
-          "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-          "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-          "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-          "source": "TechCrunch",
+          "id": "38a8f379aac9",
+          "title": "Trump expected to pick conservative policy wonk Heidi Overton to lead FDA",
+          "link": "https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/",
+          "description": "She opposes abortion, is wary of peptides, supports limiting vaccines, vexes MAHA.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 17:31:01 +0000"
-        },
-        {
-          "id": "8a308ade3ece",
-          "title": "Etched’s valuation doubles to $21B in a month",
-          "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-          "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 17:21:58 +0000"
-        },
-        {
-          "id": "748a119e2497",
-          "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-          "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-          "description": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 17:12:13 +0000"
-        },
-        {
-          "id": "1ee3de2d5b23",
-          "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
-          "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-          "description": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 16:39:05 +0000"
-        },
-        {
-          "id": "5cb077d795b3",
-          "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-          "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-          "description": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 16:19:10 +0000"
-        },
-        {
-          "id": "b4e2a9ecdb93",
-          "title": "Bluesky says its recent outage was caused by another DDoS attack",
-          "link": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
-          "description": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 15:59:48 +0000"
-        },
-        {
-          "id": "229affcb0add",
-          "title": "Peacock is raising prices across all of its streaming plans",
-          "link": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
-          "description": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres,\" the company wrote on a support page.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 15:26:31 +0000"
-        },
-        {
-          "id": "d0788ad33b83",
-          "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-          "link": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
-          "description": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 14:00:00 +0000"
-        },
-        {
-          "id": "8978cfb86e82",
-          "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-          "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-          "description": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 14:00:00 +0000"
+          "pub_date": "Wed, 19 Aug 2026 13:54:36 +0000"
         },
         {
           "id": "d091fca13226",
@@ -273,99 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Tue, 18 Aug 2026 15:00:51 +0000"
-        },
-        {
-          "id": "12cc8b741b45",
-          "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-          "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-          "description": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 13:00:04 +0000"
-        },
-        {
-          "id": "a4403740f314",
-          "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
-          "link": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
-          "description": "Research shows heat amplifies the dangers of pesticides.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 11:07:49 +0000"
-        },
-        {
-          "id": "3e37447c92a8",
-          "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
-          "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
-          "description": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 18 Aug 2026 04:00:40 +0000"
-        },
-        {
-          "id": "d0081149e54d",
-          "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
-          "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
-          "description": "Again, the CDC did not publish a full report and instead simply put the data online.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 22:08:47 +0000"
-        },
-        {
-          "id": "b673e042ce44",
-          "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-          "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-          "description": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 21:18:49 +0000"
-        },
-        {
-          "id": "8e9b9beb862f",
-          "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
-          "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
-          "description": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 20:23:09 +0000"
-        },
-        {
-          "id": "a1ae3ad3f42e",
-          "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-          "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-          "description": "\"Network effect\" can run in reverse.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 20:14:23 +0000"
-        },
-        {
-          "id": "d6c54d790f5b",
-          "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-          "link": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-          "description": "Despite loss, carriers still claim selling device-location data isn't illegal.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 20:00:20 +0000"
-        },
-        {
-          "id": "f10889a85926",
-          "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
-          "link": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
-          "description": "Petlibro says feeders perform scheduled feedings offline. Users report otherwise.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 18:43:51 +0000"
-        },
-        {
-          "id": "b4999a9ba96c",
-          "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-          "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-          "description": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 17 Aug 2026 18:13:47 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI与医疗健康**：AI尚未能治愈癌症，但一家初创公司声称已明确实现这一目标所需的关键路径；同时，CareCloud确认370万患者医疗记录在数据泄露中被窃取，凸显医疗数据安全紧迫性。\n\n2. **AI安全与平台竞争**：OpenAI在Hugging Face遭入侵后增设新安全措施；Cursor借GitHub用户不满情绪，推出竞争性托管平台；TikTok正探索通过私信实现点对点支付功能。\n\n3. **融资与市场动态**：Relativity Networks获2200万美元融资，用于研发更高速数据中心光纤；Etched估值一个月内翻倍至210亿美元；苹果全面调整欧盟App Store费用，并放宽对替代应用商店的限制。\n\n4. **能源与消费科技**：家用电池价格骤降并迅速普及，成为能源转型新趋势；Comcast在新款路由器中新增动作感应功能，但附带隐私争议；Venmo现支持大学学费支付，引发对支付场景扩展的讨论。\n\n5. **行业会议与监管动向**：TechCrunch Disrupt 2026将于8月21日前提供最高300美元门票折扣，并设有创始人技能分享环节；美国司法部对Andreessen Horowitz董事会席位展开调查，令风投界困惑。\n\n**今日最值得关注的发展**：AI安全（OpenAI加固防线）与医疗数据泄露（CareCloud事件）形成鲜明对比，凸显AI应用与隐私保护的平衡仍是科技行业核心挑战；而家用电池的普及与苹果欧盟政策调整，则标志着能源与平台经济格局正在加速重塑。",
+      "summary": "今日科技动态摘要\n\n1. **Waymo推出更便宜的下一代无人驾驶出租车**，现已向三座城市的全体乘客开放，标志着其商业化运营进一步扩展。\n2. **OpenAI推出新的客户隐私保护措施**，意在竞争中对标Anthropic，提升企业用户的数据安全保障。\n3. **Cognition CEO否认SpaceX试图收购该初创公司**，澄清了近期市场传闻；同时，Uber创始人Travis Kalanick再次抨击风投行业，称“仅1%的风投有用”。\n4. **AI初创公司Rillet完成1亿美元C轮融资**，估值达10亿美元，距其隐身亮相仅两年；Rivian分拆公司Also再获1.5亿美元融资。\n5. **Google为搜索和Gemini新增AI学习工具**，强化教育场景；另有研究称OpenAI撤销了部分研究人员对有限网络安全项目的访问权限，引发关注。\n\n今日最值得关注的趋势是：AI商业化加速（Waymo扩张、OpenAI隐私竞争、AI算力定价创业公司获资本青睐），同时围绕AI安全、风投价值及科技领袖争议的讨论持续升温。",
       "count": 40
     },
     "ai": {
@@ -434,13 +434,13 @@
           "pub_date": "Thu, 13 Aug 2026 00:00:00 GMT"
         },
         {
-          "id": "1c2861165129",
-          "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-          "description": "",
-          "source": "Hugging Face",
+          "id": "e9ee47a83b67",
+          "title": "5 new ways to level up your learning with Search",
+          "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+          "description": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+          "source": "Google AI Blog",
           "category": "ai",
-          "pub_date": "Wed, 12 Aug 2026 16:14:36 GMT"
+          "pub_date": "Wed, 19 Aug 2026 19:00:00 +0000"
         },
         {
           "id": "9e1c757e2ef5",
@@ -459,6 +459,15 @@
           "source": "Google AI Blog",
           "category": "ai",
           "pub_date": "Thu, 13 Aug 2026 16:45:00 +0000"
+        },
+        {
+          "id": "3ab2a6fa108c",
+          "title": "Offering Zero Data Retention for frontier models",
+          "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 19 Aug 2026 19:00:00 GMT"
         },
         {
           "id": "19b6649c9024",
@@ -630,27 +639,36 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Wed, 19 Aug 2026 08:34:36 +0000"
-        },
-        {
-          "id": "97d7a67c681f",
-          "title": "MiniMax核心工程负责人阿岛离职",
-          "link": "https://www.qbitai.com/2026/08/475869.html",
-          "description": "从技术研发到开发者沟通，长期活跃在开发者一线",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Wed, 19 Aug 2026 08:23:05 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **开源模型与量化技术进展**：Hugging Face发布LFM2.5 Q4_0量化检查点，通过量化感知蒸馏提升效率；同时发布夏季开源模型观察报告，总结2026年开源生态最新趋势。\n\n2. **AI代理与记忆管理研究**：探讨AI代理实际所需内存规模，并提出多向量（晚期交互）嵌入模型在Sentence Transformers中的应用，优化检索与匹配性能。\n\n3. **训练与部署一体化工具链**：Strands Agents、LeRobot与Hugging Face Storage Buckets集成，实现从记录、训练到部署的闭环流程；OlmoEarth推出自定义嵌入导出功能，支持下游分析。\n\n4. **AI在创意与办公场景的落地**：Google Gemini与Pixel结合增强游戏互动体验；Sheets canvas将电子表格数据可视化，提升办公效率。\n\n5. **AI产业合作与安全治理**：OpenAI扩展ChatGPT Ads至欧洲，与CodeAI合作培养新一代AI人才，并强调在网络安全关键能力时代加强民主监督与模型开发节奏管理。\n\n**今日最值得关注**：开源模型量化与代理记忆优化并进，同时OpenAI在商业化扩张与安全治理上双线发力，显示AI行业正从技术突破转向规模化落地与责任平衡。",
+      "summary": "今日AI动态摘要\n\n1. **开源模型与量化技术进展**：Hugging Face发布LFM2.5 Q4_0量化检查点（基于量化感知蒸馏），并总结2026年夏季开源模型生态观察，同时通过复现ICML 2200篇论文分享经验，凸显开源社区在效率与复现性上的持续投入。\n\n2. **AI代理与嵌入模型优化**：探讨AI代理内存需求的实际评估方法，推出基于多向量（晚期交互）的嵌入模型（配合Sentence Transformers），并通过“同集群利用率提升33%（仅改变排序）”案例，强调系统调优对性能的关键影响。\n\n3. **一体化开发与部署工具链**：Strands Agents、LeRobot与Hugging Face Storage Buckets整合，实现从记录、训练到部署的单一平台流程，降低机器人学习与智能体开发门槛。\n\n4. **Google AI产品功能升级**：搜索新增5种学习辅助方式；Gemini与Pixel结合强化体育赛事互动体验；Sheets画布功能让电子表格数据可视化更直观。\n\n5. **OpenAI商业化与安全布局**：为前沿模型提供“零数据保留”选项；通过Replit（GPT-5.6 Luna）扩大软件创作入口；ChatGPT广告扩展至欧洲；同时强调国家安全中的民主监督，并与CodeAI合作培养“第一代AI原生人才”。\n\n**今日最值得关注的发展**：Hugging Face在开源模型量化、嵌入优化及一体化工具链上的密集发布，标志着开源AI在实用性与系统效率上进入精细化阶段。",
       "count": 30
     },
     "cctv": {
       "articles": [
         {
+          "id": "c0ee6d2da0d1",
+          "title": "China Saved the Global Oil Market",
+          "link": "https://www.commoditycontext.com/p/public-how-china-saved-the-global-oil-market",
+          "description": "Article URL: https://www.commoditycontext.com/p/public-how-china-saved-the-global-oil-market Comments URL: https://news.ycombinator.com/item?id=49367924 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 19 Aug 2026 22:19:49 +0000"
+        },
+        {
+          "id": "1d6de82bd510",
+          "title": "China mission aims for the Moon's hidden water with 'hopping' probe",
+          "link": "https://www.science.org/content/article/china-mission-aims-moon-s-hidden-water-hopping-probe",
+          "description": "Article URL: https://www.science.org/content/article/china-mission-aims-moon-s-hidden-water-hopping-probe Comments URL: https://news.ycombinator.com/item?id=49362339 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 19 Aug 2026 14:43:38 +0000"
+        },
+        {
           "id": "2298196c9cfc",
           "title": "US Military funding propelled China's robot dogs",
           "link": "https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/",
-          "description": "Article URL: https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49358719 Points: 5 # Comments: 0",
+          "description": "Article URL: https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49358719 Points: 7 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 19 Aug 2026 08:34:09 +0000"
@@ -659,7 +677,7 @@
           "id": "c24787f9e2b9",
           "title": "Harvard, MIT among 30 US universities ordered to audit China research ties",
           "link": "https://www.scmp.com/news/us/diplomacy/article/3364485/harvard-mit-among-30-us-universities-ordered-audit-china-research-ties",
-          "description": "Article URL: https://www.scmp.com/news/us/diplomacy/article/3364485/harvard-mit-among-30-us-universities-ordered-audit-china-research-ties Comments URL: https://news.ycombinator.com/item?id=49358206 Points: 4 # Comments: 0",
+          "description": "Article URL: https://www.scmp.com/news/us/diplomacy/article/3364485/harvard-mit-among-30-us-universities-ordered-audit-china-research-ties Comments URL: https://news.ycombinator.com/item?id=49358206 Points: 6 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 19 Aug 2026 07:34:44 +0000"
@@ -888,19 +906,10 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 15 Aug 2026 13:43:02 +0000"
-        },
-        {
-          "id": "a2de7e2d82e0",
-          "title": "Microsoft Walks Away from China",
-          "link": "https://247wallst.com/investing/2026/08/14/microsoft-walks-away-from-china/",
-          "description": "Article URL: https://247wallst.com/investing/2026/08/14/microsoft-walks-away-from-china/ Comments URL: https://news.ycombinator.com/item?id=49308216 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 15 Aug 2026 06:28:25 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **科技自主与安全**：中国加速推进科技与信息安全自主化，要求政府机构卸载Windows系统，并计划在2025年前全面替换外国软件；同时，美国多所顶尖大学被要求审计与中国的研究合作，凸显中美科技脱钩加剧。\n\n2. **航天与军事进展**：中国民营航天公司蓝箭航天成功完成不锈钢火箭回收试验，超越SpaceX同类技术；美海军驱逐舰在南海发生长达4天的动力故障，暴露美军在印太地区的装备可靠性问题。\n\n3. **新能源利用挑战**：中国今年清洁能源弃电量已足够为墨西哥供电，反映可再生能源并网与储能瓶颈仍待突破，能源转型进入深水区。\n\n4. **人才竞争与AI博弈**：美国咨询机构承认中国数据规模优势为其AI发展提供助力，同时美国正通过限制签证等方式迫使盟友在AI竞赛中“选边站”，而中国则加大全球科研人才引进力度。\n\n5. **文化现象与农业创新**：中国两人民间动画《牛来》意外走红，展现本土创意内容生命力；科研人员以中国食虫植物佐证达尔文进化论，并推进“蓝色粮仓”海洋农业计划，拓展粮食安全新路径。\n\n**今日最值得关注**：中国在科技自主、航天回收、能源消纳、人才争夺和农业创新上同步发力，而美国在AI规则与科技脱钩上的施压，使中美技术竞争进入“全面对垒”阶段。",
-      "count": 28
+      "summary": "今日新闻联播动态摘要\n\n1. **中国在能源与科技领域展现全球影响力**：中国成功拯救全球石油市场，并推进月球“跳跃式”探测器任务以探索月球隐藏水资源；同时，中国民营航天企业蓝箭航天实现不锈钢火箭回收，超越SpaceX同类技术。\n\n2. **中美科技与安全博弈加剧**：美国要求哈佛、MIT等30所大学审计与中国的研究合作，并施压盟友在AI竞赛中“选边站”；中国则下令国家机构卸载Windows系统，进一步减少对美技术依赖，同时美国海军驱逐舰在南中国海发生持续4天的断电事故。\n\n3. **中国军事与产业自主化进程提速**：美媒报道称美国军费间接推动了中国机器狗技术发展，而中国在清洁能源领域虽存在浪费现象（弃风弃光量足以供墨西哥全国用电），但仍在推进“蓝色粮仓”建设，以增强粮食安全。\n\n4. **经济与产业调整持续深化**：中国房地产问题引发关注，但官方未现系统性风险；谷歌宣布2027年前将Pixel产品撤出中国制造，而美国咨询机构承认中国数据优势为其AI发展提供竞争力。\n\n5. **科学突破与全球治理角色凸显**：中国科学家以食肉植物研究支持达尔文进化论，同时中国在能源、航天和AI领域的技术自主性正成为全球格局重塑的关键变量。\n\n**总结**：今日最值得关注的是中国在航天、AI和能源领域的自主突破与美国对华科技围堵的同步升级，显示中美竞争已从贸易延伸至技术标准与全球资源分配的核心层面。",
+      "count": 29
     }
   }
 }
