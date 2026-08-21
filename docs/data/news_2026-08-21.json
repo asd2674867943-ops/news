@@ -1,9 +1,108 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T14:36:08.449268",
+  "generated_at": "2026-08-21T22:29:30.294930",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "110e48284633",
+          "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours",
+          "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+          "description": "Rillet CEO Nicholas Koop shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 21 Aug 2026 22:10:01 +0000"
+        },
+        {
+          "id": "badd2471be03",
+          "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+          "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+          "description": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 21 Aug 2026 20:58:07 +0000"
+        },
+        {
+          "id": "60f027619a75",
+          "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+          "link": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+          "description": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 21 Aug 2026 20:25:21 +0000"
+        },
+        {
+          "id": "fdc85c64790d",
+          "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
+          "link": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
+          "description": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 21 Aug 2026 19:57:46 +0000"
+        },
+        {
+          "id": "ee8bcee482aa",
+          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+          "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 21 Aug 2026 19:43:39 +0000"
+        },
+        {
+          "id": "61ae803b1404",
+          "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+          "link": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
+          "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 21 Aug 2026 19:16:15 +0000"
+        },
+        {
+          "id": "465e8eb58f4e",
+          "title": "Tesla’s solar roof is dead — here’s what went wrong",
+          "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+          "description": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 21 Aug 2026 18:09:53 +0000"
+        },
+        {
+          "id": "2216f4806e81",
+          "title": "Waymo hands over documents in NHTSA’s child collision probe",
+          "link": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
+          "description": "The responses to NHTSA's questions so far are redacted entirely, citing \"confidential business information.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 21 Aug 2026 17:49:58 +0000"
+        },
+        {
+          "id": "341dd5936e20",
+          "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+          "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
+          "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 21 Aug 2026 16:53:39 +0000"
+        },
+        {
+          "id": "102c2fb12a1c",
+          "title": "US government lab is probing Chinese lidar for security vulnerabilities",
+          "link": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
+          "description": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 21 Aug 2026 16:01:54 +0000"
+        },
+        {
+          "id": "fc7e5c9fd27c",
+          "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
+          "link": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
+          "description": "The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 21 Aug 2026 14:39:24 +0000"
+        },
         {
           "id": "e7f013fd3924",
           "title": "Walmart to finally start accepting Apple Pay and Google Pay",
@@ -86,103 +185,76 @@
           "pub_date": "Thu, 20 Aug 2026 22:36:37 +0000"
         },
         {
-          "id": "f1fccc5d5b45",
-          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-          "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-          "description": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-          "source": "TechCrunch",
+          "id": "40b148749401",
+          "title": "Thunder + fiber-optic cabling used for seismic imaging",
+          "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+          "description": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 22:09:51 +0000"
+          "pub_date": "Fri, 21 Aug 2026 20:26:46 +0000"
         },
         {
-          "id": "fca1529be058",
-          "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
-          "link": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
-          "description": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.",
-          "source": "TechCrunch",
+          "id": "b5a056f3a809",
+          "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+          "link": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+          "description": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 21:08:34 +0000"
+          "pub_date": "Fri, 21 Aug 2026 20:10:50 +0000"
         },
         {
-          "id": "34e0ccb72b2b",
-          "title": "OK, can we actually cool data centers with our pee?",
-          "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-          "description": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-          "source": "TechCrunch",
+          "id": "e2832ab8b63d",
+          "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+          "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+          "description": "The private Android-based OS will expand beyond Pixels next year.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 20:53:13 +0000"
+          "pub_date": "Fri, 21 Aug 2026 19:32:29 +0000"
         },
         {
-          "id": "2ab0b86073e7",
-          "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-          "link": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-          "description": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
-          "source": "TechCrunch",
+          "id": "ddfb92706402",
+          "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
+          "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
+          "description": "Logitech increased prices by up to 25 percent last year.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 20:00:00 +0000"
+          "pub_date": "Fri, 21 Aug 2026 19:04:41 +0000"
         },
         {
-          "id": "b5f00cb66a5f",
-          "title": "Mark buys a castle",
-          "link": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
-          "description": "Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland.",
-          "source": "TechCrunch",
+          "id": "a805c1ac1efd",
+          "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+          "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+          "description": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 19:55:40 +0000"
+          "pub_date": "Fri, 21 Aug 2026 18:07:15 +0000"
         },
         {
-          "id": "a6b50310b033",
-          "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-          "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-          "description": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-          "source": "TechCrunch",
+          "id": "e9132b8396bb",
+          "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+          "link": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+          "description": "Romania blew up drone boat to protect lives of several hundred rig workers.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 19:18:21 +0000"
+          "pub_date": "Fri, 21 Aug 2026 16:48:59 +0000"
         },
         {
-          "id": "fd5b5e9a27c7",
-          "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-          "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-          "description": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-          "source": "TechCrunch",
+          "id": "e2c84d683609",
+          "title": "Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say",
+          "link": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
+          "description": "Some Americans fear the FTC may be thinking about personalized pricing all wrong.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 19:15:05 +0000"
+          "pub_date": "Fri, 21 Aug 2026 16:38:25 +0000"
         },
         {
-          "id": "9f7f8d3737e9",
-          "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-          "link": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
-          "description": "Founded in 2022, Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than traditional defense primes.",
-          "source": "TechCrunch",
+          "id": "672845b7f2e5",
+          "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+          "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+          "description": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 19:01:41 +0000"
-        },
-        {
-          "id": "1784c6eccbb8",
-          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-          "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-          "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 18:20:35 +0000"
-        },
-        {
-          "id": "a5818bc3cb83",
-          "title": "Grok keeps sending gibberish responses to users",
-          "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-          "description": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 17:32:16 +0000"
-        },
-        {
-          "id": "86879fd4b651",
-          "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "link": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "description": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 17:27:47 +0000"
+          "pub_date": "Fri, 21 Aug 2026 13:11:35 +0000"
         },
         {
           "id": "8f7bd09b1a19",
@@ -291,81 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 19 Aug 2026 22:02:38 +0000"
-        },
-        {
-          "id": "5f17d59af0d6",
-          "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
-          "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
-          "description": "Framework says it's replacing some out-of-warranty AMD mainboards.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 19 Aug 2026 20:21:59 +0000"
-        },
-        {
-          "id": "95cc647a4a8a",
-          "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-          "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-          "description": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 19 Aug 2026 20:04:41 +0000"
-        },
-        {
-          "id": "1c81f1fac5c7",
-          "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
-          "link": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
-          "description": "FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 19 Aug 2026 19:45:19 +0000"
-        },
-        {
-          "id": "1561e0ec4783",
-          "title": "The floodgates are open after another Chinese company lands a reusable rocket",
-          "link": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
-          "description": "\"We will put the booster back into service for another flight as soon as possible.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 19 Aug 2026 18:41:02 +0000"
-        },
-        {
-          "id": "8f9c2f5d61b9",
-          "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
-          "link": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
-          "description": "\"I will tear apart this forest and bring back what it took from me.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 19 Aug 2026 17:06:06 +0000"
-        },
-        {
-          "id": "b6895c6d9ff9",
-          "title": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
-          "link": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
-          "description": "The vaccine reportedly thwarted the cancer's return and spread.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 19 Aug 2026 16:53:56 +0000"
-        },
-        {
-          "id": "9ea547076022",
-          "title": "Google Pixel 11 series review: Is the magic fading?",
-          "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-          "description": "Google's new Pixels make some compromises but still manage to be good phones.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 19 Aug 2026 16:11:30 +0000"
-        },
-        {
-          "id": "a6e8639a5816",
-          "title": "Scientists find closest star to the Milky Way's central black hole",
-          "link": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
-          "description": "Star, moving at 8% the speed of light, may let us measure the black hole's rotation.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 19 Aug 2026 15:56:56 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **支付与出行变革**：沃尔玛终于支持Apple Pay和Google Pay；特斯拉、Uber和Waymo获准在内华达州运营数千辆Robotaxi；特斯拉因隐藏式门把手问题在华召回300万辆车。\n2. **数据安全与隐私风险**：私募巨头Apollo确认遭黑客攻击，金融行业成攻击重点；有黑客以虚假加密货币会议为诱饵针对安全研究人员；美国参议员要求政府问责署审查联邦黑客工具使用情况。\n3. **AI与数据中心热潮**：AI数据初创公司Micro1实现5亿美元年化总收入；OpenAI在企业用户市场正缩小与Anthropic的差距；Starcloud融资2.5亿美元发展轨道数据中心，但发射资源紧张；行业探讨用尿液冷却数据中心的可行性。\n4. **AI应用与生态扩展**：ChatGPT新增Apple Messages插件，可直接代发短信；谷歌为出版商提供新工具应对AI驱动的流量下滑；Enhanced Games公司因“科技类固醇”项目亏损6000万美元。\n5. **投资与创业视角**：一位融资10亿美元的创始人分享风投真正看重什么；另有科技富豪“Mark买下一座城堡”的趣味花边。\n\n今日最值得关注的趋势是：支付、自动驾驶与AI应用加速落地，同时数据安全威胁和AI基础设施的高成本挑战也在同步升级。",
+      "summary": "今日科技动态摘要\n\n1. **AI会计初创公司Rillet**：在48小时内融资1亿美元，估值达10亿美元（独角兽），凸显AI财务自动化赛道热度。  \n2. **苹果裁员与产品调整**：据报将裁减Siri和Vision Pro团队数百个岗位，反映对AR/语音助手战略的收缩。  \n3. **TikTok隐私和解**：就儿童隐私诉讼达成4亿美元和解，为美国同类案件最大金额之一，强化平台数据合规压力。  \n4. **特斯拉双重麻烦**：太阳能屋顶项目被曝失败，同时因隐藏式门把手安全隐患在中国召回300万辆车，品牌与产品信任受挫。  \n5. **科技监管与安全**：美国司法部调查风投巨头Andreessen Horowitz的董事会席位；美国政府实验室审查中国激光雷达；Apollo私募股权公司遭数据泄露，显示金融科技安全风险加剧。\n\n**今日最值得关注**：AI资本热潮（Rillet）与科技巨头监管/安全危机（苹果、特斯拉、TikTok）并存，行业正加速分化——资本追逐AI应用，而传统硬件与平台面临合规与信任挑战。",
       "count": 40
     },
     "ai": {
@@ -560,6 +560,24 @@
           "pub_date": "Mon, 17 Aug 2026 03:15:00 GMT"
         },
         {
+          "id": "ed280f920034",
+          "title": "I benched frontier AI LLM models on politics, ethics, and personality traits",
+          "link": "https://www.blackbench.ai/",
+          "description": "Article URL: https://www.blackbench.ai/ Comments URL: https://news.ycombinator.com/item?id=49382540 Points: 3 # Comments: 2",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Fri, 21 Aug 2026 01:26:01 +0000"
+        },
+        {
+          "id": "1fd06cbae52e",
+          "title": "Debian has begun voting on the future of AI/LLM contributions",
+          "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+          "description": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 67 # Comments: 54",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Sat, 15 Aug 2026 09:20:07 +0000"
+        },
+        {
           "id": "008ef57b3946",
           "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
           "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
@@ -621,27 +639,9 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Fri, 21 Aug 2026 05:38:12 +0000"
-        },
-        {
-          "id": "7c41a97efa4f",
-          "title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
-          "link": "https://www.qbitai.com/2026/08/476525.html",
-          "description": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 21 Aug 2026 05:09:33 +0000"
-        },
-        {
-          "id": "549a5425a994",
-          "title": "Jeff Dean离职后首次公开访谈火力有点猛。。。",
-          "link": "https://www.qbitai.com/2026/08/476468.html",
-          "description": "离开谷歌的原因之一：小团队可以极致聚焦！",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 21 Aug 2026 04:05:11 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **模型性能与效率优化**：Hugging Face 发布多项技术进展，包括语音识别基准测试优化方法、LFM2.5-DSpark 实现最高 3.2 倍推理加速，以及通过调整数据顺序在同一集群下提升 33 点利用率，凸显软硬件协同调优的重要性。\n\n2. **智能体与嵌入模型创新**：Hugging Face 探讨 AI 智能体内存需求评估，并推出基于多向量（后期交互）的嵌入模型方案，强化语义检索与匹配能力，推动 RAG 与向量搜索技术升级。\n\n3. **OpenAI 产品与生态扩张**：OpenAI 发布“AI Futures”新项目，推出 GPT-5.6 Luna 并扩大 Replit 软件生成能力；ChatGPT Ads 扩展至欧洲市场；同时宣布前沿模型零数据保留政策，强化隐私安全承诺。\n\n4. **AI 治理与安全前瞻**：OpenAI 强调在网络安全关键能力时代放缓模型开发节奏，并与 CodeAI 合作培养“AI 原生代”，同时加强国家安全领域的民主监督机制，平衡创新与风险。\n\n5. **Google 与行业应用落地**：Google 推出 5 种基于搜索的新型学习方式，并通过 Gemini 与 Pixel 深度融合提升游戏互动体验；Stampli 借助 ChatGPT Work 将上线时间缩短 68%，展示企业级 AI 提效实例。\n\n**今日最值得关注**：OpenAI 在加速商业扩张（GPT-5.6 Luna、广告扩展）的同时，主动提出零数据保留与安全放缓策略，标志着前沿 AI 竞争进入“能力与责任并重”的新阶段。",
+      "summary": "今日AI动态摘要\n\n1. **推理性能与模型优化**：Hugging Face发布LFM2.5-DSpark，宣称推理速度最高提升3.2倍；另有研究指出，通过调整任务执行顺序（而非增加资源），可将集群利用率提升33%，凸显调度策略对算力效率的关键作用。\n\n2. **智能体与记忆管理**：Hugging Face探讨AI智能体实际所需内存规模，强调在复杂任务中平衡上下文窗口与长期记忆存储的策略，避免过度配置资源。\n\n3. **嵌入模型与检索技术**：Hugging Face推出基于“多向量（后期交互）”机制的嵌入模型，结合Sentence Transformers实现更精细的语义匹配，有望改善检索增强生成（RAG）的准确率。\n\n4. **AI产品与商业化扩展**：OpenAI与Google密集发布新动向——包括ChatGPT Ads扩展至欧洲、Stampli通过ChatGPT Work将上线时间缩短68%、Replit借助GPT-5.6 Luna扩大软件生成能力，以及Google利用Gemini与Pixel强化游戏场景体验。\n\n5. **安全、治理与教育**：OpenAI推出“AI Futures”计划，宣布对前沿模型提供零数据保留选项，并强调在网络安全关键能力时代需加强民主监督与模型开发节奏管控；同时与CodeAI合作培养“第一代AI人才”，Google则新增5种基于搜索的学习方式。\n\n**今日最值得关注的发展**：OpenAI在商业化（广告、企业工具）与安全治理（零数据保留、民主监督）上双线并进，标志着AI行业从单纯能力竞赛转向“能力+责任+可持续商业模式”的综合竞争阶段。",
       "count": 30
     },
     "cctv": {
