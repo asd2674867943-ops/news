@@ -1,9 +1,63 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-22T14:22:04.593070",
+  "generated_at": "2026-08-22T22:26:45.097094",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "bed15e60bd27",
+          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+          "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+          "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 22 Aug 2026 21:46:56 +0000"
+        },
+        {
+          "id": "76300c4e699f",
+          "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+          "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+          "description": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 22 Aug 2026 20:24:20 +0000"
+        },
+        {
+          "id": "37cf88ecafb4",
+          "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+          "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+          "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 22 Aug 2026 19:00:00 +0000"
+        },
+        {
+          "id": "63080b213530",
+          "title": "OpenAI says California should strengthen its AI safety bill",
+          "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+          "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 22 Aug 2026 16:30:34 +0000"
+        },
+        {
+          "id": "9d9e5d1549d3",
+          "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+          "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+          "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 22 Aug 2026 16:00:00 +0000"
+        },
+        {
+          "id": "4e5c816af565",
+          "title": "US battery startups have found a lifeline in defense",
+          "link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+          "description": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 22 Aug 2026 15:20:00 +0000"
+        },
         {
           "id": "9305eb710146",
           "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
@@ -129,60 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 21 Aug 2026 16:53:39 +0000"
-        },
-        {
-          "id": "102c2fb12a1c",
-          "title": "US government lab is probing Chinese lidar for security vulnerabilities",
-          "link": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
-          "description": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 21 Aug 2026 16:01:54 +0000"
-        },
-        {
-          "id": "fc7e5c9fd27c",
-          "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
-          "link": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
-          "description": "The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 21 Aug 2026 14:39:24 +0000"
-        },
-        {
-          "id": "e7f013fd3924",
-          "title": "Walmart to finally start accepting Apple Pay and Google Pay",
-          "link": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
-          "description": "Are pigs flying? Walmart has finally caved on its refusal to support Apple Pay and Google Pay.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 21 Aug 2026 14:30:23 +0000"
-        },
-        {
-          "id": "d643f46a86e5",
-          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-          "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-          "description": "There's about to be a big fight to secure access to space.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 21 Aug 2026 14:00:00 +0000"
-        },
-        {
-          "id": "ce07215e02b9",
-          "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
-          "link": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
-          "description": "Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual door releases.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 21 Aug 2026 13:48:26 +0000"
-        },
-        {
-          "id": "37468823fa1e",
-          "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
-          "link": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
-          "description": "The private equity giant confirms a breach, weeks after Google researchers said hackers were targeting financial companies.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 21 Aug 2026 13:35:23 +0000"
         },
         {
           "id": "05055d98d457",
@@ -365,7 +365,7 @@
           "pub_date": "Thu, 20 Aug 2026 13:29:54 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI与硬件创新**：Anthropic发布Opus 4.6模型，被指为“生成低俗内容机器”，引发对AI内容审核边界的争议；Nvidia强调其“算力框架”而非模型本身成为性能提升关键，同时与数据中心开发商Cloverleaf达成合作，深化AI基础设施布局。\n\n2. **企业融资与行业动态**：AI会计初创公司Rillet在48小时内完成1亿美元融资并成为独角兽；日本太空技术公司Letara获1600万美元，业务从卫星推进器扩展至更广领域；美国政府实验室正调查中国激光雷达的安全漏洞，凸显技术供应链审查趋严。\n\n3. **科技巨头调整与争议**：苹果据报将裁减Siri和Vision Pro团队数百个职位，反映AI战略重组；TikTok就儿童隐私诉讼达成4亿美元和解；特斯拉太阳能屋顶项目被曝失败，分析其技术、成本与市场策略问题。\n\n4. **产品与监管焦点**：Pebble Time 2智能手表以225美元价格获评“有趣且清新”；Pixel 11 Pro XL评测称相机更灵敏但整体升级有限；Waymo向NHTSA提交儿童碰撞调查文件，同时DOJ正调查Andreessen Horowitz董事会席位问题，指向科技投资与反垄断交叉监管。\n\n5. **行业活动与提醒**：TechCrunch Disrupt 2026门票优惠截止今日，最高可省300美元。\n\n**今日最值得关注**：AI模型能力与伦理边界（Opus 4.6）及算力基础设施（Nvidia）的双重突破，正重塑行业竞争规则，而苹果裁员、特斯拉失败项目等则显示科技巨头在转型中的阵痛。",
+      "summary": "今日科技动态摘要\n\n1. **AI安全与监管博弈**：OpenAI公开支持加州强化AI安全法案，但前沿实验室仍拒绝明确说明如何控制“失控模型”（rogue model），凸显行业在安全承诺与实际操作间的落差。\n\n2. **AI研究能力突破**：由DeepMind校友创立的Inherent公司宣称，其AI“队友”在复现科研实验方面已超越Anthropic和OpenAI的模型，标志AI在自主科研协作上迈出新一步。\n\n3. **AI商业与资本动态**：会计初创Rillet在48小时内融资1亿美元成为独角兽；哈佛推出699美元创业训练营，用AI化身讲师授课；Nvidia与数据中心开发商Cloverleaf达成合作，显示AI基础设施投资持续火热。\n\n4. **科技巨头调整与法律纠纷**：苹果据报将裁减Siri和Vision Pro团队数百岗位；TikTok就儿童隐私诉讼达成4亿美元和解，反映大型平台面临监管与成本压力。\n\n5. **硬件与新兴领域**：美国电池创业公司转向国防领域求生；日本太空科技初创Letara获1600万美元拓展业务；Pebble Time 2智能手表获好评，而Pixel 11 Pro XL被评“迭代升级有限”。\n\n**今日最值得关注**：AI安全立法与实验室实际应对能力之间的鸿沟成为焦点，OpenAI的公开支持或预示行业将被迫在可验证的管控措施上作出实质让步。",
       "count": 40
     },
     "ai": {
@@ -560,15 +560,6 @@
           "pub_date": "Mon, 17 Aug 2026 03:15:00 GMT"
         },
         {
-          "id": "ed280f920034",
-          "title": "I benched frontier AI LLM models on politics, ethics, and personality traits",
-          "link": "https://www.blackbench.ai/",
-          "description": "Article URL: https://www.blackbench.ai/ Comments URL: https://news.ycombinator.com/item?id=49382540 Points: 3 # Comments: 2",
-          "source": "HN-AI",
-          "category": "ai",
-          "pub_date": "Fri, 21 Aug 2026 01:26:01 +0000"
-        },
-        {
           "id": "008ef57b3946",
           "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
           "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
@@ -576,6 +567,42 @@
           "source": "VentureBeat AI",
           "category": "ai",
           "pub_date": "Wed, 19 Aug 2026 14:18:12 GMT"
+        },
+        {
+          "id": "e65b8ba811ad",
+          "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+          "link": "https://www.qbitai.com/2026/08/477253.html",
+          "description": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 22 Aug 2026 14:46:43 +0000"
+        },
+        {
+          "id": "062552946e2e",
+          "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+          "link": "https://www.qbitai.com/2026/08/477246.html",
+          "description": "直击WRC",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 22 Aug 2026 14:19:39 +0000"
+        },
+        {
+          "id": "976b17271f76",
+          "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+          "link": "https://www.qbitai.com/2026/08/477155.html",
+          "description": "一脑驱动多形落地",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 22 Aug 2026 14:11:20 +0000"
+        },
+        {
+          "id": "002347f6c8a3",
+          "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+          "link": "https://www.qbitai.com/2026/08/477094.html",
+          "description": "采集，从一条腕带开始",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 22 Aug 2026 13:56:00 +0000"
         },
         {
           "id": "4ba2a4bb9cb3",
@@ -612,45 +639,54 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Sat, 22 Aug 2026 08:41:41 +0000"
-        },
-        {
-          "id": "61ff0284385f",
-          "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
-          "link": "https://www.qbitai.com/2026/08/476778.html",
-          "description": "载重4.2吨、容积19.32m³",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 21 Aug 2026 11:47:27 +0000"
-        },
-        {
-          "id": "d31f37c94e35",
-          "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
-          "link": "https://www.qbitai.com/2026/08/476733.html",
-          "description": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 21 Aug 2026 09:44:33 +0000"
-        },
-        {
-          "id": "fc5e0b413730",
-          "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
-          "link": "https://www.qbitai.com/2026/08/476628.html",
-          "description": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 21 Aug 2026 09:00:06 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **推理性能与优化**：Hugging Face 发布 LFM2.5-DSpark，宣称推理速度最高提升 3.2 倍；另有研究指出通过调整数据顺序（聚类内重排）可将 GPU 利用率提升 33 个百分点，凸显底层调度与内存管理对 AI 效率的关键影响。\n\n2. **模型与检索技术进展**：Hugging Face 推出基于 Sentence Transformers 的多向量（后期交互）嵌入模型，提升检索精度；同时探讨智能体实际内存需求，以及语音识别基准测试的优化方法，反映基础模型能力持续细化。\n\n3. **OpenAI 商业化与安全并进**：OpenAI 推出“AI Futures”计划，扩展 ChatGPT Ads 至欧洲，并宣布前沿模型提供“零数据保留”选项；同时发布 Stampli 案例（使用 ChatGPT Work 将上线时间缩短 68%），并强调与 CodeAI 合作培养 AI 一代，以及强化国家安全中的民主监督和网络关键能力下的模型开发节奏管控。\n\n4. **Google 端侧与学习体验升级**：Google AI 博客推出 5 种基于搜索的新学习方式，并展示 Gemini 与 Pixel 结合以更贴近体育赛事（游戏）场景，强化端侧 AI 与多模态交互。\n\n5. **AI 编程民主化**：Replit 借助 GPT-5.6 Luna 扩大软件创建访问权限，降低开发门槛，推动 AI 生成代码的普及。\n\n**今日最值得关注**：OpenAI 在加速商业化（广告、企业案例）的同时，明确推出“零数据保留”和国家安全民主监督机制，表明前沿模型正从单纯能力竞赛转向“性能—安全—合规”三位一体的成熟阶段。",
+      "summary": "今日AI动态摘要\n\n1. **AI推理与效率优化**：LFM2.5-DSpark实现最高3.2倍推理加速；通过调整数据顺序（Same Cluster）可将集群利用率提升33个百分点；语音识别基准测试的优化方法成为关注点。\n\n2. **AI智能体与记忆管理**：探讨AI智能体实际需要多少内存资源，涉及多向量（晚期交互）嵌入模型在Sentence Transformers中的应用，推动检索与记忆效率提升。\n\n3. **搜索与学习体验升级**：Google推出5种新的“搜索”学习方式，结合Gemini与Pixel设备，强化AI在游戏场景和日常交互中的沉浸式体验。\n\n4. **OpenAI商业与安全扩展**：ChatGPT Ads扩展至欧洲；Stampli借助ChatGPT Work将上线时间缩短68%；推出前沿模型“零数据保留”选项，并加强国家安全领域的民主监督；与CodeAI合作培养“AI第一代”；同时提出在“网络关键能力”时代需谨慎控制模型开发节奏。\n\n5. **AI民主化与未来展望**：OpenAI发布“AI Futures”计划，Replit通过GPT-5.6 Luna扩大软件创建的可及性，降低编程门槛。\n\n**今日最值得关注的发展**：OpenAI在商业扩张（广告、企业工具）与安全治理（零数据保留、民主监督）上双线并进，同时强调对前沿模型开发节奏的审慎控制，标志着AI行业从“能力竞赛”转向“负责任的规模化应用”。",
       "count": 30
     },
     "cctv": {
       "articles": [
         {
+          "id": "a751131b7ceb",
+          "title": "China recovers rocket stage on land for the first time",
+          "link": "https://apnews.com/article/china-space-rocket-reuse-land-7280ab07f29771e2034a917ff679e1a6",
+          "description": "Article URL: https://apnews.com/article/china-space-rocket-reuse-land-7280ab07f29771e2034a917ff679e1a6 Comments URL: https://news.ycombinator.com/item?id=49404371 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 22 Aug 2026 22:13:13 +0000"
+        },
+        {
+          "id": "3b9f2c50a101",
+          "title": "China joins Europe in scrapping Windows for Linux",
+          "link": "https://www.zdnet.com/article/china-drops-windows-for-linux/",
+          "description": "Article URL: https://www.zdnet.com/article/china-drops-windows-for-linux/ Comments URL: https://news.ycombinator.com/item?id=49402710 Points: 9 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 22 Aug 2026 19:02:05 +0000"
+        },
+        {
+          "id": "aa0d8b17b400",
+          "title": "China Axing Microsoft Windows from State Agencies Ahead of Plan",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-18/china-axing-microsoft-windows-from-state-agencies-ahead-of-plan",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-18/china-axing-microsoft-windows-from-state-agencies-ahead-of-plan Comments URL: https://news.ycombinator.com/item?id=49402406 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 22 Aug 2026 18:30:15 +0000"
+        },
+        {
+          "id": "3b7dc4e7db6f",
+          "title": "No Boss, No Money: The Raw Reality of China's Gen-Z Freelancers",
+          "link": "https://www.youtube.com/watch?v=eJZFUEQebbI",
+          "description": "Article URL: https://www.youtube.com/watch?v=eJZFUEQebbI Comments URL: https://news.ycombinator.com/item?id=49402077 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 22 Aug 2026 17:55:48 +0000"
+        },
+        {
           "id": "8d95303e9c12",
           "title": "The Next China Shock Is Here",
           "link": "https://www.nytimes.com/2026/08/21/opinion/ezra-klein-podcast-brad-setser.html",
-          "description": "Article URL: https://www.nytimes.com/2026/08/21/opinion/ezra-klein-podcast-brad-setser.html Comments URL: https://news.ycombinator.com/item?id=49400000 Points: 2 # Comments: 0",
+          "description": "Article URL: https://www.nytimes.com/2026/08/21/opinion/ezra-klein-podcast-brad-setser.html Comments URL: https://news.ycombinator.com/item?id=49400000 Points: 8 # Comments: 3",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 22 Aug 2026 14:19:02 +0000"
@@ -659,7 +695,7 @@
           "id": "6ddc91212512",
           "title": "A.I. is everywhere in China. See for yourself",
           "link": "https://www.nytimes.com/interactive/2026/08/21/world/asia/china-ai-life.html",
-          "description": "Article URL: https://www.nytimes.com/interactive/2026/08/21/world/asia/china-ai-life.html Comments URL: https://news.ycombinator.com/item?id=49398341 Points: 3 # Comments: 2",
+          "description": "Article URL: https://www.nytimes.com/interactive/2026/08/21/world/asia/china-ai-life.html Comments URL: https://news.ycombinator.com/item?id=49398341 Points: 4 # Comments: 2",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 22 Aug 2026 10:33:47 +0000"
@@ -668,7 +704,7 @@
           "id": "54065788ba23",
           "title": "Tesla Recalls 3M EVs in China over Door Handle Safety",
           "link": "https://www.bloomberg.com/news/articles/2026-08-21/tesla-recalls-3-million-evs-as-china-cracks-down-on-door-handles",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-21/tesla-recalls-3-million-evs-as-china-cracks-down-on-door-handles Comments URL: https://news.ycombinator.com/item?id=49397770 Points: 4 # Comments: 0",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-21/tesla-recalls-3-million-evs-as-china-cracks-down-on-door-handles Comments URL: https://news.ycombinator.com/item?id=49397770 Points: 5 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 22 Aug 2026 08:30:19 +0000"
@@ -699,15 +735,6 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 21 Aug 2026 19:52:25 +0000"
-        },
-        {
-          "id": "3b9f2c50a101",
-          "title": "China joins Europe in scrapping Windows for Linux",
-          "link": "https://www.zdnet.com/article/china-drops-windows-for-linux/",
-          "description": "Article URL: https://www.zdnet.com/article/china-drops-windows-for-linux/ Comments URL: https://news.ycombinator.com/item?id=49388867 Points: 9 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 21 Aug 2026 14:39:30 +0000"
         },
         {
           "id": "911bf794e1fa",
@@ -861,46 +888,10 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 19 Aug 2026 14:43:38 +0000"
-        },
-        {
-          "id": "2298196c9cfc",
-          "title": "US Military funding propelled China's robot dogs",
-          "link": "https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/",
-          "description": "Article URL: https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49358719 Points: 7 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 19 Aug 2026 08:34:09 +0000"
-        },
-        {
-          "id": "c24787f9e2b9",
-          "title": "Harvard, MIT among 30 US universities ordered to audit China research ties",
-          "link": "https://www.scmp.com/news/us/diplomacy/article/3364485/harvard-mit-among-30-us-universities-ordered-audit-china-research-ties",
-          "description": "Article URL: https://www.scmp.com/news/us/diplomacy/article/3364485/harvard-mit-among-30-us-universities-ordered-audit-china-research-ties Comments URL: https://news.ycombinator.com/item?id=49358206 Points: 6 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 19 Aug 2026 07:34:44 +0000"
-        },
-        {
-          "id": "8bfb04d07b99",
-          "title": "China orders state agencies to uninstall Windows as it cuts dependence on US",
-          "link": "https://www.indiatoday.in/technology/news/story/china-orders-state-agencies-to-uninstall-windows-as-it-cuts-dependence-on-us-tech-2974571-2026-08-19",
-          "description": "Article URL: https://www.indiatoday.in/technology/news/story/china-orders-state-agencies-to-uninstall-windows-as-it-cuts-dependence-on-us-tech-2974571-2026-08-19 Comments URL: https://news.ycombinator.com/item?id=49357320 Points: 6 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 19 Aug 2026 05:41:20 +0000"
-        },
-        {
-          "id": "f500021aeef0",
-          "title": "China's LandSpace beats SpaceX with steel-booster recovery after orbital launch",
-          "link": "https://www.scmp.com/news/china/science/article/3364492/chinas-landspace-beats-spacex-steel-booster-recovery-after-orbital-launch",
-          "description": "Article URL: https://www.scmp.com/news/china/science/article/3364492/chinas-landspace-beats-spacex-steel-booster-recovery-after-orbital-launch Comments URL: https://news.ycombinator.com/item?id=49355303 Points: 7 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 19 Aug 2026 01:14:38 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **科技与AI领域重大进展**：中国在人工智能应用、机器人技术（如调酒、拳击等场景）及AI人才吸引方面表现突出，同时成功回收朱雀三号火箭，展示出与SpaceX、蓝色起源竞争的航天实力。\n2. **汽车行业大规模召回**：特斯拉等车企在华启动史上最大规模召回，涉及超300万辆电动车，原因聚焦车门把手安全隐患，反映中国市场监管的严格与消费者权益保护的强化。\n3. **自主可控与安全审查**：中国与欧洲同步推进弃用Windows转向Linux系统，凸显科技自主化趋势；同时因除草剂残留超标5倍，拒绝澳大利亚大豆进口，强化食品安全与贸易合规标准。\n4. **国际科技博弈与供应链管控**：美国拟施压荷兰限制ASML对华出口光刻机，而超微公司因涉嫌向中国走私25亿美元GPU被内部调查并解雇员工，显示中美科技竞争加剧及中国面临的供应链压力。\n5. **社会新现象与治理创新**：中国女性中选择AI男友的现象引发关注，同时“机器人交警”上岗但无逮捕权，体现科技在社会生活与公共治理中的渗透与边界探索。\n\n**今日最值得关注的发展**：中国在AI、机器人及航天领域的密集突破与自主化提速，叠加汽车行业大规模召回和贸易安全审查，共同勾勒出“科技引领、安全优先”的发展主线。",
-      "count": 28
+      "summary": "今日新闻联播动态摘要\n\n1. **航天与科技突破**：中国首次实现火箭箭体陆地回收，标志航天技术迈入新阶段；同时，中国在AI领域取得显著进展，多家媒体聚焦其“AI无处不在”的应用场景及背后科研人才力量。\n2. **自主可控与软件替代**：中国与欧洲同步推进在政府机构中弃用Windows、改用Linux系统，并加速从国家部门移除微软产品，凸显信息技术自主化战略提速。\n3. **汽车安全与召回潮**：特斯拉因车门把手安全隐患在中国召回超300万辆电动汽车，中国同步启动史上最大规模汽车召回行动，涉及多家车企，监管力度显著增强。\n4. **贸易与食品安全**：中国因除草剂草甘膦残留超标（超限5倍）拒绝进口澳大利亚豆类，体现对进口农产品质量安全的严格把控。\n5. **劳动力与机器人应用**：中国“Z世代”自由职业者面临“无老板、无收入”的生存现实；同时，机器人已上岗交通执法（无逮捕权），并展示调酒、拳击等技能，引发人机能力对比讨论。\n\n**今日最值得关注的发展**：中国首次实现火箭陆地回收，叠加政府系统大规模“去Windows化”，标志着科技自主与航天能力双突破，成为当日最具战略意义的进展。",
+      "count": 27
     }
   }
 }
