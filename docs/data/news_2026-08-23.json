@@ -1,9 +1,63 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T14:24:01.859216",
+  "generated_at": "2026-08-23T22:27:15.674473",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "4c453650edd4",
+          "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+          "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+          "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 23 Aug 2026 20:01:36 +0000"
+        },
+        {
+          "id": "bd7a41ff8cf2",
+          "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+          "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+          "description": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 23 Aug 2026 19:30:00 +0000"
+        },
+        {
+          "id": "eda71cc04f2a",
+          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+          "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+          "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 23 Aug 2026 19:14:08 +0000"
+        },
+        {
+          "id": "bce1c968bd11",
+          "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+          "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+          "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 23 Aug 2026 16:03:00 +0000"
+        },
+        {
+          "id": "b78640739b73",
+          "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+          "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+          "description": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 23 Aug 2026 15:30:00 +0000"
+        },
+        {
+          "id": "77e4ab71d493",
+          "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+          "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+          "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 23 Aug 2026 15:00:00 +0000"
+        },
         {
           "id": "0bb4d63dd22a",
           "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
@@ -131,58 +185,13 @@
           "pub_date": "Fri, 21 Aug 2026 20:58:07 +0000"
         },
         {
-          "id": "60f027619a75",
-          "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
-          "link": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
-          "description": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
-          "source": "TechCrunch",
+          "id": "cbb6b20f0023",
+          "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+          "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+          "description": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Fri, 21 Aug 2026 20:25:21 +0000"
-        },
-        {
-          "id": "fdc85c64790d",
-          "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
-          "link": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
-          "description": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 21 Aug 2026 19:57:46 +0000"
-        },
-        {
-          "id": "ee8bcee482aa",
-          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-          "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-          "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 21 Aug 2026 19:43:39 +0000"
-        },
-        {
-          "id": "61ae803b1404",
-          "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
-          "link": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
-          "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 21 Aug 2026 19:16:15 +0000"
-        },
-        {
-          "id": "465e8eb58f4e",
-          "title": "Tesla’s solar roof is dead — here’s what went wrong",
-          "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
-          "description": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 21 Aug 2026 18:09:53 +0000"
-        },
-        {
-          "id": "2216f4806e81",
-          "title": "Waymo hands over documents in NHTSA’s child collision probe",
-          "link": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
-          "description": "The responses to NHTSA's questions so far are redacted entirely, citing \"confidential business information.\"",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 21 Aug 2026 17:49:58 +0000"
+          "pub_date": "Sun, 23 Aug 2026 14:30:16 +0000"
         },
         {
           "id": "c1940856d41a",
@@ -311,61 +320,52 @@
           "pub_date": "Fri, 21 Aug 2026 11:00:36 +0000"
         },
         {
-          "id": "152146f86dd3",
-          "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-          "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-          "description": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
-          "source": "Ars Technica",
+          "id": "87c654bf2912",
+          "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+          "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+          "description": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49409200 Points: 21 # Comments: 2",
+          "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 22:00:11 +0000"
+          "pub_date": "Sun, 23 Aug 2026 14:38:25 +0000"
         },
         {
-          "id": "28b8701a7abb",
-          "title": "Europe cancels planned upgrades for Ariane 6 rocket",
-          "link": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
-          "description": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
-          "source": "Ars Technica",
+          "id": "d25211f47ed7",
+          "title": "What Is a Harness?",
+          "link": "https://earendil.com/posts/what-is-a-harness/",
+          "description": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15",
+          "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 21:40:52 +0000"
+          "pub_date": "Sun, 23 Aug 2026 14:24:21 +0000"
         },
         {
-          "id": "cc845cbda698",
-          "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
-          "link": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
-          "description": "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited .",
-          "source": "Ars Technica",
+          "id": "9021bba05b58",
+          "title": "Death to px, long live ch",
+          "link": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+          "description": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 20 # Comments: 10",
+          "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 21:25:25 +0000"
-        },
-        {
-          "id": "63e7ef54e0c1",
-          "title": "Roblox must make changes after failing to block adults creeping on kids",
-          "link": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
-          "description": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 17:14:08 +0000"
-        },
-        {
-          "id": "4032cc5e3982",
-          "title": "Genesis joins the giant electric SUV club with new GV90",
-          "link": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
-          "description": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 20 Aug 2026 14:35:58 +0000"
+          "pub_date": "Sun, 23 Aug 2026 13:56:27 +0000"
         },
         {
           "id": "10f4e50ce10f",
           "title": "My favorite nonfiction books about cults, scams, and schemes",
           "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-          "description": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 3 # Comments: 0",
+          "description": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 # Comments: 13",
           "source": "Hacker News",
           "category": "tech",
           "pub_date": "Sun, 23 Aug 2026 13:51:10 +0000"
+        },
+        {
+          "id": "e977f22a443a",
+          "title": "Malware infects Android-based automotive head unit firmware",
+          "link": "https://securelist.com/android-head-unit-malware/121106/",
+          "description": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 23 Aug 2026 13:05:38 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **电商与零售**：沃尔玛旗下Flipkart上线两年后，正逼近印度即时零售（quick-commerce）头部阵营，竞争格局加速演变。\n2. **AI安全与监管**：OpenAI公开支持加州加强其AI安全法案；同时，前沿AI实验室仍拒绝透露如何遏制“失控模型”的具体方案，引发外界对透明度与治理的担忧。\n3. **AI研究与应用**：DeepMind校友创立的Inherent宣称其AI“队友”在复现科研任务上超越Anthropic和OpenAI；另有创业公司Michael Polansky正用活体皮肤训练AI模型，探索生物计算新方向。\n4. **创投与产业动态**：哈佛699美元创业训练营引入AI导师化身；AI会计初创Rillet在48小时内融资1亿美元成为独角兽；美国电池初创公司转向国防领域寻求生存；日本太空技术初创Letara获1600万美元拓展非卫星业务。\n5. **企业调整与法律风险**：苹果据报将裁减Siri和Vision Pro团队数百岗位；TikTok就儿童隐私诉讼达成4亿美元和解；DOJ对a16z的调查可能引发风投行业连锁反应。\n\n今日最值得关注的是：AI安全监管与实验室透明度之争成为焦点，而OpenAI罕见支持加州法案，或预示行业在安全治理上迎来关键转折。",
+      "summary": "今日科技动态摘要\n\n1. **AI安全与治理争议**：OpenAI呼吁加州加强AI安全法案，但前沿实验室仍未明确如何约束失控模型；同时，法律专家指出，用受版权保护的书籍训练AI的合法性依然模糊，存在重大法律风险。\n\n2. **自动驾驶与监管压力**：Uber因自动暂停司机面临近10亿美元罚款；Waymo则通过自研定制芯片推进其Robotaxi计划，显示行业在合规与技术自主间的博弈。\n\n3. **AI在科研与教育中的新应用**：DeepMind校友创立的Inherent称其AI“队友”在复现研究任务上超越Anthropic和OpenAI；哈佛大学699美元的创业训练营引入AI导师化身，探索教育新模式。\n\n4. **科技与商业的边界扩展**：沃尔玛旗下Flipkart正逼近印度快商务头部；美国电池初创企业借国防需求找到生存新路；Flock监控公司CEO呼吁“妥协”以应对公众反弹。\n\n5. **硬件与产品迭代**：Pixel 11 Pro XL评测显示相机更灵敏但整体升级有限；音乐人Michael Polansky正训练基于活体皮肤的AI模型，预示生物与AI融合的新方向。\n\n**今日最值得关注的发展**：AI安全与版权问题成为多起事件核心——从OpenAI支持更严监管，到前沿实验室回避“失控模型”应对方案，再到版权训练的法律灰色地带，显示AI行业正面临前所未有的治理与伦理挑战。",
       "count": 40
     },
     "ai": {
@@ -560,15 +560,6 @@
           "pub_date": "Mon, 17 Aug 2026 03:15:00 GMT"
         },
         {
-          "id": "ed280f920034",
-          "title": "I benched frontier AI LLM models on politics, ethics, and personality traits",
-          "link": "https://www.blackbench.ai/",
-          "description": "Article URL: https://www.blackbench.ai/ Comments URL: https://news.ycombinator.com/item?id=49382540 Points: 3 # Comments: 2",
-          "source": "HN-AI",
-          "category": "ai",
-          "pub_date": "Fri, 21 Aug 2026 01:26:01 +0000"
-        },
-        {
           "id": "008ef57b3946",
           "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
           "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
@@ -639,9 +630,18 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Sun, 23 Aug 2026 09:29:59 +0000"
+        },
+        {
+          "id": "eceb313dae86",
+          "title": "你的第一个个人机器人开启预订！上纬新材拉开家庭机器人消费时代序幕",
+          "link": "https://www.qbitai.com/2026/08/478017.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sun, 23 Aug 2026 07:17:41 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **模型性能与效率突破**：Hugging Face发布多项技术进展，包括语音识别基准优化、LFM2.5-DSpark推理速度提升最高达3.2倍、多向量（晚期交互）嵌入模型支持，以及通过调整数据顺序实现集群利用率提升33点（同集群下），并探讨了AI代理的内存需求优化。\n\n2. **OpenAI生态与商业化扩张**：OpenAI推出“AI Futures”新项目，并宣布前沿模型提供零数据保留（ZDR）选项以增强隐私；同时ChatGPT Ads广告业务扩展至欧洲，Stampli通过ChatGPT Work将上线时间缩短68%，Replit借助GPT-5.6 Luna扩大软件创造能力。\n\n3. **AI与国家安全及民主治理**：OpenAI强调在网络安全关键能力时代需审慎控制模型开发节奏，并加强与国会等机构的合作，以强化国家安全领域的民主监督。\n\n4. **AI教育与人才准备**：OpenAI与CodeAI合作，旨在为“第一代AI原生人才”提供编程教育，推动下一代开发者适应AI驱动的工作环境。\n\n5. **搜索学习与消费端AI应用**：Google AI更新搜索学习功能（新增5种方式），并展示Gemini与Pixel设备结合，让用户更贴近体育赛事等实时场景。\n\n**今日最值得关注的发展**：OpenAI在商业化（广告扩展、企业效率工具）与安全治理（零数据保留、国家安全监督）上双线并进，同时Hugging Face在推理速度与集群利用率的工程优化上取得显著量化突破，反映出行业正从“模型能力竞赛”转向“部署效率与负责任落地”并重。",
+      "summary": "今日AI动态摘要\n\n1. **性能与效率优化**：Hugging Face 发布多项技术突破，包括语音识别基准测试优化、LFM2.5-DSpark 推理速度提升高达 3.2 倍，以及通过调整数据顺序在相同集群下将利用率提升 33 个百分点。\n\n2. **AI 模型与工具升级**：Hugging Face 推出多向量（晚期交互）嵌入模型，并探讨 AI Agent 的实际内存需求；OpenAI 发布“AI Futures”新项目，同时推出 GPT-5.6 Luna（Replit 扩大软件创建接入）及 ChatGPT Ads 欧洲扩展。\n\n3. **企业级应用与安全合规**：Stampli 通过 ChatGPT Work 将上线时间缩短 68%；OpenAI 为前沿模型提供零数据保留选项，并强调在网络安全关键能力时代把控模型开发节奏，同时与 CodeAI 合作培养“AI 第一代”人才。\n\n4. **AI 与搜索/移动体验融合**：Google 推出 5 项基于 AI 的搜索学习新功能，并强化 Gemini 与 Pixel 在体育游戏场景中的深度集成。\n\n5. **治理与社会责任**：OpenAI 发文探讨加强国家安全领域的民主监督，并呼吁在“网络关键能力”时代审慎推进模型开发节奏。\n\n**今日最值得关注**：OpenAI 在“AI Futures”框架下同时推进企业效率（Stampli 案例）、安全合规（零数据保留）、民主监督与人才培养，标志着 AI 发展从单纯能力竞赛转向“性能-安全-治理”三位一体的成熟阶段。",
       "count": 30
     },
     "cctv": {
@@ -654,6 +654,15 @@
           "source": "Global Times",
           "category": "cctv",
           "pub_date": "Sun, 23 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "cbb6b20f0023",
+          "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+          "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+          "description": "Article URL: https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/ Comments URL: https://news.ycombinator.com/item?id=49409505 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 23 Aug 2026 15:16:41 +0000"
         },
         {
           "id": "77b6fe4ef545",
@@ -879,18 +888,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 20 Aug 2026 10:57:13 +0000"
-        },
-        {
-          "id": "7801ae49d7c9",
-          "title": "China's wind and solar megabases face a coal test",
-          "link": "https://globalenergymonitor.org/research/chinas-wind-and-solar-megabases-face-coal-test",
-          "description": "Article URL: https://globalenergymonitor.org/research/chinas-wind-and-solar-megabases-face-coal-test Comments URL: https://news.ycombinator.com/item?id=49371662 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 20 Aug 2026 07:52:46 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **南非自由日纪念活动聚焦后种族隔离时代的尊严与包容治理**——纪念集会彰显南非对平等与社会融合的持续追求，反映其在历史转型中的治理探索。\n\n2. **中国朱雀三号可回收火箭一级完成陆上回收试验**——中国在可重复使用火箭技术领域取得关键进展，首次实现火箭一级陆地回收，为未来低成本航天发射奠定基础。\n\n3. **中国推进政府机构“去Windows化”，转向Linux系统**——多部门已开始用国产Linux替代微软Windows，配合国家信息技术自主可控战略，减少对外部操作系统的依赖。\n\n4. **中国AI应用全面渗透：从微短剧到选民模型，再到机器人表演**——AI技术在中国娱乐、政治分析、机器人交互等场景快速落地，展现产业生态的多元应用与创新活力。\n\n5. **中国启动史上最大规模汽车召回，涉及特斯拉等品牌车门把手隐患**——超300万辆电动车因门把手安全问题被召回，凸显对车辆安全标准的严格监管与消费者权益保护。\n\n**今日最值得关注的发展**：中国在航天（朱雀三号陆上回收）与信息技术自主化（Linux替代Windows）两大关键领域同步取得突破，显示科技自立自强正加速从战略规划转向实质落地。",
+      "summary": "今日新闻联播动态摘要\n\n1. **南非自由日纪念活动聚焦后种族隔离时代的尊严与包容治理**：活动彰显了南非在摆脱种族隔离后对平等与社会融合的持续追求，国际媒体关注其治理模式转型。\n\n2. **中国朱雀三号可回收火箭首次陆地回收成功**：标志着中国在可重复使用航天器技术上取得关键突破，为未来低成本太空运输奠定基础。\n\n3. **中国加速推进国产操作系统替代Windows**：国家机构及关键领域逐步采用Linux系统，减少对外部技术依赖，强化数字主权与信息安全。\n\n4. **中国AI技术深度渗透多领域**：从微短剧制作到选民模型分析，再到机器人表演与操作，AI应用场景持续扩展，引发全球关注其创新速度与伦理边界。\n\n5. **特斯拉在华召回超300万辆电动汽车**：因门把手安全隐患进行大规模召回，同时涉及超微公司GPU走私案调查，凸显中国市场监管与合规审查力度。\n\n**今日最值得关注的发展**：中国在航天、信息技术自主化及AI应用上的多重突破，正加速重塑其科技竞争力与全球产业链格局，而大规模召回事件则显示监管与安全标准同步收紧。",
       "count": 27
     }
   }
