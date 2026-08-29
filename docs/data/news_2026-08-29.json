@@ -1,9 +1,36 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29T03:35:20.072008",
+  "generated_at": "2026-08-29T17:32:04.201489",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "c1de13ad9113",
+          "title": "Hollywood celebs are getting into microdrama apps",
+          "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+          "description": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 29 Aug 2026 16:10:00 +0000"
+        },
+        {
+          "id": "64e6e13699cc",
+          "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+          "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+          "description": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 29 Aug 2026 14:00:00 +0000"
+        },
+        {
+          "id": "510f101d37fc",
+          "title": "Nvidia’s AI advantage is moving beyond the GPU",
+          "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+          "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 29 Aug 2026 13:00:00 +0000"
+        },
         {
           "id": "65fad6270bbb",
           "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
@@ -158,31 +185,13 @@
           "pub_date": "Thu, 27 Aug 2026 20:23:10 +0000"
         },
         {
-          "id": "ba1eb8a94bbd",
-          "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
-          "link": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
-          "description": "Sometimes people just want to post to their followers, Bluesky says.",
-          "source": "TechCrunch",
+          "id": "77e4b3481011",
+          "title": "I asked 100 companies for my data. Some deleted it instead.",
+          "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+          "description": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 27 Aug 2026 20:15:26 +0000"
-        },
-        {
-          "id": "43172ba98e09",
-          "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
-          "link": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
-          "description": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 27 Aug 2026 20:04:26 +0000"
-        },
-        {
-          "id": "5973f78ca105",
-          "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
-          "link": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
-          "description": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 27 Aug 2026 19:54:28 +0000"
+          "pub_date": "Sat, 29 Aug 2026 10:50:31 +0000"
         },
         {
           "id": "4a7194654f58",
@@ -354,18 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Thu, 27 Aug 2026 14:53:17 +0000"
-        },
-        {
-          "id": "30631d73030f",
-          "title": "Traders brought Central American cacao to Georgia 1,000 years ago",
-          "link": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
-          "description": "\"We built this city on good cacao\" does have a nice ring to it.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 27 Aug 2026 14:22:42 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **中国车企跟进特斯拉押注人形机器人**：多家中国汽车制造商正效仿特斯拉，将机器人视为下一轮利润增长引擎，行业竞争从四轮转向“人形”赛道。\n\n2. **AI基础设施融资持续升温**：Neocloud Lambda获10亿美元债务融资用于采购芯片；a16z新设11亿美元“机器时代”基金，专注加速AI的物理基础设施建设，显示资本对AI算力与实体应用的投入力度加大。\n\n3. **Open-weight AI模型成并购热点**：开放权重AI公司成为硅谷最热门的收购目标，同时Anthropic研究员透露自我改进AI的初步进展，预示AI自主进化能力或成下一技术分水岭。\n\n4. **浏览器与隐私工具竞争加剧**：Brave浏览器新增邮件别名功能，在隐私保护上进一步领先Chrome；而美国调查显示多数民众反对警方使用车牌摄像头，反映公众对监控技术的警惕增强。\n\n5. **创业生态与资本市场动态**：瑞典跻身欧洲最热创业生态之一；朋友间照片分享应用Retro获2100万美元融资；苹果电视再次涨价；Meta高管跳槽OpenAI，同时印度监管压力上升。\n\n**今日最值得关注的发展**：中国车企集体押注人形机器人，叠加a16z巨额“机器时代”基金与Lambda芯片融资，表明AI+机器人正从概念走向资本与产业双重加速的爆发前夜。",
+      "summary": "今日科技动态摘要\n\n1. **AI产业资本与算力扩张加速**：Neocloud Lambda获10亿美元债务融资用于采购芯片；a16z设立11亿美元“机器时代”基金，聚焦AI物理基础设施建设；开放权重AI公司成为硅谷最热收购目标。\n\n2. **AI应用与模型前沿突破**：Anthropic研究员透露自我改进AI进展；英伟达AI优势正从GPU扩展到更广领域；Anthropic首次在五角大楼供应链风险标签诉讼中获胜。\n\n3. **娱乐与消费科技新趋势**：好莱坞明星涉足微短剧应用；Theragun Sense简化日常恢复设备体验；苹果电视订阅费再次上涨；有人探讨用太阳镜观看电影的可能性。\n\n4. **汽车与机器人战略**：中国车企效仿特斯拉，押注机器人成为下一个利润增长点。\n\n5. **其他科技动态**：Brave浏览器新增邮件别名功能，优于Chrome；瑞典打造欧洲热门创业生态；调查显示更多美国人反对警方车牌摄像头；好友分享应用Retro融资2100万美元。\n\n**今日最值得关注**：AI基础设施投资与算力军备竞赛持续升温，同时自我改进AI的初步展示标志着模型能力可能迎来质变拐点。",
       "count": 40
     },
     "ai": {
@@ -551,6 +551,15 @@
           "pub_date": "Mon, 24 Aug 2026 12:00:00 GMT"
         },
         {
+          "id": "efec67fe1ebf",
+          "title": "AI/LLM Usage Becoming a \"Denial of Service Attack\" on Open-Source Maintainers",
+          "link": "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers",
+          "description": "Article URL: https://www.phoronix.com/news/AI-DoS-Attack-Maintainers Comments URL: https://news.ycombinator.com/item?id=49437339 Points: 5 # Comments: 1",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Tue, 25 Aug 2026 17:12:34 +0000"
+        },
+        {
           "id": "b05ec6b6f3eb",
           "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
           "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
@@ -578,70 +587,61 @@
           "pub_date": "Wed, 26 Aug 2026 14:30:00 GMT"
         },
         {
-          "id": "5524be2f6dd1",
-          "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
-          "link": "https://www.qbitai.com/2026/08/480700.html",
-          "description": "",
+          "id": "20ca4c6907e0",
+          "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+          "link": "https://www.qbitai.com/2026/08/481372.html",
+          "description": "推理软件栈的微小差异，就能改变输出token",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Fri, 28 Aug 2026 15:36:12 +0000"
+          "pub_date": "Sat, 29 Aug 2026 13:11:08 +0000"
         },
         {
-          "id": "99453329c68a",
-          "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
-          "link": "https://www.qbitai.com/2026/08/480666.html",
-          "description": "久久不愿来到台前的智元掌舵人",
+          "id": "8d5395e2bb77",
+          "title": "去年归国的徐梦迪，成了清华姚班班主任",
+          "link": "https://www.qbitai.com/2026/08/481318.html",
+          "description": "本科读车辆工程，如今教AI第一班",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Fri, 28 Aug 2026 11:13:35 +0000"
+          "pub_date": "Sat, 29 Aug 2026 13:01:34 +0000"
         },
         {
-          "id": "9af98232e27b",
-          "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-          "link": "https://www.qbitai.com/2026/08/480600.html",
-          "description": "企业智能化服务撑起基本盘，第二增长曲线冒头",
+          "id": "f17e6823e2fc",
+          "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+          "link": "https://www.qbitai.com/2026/08/481223.html",
+          "description": "AI「自进化」，越来越近了",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Fri, 28 Aug 2026 09:45:19 +0000"
+          "pub_date": "Sat, 29 Aug 2026 12:50:31 +0000"
         },
         {
-          "id": "63a7e2ccce5e",
-          "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
-          "link": "https://www.qbitai.com/2026/08/480591.html",
-          "description": "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。",
+          "id": "3cdb25df3c76",
+          "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+          "link": "https://www.qbitai.com/2026/08/481075.html",
+          "description": "3秒可处理200份PDF",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Fri, 28 Aug 2026 07:20:14 +0000"
+          "pub_date": "Sat, 29 Aug 2026 12:26:49 +0000"
         },
         {
-          "id": "5e9c679d3e9f",
-          "title": "首款癌症疫苗，一针300万？？？",
-          "link": "https://www.qbitai.com/2026/08/480557.html",
-          "description": "别让顶级治疗方法称为富人专属",
+          "id": "f23f094d835c",
+          "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+          "link": "https://www.qbitai.com/2026/08/480940.html",
+          "description": "Coding正在变成Al世界的数字执行力",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Fri, 28 Aug 2026 06:22:59 +0000"
+          "pub_date": "Sat, 29 Aug 2026 12:11:37 +0000"
         },
         {
-          "id": "8f99305c44c5",
-          "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
-          "link": "https://www.qbitai.com/2026/08/480482.html",
-          "description": "11 月 20 -21 日，由奇点智能研究院与 CSDN 联合主办的「奇点智能大会北京站」正式举行",
+          "id": "1e531e592d5b",
+          "title": "OpenClaw：红过，爱过，散了",
+          "link": "https://www.qbitai.com/2026/08/480855.html",
+          "description": "龙虾退潮，Harness上位",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Fri, 28 Aug 2026 06:22:20 +0000"
-        },
-        {
-          "id": "b2733724dd62",
-          "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
-          "link": "https://www.qbitai.com/2026/08/480487.html",
-          "description": "Claude觉醒超体",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Fri, 28 Aug 2026 06:13:59 +0000"
+          "pub_date": "Sat, 29 Aug 2026 12:00:51 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **开源模型与工具进展**：Hugging Face 发布多项技术更新，包括新增首个“全球南方”语言的开源语音识别榜单、多向量嵌入模型的训练与微调指南、Granite 4.2 系列LLM的技术解析，以及一种“量化感知修复”技术——通过4-bit压缩模型实现超越全精度原版的性能；同时推出基于Gradio的AI工作流部署方案。\n\n2. **AI应用落地与用户体验**：Google 在搜索中新增3种旅行规划与预订方式，并推出5种家居装饰升级的搜索功能，进一步将生成式AI融入日常生活场景。\n\n3. **OpenAI 生态扩张与教育合作**：OpenAI 宣布多项动态——支持泰国新一代AI初创企业、扩大巴西业务布局、将ChatGPT for Teachers推广至更多美国学区，并强调AI与批判性思维训练结合对学生学习效果的价值；此外，OpenAI 正式决定在SpaceX收购Cursor后维持现有合作，并发布关于Hugging Face安全事件的后续应对声明。\n\n4. **企业级AI应用案例**：旅游平台loveholidays借助OpenAI Codex实现全员“零代码”构建AI工具，展示了大模型在非技术团队中的普及潜力。\n\n**今日最值得关注**：OpenAI 与Hugging Face 同日发布多项关键动态，其中“量化感知修复”技术首次证明压缩模型可反超全精度原版，或将对边缘AI部署产生深远影响；而OpenAI 加速教育、区域市场与企业工具的多线布局，显示其正从技术竞赛转向生态落地竞争。",
+      "summary": "今日AI动态摘要\n\n1. **开源模型与工具链持续进化**：Hugging Face 发布多项技术进展，包括新增首个“全球南方”语言的开源语音识别榜单、多向量嵌入模型的训练与微调方案、Granite 4.2 大语言模型技术解析，以及一种“量化感知修复”技术——通过4-bit压缩模型实现超越全精度原版的性能。\n\n2. **AI应用落地与搜索体验升级**：Google 推出3种基于AI的旅行规划与预订新方式，以及5种利用搜索升级家居装饰的实用功能，显示AI正深度融入日常消费场景。\n\n3. **OpenAI 加速全球扩张与教育布局**：OpenAI 宣布扩大在巴西的运营、支持泰国AI初创企业，同时推进“ChatGPT for Teachers”项目进入更多美国学区，并强调AI与批判性思维训练结合对学生长期收益的价值。\n\n4. **企业级AI开发与安全事件反思**：OpenAI 就“Hugging Face事件”发布后续说明与改进路线，同时展示旅游公司 loveholidays 如何利用 Codex 让非技术人员参与AI应用开发，体现“人人可构建”的趋势。\n\n5. **战略并购与生态调整**：OpenAI 公开宣布对代码编辑器 Cursor（被SpaceX收购后）的决策，涉及合作模式或产品方向调整，反映AI工具链与商业生态的快速变动。\n\n**今日最值得关注**：开源社区在模型压缩（4-bit超越全精度）与多语言覆盖上的突破，加上OpenAI在教育与全球市场的密集动作，共同指向AI正从“技术竞赛”转向“普惠落地”阶段。",
       "count": 30
     },
     "cctv": {
@@ -656,10 +656,28 @@
           "pub_date": "Sun, 23 Aug 2026 00:00:00 GMT"
         },
         {
+          "id": "07fc486778c2",
+          "title": "America's data center revolt is getting a boost from China-linked bots",
+          "link": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
+          "description": "Article URL: https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots Comments URL: https://news.ycombinator.com/item?id=49487203 Points: 8 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 29 Aug 2026 05:42:11 +0000"
+        },
+        {
+          "id": "905e2fae5aa6",
+          "title": "Taiwan prosecutors search Unimicron in suspected China fraud case",
+          "link": "https://www.reuters.com/world/asia-pacific/taiwan-prosecutors-search-unimicron-suspected-china-fraud-case-2026-08-29/",
+          "description": "Article URL: https://www.reuters.com/world/asia-pacific/taiwan-prosecutors-search-unimicron-suspected-china-fraud-case-2026-08-29/ Comments URL: https://news.ycombinator.com/item?id=49487128 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 29 Aug 2026 05:26:14 +0000"
+        },
+        {
           "id": "dc829894af95",
           "title": "Tech tries a new message: You'd love data centers if China wasn't making you hat",
           "link": "https://www.businessinsider.com/china-data-center-ai-backlash-tech-messaging-2026-8",
-          "description": "Article URL: https://www.businessinsider.com/china-data-center-ai-backlash-tech-messaging-2026-8 Comments URL: https://news.ycombinator.com/item?id=49486033 Points: 4 # Comments: 8",
+          "description": "Article URL: https://www.businessinsider.com/china-data-center-ai-backlash-tech-messaging-2026-8 Comments URL: https://news.ycombinator.com/item?id=49486033 Points: 8 # Comments: 9",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 29 Aug 2026 01:17:18 +0000"
@@ -668,7 +686,7 @@
           "id": "fe8bd06d21c7",
           "title": "China rejected a container of Argentine beef. Here's what the US did next",
           "link": "https://tallow.app/blog/china-rejected-argentina-beef-chloramphenicol",
-          "description": "Article URL: https://tallow.app/blog/china-rejected-argentina-beef-chloramphenicol Comments URL: https://news.ycombinator.com/item?id=49484526 Points: 6 # Comments: 1",
+          "description": "Article URL: https://tallow.app/blog/china-rejected-argentina-beef-chloramphenicol Comments URL: https://news.ycombinator.com/item?id=49484526 Points: 8 # Comments: 2",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 28 Aug 2026 21:37:06 +0000"
@@ -686,7 +704,7 @@
           "id": "ffe020774db1",
           "title": "China's CO2 fell 1.6% for the first time, as clean power outpaced demand growth",
           "link": "https://www.carbonbrief.org/analysis-clean-energy-just-put-chinas-co2-emissions-into-reverse-for-first-time",
-          "description": "Article URL: https://www.carbonbrief.org/analysis-clean-energy-just-put-chinas-co2-emissions-into-reverse-for-first-time Comments URL: https://news.ycombinator.com/item?id=49481846 Points: 6 # Comments: 2",
+          "description": "Article URL: https://www.carbonbrief.org/analysis-clean-energy-just-put-chinas-co2-emissions-into-reverse-for-first-time Comments URL: https://news.ycombinator.com/item?id=49481846 Points: 6 # Comments: 3",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 28 Aug 2026 17:31:03 +0000"
@@ -695,7 +713,7 @@
           "id": "02e8441c186d",
           "title": "Barrier lake continues to pose flood risk, China warns",
           "link": "https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns",
-          "description": "Article URL: https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns Comments URL: https://news.ycombinator.com/item?id=49479898 Points: 88 # Comments: 21",
+          "description": "Article URL: https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns Comments URL: https://news.ycombinator.com/item?id=49479898 Points: 89 # Comments: 23",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 28 Aug 2026 15:21:26 +0000"
@@ -879,27 +897,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Mon, 24 Aug 2026 21:03:06 +0000"
-        },
-        {
-          "id": "8d888fabc0a7",
-          "title": "China's Overhyped Embodied AI Sector",
-          "link": "https://chinai.substack.com/p/chinai-372-chinas-overhyped-embodied",
-          "description": "Article URL: https://chinai.substack.com/p/chinai-372-chinas-overhyped-embodied Comments URL: https://news.ycombinator.com/item?id=49425584 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 24 Aug 2026 20:43:22 +0000"
-        },
-        {
-          "id": "d7c9385e8398",
-          "title": "Nine Indicted by Taiwan over Illegal Export of Nvidia B300 GPUs to China",
-          "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls Comments URL: https://news.ycombinator.com/item?id=49425084 Points: 6 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 24 Aug 2026 19:59:17 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **南非废除种族隔离纪念与治理方向**：南非在自由日纪念活动中重申后种族隔离时代对尊严与包容性治理的追求，反映其社会转型的持续挑战与目标。\n\n2. **中国AI产业高速发展**：中国每日AI令牌使用量突破500万亿次，算力需求持续增长，同时多家头部AI公司的资本、股权与归属结构受到关注，显示产业生态加速成熟。\n\n3. **中国能源转型与气候进展**：中国二氧化碳排放量首次下降1.6%，清洁能源增速超过用电需求；中石化称中国石油需求或已于去年达峰，标志能源结构转折点。\n\n4. **自然灾害与安全警示**：中国就堰塞湖持续洪水风险发出警告；尼泊尔-中国边境山洪致数百人失踪，灾情严重。\n\n5. **科技与国防交叉动态**：中国行星防御项目负责人龚自正去世，享年61岁；美媒报道美国军方资金曾推动中国机器狗技术发展，凸显技术链条的全球关联性。\n\n**今日最值得关注的发展**：中国碳排放首次下降与石油需求达峰信号，标志着能源转型进入实质性拐点，对全球气候行动具有重要指标意义。",
+      "summary": "今日新闻联播动态摘要\n\n1. **南非废除种族隔离制度纪念活动**：聚焦后种族隔离时代南非对尊严与包容性治理的追求，体现该国历史转型中的持续努力。\n2. **中国AI与科技发展动态**：AI日令牌使用量突破500万亿次，算力需求增长；清洁能源使碳排放首次下降1.6%；人形机器人尚不足以替代人类工作；中国主要AI企业的资本与股权结构受关注。\n3. **中国能源与环境趋势**：中石化称中国石油需求或已于去年达峰；碳排量首次下降，清洁电力增速超过需求增长，显示能源转型成效。\n4. **涉华国际经贸与安全事件**：中国退回阿根廷牛肉集装箱，美方后续动作受关注；台湾检方搜查欣兴电子涉疑似大陆欺诈案；美国数据中心反对声浪获涉华机器人助力，科技界试图以“对华竞争”说服民众接受数据中心。\n5. **中国灾害与科研人物动态**：堰塞湖持续构成洪水风险，中方发布预警；领导中国行星防御项目的龚自正逝世，享年61岁；另提及1931年中国洪水历史及美国军方资金曾推动中国机器狗研发等背景信息。\n\n**今日最值得关注的发展**：中国清洁能源转型取得里程碑式进展——碳排放首次下降1.6%，同时AI算力需求激增，凸显绿色发展与数字经济增长并行推进的复杂态势。",
       "count": 28
     }
   }
