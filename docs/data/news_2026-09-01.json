@@ -1,9 +1,99 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T17:40:07.467927",
+  "generated_at": "2026-09-01T23:53:41.697689",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "32a5ae0656c6",
+          "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+          "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+          "description": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 01 Sep 2026 23:00:00 +0000"
+        },
+        {
+          "id": "32bae101c186",
+          "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+          "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+          "description": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 01 Sep 2026 22:13:34 +0000"
+        },
+        {
+          "id": "cc0fe39b72c7",
+          "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+          "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 01 Sep 2026 22:08:24 +0000"
+        },
+        {
+          "id": "c87f00d92624",
+          "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+          "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+          "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 01 Sep 2026 21:06:24 +0000"
+        },
+        {
+          "id": "b645b10559c8",
+          "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+          "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+          "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 01 Sep 2026 20:53:05 +0000"
+        },
+        {
+          "id": "18ade502c916",
+          "title": "X says attackers are targeting user accounts after the launch of X Money",
+          "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+          "description": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 01 Sep 2026 20:48:32 +0000"
+        },
+        {
+          "id": "0b7b31fad4bb",
+          "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
+          "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+          "description": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 01 Sep 2026 19:45:28 +0000"
+        },
+        {
+          "id": "e37d8a6ac4a3",
+          "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+          "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+          "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 01 Sep 2026 19:39:22 +0000"
+        },
+        {
+          "id": "d1dd4e49c7ae",
+          "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
+          "link": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+          "description": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 01 Sep 2026 19:30:24 +0000"
+        },
+        {
+          "id": "87bd3f2cdff4",
+          "title": "Who is John Ternus, the new Apple CEO?",
+          "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+          "description": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 01 Sep 2026 18:02:00 +0000"
+        },
         {
           "id": "5d45ff399384",
           "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
@@ -95,94 +185,40 @@
           "pub_date": "Tue, 01 Sep 2026 15:00:10 +0000"
         },
         {
-          "id": "65a51e567bb8",
-          "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
-          "link": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
-          "description": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
-          "source": "TechCrunch",
+          "id": "e0fb071a0b6d",
+          "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+          "link": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
+          "description": "Historically, state health departments determine cases and deaths, not the CDC.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 14:52:12 +0000"
+          "pub_date": "Tue, 01 Sep 2026 18:21:16 +0000"
         },
         {
-          "id": "d80823a0044b",
-          "title": "Waymo accelerates robotaxi expansion with launches in Denver, San Diego, and Tampa",
-          "link": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
-          "description": "Waymo will begin inviting riders on a rolling basis and slowly ramp up access in the three cities, following its usual commercial playbook.",
-          "source": "TechCrunch",
+          "id": "0af4af3be369",
+          "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+          "link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+          "description": "New features are rolling out across the Android ecosystem starting today.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 14:20:44 +0000"
+          "pub_date": "Tue, 01 Sep 2026 18:00:02 +0000"
         },
         {
-          "id": "0e5c8c599ef5",
-          "title": "Help build the future of startups: Volunteer at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/",
-          "description": "TechCrunch Disrupt is where those moments happen. And we can't pull it off without volunteers like you.",
-          "source": "TechCrunch",
+          "id": "ed1271bb8798",
+          "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
+          "link": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+          "description": "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 14:03:00 +0000"
+          "pub_date": "Tue, 01 Sep 2026 17:51:17 +0000"
         },
         {
-          "id": "dd727e4f6ccf",
-          "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
-          "link": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
-          "description": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
-          "source": "TechCrunch",
+          "id": "aa7f0dae5c10",
+          "title": "This is what a supercar was like a century ago",
+          "link": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
+          "description": "When the average car could only do 40 mph, this Bentley could break 100.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 13:58:42 +0000"
-        },
-        {
-          "id": "b5fc1f3b4c03",
-          "title": "If space data centers feel far-fetched, why not interstellar travel?",
-          "link": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
-          "description": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 10:00:00 +0000"
-        },
-        {
-          "id": "81dc1366dca9",
-          "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
-          "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
-          "description": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 05:00:00 +0000"
-        },
-        {
-          "id": "c4801c4c15eb",
-          "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-          "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-          "description": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 00:30:00 +0000"
-        },
-        {
-          "id": "837de0143d49",
-          "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-          "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-          "description": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 00:13:00 +0000"
-        },
-        {
-          "id": "95399bbe7edb",
-          "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
-          "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
-          "description": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 31 Aug 2026 23:41:10 +0000"
-        },
-        {
-          "id": "3ee7462552d3",
-          "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
-          "link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
-          "description": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Mon, 31 Aug 2026 23:14:14 +0000"
+          "pub_date": "Tue, 01 Sep 2026 17:34:16 +0000"
         },
         {
           "id": "3a29de75a7df",
@@ -327,49 +363,22 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Mon, 31 Aug 2026 10:00:34 +0000"
-        },
-        {
-          "id": "d678e6ca3844",
-          "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
-          "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-          "description": "Cut content from Portal 2 , hints of Half Life 2: Episode 3 , and so much more.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sun, 30 Aug 2026 21:40:56 +0000"
-        },
-        {
-          "id": "931d9ad0a453",
-          "title": "Why it matters that President Trump just dialed in to a NASA news conference",
-          "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
-          "description": "With just one more major mission upcoming, NASA's science programs need a boost.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sun, 30 Aug 2026 17:40:30 +0000"
-        },
-        {
-          "id": "9d03c0aa1b4e",
-          "title": "Inside Meta’s push to put robots to work in data centers",
-          "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-          "description": "The company is testing robots on tasks that can performed by technicians.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sun, 30 Aug 2026 11:03:47 +0000"
-        },
-        {
-          "id": "a563f2f77fcb",
-          "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-          "link": "https://www.norirobotics.com/",
-          "description": "Hey HN, I’m Antonio from Nori Robotics ( https://norirobotics.com ). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers. I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting my hands on affordable hardware was difficult. Most labs have one or two expensive robots, which makes it hard to collect large datasets, run long experiments, or test across several robots. So I built my own, and after seven iterations. The current Nori has: * 19 degrees of freedom * Two 7+1 DOF ar",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 17:35:10 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI工具与医疗结合**：Google推出对标Canva的AI设计工具（以提示词替代手动设计）；ChatGPT Health新增Epic系统集成，方便临床医生导入患者数据；Amazon Alexa新增购物提醒功能。\n\n2. **自动驾驶竞争加剧**：Waymo在丹佛、圣地亚哥和坦帕加速扩张，并在特斯拉Cybercab发布前主动出击；佛罗里达和得州因隐私问题阻止Flock摄像头使用。\n\n3. **企业AI与基础设施**：Sequoia孵化的Empirik融资2100万美元预测设备故障；AIR获5000万美元用于审核AI智能体的技能与插件；微软365宕机持续但逐步恢复。\n\n4. **并购与市场动态**：GoPro以2.85亿美元被收购但保持上市；印度Unacademy以2.06亿美元卖给upGrad（较峰值估值缩水94%）；Fambot推出“家庭AI幕僚长”。\n\n5. **新兴技术与探索**：一家初创公司通过氢燃料喷射提升货船效率；讨论太空数据中心乃至星际旅行的可行性。\n\n**今日最值得关注**：Waymo在特斯拉Cybercab发布前加速扩张，凸显自动驾驶赛道竞争白热化，同时AI在医疗、家庭和企业运维中的渗透持续深化。",
+      "summary": "今日科技动态摘要\n\n1. **JioHotstar全球扩张**：Reliance旗下流媒体平台JioHotstar启动全球业务，但战略性地不包含体育内容，专注其他娱乐领域。\n2. **苹果新任CEO与重大发布**：John Ternus接任苹果CEO，其首份备忘录中预告“下周将有大动作”，引发市场对新产品或服务的期待。\n3. **OpenAI Astra模型与安全风险**：OpenAI即将推出Astra模型，该模型在渗透计算机系统方面表现突出，引发对AI安全边界的关注。\n4. **Anthropic推出Fable版本**：Anthropic发布更便宜、限制更少的Fable模型，旨在降低使用门槛并扩大市场覆盖。\n5. **Waymo主动出击**：在特斯拉Cybercab发布前，Waymo采取攻势策略，强化自动驾驶领域的竞争态势。\n\n今日最值得关注的发展是苹果CEO更替与“下周大发布”的预告，这标志着公司进入新领导时代，并可能重塑产品方向；同时，OpenAI Astra模型的安全突破也凸显了AI能力与风险的同步升级。",
       "count": 40
     },
     "ai": {
       "articles": [
+        {
+          "id": "d259a0116a8a",
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "link": "https://huggingface.co/blog/allenai/benchmirt",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 01 Sep 2026 21:39:07 GMT"
+        },
         {
           "id": "8f2cf99b93a1",
           "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
@@ -398,6 +407,15 @@
           "pub_date": "Wed, 26 Aug 2026 00:00:00 GMT"
         },
         {
+          "id": "667f27687e73",
+          "title": "The latest AI news we announced in August 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+          "description": "Here are Google’s latest AI updates from August 2026",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 01 Sep 2026 20:45:00 +0000"
+        },
+        {
           "id": "5c6242dc9c25",
           "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
           "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
@@ -423,6 +441,15 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Tue, 01 Sep 2026 17:00:00 GMT"
+        },
+        {
+          "id": "16bd685529db",
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
+          "link": "https://openai.com/index/path-to-astra",
+          "description": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 01 Sep 2026 13:00:00 GMT"
         },
         {
           "id": "ec9432f0439f",
@@ -612,36 +639,9 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Tue, 01 Sep 2026 04:12:49 +0000"
-        },
-        {
-          "id": "2139255764a3",
-          "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
-          "link": "https://www.qbitai.com/2026/08/481928.html",
-          "description": "划重点：这次不是你挨家敲门，是VC排队来看你。",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Mon, 31 Aug 2026 13:20:29 +0000"
-        },
-        {
-          "id": "7217b32c1fd6",
-          "title": "滴滴自动驾驶新一代车型开启载客测试服务",
-          "link": "https://www.qbitai.com/2026/08/481923.html",
-          "description": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Mon, 31 Aug 2026 07:53:12 +0000"
-        },
-        {
-          "id": "5c9ae0fbb08f",
-          "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
-          "link": "https://www.qbitai.com/2026/08/481919.html",
-          "description": "",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Mon, 31 Aug 2026 07:34:02 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **Hugging Face 发布 200+ WebGPU 内核**，用于本地 AI 推理，大幅提升浏览器端性能；同时推出首个覆盖“全球南方”语言的开放语音识别（ASR）排行榜，并支持多向量嵌入模型的训练与微调。\n2. **Google 扩展 AI 应用场景**：在 Workspace 中推出“Google Pics”图像生成与编辑功能，并在搜索中新增三种旅行规划与预订方式，提升用户日常效率。\n3. **OpenAI 多线推进生态与行业落地**：宣布医疗行业可连接 EHR 等数据至 ChatGPT；支持加州青少年 AI 安全法案；发布 AI 原生企业工作流能力报告；同时推进日本、泰国、巴西等地的 AI 基础设施与创业支持，并扩大美国教师版 ChatGPT 的覆盖。\n4. **OpenAI 对 Cursor 被 SpaceX 收购作出决策**，并强调“扩大 AI 可及性”的里程碑式进展；此外发布研究称 ChatGPT 结合批判性思维训练能提升学生答案质量与思考广度。\n\n**今日最值得关注的是**：Hugging Face 与 OpenAI 分别从开源技术基座和商业生态扩展两个方向，共同推动 AI 在本地化、行业化与全球化层面的落地，其中 OpenAI 在医疗、教育、区域布局上的密集动作尤为突出。",
+      "summary": "今日AI动态摘要\n\n1. **基准测试与模型评估**：Hugging Face发布文章探讨LLM基准测试的实际衡量内容，并新增Open ASR排行榜对全球南方语言的支持，推动AI评估多元化。\n2. **本地AI与高效推理**：Hugging Face推出200+ WebGPU内核，支持本地AI运行；同时发布基于Sentence Transformers的多向量嵌入模型训练与微调指南，提升检索精度。\n3. **谷歌AI应用扩展**：谷歌在Workspace中推出“Google Pics”图像创建与编辑功能，并新增三项搜索旅行规划工具，强化AI在办公与日常场景的落地。\n4. **OpenAI企业级与安全进展**：OpenAI宣布医疗行业可连接EHR数据至ChatGPT，支持加州青少年AI安全法案，并发布“Path to Astra”前沿安全框架，同时更新其对Cursor被SpaceX收购后的决策（暗示保持独立或调整合作）。\n5. **全球AI生态建设**：OpenAI支持泰国AI初创企业，并助力Polimill构建日本下一代公共AI基础设施，强调扩大AI可及性与区域发展。\n\n**今日最值得关注**：OpenAI在医疗数据接入、前沿安全框架及全球AI基础设施上的多重推进，显示出其从模型提供商向系统性AI生态运营者的战略转型，同时谷歌与Hugging Face在应用层和开源工具上的快速迭代，共同标志着AI竞争已从单一模型能力转向“安全+行业+本地化”的综合实力比拼。",
       "count": 30
     },
     "cctv": {
@@ -654,10 +654,271 @@
           "source": "Global Times",
           "category": "cctv",
           "pub_date": "Sun, 23 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "666a29249ba4",
+          "title": "China's installed solar power capacity surpasses coal power for the first time",
+          "link": "https://www.globaltimes.cn/page/202609/1369526.shtml",
+          "description": "Article URL: https://www.globaltimes.cn/page/202609/1369526.shtml Comments URL: https://news.ycombinator.com/item?id=49525190 Points: 3 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 01 Sep 2026 17:38:12 +0000"
+        },
+        {
+          "id": "05cef580b8e0",
+          "title": "Nepal seeks compensation from China, US, India, other large polluters for floods",
+          "link": "https://theprint.in/diplomacy/not-charity-but-moral-liability-nepal-seeks-compensation-from-china-us-india-for-rasuwa-flash-flood/3031006/",
+          "description": "Article URL: https://theprint.in/diplomacy/not-charity-but-moral-liability-nepal-seeks-compensation-from-china-us-india-for-rasuwa-flash-flood/3031006/ Comments URL: https://news.ycombinator.com/item?id=49524069 Points: 13 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 01 Sep 2026 16:16:11 +0000"
+        },
+        {
+          "id": "f9325a3e49c1",
+          "title": "People in China are more optimistic about AI technology than Americans",
+          "link": "https://www.nytimes.com/2026/08/26/world/china-ai-nepal-tibet-flood.html",
+          "description": "Article URL: https://www.nytimes.com/2026/08/26/world/china-ai-nepal-tibet-flood.html Comments URL: https://news.ycombinator.com/item?id=49523685 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 01 Sep 2026 15:51:51 +0000"
+        },
+        {
+          "id": "ecfc1c33123c",
+          "title": "Expansion at China's 'Area 51'",
+          "link": "https://www.twz.com/news-features/chinas-area-51-is-undergoing-a-massive-expansion",
+          "description": "Article URL: https://www.twz.com/news-features/chinas-area-51-is-undergoing-a-massive-expansion Comments URL: https://news.ycombinator.com/item?id=49517514 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 01 Sep 2026 03:01:00 +0000"
+        },
+        {
+          "id": "ef0f61f0c50e",
+          "title": "China's CXMT Begins Production of Its HBM3E Memory",
+          "link": "https://www.reuters.com/world/asia-pacific/chinas-cxmt-makes-breakthrough-advanced-memory-chips-information-reports-2026-08-31/",
+          "description": "Article URL: https://www.reuters.com/world/asia-pacific/chinas-cxmt-makes-breakthrough-advanced-memory-chips-information-reports-2026-08-31/ Comments URL: https://news.ycombinator.com/item?id=49517365 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 01 Sep 2026 02:38:19 +0000"
+        },
+        {
+          "id": "0e1af787b66b",
+          "title": "Bankers: EU must tap trillions of euros in private savings to keep up w US/China",
+          "link": "https://www.reuters.com/world/china/eu-must-tap-trillions-euros-private-savings-keep-up-with-us-china-investors-say-2026-06-16/",
+          "description": "Article URL: https://www.reuters.com/world/china/eu-must-tap-trillions-euros-private-savings-keep-up-with-us-china-investors-say-2026-06-16/ Comments URL: https://news.ycombinator.com/item?id=49512907 Points: 1 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 31 Aug 2026 18:15:53 +0000"
+        },
+        {
+          "id": "f20794d2e741",
+          "title": "YMTC's IPO: How China Built a Global NAND Champion",
+          "link": "https://techbuzzchina.substack.com/p/inside-ymtcs-ipo-how-china-built",
+          "description": "Article URL: https://techbuzzchina.substack.com/p/inside-ymtcs-ipo-how-china-built Comments URL: https://news.ycombinator.com/item?id=49512558 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 31 Aug 2026 17:44:01 +0000"
+        },
+        {
+          "id": "ccaa05c59661",
+          "title": "China's CXMT beats Western chipmakers to LPDDR6 mass production",
+          "link": "https://www.tomshardware.com/pc-components/dram/chinas-cxmt-beats-western-chipmakers-to-announcement-of-lpddr6-mass-production-xiaomi-smartphones-to-debut-industrys-first-lpddr6-chips",
+          "description": "Article URL: https://www.tomshardware.com/pc-components/dram/chinas-cxmt-beats-western-chipmakers-to-announcement-of-lpddr6-mass-production-xiaomi-smartphones-to-debut-industrys-first-lpddr6-chips Comments URL: https://news.ycombinator.com/item?id=49511386 Points: 13 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 31 Aug 2026 16:07:09 +0000"
+        },
+        {
+          "id": "6926ec62f934",
+          "title": "Devastation from the Nepal-China Floods in 30 photos",
+          "link": "https://www.aljazeera.com/gallery/2026/8/30/in-pictures-devastation-from-the-nepal-china-floods",
+          "description": "Article URL: https://www.aljazeera.com/gallery/2026/8/30/in-pictures-devastation-from-the-nepal-china-floods Comments URL: https://news.ycombinator.com/item?id=49502102 Points: 6 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 30 Aug 2026 19:47:53 +0000"
+        },
+        {
+          "id": "0a85c314b529",
+          "title": "China's robots race ahead",
+          "link": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+          "description": "Article URL: https://www.theverge.com/tech/986167/china-humanoid-robot-games-race Comments URL: https://news.ycombinator.com/item?id=49499298 Points: 5 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 30 Aug 2026 15:04:53 +0000"
+        },
+        {
+          "id": "96b3b8b4c1f2",
+          "title": "China Tobacco products have likely caused at least 57M deaths since 1990",
+          "link": "https://www.theexamination.org/articles/deadliest-company-in-the-world",
+          "description": "Article URL: https://www.theexamination.org/articles/deadliest-company-in-the-world Comments URL: https://news.ycombinator.com/item?id=49498852 Points: 6 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 30 Aug 2026 14:14:04 +0000"
+        },
+        {
+          "id": "01dbc7ff1bb8",
+          "title": "DOJ blames China for string of hacks targeting federal agencies and hospitals",
+          "link": "https://www.politico.com/news/2026/08/26/doj-fbi-china-hacks-01050956",
+          "description": "Article URL: https://www.politico.com/news/2026/08/26/doj-fbi-china-hacks-01050956 Comments URL: https://news.ycombinator.com/item?id=49498756 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 30 Aug 2026 14:02:44 +0000"
+        },
+        {
+          "id": "9a1a7efa378d",
+          "title": "When it comes to China, America has a plan",
+          "link": "https://mondediplo.com/2026/06/11us",
+          "description": "Article URL: https://mondediplo.com/2026/06/11us Comments URL: https://news.ycombinator.com/item?id=49497666 Points: 5 # Comments: 4",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 30 Aug 2026 11:13:44 +0000"
+        },
+        {
+          "id": "ef5797b9452e",
+          "title": "Faster, higher, funnier: what we learned from China's robot games",
+          "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
+          "description": "Article URL: https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race Comments URL: https://news.ycombinator.com/item?id=49496986 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 30 Aug 2026 09:07:08 +0000"
+        },
+        {
+          "id": "e9028d442add",
+          "title": "The infrastructure quartermaster: inside a China-nexus state enablement model",
+          "link": "https://www.lumen.com/blog/en-us/the-infrastructure-quartermaster-inside-a-china-nexus-state-enablement-model",
+          "description": "Article URL: https://www.lumen.com/blog/en-us/the-infrastructure-quartermaster-inside-a-china-nexus-state-enablement-model Comments URL: https://news.ycombinator.com/item?id=49496034 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 30 Aug 2026 05:48:33 +0000"
+        },
+        {
+          "id": "c042a33d3879",
+          "title": "China's AI Revolution and the Ideology of Xi Jinping",
+          "link": "https://kevinrudd.com/media/anu-centre-for-china-in-the-world-annual-lecture-2026",
+          "description": "Article URL: https://kevinrudd.com/media/anu-centre-for-china-in-the-world-annual-lecture-2026 Comments URL: https://news.ycombinator.com/item?id=49495307 Points: 1 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 30 Aug 2026 03:02:28 +0000"
+        },
+        {
+          "id": "555ab23d29c3",
+          "title": "China is fueling America's data center rage",
+          "link": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
+          "description": "Article URL: https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots Comments URL: https://news.ycombinator.com/item?id=49494853 Points: 14 # Comments: 20",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 30 Aug 2026 01:31:23 +0000"
+        },
+        {
+          "id": "ee3ff68614f2",
+          "title": "China's Super-Dam Is Becoming an Upstream Water Bomb",
+          "link": "https://www.project-syndicate.org/commentary/china-himalayan-super-dam-dangerous-and-plan-lacks-transparency-by-brahma-chellaney-2026-08?",
+          "description": "Article URL: https://www.project-syndicate.org/commentary/china-himalayan-super-dam-dangerous-and-plan-lacks-transparency-by-brahma-chellaney-2026-08? Comments URL: https://news.ycombinator.com/item?id=49494394 Points: 11 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 30 Aug 2026 00:00:51 +0000"
+        },
+        {
+          "id": "1dce39ecca30",
+          "title": "Why maps of China are all distorted",
+          "link": "https://mzrvtfni.substack.com/p/why-maps-of-china-are-all-distorted",
+          "description": "Article URL: https://mzrvtfni.substack.com/p/why-maps-of-china-are-all-distorted Comments URL: https://news.ycombinator.com/item?id=49493204 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 29 Aug 2026 20:48:11 +0000"
+        },
+        {
+          "id": "11454950b506",
+          "title": "Texas Gov. Greg Abbott says China isn't behind the anti-data-center debate",
+          "link": "https://www.businessinsider.com/china-influence-data-center-x-greg-abbott-texas-2026-8",
+          "description": "Article URL: https://www.businessinsider.com/china-influence-data-center-x-greg-abbott-texas-2026-8 Comments URL: https://news.ycombinator.com/item?id=49492188 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 29 Aug 2026 18:39:43 +0000"
+        },
+        {
+          "id": "07fc486778c2",
+          "title": "America's data center revolt is getting a boost from China-linked bots",
+          "link": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
+          "description": "Article URL: https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots Comments URL: https://news.ycombinator.com/item?id=49487203 Points: 8 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 29 Aug 2026 05:42:11 +0000"
+        },
+        {
+          "id": "905e2fae5aa6",
+          "title": "Taiwan prosecutors search Unimicron in suspected China fraud case",
+          "link": "https://www.reuters.com/world/asia-pacific/taiwan-prosecutors-search-unimicron-suspected-china-fraud-case-2026-08-29/",
+          "description": "Article URL: https://www.reuters.com/world/asia-pacific/taiwan-prosecutors-search-unimicron-suspected-china-fraud-case-2026-08-29/ Comments URL: https://news.ycombinator.com/item?id=49487128 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 29 Aug 2026 05:26:14 +0000"
+        },
+        {
+          "id": "dc829894af95",
+          "title": "Tech tries a new message: You'd love data centers if China wasn't making you hat",
+          "link": "https://www.businessinsider.com/china-data-center-ai-backlash-tech-messaging-2026-8",
+          "description": "Article URL: https://www.businessinsider.com/china-data-center-ai-backlash-tech-messaging-2026-8 Comments URL: https://news.ycombinator.com/item?id=49486033 Points: 8 # Comments: 9",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 29 Aug 2026 01:17:18 +0000"
+        },
+        {
+          "id": "fe8bd06d21c7",
+          "title": "China rejected a container of Argentine beef. Here's what the US did next",
+          "link": "https://tallow.app/blog/china-rejected-argentina-beef-chloramphenicol",
+          "description": "Article URL: https://tallow.app/blog/china-rejected-argentina-beef-chloramphenicol Comments URL: https://news.ycombinator.com/item?id=49484526 Points: 8 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 28 Aug 2026 21:37:06 +0000"
+        },
+        {
+          "id": "08fa8f42b866",
+          "title": "China's daily AI token usage tops 500T as compute demand grows",
+          "link": "https://technode.com/2026/08/28/chinas-daily-ai-token-usage-tops-500-trillion-as-compute-demand-grows/",
+          "description": "Article URL: https://technode.com/2026/08/28/chinas-daily-ai-token-usage-tops-500-trillion-as-compute-demand-grows/ Comments URL: https://news.ycombinator.com/item?id=49482794 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 28 Aug 2026 18:49:44 +0000"
+        },
+        {
+          "id": "ffe020774db1",
+          "title": "China's CO2 fell 1.6% for the first time, as clean power outpaced demand growth",
+          "link": "https://www.carbonbrief.org/analysis-clean-energy-just-put-chinas-co2-emissions-into-reverse-for-first-time",
+          "description": "Article URL: https://www.carbonbrief.org/analysis-clean-energy-just-put-chinas-co2-emissions-into-reverse-for-first-time Comments URL: https://news.ycombinator.com/item?id=49481846 Points: 6 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 28 Aug 2026 17:31:03 +0000"
+        },
+        {
+          "id": "02e8441c186d",
+          "title": "Barrier lake continues to pose flood risk, China warns",
+          "link": "https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns",
+          "description": "Article URL: https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns Comments URL: https://news.ycombinator.com/item?id=49479898 Points: 90 # Comments: 23",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 28 Aug 2026 15:21:26 +0000"
+        },
+        {
+          "id": "3d25bbe8ec2d",
+          "title": "Gong Zizheng, who led China's planetary defence project, dies at 61",
+          "link": "https://www.scmp.com/news/china/science/article/3365533/gong-zizheng-who-led-chinas-planetary-defence-project-dies-61",
+          "description": "Article URL: https://www.scmp.com/news/china/science/article/3365533/gong-zizheng-who-led-chinas-planetary-defence-project-dies-61 Comments URL: https://news.ycombinator.com/item?id=49478723 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 28 Aug 2026 14:07:52 +0000"
+        },
+        {
+          "id": "10ca431a8123",
+          "title": "China's Oil Demand 'Likely' Peaked Last Year, Sinopec Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-24/china-s-oil-demand-very-likely-peaked-last-year-sinopec-says",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-24/china-s-oil-demand-very-likely-peaked-last-year-sinopec-says Comments URL: https://news.ycombinator.com/item?id=49478632 Points: 6 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 28 Aug 2026 14:01:25 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 南非举行自由日纪念集会，彰显其在后种族隔离时代对尊严与包容性治理的持续追求。\n2. 集会活动聚焦南非社会转型成果与挑战，强调国家认同与历史和解的重要性。\n3. 国际媒体关注南非纪念活动，视其为评估该国民主进程与治理模式的关键窗口。\n\n最值得关注的是，南非通过纪念活动向外界传递了坚持多元共治、巩固民主成果的明确信号。",
-      "count": 1
+      "summary": "今日新闻联播动态摘要\n\n1. **中国新能源发展里程碑**：中国太阳能发电装机容量首次超过煤电，标志着能源结构转型取得重大突破；同时，中国在人工智能、机器人技术领域持续领先，民众对AI技术的乐观程度高于美国。\n\n2. **中国半导体产业加速突破**：长鑫存储（CXMT）开始量产HBM3E内存，并在LPDDR6内存上率先实现量产，超越西方芯片制造商；长江存储（YMTC）的IPO进程也显示中国正打造全球NAND闪存领域的领先企业。\n\n3. **国际气候责任与灾害应对**：尼泊尔因洪水向中国、美国、印度等排放大国寻求补偿，同时中尼边境洪灾造成严重破坏，相关灾情图片引发关注。\n\n4. **中美科技竞争与安全指控**：美国司法部将一系列针对联邦机构和医院的网络攻击归咎于中国，而美媒评论称“美国对华有战略计划”；欧盟银行家则呼吁动用私人储蓄以跟上中美科技竞争步伐。\n\n5. **中国公共卫生与社会治理**：研究显示中国烟草产品自1990年以来已导致至少5700万人死亡，凸显控烟紧迫性；南非自由日纪念集会则强调后种族隔离时代对尊严与包容性治理的追求。\n\n**今日最值得关注的发展**：中国太阳能装机首超煤电及半导体存储芯片量产突破，标志着中国在清洁能源与关键科技领域正加速实现自主可控，成为今日最具战略意义的进展。",
+      "count": 30
     }
   }
 }
