@@ -1,9 +1,90 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T17:35:55.237286",
+  "generated_at": "2026-09-03T23:52:24.783608",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "a396e282ec67",
+          "title": "Oura files to go public",
+          "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+          "description": "The ring maker says that its business has shown significant revenue growth over the past year.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 03 Sep 2026 22:35:41 +0000"
+        },
+        {
+          "id": "3f991453c206",
+          "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+          "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+          "description": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 03 Sep 2026 22:18:30 +0000"
+        },
+        {
+          "id": "9a9c840d4976",
+          "title": "Startup ARR is less secure than ever, new research shows",
+          "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+          "description": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 03 Sep 2026 20:59:23 +0000"
+        },
+        {
+          "id": "bde09b7d5fbb",
+          "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+          "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+          "description": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 03 Sep 2026 19:42:48 +0000"
+        },
+        {
+          "id": "9851df5dce80",
+          "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+          "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+          "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 03 Sep 2026 19:36:29 +0000"
+        },
+        {
+          "id": "479991bf4bd7",
+          "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+          "link": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+          "description": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 03 Sep 2026 19:29:16 +0000"
+        },
+        {
+          "id": "d3d314007d3f",
+          "title": "Abliteration.ai is making a business out of removing AI guardrails",
+          "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+          "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 03 Sep 2026 18:37:57 +0000"
+        },
+        {
+          "id": "06a5c5173fea",
+          "title": "Meta is paying to peek at how you use their latest AI model",
+          "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+          "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 03 Sep 2026 18:19:56 +0000"
+        },
+        {
+          "id": "6658ef3bc1c3",
+          "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+          "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+          "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 03 Sep 2026 18:01:45 +0000"
+        },
         {
           "id": "6b490309bc0b",
           "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
@@ -104,85 +185,85 @@
           "pub_date": "Wed, 02 Sep 2026 22:44:56 +0000"
         },
         {
-          "id": "fb73dc93d8e1",
-          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-          "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-          "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-          "source": "TechCrunch",
+          "id": "f176a113399d",
+          "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+          "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+          "description": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 02 Sep 2026 22:24:09 +0000"
+          "pub_date": "Thu, 03 Sep 2026 22:13:50 +0000"
         },
         {
-          "id": "b149eb11bd44",
-          "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-          "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-          "description": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
-          "source": "TechCrunch",
+          "id": "848186929223",
+          "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+          "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+          "description": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 02 Sep 2026 21:38:34 +0000"
+          "pub_date": "Thu, 03 Sep 2026 21:10:59 +0000"
         },
         {
-          "id": "ff733f576dec",
-          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-          "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-          "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-          "source": "TechCrunch",
+          "id": "a7f46c54cda2",
+          "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+          "link": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
+          "description": "Researchers now have clear new targets and insights for developing a Shigella vaccine.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 02 Sep 2026 20:19:14 +0000"
+          "pub_date": "Thu, 03 Sep 2026 20:14:48 +0000"
         },
         {
-          "id": "95977eb0624a",
-          "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
-          "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
-          "description": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
-          "source": "TechCrunch",
+          "id": "505ddded79d0",
+          "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+          "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+          "description": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 02 Sep 2026 20:12:41 +0000"
+          "pub_date": "Thu, 03 Sep 2026 19:52:06 +0000"
         },
         {
-          "id": "7bc74ef226ef",
-          "title": "It sure looks like hackers breached a major ID card verification service",
-          "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
-          "description": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
-          "source": "TechCrunch",
+          "id": "ff2f60444a00",
+          "title": "Supreme Court urged to let states regulate sports bets on prediction markets",
+          "link": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
+          "description": "Circuit split raised the odds that SCOTUS will rule on Kalshi fight against states.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 02 Sep 2026 19:35:09 +0000"
+          "pub_date": "Thu, 03 Sep 2026 19:42:02 +0000"
         },
         {
-          "id": "367dba236d57",
-          "title": "Delivery Hero board backs Uber’s $15B takeover bid",
-          "link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
-          "description": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
-          "source": "TechCrunch",
+          "id": "a8c5a503d1a2",
+          "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+          "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+          "description": "Pro soccer team's CTO points to \"issues with the Broadcom takeover.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 02 Sep 2026 19:25:35 +0000"
+          "pub_date": "Thu, 03 Sep 2026 18:58:31 +0000"
         },
         {
-          "id": "9abf06fcfd5b",
-          "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-          "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-          "description": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&#160;what’s&#160;real.&#160; A handful of startups have cropped up in the past couple of [&#8230;]",
-          "source": "TechCrunch",
+          "id": "0d227b32e3ff",
+          "title": "Just like a fruit fly, a new algorithm never forgets old scents",
+          "link": "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/",
+          "description": "Insect-inspired \"sparse coding\" does fast learning, avoids catastrophic forgetting.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 02 Sep 2026 17:18:13 +0000"
+          "pub_date": "Thu, 03 Sep 2026 18:22:52 +0000"
         },
         {
-          "id": "6c2498306119",
-          "title": "X shifts US creator payouts from Stripe to X Money",
-          "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
-          "description": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
-          "source": "TechCrunch",
+          "id": "457e226f4992",
+          "title": "Four major AI models suffer rare overlapping downtime",
+          "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+          "description": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 02 Sep 2026 17:12:27 +0000"
+          "pub_date": "Thu, 03 Sep 2026 18:10:19 +0000"
         },
         {
-          "id": "1d929169f8ab",
-          "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-          "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-          "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
-          "source": "TechCrunch",
+          "id": "fd354eadf706",
+          "title": "Trump’s 100% tariff on drones will be disaster for the US, critics warn",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking/",
+          "description": "Americans fear there are no cheap alternatives as tariffs suddenly hit drones.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 02 Sep 2026 17:09:06 +0000"
+          "pub_date": "Thu, 03 Sep 2026 17:08:09 +0000"
         },
         {
           "id": "3fa88efd372b",
@@ -282,90 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 02 Sep 2026 13:04:59 +0000"
-        },
-        {
-          "id": "c9bc08a072cc",
-          "title": "Is Russia's rival to Starlink failing? Here's what we know.",
-          "link": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
-          "description": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 02 Sep 2026 11:15:23 +0000"
-        },
-        {
-          "id": "c836f5fda3e7",
-          "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-          "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
-          "description": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 02 Sep 2026 11:00:43 +0000"
-        },
-        {
-          "id": "5ab233e73d47",
-          "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
-          "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
-          "description": "333 miles of real-world range with uncompromised comfort and off-road ability.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 23:01:52 +0000"
-        },
-        {
-          "id": "5eb0d3443e49",
-          "title": "Research roundup: 7 cool science stories we almost missed",
-          "link": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
-          "description": "\"Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 19:06:10 +0000"
-        },
-        {
-          "id": "703b005dde4a",
-          "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
-          "link": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
-          "description": "Historically, state health departments determine cases and deaths, not the CDC.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 18:21:16 +0000"
-        },
-        {
-          "id": "0af4af3be369",
-          "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
-          "link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
-          "description": "New features are rolling out across the Android ecosystem starting today.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 18:00:02 +0000"
-        },
-        {
-          "id": "ed1271bb8798",
-          "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
-          "link": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
-          "description": "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 17:51:17 +0000"
-        },
-        {
-          "id": "aa7f0dae5c10",
-          "title": "This is what a supercar was like a century ago",
-          "link": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
-          "description": "When the average car could only do 40 mph, this Bentley could break 100.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 17:34:16 +0000"
-        },
-        {
-          "id": "3a29de75a7df",
-          "title": "It turns out that Orion's much-maligned heat shield performed really well",
-          "link": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
-          "description": "Independent safety officials also have high praise for changes by NASA leadership.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 01 Sep 2026 14:46:28 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI助手与语音功能竞争加剧**：谷歌在Gmail、Docs和Keep中推出AI语音功能，同时初创公司Ollie主打隐私保护以差异化竞争AI助手市场；OpenAI的新推理技术引发AI安全专家担忧。\n\n2. **智能穿戴与支付创新**：高通领投Ultrahuman 7000万美元融资，押注智能戒指向“微型电脑”进化；Circular发布Ring 3系列，支持非接触支付和指上震动提醒。\n\n3. **AI天气预测模型突破**：谷歌发布最新AI天气模型，能更精准预报降雨等天气变化，减少用户忘带伞的情况。\n\n4. **大型并购与自动驾驶扩张**：英伟达确认以129亿美元收购Hugging Face；亚马逊旗下Zoox将自动驾驶出租车服务扩展至拉斯维加斯机场。\n\n5. **监管与法律风向**：谷歌在广告业务拆分诉讼中幸免，但被法官要求调整运营方式；TikTok评论功能新增语音评论、投票等互动形式。\n\n**最值得关注**：英伟达巨额收购Hugging Face及谷歌AI语音全面铺开，显示科技巨头正加速整合AI基础设施与应用层，而OpenAI的推理技术争议则凸显AI安全治理的紧迫性。",
+      "summary": "今日科技动态摘要\n\n1. **AI行业融资与竞争加剧**：Accel正洽谈领投Thinking Machines的10亿美元融资（估值400亿美元），同时OpenAI发布功能强大且具争议的新模型Astra，Google也在Gmail、Docs和Keep中推出AI语音功能，AI助手赛道竞争白热化。\n\n2. **特斯拉推进自动驾驶商业化**：特斯拉询问用户是否愿意购买并运营Cybercab无人驾驶出租车队，媒体称Cybercab是特斯拉的“分岔路口”时刻，标志其从造车向出行服务战略转型。\n\n3. **智能戒指成新热点**：高通以7000万美元投资Ultrahuman，押注智能戒指变身“微型电脑”；Circular发布Ring 3系列，支持非接触支付和指上震动提醒，智能穿戴设备形态持续进化。\n\n4. **AI安全与隐私争议升温**：Abliteration.ai专门从事“去除AI护栏”业务，Meta付费窥探用户如何使用其最新AI模型，引发隐私与安全担忧；初创公司Ollie则押注隐私保护作为AI助手差异化卖点。\n\n5. **能源与科技公司跨界合作**：公用事业公司竞相与核聚变初创企业合作，Realta Fusion成为最新受益者；Google发布新AI天气模型，助力更精准的降雨预报。\n\n**总结**：今日最值得关注的是AI赛道“军备竞赛”加剧——从模型发布（Astra）、融资（Thinking Machines）到商业化落地（Google语音、特斯拉Cybercab），同时伴随AI安全与隐私的深层矛盾浮出水面。",
       "count": 40
     },
     "ai": {
@@ -470,6 +470,42 @@
           "pub_date": "Tue, 01 Sep 2026 16:00:00 +0000"
         },
         {
+          "id": "a2dae43eef09",
+          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "description": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 03 Sep 2026 13:15:00 GMT"
+        },
+        {
+          "id": "38ec14e34a64",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 03 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "6a36f73ee2a6",
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "description": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 03 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "bef1d1acc63b",
+          "title": "Safety overview: GPT-6 Astra",
+          "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "description": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 03 Sep 2026 00:00:00 GMT"
+        },
+        {
           "id": "32a116efe5e1",
           "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
           "link": "https://openai.com/index/atv-big-air-tour",
@@ -560,6 +596,24 @@
           "pub_date": "Fri, 28 Aug 2026 02:00:00 GMT"
         },
         {
+          "id": "bc669bbcce66",
+          "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+          "link": "https://www.qbitai.com/2026/09/483948.html",
+          "description": "改进GPT Image 2的噪点问题",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 03 Sep 2026 21:57:08 +0000"
+        },
+        {
+          "id": "2ac1ac49a751",
+          "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+          "link": "https://www.qbitai.com/2026/09/483898.html",
+          "description": "全球最强C",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 03 Sep 2026 21:50:07 +0000"
+        },
+        {
           "id": "76b1d8329bca",
           "title": "“没有Token的CS学生，应立即退学”",
           "link": "https://www.qbitai.com/2026/09/483839.html",
@@ -585,63 +639,9 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Thu, 03 Sep 2026 10:18:36 +0000"
-        },
-        {
-          "id": "ab4e702c3532",
-          "title": "陈大年复出，入局大模型",
-          "link": "https://www.qbitai.com/2026/09/483600.html",
-          "description": "首秀逼近DeepSeek万亿旗舰",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 03 Sep 2026 10:13:24 +0000"
-        },
-        {
-          "id": "7baccbcab53e",
-          "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
-          "link": "https://www.qbitai.com/2026/09/483565.html",
-          "description": "从工厂一路干到家庭",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 03 Sep 2026 03:16:43 +0000"
-        },
-        {
-          "id": "56248e64862f",
-          "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-          "link": "https://www.qbitai.com/2026/09/483552.html",
-          "description": "",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 03 Sep 2026 01:31:45 +0000"
-        },
-        {
-          "id": "f3e5de422298",
-          "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
-          "link": "https://www.qbitai.com/2026/09/483462.html",
-          "description": "4激光雷达+双M100上车",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 03 Sep 2026 01:27:05 +0000"
-        },
-        {
-          "id": "bebb92d4a46a",
-          "title": "今年最难的机器人Demo，“机器人含量”为0",
-          "link": "https://www.qbitai.com/2026/09/483351.html",
-          "description": "遥操，可能真的危险了",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 03 Sep 2026 00:51:16 +0000"
-        },
-        {
-          "id": "b680d0987507",
-          "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-          "link": "https://www.qbitai.com/2026/09/483274.html",
-          "description": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Wed, 02 Sep 2026 09:22:16 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **多模态与效率并进**：Hugging Face发布NeoMME，主打高效多模态原生多语言编码器；同时推出基于WebGPU的200+内核库，显著降低本地AI推理门槛。  \n2. **模型训练与微调创新**：展示用100步GRPO微调350M模型提升结构化输出；结合TRL与OpenEnv训练编码模型生成水彩画，探索跨域生成与强化学习结合。  \n3. **AI安全与评测深化**：BenchMIRT质疑LLM基准的真实测量维度；OpenAI发布“Path to Astra”报告，强调前沿模型的关键能力与安全防护措施。  \n4. **行业落地加速**：IBM时序模型接入Confluent实现实时智能；OpenAI让医疗组织连接EHR数据至ChatGPT；Google Pics简化工作区图像生成与编辑；ChatGPT帮助ATV赛事将3天工作压缩至3小时。  \n5. **开放性与全球化扩展**：Open ASR排行榜新增首个“全球南方”语言；Google发布面向政府与企业的主动网络防御方案，并汇总2026年8月AI进展。\n\n**今日焦点**：多模态效率与本地化推理取得突破，同时AI安全评估与垂直行业（医疗、赛事、政府）落地并进，预示技术正从“可用”迈向“可信且实用”。",
+      "summary": "今日AI动态摘要\n\n1. **多模态与效率革新**：NeoMME推出高效原生多模态多语言编码器；Hugging Face发布200+ WebGPU内核，显著提升本地AI推理性能。\n2. **模型微调与结构化输出**：展示仅用100步GRPO即可微调350M模型，实现更优结构化输出；另有教程结合TRL与OpenEnv训练编码模型生成水彩画，探索创意AI边界。\n3. **智能体与数据记忆**：强调为编码智能体赋予自主拥有的记忆能力；同时发布BenchMIRT，剖析LLM基准测试的真实衡量维度。\n4. **行业级AI应用落地**：IBM时序模型集成Confluent实现实时智能；开源语音识别榜单首次纳入全球南方语言；Google与OpenAI分别推出面向政府的企业级主动网络防御工具及防护关键服务的“Daybreak”计划（10亿美元投入）。\n5. **生成式AI产品化加速**：Google推出Workspace内图像生成编辑工具“Google Pics”；OpenAI展示GPT-6 Astra在法务文档审查（41份/分钟）和游戏原型开发中减少50%人工修正的实际效能，并同步发布安全概览。\n\n**总结**：今日焦点集中于多模态效率提升、智能体记忆自主化及生成式AI在垂直行业的规模化落地，其中OpenAI与Google的实战案例凸显AI正从演示走向核心业务价值创造。",
       "count": 30
     },
     "cctv": {
@@ -656,7 +656,7 @@
           "pub_date": "Sun, 23 Aug 2026 00:00:00 GMT"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 南非自由日纪念集会举行，彰显其在后种族隔离时代对尊严与包容性治理的持续追求。\n2. 集会强调南非社会对历史创伤的反思及面向未来的和解与平等议程。\n3. 报道突出南非在推动多元共治、保障公民权利方面的进展与挑战。\n\n最值得关注的是南非以纪念活动为契机，重申包容性治理的国家方向，这一表态对观察其国内政治走向及区域影响力具有风向标意义。",
+      "summary": "今日新闻联播动态摘要\n\n1. 南非举行“自由日”纪念集会，彰显其在后种族隔离时代对尊严与包容性治理的持续追求。\n2. 集会活动聚焦国家转型历程，强调社会和解与多元共治的政治共识。\n3. 南非官方与民众共同回顾反种族隔离斗争历史，重申平等与正义的核心价值。\n4. 此举被视作南非在全球化背景下巩固民主成果、应对现实挑战的重要信号。\n\n今日最值得关注的发展是：南非通过“自由日”纪念活动，明确传递出在后种族隔离阶段以包容性治理巩固国家认同与稳定发展的坚定方向。",
       "count": 1
     }
   }
