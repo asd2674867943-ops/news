@@ -1,17 +1,44 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12T16:48:08.540884",
+  "generated_at": "2026-09-12T23:52:37.070376",
   "categories": {
     "tech": {
       "articles": [
         {
-          "id": "0fde686ebafa",
-          "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-          "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-          "description": "What would it actually look like to \"pace the frontier\"?",
+          "id": "b8abd08f286c",
+          "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+          "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+          "description": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sat, 12 Sep 2026 15:52:11 +0000"
+          "pub_date": "Sat, 12 Sep 2026 23:25:38 +0000"
+        },
+        {
+          "id": "3b74f7918e6b",
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 12 Sep 2026 20:19:16 +0000"
+        },
+        {
+          "id": "91b2d941559e",
+          "title": "Anthropic CEO outlines plan to slow AI development",
+          "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+          "description": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 12 Sep 2026 19:34:44 +0000"
+        },
+        {
+          "id": "165ab82d5c89",
+          "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+          "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+          "description": "Tesla’s halo sports car was first announced in November 2017.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 12 Sep 2026 19:21:19 +0000"
         },
         {
           "id": "e15b8e737cab",
@@ -156,33 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 10 Sep 2026 21:35:00 +0000"
-        },
-        {
-          "id": "342837c1c39e",
-          "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-          "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-          "description": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 10 Sep 2026 20:59:51 +0000"
-        },
-        {
-          "id": "6640ebdb64b9",
-          "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-          "description": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 10 Sep 2026 20:57:30 +0000"
-        },
-        {
-          "id": "f924691f5167",
-          "title": "Furo’s founders left Silicon Valley — and it’s paying off",
-          "link": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
-          "description": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 10 Sep 2026 20:48:00 +0000"
         },
         {
           "id": "80279160c501",
@@ -365,7 +365,7 @@
           "pub_date": "Thu, 10 Sep 2026 17:54:33 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. AI巨头动态频繁：Anthropic CEO提出“控制前沿”计划，Y Combinator的Garry Tan呼吁美国开放权重AI实验室也应“蒸馏”前沿模型，OpenAI与数学家的争端持续升级。\n\n2. 数据安全事件密集：Revolut确认因伪造政府请求导致客户数据泄露，Trezor确认邮件提供商数据泄露后数十万加密货币持有者遭诈骗分子针对。\n\n3. 机器人与AI训练数据赛道升温：Mecka AI在红杉领投的交易中估值近5亿美元，反映市场对机器人训练数据的迫切需求；Moonshot AI（Kimi开发商）瞄准20亿美元年收入目标。\n\n4. 创投与人事布局：Khosla Ventures将在纽约开设首个Sand Hill Road以外的办公室，Nscale在潜在IPO前任命前OpenAI高管Fidji Simo加入董事会。\n\n今日最值得关注的发展是：AI数据安全与训练数据争夺同时升温——Revolut和Trezor接连发生数据泄露，而Mecka AI近5亿美元估值则凸显机器人训练数据已成为资本竞逐的新焦点。",
+      "summary": "今日科技动态摘要\n\n1. **Automattic管理层变动落定**：Automattic确认Mullenweg在董事会试图罢免后已回归担任CEO。\n2. **AI巨头动态密集**：OpenAI的Sam Altman表示2026年上市“不明智”；Anthropic CEO提出放缓AI发展的计划；OpenAI与数学家的争端持续升级；Y Combinator的Garry Tan呼吁美国开放权重AI实验室也“蒸馏”前沿模型。\n3. **机器人与AI数据赛道升温**：Mecka AI在红杉领投的交易中估值接近5亿美元，凸显机器人训练数据需求激增；Moonshot AI（Kimi开发商）瞄准20亿美元年收入。\n4. **企业与资本布局**：Revolut确认因伪造政府请求导致客户数据泄露；Khosla Ventures今秋开设纽约办公室，首次走出沙丘路；Nscale在潜在IPO前任命前OpenAI高管Fidji Simo进入董事会。\n5. **产品与活动**：特斯拉将于10月1日发布第二代Roadster；Roblox让AI建游戏更容易并支持在Roblox之外游玩；TechCrunch Disrupt 2026展位与边会报名进入最后阶段。\n\n今日最值得关注的是：AI行业在上市节奏、发展速度与开放策略上出现明显分歧，同时机器训练数据与AI商业化正加速吸金。",
       "count": 40
     },
     "ai": {
@@ -641,11 +641,20 @@
           "pub_date": "Sat, 12 Sep 2026 08:15:31 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **OpenAI密集发布企业与开发者新能力**：推出面向金融服务行业的ChatGPT、Agents API、GPT‑Live‑1语音API，并扩展联邦、州、地方及部落政府的AI访问与网络防御支持，同时分享Codex/ChatGPT用于抗菌分子研究、Devin用GPT‑6 Astra自测等案例。\n\n2. **AI基础设施与规模化挑战受关注**：OpenAI介绍如何快速扩展在线存储以服务超10亿ChatGPT用户，凸显大模型应用背后的工程与容量压力。\n\n3. **开源与模型发布持续活跃**：Hugging Face上出现AUTOMATIC1111的Gradio工作流重建、IBM发布商业友好许可的Granite Time Series PatchTST‑FM‑r2时序模型，以及关于AI安全应“拒绝话题的特定子集而非整个话题”的讨论。\n\n4. **Google将AI融入搜索与生活场景**：Search新增备战大赛、足球赛事功能，并用AI逐帧重现70年爱情故事，体现搜索产品的场景化与情感化延伸。\n\n5. **AI政策窗口期引发行动呼吁**：OpenAI发文称“AI政策窗口已打开，需要采取行动”，反映行业对监管与政策参与的紧迫感。\n\n今日最值得关注的是OpenAI从企业API、行业方案到政府合作与政策倡导的全方位推进，显示AI竞争正加速转向生态、基础设施与治理层面。",
+      "summary": "今日AI动态摘要\n\n1. **OpenAI密集发布企业与开发者新能力**：推出ChatGPT金融服务版、Agents API、GPT‑Live‑1语音API，并展示Codex/ChatGPT辅助科研（如抗菌分子发现）及支撑10亿级用户存储扩展的工程实践。\n2. **模型与开源生态持续更新**：IBM发布商业友好许可的Granite Time Series PatchTST-FM-r2时序模型；Hugging Face上出现AUTOMATIC1111的Gradio工作流重构，以及关于AI安全应“拒绝话题子集而非整个话题”的讨论。\n3. **Google将AI融入搜索与生活场景**：Search新增备赛训练、足球赛事功能，并用AI逐帧重现70年爱情故事，强调AI在个人化与情感化场景的落地。\n4. **AI政策与公共部门应用加速**：OpenAI呼吁抓住AI政策窗口期，并推动联邦、州、地方和部落政府的AI访问与网络防御扩展。\n\n今日最值得关注的是OpenAI从API、行业方案到科研与公共政策的多线推进，显示AI正加速进入企业服务、科学发现和政府治理等核心领域。",
       "count": 30
     },
     "cctv": {
       "articles": [
+        {
+          "id": "5ec030b8a7bf",
+          "title": "China on track to launch Mars sample-return mission in 2028: 'A Sputnik moment?'",
+          "link": "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment",
+          "description": "Article URL: https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment Comments URL: https://news.ycombinator.com/item?id=49677818 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 12 Sep 2026 22:19:29 +0000"
+        },
         {
           "id": "127acdd2b7d1",
           "title": "I spent $4,000 on a robot dog from China",
@@ -668,7 +677,7 @@
           "id": "724d7270a007",
           "title": "Karaoke for one: China's $1T 'loneliness economy'",
           "link": "https://www.cnn.com/2026/09/12/business/asia-loneliness-economy-intl-hnk-dst",
-          "description": "Article URL: https://www.cnn.com/2026/09/12/business/asia-loneliness-economy-intl-hnk-dst Comments URL: https://news.ycombinator.com/item?id=49671467 Points: 1 # Comments: 0",
+          "description": "Article URL: https://www.cnn.com/2026/09/12/business/asia-loneliness-economy-intl-hnk-dst Comments URL: https://news.ycombinator.com/item?id=49671467 Points: 2 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 12 Sep 2026 12:04:40 +0000"
@@ -888,18 +897,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Tue, 08 Sep 2026 21:14:07 +0000"
-        },
-        {
-          "id": "e3789f473b2f",
-          "title": "Taiwan's six-year hunt for China's undercover chip labs",
-          "link": "https://restofworld.org/2026/taiwan-china-chip-investigations/",
-          "description": "Article URL: https://restofworld.org/2026/taiwan-china-chip-investigations/ Comments URL: https://news.ycombinator.com/item?id=49615486 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 08 Sep 2026 19:22:16 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 中国经济与科技影响力持续扩展：从机器人狗、癌症治疗到稀土磁材，中国在多个领域展现出全球竞争力；同时，阿布扎比投资瑞幸咖啡、美国电池市场对华依赖等事件也反映出中国经济的全球渗透力。\n\n2. 地缘政治与科技博弈加剧：华为被美国定性为“犯罪企业”、中国扩展海外法律触角反制美国制裁、欧盟推出“买欧洲”采购规则应对中国，以及AI攻击微信等事件，凸显中西科技与法律对抗升级。\n\n3. 社会与政策新动向引发关注：中国“孤独经济”规模达万亿美元、地理数据限制收紧、中国今年未跨入高收入国家门槛，以及补贴政策成效与反补贴税失效等，折射出内部结构调整与外部政策摩擦的双重挑战。\n\n今日最值得关注的是：中国在科技、贸易与法律领域与西方国家的博弈全面升温，同时其内部经济转型与社会变迁正重塑全球格局。",
+      "summary": "今日新闻联播动态摘要\n\n1. 中国航天与科技自主创新持续推进：计划2028年实施火星采样返回任务，稀土磁铁技术取得突破，同时中国AI企业遭遇模拟攻击，凸显科技安全新挑战。\n2. 中国经济与消费市场呈现新动向：孤独经济规模达万亿美元，阿布扎比投资瑞幸咖啡10亿美元，但欧盟推出“买欧洲”公共采购规则以应对中国竞争。\n3. 中国法律与数据监管对外延伸：地理数据限制收紧，华为被美方指控为犯罪企业，中国正扩大法律域外适用以反制美国制裁。\n4. 国际社会对华合作与博弈并存：患者赴华接受最新癌症治疗，美国电池市场寻求脱钩，中俄不良行为者被指武器化Anthropic的AI。\n\n今日最值得关注的是，中国在航天、稀土和消费经济领域持续发力，但科技安全与地缘法律博弈正成为新的焦点。",
       "count": 28
     }
   }
