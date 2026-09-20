@@ -1,12 +1,39 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T17:01:50.462791",
+  "generated_at": "2026-09-19T23:58:35.721478",
   "categories": {
     "tech": {
       "articles": [
         {
-          "id": "4190b00962d5",
-          "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+          "id": "68305b3ae708",
+          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+          "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+          "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 19 Sep 2026 20:39:13 +0000"
+        },
+        {
+          "id": "bd0066cd7030",
+          "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+          "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 19 Sep 2026 19:57:47 +0000"
+        },
+        {
+          "id": "c8f067a9cb22",
+          "title": "Google’s Gemini is the latest AI model to hack other companies",
+          "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+          "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 19 Sep 2026 17:30:00 +0000"
+        },
+        {
+          "id": "ba5b6c5fce73",
+          "title": "The US Navy just told us what’s on its tech wish list for the next several years",
           "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
           "description": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
           "source": "TechCrunch",
@@ -156,33 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 18 Sep 2026 17:45:00 +0000"
-        },
-        {
-          "id": "182ede25ebb4",
-          "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-          "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-          "description": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 18 Sep 2026 17:33:50 +0000"
-        },
-        {
-          "id": "68467b0a430c",
-          "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-          "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-          "description": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 18 Sep 2026 17:26:41 +0000"
-        },
-        {
-          "id": "497233e432c6",
-          "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-          "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-          "description": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and&#160;it&#8217;s&#160;already picked up some&#160;industry support, along with some pointed&#160;pushback from Nvidia&#8217;s Jensen Huang.&#160; Watch [&#8230;]",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 18 Sep 2026 17:09:56 +0000"
         },
         {
           "id": "256272e312c1",
@@ -365,7 +365,7 @@
           "pub_date": "Thu, 17 Sep 2026 15:38:04 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. AI安全与风险问题频发：AI幻觉险些触发美军行动，Anthropic运营生物学实验室，AI安全话题讨论已变得难以置信。\n2. AI投资与估值持续升温：Andreessen Horowitz支持的Vals瞄准AI基准测试金标准；一家“建造初创公司的初创公司”融资1亿美元，全力押注物理AI；Y Combinator校友Angle Health估值达27亿美元。\n3. AI产品与应用加速落地：Petlibro推出AI喂食器，革新多猫家庭喂养体验；ChatGPT发明者推出新型AI模型，令开发者兴奋；世界模型公司高度保密。\n4. 企业与政策动态：印度强制来电识别应用向电信运营商报送垃圾信息报告；Automattic高管离职后任命临时CFO；Anthropic首家嵌入式评估方竟是埃森哲。\n\n今日最值得关注的是：AI幻觉险些引发美军行动，凸显AI安全风险已从理论走向现实危机。",
+      "summary": "今日科技动态摘要\n\n1. **AI行业动态频繁**：特朗普提议为AI重新命名并创建“AI Force”；Google的Gemini被指入侵其他公司；Anthropic运营生物学实验室并迎来埃森哲作为其首个嵌入式评估方；AI安全讨论愈发激烈。\n2. **AI应用与争议并存**：Petlibro推出AI喂食器，主打多猫家庭；AI幻觉险些触发美军行动；Tilly Norwood的AI公关之旅效果不佳。\n3. **企业与资本动向**：Flock试图通过员工买断缩减人力；Andreessen Horowitz支持的Vals瞄准AI基准测试金标准；一家“建造初创公司的初创公司”融资1亿美元，全力投入物理AI；Automattic任命临时CFO。\n4. **政策与市场**：印度强制来电显示应用向电信运营商提供垃圾信息报告；美国海军公布未来数年技术愿望清单；TechCrunch Disrupt门票即将涨价。\n\n今日最值得关注的是AI幻觉险些引发美军行动，凸显AI安全风险已从理论走向现实危机。",
       "count": 40
     },
     "ai": {
@@ -641,16 +641,25 @@
           "pub_date": "Sat, 19 Sep 2026 06:39:32 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AI智能体的可靠性与可复现性成为关注焦点**：Hugging Face提出“你的智能体完成了任务，但它能再次做到吗？”这一问题，指向AI Agent在稳定性与可重复执行方面的关键挑战。\n\n2. **Google全面推进AI在社会、经济与科学领域的应用**：Google AI团队迎来新专家加入AI与经济团队，发布AI与经济ATLAS新洞察，并推动AI加速科学研究、改善生活、促进社会影响及多语言普及。\n\n3. **OpenAI加速行业落地，法律与广告成新前沿**：OpenAI推出面向法律行业的Astra for Law，帮助Cooley加速IPO工作，探索AI重塑广告，并关注老年人日常使用AI及澳大利亚青少年安全蓝图。\n\n4. **AI与时尚、太空探索及全球数据探索加速融合**：Google与时尚产业共同创造未来，携手宇航员Christina Koch探讨太空与技术发现，并让全球数据更易探索。\n\n今日最值得关注的发展是：AI正从“能完成任务”迈向“可靠复现、跨行业深度落地”的新阶段，法律、广告、科研与公共安全成为重点突破方向。",
+      "summary": "今日AI动态摘要\n\n1. **AI智能体可靠性与评测**：Hugging Face关注AI智能体任务表现的可重复性，即“一次成功”不等于“次次成功”，强调对智能体稳定性和可靠性的评估。\n2. **Google推进AI社会与经济应用**：Google AI团队新增专家，发布AI与经济ATLAS新洞察，并推动AI在科学加速、社会影响、全球数据探索、时尚共创及多语言普及等领域的应用。\n3. **OpenAI拓展行业与人群覆盖**：OpenAI推出面向法律行业的Astra、澳大利亚青年安全蓝图，帮助老年人日常使用AI，并探索AI重塑广告，同时展示Cooley用ChatGPT加速IPO工作。\n4. **AI普及与教育生态**：Google DevFest回归，宇航员与Google高管对谈太空、技术与发现，体现AI社区活动与跨领域对话持续活跃。\n\n今日最值得关注的是：AI正从“单次任务成功”走向“可靠可重复”，同时加速向法律、广告、老年生活等具体场景落地。",
       "count": 30
     },
     "cctv": {
       "articles": [
         {
+          "id": "c30ca3a191c4",
+          "title": "China Stockpiled Oil, and Now It Could Dominate the Energy Landscape",
+          "link": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
+          "description": "Article URL: https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html Comments URL: https://news.ycombinator.com/item?id=49768249 Points: 2 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 19 Sep 2026 17:04:06 +0000"
+        },
+        {
           "id": "ab4106426d98",
           "title": "China's Electric Aviation Advantage Is a Transport System, Not a Prototype",
           "link": "https://cleantechnica.com/2026/09/19/china-electric-aviation-transport-system/",
-          "description": "Article URL: https://cleantechnica.com/2026/09/19/china-electric-aviation-transport-system/ Comments URL: https://news.ycombinator.com/item?id=49767719 Points: 3 # Comments: 0",
+          "description": "Article URL: https://cleantechnica.com/2026/09/19/china-electric-aviation-transport-system/ Comments URL: https://news.ycombinator.com/item?id=49767719 Points: 7 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sat, 19 Sep 2026 16:11:05 +0000"
@@ -762,15 +771,6 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Thu, 17 Sep 2026 20:41:32 +0000"
-        },
-        {
-          "id": "c30ca3a191c4",
-          "title": "China Stockpiled Oil, and Now It Could Dominate the Energy Landscape",
-          "link": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
-          "description": "Article URL: https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html Comments URL: https://news.ycombinator.com/item?id=49744901 Points: 1 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 17 Sep 2026 18:49:05 +0000"
         },
         {
           "id": "95e26755eb8d",
@@ -897,19 +897,10 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Tue, 15 Sep 2026 15:25:17 +0000"
-        },
-        {
-          "id": "a27b9863dcd6",
-          "title": "China mulls building nuclear-powered tank with 450km-range railgun in 2 decades",
-          "link": "https://www.scmp.com/news/china/science/article/3367546/china-mulls-building-nuclear-powered-tank-450km-range-railgun-2-decades",
-          "description": "Article URL: https://www.scmp.com/news/china/science/article/3367546/china-mulls-building-nuclear-powered-tank-450km-range-railgun-2-decades Comments URL: https://news.ycombinator.com/item?id=49713287 Points: 3 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 15 Sep 2026 14:42:04 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **人工智能竞争与治理成为中美博弈核心议题**：多篇报道聚焦中美AI竞争，涉及AI监管、AI引发的误判风险（如AI虚假报告险些引发对华冲突）、以及中美安全专家联合提议建立类似核武器的AI风险保障机制。\n2. **中国AI产业加速发展并引发全球关注**：报告预测中国Token消耗量2026年将达100千万亿；中国在AI时代重新审视英语学习价值；同时中国正积极防范AI脱离人类控制的风险。\n3. **中国科技自主突破持续发力**：中科院探索无需EUV的DUV路线以实现3nm GAA芯片制造；中国电动航空优势被视为完整交通系统而非单一原型。\n4. **中国在能源与制造业领域展现战略布局**：中国大量囤积石油，可能主导全球能源格局；预制房屋工厂从疫情隔离箱转型为高端出口产品。\n5. **AI安全与信息战风险凸显**：伊朗与中国被指利用自主AI开展影响力行动；美国联邦网站使用被FBI认定抄袭Anthropic的中国AI搜索工具，引发安全担忧。\n\n今日最值得关注的发展是：AI技术在中美关系中的双刃剑效应日益显著——既可能因错误情报险些引发军事冲突，也推动两国安全专家联手提出核武器级别的AI风险管控框架。",
-      "count": 29
+      "summary": "今日新闻联播动态摘要\n\n1. **能源与战略储备**：中国持续囤积石油，未来可能主导全球能源格局。\n2. **AI与科技竞争**：中国在AI领域加速发展，预计2026年Token消耗量达100千万亿；同时，中国在电动航空、DUV光刻路线（无需EUV即可迈向3nm GAA）等方面取得突破，并积极准备应对AI失控风险。\n3. **AI治理与国际安全**：中美安全专家提议对AI风险实施核武级保障措施；有报道称AI聊天机器人的虚假报告险些引发中美冲突，凸显AI监管与情报准确性的紧迫性。\n4. **社会与教育反思**：在AI时代，部分中国人开始质疑学习英语的必要性；中国预制房屋工厂从疫情隔离箱转向豪华出口产品。\n\n今日最值得关注的发展是：中国在AI、能源和半导体等关键领域 simultaneously 推进战略布局，同时中美在AI安全与监管上的互动日益成为全球稳定焦点。",
+      "count": 28
     }
   }
 }
