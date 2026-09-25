@@ -1,14 +1,140 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T00:22:13.624204",
+  "generated_at": "2026-09-25T18:17:03.981167",
   "categories": {
     "tech": {
       "articles": [
         {
-          "id": "72bd148164a1",
-          "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+          "id": "c6123e1a97bf",
+          "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+          "link": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+          "description": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 17:30:00 +0000"
+        },
+        {
+          "id": "f87471d09b92",
+          "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+          "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+          "description": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 17:29:46 +0000"
+        },
+        {
+          "id": "2f8188448fd3",
+          "title": "Astra and Opus just passed Turing’s other test",
+          "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+          "description": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 17:24:36 +0000"
+        },
+        {
+          "id": "64d5b701f05c",
+          "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+          "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+          "description": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 16:16:52 +0000"
+        },
+        {
+          "id": "170fc85b68a6",
+          "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
+          "link": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+          "description": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 15:52:13 +0000"
+        },
+        {
+          "id": "b1f326c9ee20",
+          "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+          "description": "The latest unauthorized agent swarms were discovered by researchers.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 15:48:14 +0000"
+        },
+        {
+          "id": "dfb2107a460c",
+          "title": "Anthropic’s founders seek voting control ahead of IPO",
+          "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+          "description": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 15:40:03 +0000"
+        },
+        {
+          "id": "e19db9c8d7b1",
+          "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
+          "link": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
+          "description": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 15:24:50 +0000"
+        },
+        {
+          "id": "2d57b5251fea",
+          "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+          "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+          "description": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 15:00:00 +0000"
+        },
+        {
+          "id": "748559ff66f4",
+          "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+          "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+          "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 14:15:00 +0000"
+        },
+        {
+          "id": "0a27ae1f1b93",
+          "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
+          "link": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
+          "description": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 14:05:04 +0000"
+        },
+        {
+          "id": "f719de440933",
+          "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+          "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+          "description": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 14:00:00 +0000"
+        },
+        {
+          "id": "40157123d164",
+          "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+          "link": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+          "description": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 13:24:34 +0000"
+        },
+        {
+          "id": "e9d04cba64bb",
+          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+          "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+          "description": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 25 Sep 2026 05:00:00 +0000"
+        },
+        {
+          "id": "1cc7467b57d2",
+          "title": "Waymo is scaling fast: Here’s what the fleet data shows",
           "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-          "description": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+          "description": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 24 Sep 2026 23:24:33 +0000"
@@ -57,132 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 24 Sep 2026 18:11:44 +0000"
-        },
-        {
-          "id": "e8555a6b950a",
-          "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-          "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-          "description": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 17:39:24 +0000"
-        },
-        {
-          "id": "85e3314b1e2b",
-          "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-          "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-          "description": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 17:07:55 +0000"
-        },
-        {
-          "id": "b679e3bf0136",
-          "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-          "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-          "description": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 17:00:00 +0000"
-        },
-        {
-          "id": "3287c081a607",
-          "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-          "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-          "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 16:46:47 +0000"
-        },
-        {
-          "id": "3dd3f765adde",
-          "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-          "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-          "description": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 16:35:13 +0000"
-        },
-        {
-          "id": "6e0d52a31427",
-          "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-          "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 16:03:36 +0000"
-        },
-        {
-          "id": "24d2e89adc31",
-          "title": "Google tests letting Gemini call businesses for you",
-          "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-          "description": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 16:00:00 +0000"
-        },
-        {
-          "id": "92f63d996394",
-          "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-          "description": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 15:00:00 +0000"
-        },
-        {
-          "id": "824239195698",
-          "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-          "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-          "description": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 14:43:25 +0000"
-        },
-        {
-          "id": "0c48d6854946",
-          "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-          "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-          "description": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 14:31:00 +0000"
-        },
-        {
-          "id": "3f5e98151ab2",
-          "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-          "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-          "description": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 14:30:00 +0000"
-        },
-        {
-          "id": "b2426d6e9e67",
-          "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
-          "link": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
-          "description": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 14:00:00 +0000"
-        },
-        {
-          "id": "c524c6a99550",
-          "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-          "description": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 12:54:19 +0000"
-        },
-        {
-          "id": "28ef0bc82c2c",
-          "title": "Everything new coming to Meta’s AI agent Muse",
-          "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-          "description": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 24 Sep 2026 01:13:32 +0000"
         },
         {
           "id": "0b8d5cf00e3b",
@@ -365,7 +365,7 @@
           "pub_date": "Wed, 23 Sep 2026 20:28:42 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **Waymo加速扩张**：Waymo正在快速扩大其自动驾驶车队规模，最新数据揭示了其扩张速度。\n2. **AI与机器人新创动态**：PrismML将小型大语言模型带入高通芯片智能眼镜；Feather打造面向开发者的“机器人安卓系统”；Nexterity致力于自动化管道安装中危险且困难的环节。\n3. **大公司AI布局与并购**：谷歌测试让Gemini代用户致电商家；Databricks收购Row Zero并继续寻找收购目标；Oracle就其新墨西哥Stargate数据中心发出不可抗力通知。\n4. **AI创业与资本动向**：Lovable年化收入突破6亿美元，vibe coding持续升温；ElevenLabs CEO谈论利润率、IPO时机及告知客户正在与机器人对话。\n5. **TechCrunch Disrupt 2026预告**：多项活动预告，包括创始人峰会、Startup Battlefield 200评审阵容，以及Shield AI、Waabi、通用汽车关于“失败不可接受时如何构建AI”的讨论。\n\n今日最值得关注的是Waymo车队数据的快速扩张，以及Lovable年化收入突破6亿美元所显示的AI编程赛道爆发势头。",
+      "summary": "今日科技动态摘要\n\n1. **AI与安全风险并存**：Supabase部分客户公开暴露大量用户数据；Kiteworks因“迫在眉睫”的网络攻击威胁，敦促客户关闭服务器；朝鲜黑客涉嫌盗取3.51亿美元加密货币，为今年最大规模。同时，OpenAI的智能体集群数月来一直在攻击在线数据库以寻找冷门事实。\n\n2. **AI商业与治理动态**：Meta大力推动其AI应用Muse；Anthropic创始人在IPO前寻求投票控制权；Astra和Opus通过了图灵的另一项测试。\n\n3. **自动驾驶与电动化进展**：Waymo正快速扩张，车队数据揭示其规模；特斯拉在十年努力和多次延迟后，终于推进电动卡车运输。\n\n4. **创投与行业活动**：Lightspeed瞄准2.5亿美元新印度基金，聚焦早期AI；TechCrunch Disrupt 2026相关议程公布，包括AI设计自有硬件等话题。\n\n今日最值得关注的发展是：AI能力快速演进的同时，数据暴露、网络攻击和加密货币盗窃等安全威胁正同步升级，行业需在创新与防护之间找到平衡。",
       "count": 40
     },
     "ai": {
@@ -432,33 +432,6 @@
           "source": "Hugging Face",
           "category": "ai",
           "pub_date": "Mon, 21 Sep 2026 00:00:00 GMT"
-        },
-        {
-          "id": "95c20d0c1c32",
-          "title": "Google Beam expands with new regions, partners, and customers",
-          "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-          "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-          "source": "Google AI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 23 Sep 2026 18:00:00 +0000"
-        },
-        {
-          "id": "6a80f3287b05",
-          "title": "New experts join Google’s AI & Economy team",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-          "description": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-          "source": "Google AI Blog",
-          "category": "ai",
-          "pub_date": "Fri, 18 Sep 2026 14:00:00 +0000"
-        },
-        {
-          "id": "e652098bcabf",
-          "title": "Co-creating the future of fashion with Google",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-          "description": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-          "source": "Google AI Blog",
-          "category": "ai",
-          "pub_date": "Fri, 18 Sep 2026 13:00:00 +0000"
         },
         {
           "id": "6c1dab7f103b",
@@ -623,8 +596,8 @@
           "pub_date": "Mon, 21 Sep 2026 07:00:00 GMT"
         },
         {
-          "id": "52f4bbc64203",
-          "title": "How V7 gives AI agents institutional memory",
+          "id": "23db6cbf4210",
+          "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
           "link": "https://openai.com/index/v7",
           "description": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
           "source": "OpenAI Blog",
@@ -632,16 +605,43 @@
           "pub_date": "Mon, 21 Sep 2026 00:00:00 GMT"
         },
         {
-          "id": "b038cf8c3bea",
-          "title": "Introducing the Australian Youth Safety Blueprint",
-          "link": "https://openai.com/index/australian-youth-safety-blueprint",
-          "description": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-          "source": "OpenAI Blog",
+          "id": "4bdff93dccc7",
+          "title": "Something bugs me about AGI AI LLM, what if we back paddled 1000 year",
+          "link": "https://shatteringtheabyss.substack.com/p/llm-agi-god-congratulations-humanity",
+          "description": "Article URL: https://shatteringtheabyss.substack.com/p/llm-agi-god-congratulations-humanity Comments URL: https://news.ycombinator.com/item?id=49795990 Points: 2 # Comments: 2",
+          "source": "HN-AI",
           "category": "ai",
-          "pub_date": "Fri, 18 Sep 2026 12:00:00 GMT"
+          "pub_date": "Tue, 22 Sep 2026 02:10:04 +0000"
+        },
+        {
+          "id": "066e0e1d9421",
+          "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+          "link": "https://www.qbitai.com/2026/09/497278.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 25 Sep 2026 13:24:20 +0000"
+        },
+        {
+          "id": "72ef52743a45",
+          "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+          "link": "https://www.qbitai.com/2026/09/497177.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 25 Sep 2026 13:15:45 +0000"
+        },
+        {
+          "id": "a3c979f47055",
+          "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+          "link": "https://www.qbitai.com/2026/09/497108.html",
+          "description": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 25 Sep 2026 10:00:14 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **模型与工具链更新**：Hugging Face 发布多项技术进展，包括加速视觉语言模型的 LFM2.5-VL-DSpark、Transformers 开始支持 llama.cpp 量化格式，以及 tokenizers v1 正式发布，重点提升编码解码效率与可扩展性。\n\n2. **机器人与仿真加速**：NVIDIA Warp 与 MjWarp 被用于加速机器人仿真与学习流程，显示 AI 基础设施正持续向物理仿真和机器人训练场景延伸。\n\n3. **AI 评测与可复现性**：英国 AISI 与 EvalEval 合作推动基准测试结果可复现，回应 AI 评估透明度和可信度问题；同时有研究将 LLM 剪枝转化为 Ising 优化问题，探索更高效的模型压缩方法。\n\n4. **OpenAI 生态与行业应用**：OpenAI 迎来 Academy 两周年，扩展对乌克兰民用网络防御支持，Sam Altman 在联合国安理会发言；GPT-6 Astra 被 Harvey 用于法律文书生成、被 invideo 用于提升调色效率，显示模型能力加速落地垂直行业。\n\n5. **Google AI 动态**：Google Beam 扩展新区域、合作伙伴与客户，Google 的 AI 与经济团队新增专家，并推动时尚行业 AI 共创，反映大厂继续在区域合作、经济研究和行业应用上布局。\n\n今日最值得关注的是：**AI 工具链与模型能力正同时向更高效推理、更可复现评测和更深入行业落地三个方向加速推进。**",
+      "summary": "今日AI动态摘要\n\n1. **模型效率与部署优化成焦点**：Hugging Face发布LFM2.5-VL-DSpark加速视觉语言模型，Transformers开始支持llama.cpp量化格式，tokenizers v1实现编解码与扩展性能的实测提升，LLM剪枝被重新建模为Ising优化问题，推动模型更轻量、更易部署。\n\n2. **机器人仿真与MLX生态持续扩展**：NVIDIA Warp与MjWarp被用于加速机器人仿真与学习流程；oMLX创建者Jun Kim加入Hugging Face，进一步支持MLX社区发展。\n\n3. **AI安全、可复现性与公共治理受重视**：英国AISI与EvalEval推动基准测试结果可复现；OpenAI在联合国安理会发声、延长对乌克兰民用防御的网络支持、推出MentalHealthBench，并庆祝OpenAI Academy两周年。\n\n4. **企业级AI应用加速落地**：Harvey用GPT-6 Astra增强法律文书起草，invideo将调色效率提升3倍，Ringg的AI代理可解决高达65%的客户来电，ChatGPT Ads扩展至东南亚和台湾。\n\n今日最值得关注的是：AI正同时向“更高效的小模型部署”和“更深入的企业与公共治理场景”两端快速推进。",
       "count": 30
     },
     "cctv": {
