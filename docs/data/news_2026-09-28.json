@@ -1,188 +1,260 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T00:26:29.459219",
+  "generated_at": "2026-09-28T20:24:18.377560",
   "categories": {
     "tech": {
       "articles": [
         {
-          "id": "8dfa03cb8919",
-          "title": "Anthropic’s CEO is about to have dinner with President Trump",
-          "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-          "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+          "id": "a32dbf1a5e2b",
+          "title": "Shopify opens checkout to browser-based AI agents",
+          "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+          "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 27 Sep 2026 20:34:28 +0000"
+          "pub_date": "Mon, 28 Sep 2026 19:33:57 +0000"
         },
         {
-          "id": "80eb90b4e523",
-          "title": "Can Muse overcome Meta’s trust issues?",
-          "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-          "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+          "id": "3a3212c8ec04",
+          "title": "Tesla delays Roadster 2 event again due to bad weather",
+          "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+          "description": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 27 Sep 2026 19:57:30 +0000"
+          "pub_date": "Mon, 28 Sep 2026 19:27:27 +0000"
         },
         {
-          "id": "328f5790a130",
-          "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-          "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-          "description": "\"AI is the devil and I its maker.\"",
+          "id": "099d248b9411",
+          "title": "The AI boom took over Climate Week and not everyone is happy about it",
+          "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+          "description": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 27 Sep 2026 16:30:00 +0000"
+          "pub_date": "Mon, 28 Sep 2026 19:21:59 +0000"
         },
         {
-          "id": "f43d566121cb",
-          "title": "TechCrunch Mobility: AV companies pick their lanes",
-          "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
-          "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+          "id": "03e78061f582",
+          "title": "Nvidia launches new platform for reining in rogue AI agents",
+          "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+          "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to [&#8230;]",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 27 Sep 2026 16:02:00 +0000"
+          "pub_date": "Mon, 28 Sep 2026 18:31:23 +0000"
         },
         {
-          "id": "dbb20818425b",
-          "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-          "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
-          "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+          "id": "0f5c7016b831",
+          "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+          "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+          "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 27 Sep 2026 15:00:00 +0000"
+          "pub_date": "Mon, 28 Sep 2026 18:00:00 +0000"
         },
         {
-          "id": "bb71be89f692",
-          "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-          "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-          "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+          "id": "49ee8aefa3a7",
+          "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+          "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+          "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 27 Sep 2026 01:40:30 +0000"
+          "pub_date": "Mon, 28 Sep 2026 17:29:50 +0000"
         },
         {
-          "id": "0a25b983dea3",
-          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-          "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-          "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+          "id": "0b8f855cb448",
+          "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+          "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 27 Sep 2026 01:30:00 +0000"
+          "pub_date": "Mon, 28 Sep 2026 17:09:02 +0000"
         },
         {
-          "id": "f1b7f60a0698",
-          "title": "Insurers claim AI is already increasing healthcare costs",
-          "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-          "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+          "id": "b3a36c6661a1",
+          "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+          "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+          "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sat, 26 Sep 2026 21:02:06 +0000"
+          "pub_date": "Mon, 28 Sep 2026 16:52:38 +0000"
         },
         {
-          "id": "6ffb4bf0f3e9",
-          "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-          "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-          "description": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
+          "id": "0e5767c7744b",
+          "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+          "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+          "description": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sat, 26 Sep 2026 20:24:45 +0000"
+          "pub_date": "Mon, 28 Sep 2026 16:47:49 +0000"
         },
         {
-          "id": "7d69c6b734bc",
-          "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-          "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-          "description": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+          "id": "389e89489d00",
+          "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+          "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sat, 26 Sep 2026 17:44:00 +0000"
+          "pub_date": "Mon, 28 Sep 2026 15:30:00 +0000"
         },
         {
-          "id": "42e9b00bf13b",
-          "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-          "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-          "description": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+          "id": "591cdf80412c",
+          "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+          "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+          "description": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sat, 26 Sep 2026 17:00:00 +0000"
+          "pub_date": "Mon, 28 Sep 2026 15:29:21 +0000"
         },
         {
-          "id": "26fb8ed93613",
-          "title": "I created an interactive digital avatar of myself — and you can talk to it",
-          "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-          "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+          "id": "76493638f56f",
+          "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+          "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+          "description": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sat, 26 Sep 2026 14:00:00 +0000"
+          "pub_date": "Mon, 28 Sep 2026 15:26:46 +0000"
         },
         {
-          "id": "4a626bec4ae0",
-          "title": "At Meta Connect, the company’s smart glasses were everywhere",
-          "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-          "description": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+          "id": "007c41c2a36b",
+          "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+          "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+          "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sat, 26 Sep 2026 01:08:57 +0000"
+          "pub_date": "Mon, 28 Sep 2026 15:00:00 +0000"
         },
         {
-          "id": "8b3148faec16",
-          "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-          "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-          "description": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+          "id": "0727318b544d",
+          "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+          "description": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 23:11:10 +0000"
+          "pub_date": "Mon, 28 Sep 2026 15:00:00 +0000"
         },
         {
-          "id": "a5da81462ed7",
-          "title": "Automattic has a new board after failed attempt to put CEO on leave",
-          "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-          "description": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+          "id": "7ef3ecf77c10",
+          "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+          "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+          "description": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 23:04:34 +0000"
+          "pub_date": "Mon, 28 Sep 2026 14:50:30 +0000"
         },
         {
-          "id": "e0c8b2f3d1f6",
-          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-          "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-          "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+          "id": "835d757800a8",
+          "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+          "description": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 22:20:47 +0000"
+          "pub_date": "Mon, 28 Sep 2026 14:30:00 +0000"
         },
         {
-          "id": "4ceeb2c4dba3",
-          "title": "Meta opens early access program for new Muse features",
-          "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-          "description": "Anyone interested in joining has to ask Muse to put them on the list.",
+          "id": "ad4a18c690ce",
+          "title": "Modulate raises $25M for its voice models and analysis suite",
+          "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+          "description": "Modulate deploys its models to detect deepfake, fraud and scam",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 20:34:53 +0000"
+          "pub_date": "Mon, 28 Sep 2026 14:05:00 +0000"
         },
         {
-          "id": "bb04927f16df",
-          "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
-          "link": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
-          "description": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
+          "id": "9a8085772c94",
+          "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+          "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+          "description": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 20:33:58 +0000"
+          "pub_date": "Mon, 28 Sep 2026 14:00:00 +0000"
         },
         {
-          "id": "95ccb065f9e3",
-          "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-          "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-          "description": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+          "id": "46a79b1f7f7a",
+          "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+          "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+          "description": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 19:13:38 +0000"
+          "pub_date": "Mon, 28 Sep 2026 14:00:00 +0000"
         },
         {
-          "id": "32a5cb8f2152",
-          "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-          "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-          "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+          "id": "d53b81317772",
+          "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
+          "link": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
+          "description": "ElevenLabs v4 can clone voices with a 10 second clip",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 18:48:33 +0000"
+          "pub_date": "Mon, 28 Sep 2026 14:00:00 +0000"
+        },
+        {
+          "id": "6cac42d7a7aa",
+          "title": "To keep drug prices high, pharma has been piling up the patents",
+          "link": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
+          "description": "Add-on patents have increased drug patent periods from two years to over six.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 19:53:37 +0000"
+        },
+        {
+          "id": "b903073fb892",
+          "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+          "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+          "description": "Kalshi's defiance of state gambling laws may be headed to Supreme Court.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 19:04:09 +0000"
+        },
+        {
+          "id": "dc5054543324",
+          "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+          "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
+          "description": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 18:04:59 +0000"
+        },
+        {
+          "id": "fbfded00799a",
+          "title": "Scientists solve 1840s space weather mystery",
+          "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+          "description": "19th century Nature account of 1841 train delayed by geomagnetic storm got year wrong—due to a typo.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 17:56:36 +0000"
+        },
+        {
+          "id": "dcf5a0509bf4",
+          "title": "F1 in Azerbaijan: That was almost a close-run thing",
+          "link": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
+          "description": "Kimi Antonelli could not repeat his Monza magic after a crash in qualifying.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 17:41:35 +0000"
+        },
+        {
+          "id": "221fbb8c9f50",
+          "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+          "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+          "description": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 16:43:18 +0000"
+        },
+        {
+          "id": "0b8ff05ff977",
+          "title": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
+          "link": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
+          "description": "NASA isn't saying much. The problem may be temporary.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 16:03:50 +0000"
+        },
+        {
+          "id": "ed87daa6247f",
+          "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+          "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+          "description": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 11:00:09 +0000"
         },
         {
           "id": "56e1222a877a",
@@ -230,146 +302,83 @@
           "pub_date": "Fri, 25 Sep 2026 21:10:51 +0000"
         },
         {
-          "id": "209c7e496614",
-          "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-          "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-          "description": "Ads appearing all over the Internet are trying to scam people.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 19:38:59 +0000"
-        },
-        {
-          "id": "1f13cffdbb66",
-          "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
-          "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
-          "description": "Better thermals and battery life make this iterative update nicer to use.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 19:34:42 +0000"
-        },
-        {
-          "id": "0e87be83c38b",
-          "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-          "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-          "description": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 19:11:05 +0000"
-        },
-        {
-          "id": "26fccaa792b0",
-          "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
-          "link": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
-          "description": "US judge reviews deal with California, says it must not be result of collusion.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 18:42:57 +0000"
-        },
-        {
-          "id": "26622499565f",
-          "title": "Is solar's growth finally slowing in the US?",
-          "link": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
-          "description": "Renewables easily cover changes in US demand, which is rising by 2% in 2026.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 18:27:18 +0000"
-        },
-        {
-          "id": "012efc531e26",
-          "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-          "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-          "description": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 17:57:37 +0000"
-        },
-        {
-          "id": "729cae527fb7",
-          "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
-          "link": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
-          "description": "\"There is always a tension that comes with seeing the first of anything fly.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 15:35:23 +0000"
-        },
-        {
-          "id": "0e67c92ba573",
-          "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
-          "link": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
-          "description": "The new LFP battery charges from 10 to 70% in 4.5 minutes at just 65˚C.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 15:21:55 +0000"
-        },
-        {
-          "id": "a551fabc2d67",
-          "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
-          "link": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
-          "description": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 14:07:46 +0000"
-        },
-        {
-          "id": "946e04cff3ac",
-          "title": "Trump administration takes Musk’s side in fight over EU tech rules",
-          "link": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
-          "description": "Washington says Brussels overreached when it fined X €120 million under the DSA.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 13:45:49 +0000"
-        },
-        {
-          "id": "4da66a2bef96",
-          "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-          "description": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 11:00:28 +0000"
-        },
-        {
-          "id": "6df4ab0637db",
-          "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return",
-          "link": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/",
-          "description": "\"The customer got comfortable with a high reliability and a low price.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Fri, 25 Sep 2026 11:00:10 +0000"
-        },
-        {
-          "id": "48032cbf27fb",
-          "title": "Lunar Terminator Paradox",
-          "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-          "description": "Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html Comments URL: https://news.ycombinator.com/item?id=49870837 Points: 38 # Comments: 25",
+          "id": "88f99bfedb4a",
+          "title": "California expanded the right to delete today",
+          "link": "https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed",
+          "description": "Article URL: https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed Comments URL: https://news.ycombinator.com/item?id=49883345 Points: 18 # Comments: 6",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 27 Sep 2026 21:06:17 +0000"
+          "pub_date": "Mon, 28 Sep 2026 19:44:49 +0000"
         },
         {
-          "id": "ef2ce9a949ef",
-          "title": "My Recent Woodworking Projects",
-          "link": "https://notoriousbfg.com/recent-woodworking-projects/",
-          "description": "Article URL: https://notoriousbfg.com/recent-woodworking-projects/ Comments URL: https://news.ycombinator.com/item?id=49870541 Points: 18 # Comments: 5",
+          "id": "c8beeb88e937",
+          "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
+          "link": "https://blog.plcred.org/3mwlphq42d227",
+          "description": "Article URL: https://blog.plcred.org/3mwlphq42d227 Comments URL: https://news.ycombinator.com/item?id=49883159 Points: 13 # Comments: 3",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 27 Sep 2026 20:33:55 +0000"
+          "pub_date": "Mon, 28 Sep 2026 19:27:45 +0000"
         },
         {
-          "id": "760ec0610de2",
-          "title": "Show HN: Cartopolis, interactive globe-sized 3D world",
-          "link": "https://code.garage44.eu/jeroen/cartopolis",
-          "description": "Article URL: https://code.garage44.eu/jeroen/cartopolis Comments URL: https://news.ycombinator.com/item?id=49870394 Points: 9 # Comments: 0",
+          "id": "b061e8aa32df",
+          "title": "Neal Stephenson responds with wit and humor (2004)",
+          "link": "https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor",
+          "description": "Article URL: https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor Comments URL: https://news.ycombinator.com/item?id=49882894 Points: 18 # Comments: 3",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sun, 27 Sep 2026 20:14:53 +0000"
+          "pub_date": "Mon, 28 Sep 2026 19:06:16 +0000"
+        },
+        {
+          "id": "be631913bf2f",
+          "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+          "link": "https://stateofutopia.com/experiments/microllmlab/",
+          "description": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 39 # Comments: 8",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 18:58:53 +0000"
+        },
+        {
+          "id": "df9b815d57d0",
+          "title": "GrapheneOS – When an app is slow",
+          "link": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
+          "description": "Article URL: https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html Comments URL: https://news.ycombinator.com/item?id=49882208 Points: 45 # Comments: 18",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 18:21:31 +0000"
+        },
+        {
+          "id": "071a68297135",
+          "title": "So long Google, and thanks for all the nudes",
+          "link": "https://lecaro.me/20260921-google-less.html",
+          "description": "Article URL: https://lecaro.me/20260921-google-less.html Comments URL: https://news.ycombinator.com/item?id=49881951 Points: 129 # Comments: 47",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 18:04:47 +0000"
+        },
+        {
+          "id": "deeadd662fb6",
+          "title": "Sonnet 5.5",
+          "link": "https://www.anthropic.com/claude-sonnet-5-5",
+          "description": "Article URL: https://www.anthropic.com/claude-sonnet-5-5 Comments URL: https://news.ycombinator.com/item?id=49881850 Points: 351 # Comments: 219",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 17:58:11 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. Anthropic CEO Dario Amodei 将与美国总统特朗普共进晚餐，同时他本人还登上了 SNL 节目被调侃，显示 AI 公司正加速进入政治与流行文化视野。\n2. Meta 面临多重动态：其 AI 助手 Muse 能否克服信任问题受关注，Meta Connect 上智能眼镜无处不在，且 Meta 与 YouTube 同意为“马斯克”纪录片投放广告。\n3. 自动驾驶公司开始明确各自赛道（TechCrunch Mobility），而 Crusoe 放弃 12.5 亿美元在 AI 数据中心使用 Boom 涡轮机的计划，显示 AI 基础设施面临现实调整。\n4. 消费科技方面，Sennheiser Momentum 5 获好评（音质佳、续航强），Levoit 推出针对宠物异味的空气净化器，PNOE 推出面罩式实验室级呼吸测试设备。\n5. 商业与法律动态：TikTok 在阿拉巴马州同意支付至少 1 亿美元和解金；Google 在印度测试通过 Gemini 和 AI 模式从 Walmart 旗下 Flipkart 购物；保险公司称 AI 已在推高医疗成本。\n\n今日最值得关注的是：Anthropic CEO 与特朗普的晚餐及 AI 公司日益深入政治、商业与法律博弈，标志着 AI 行业正从技术竞争全面走向社会规则重塑。",
+      "summary": "今日科技动态摘要\n\n1. **AI代理治理成为焦点**：英伟达推出新平台以管控“失控AI代理”，OpenAI仍未能有效控制其AI代理的异常活动，行业对AI安全与治理的关注持续升温。\n2. **AI商业应用加速落地**：Shopify向浏览器端AI代理开放结账功能，Meta推出企业AI平台并聘请MongoDB CEO领导新业务，Anthropic发布更便宜、更快的Sonnet 5.5，Google将Gemini的Gems替换为“skills”，企业级AI部署与商业化明显提速。\n3. **AI热潮引发争议与反思**：AI议题主导气候周活动引发部分人士不满，同时AI热潮催生新职业需求（如MAVI押注新型会计师），深度伪造语音诈骗等负面事件也促使创业者采取行动。\n4. **硬件与前沿科技持续吸金**：物理AI芯片开发商SiMa AI估值达14.5亿美元，英联邦聚变系统与Helion高管将在TechCrunch Disrupt 2026探讨聚变并网，资本对AI芯片和清洁能源前沿技术保持高度热情。\n5. **安全事件敲响警钟**：FBI据报在黑客窃取特工个人数据后宣布“网络安全事件”，AI滥用与网络安全风险进一步凸显。\n\n今日最值得关注的是：AI代理的治理与安全正成为行业核心议题，与此同时企业级AI平台和芯片投资持续升温，AI在加速落地的同时也带来日益严峻的安全挑战。",
       "count": 40
     },
     "ai": {
       "articles": [
+        {
+          "id": "718eaa7d18e8",
+          "title": "Holo4: powering generalist computer-use agents",
+          "link": "https://huggingface.co/blog/Hcompany/holo4",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 09:44:05 GMT"
+        },
         {
           "id": "cc3e035d96a2",
           "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
@@ -416,13 +425,13 @@
           "pub_date": "Tue, 22 Sep 2026 00:00:00 GMT"
         },
         {
-          "id": "d222509bc58c",
-          "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-          "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-          "description": "",
-          "source": "Hugging Face",
+          "id": "388ee7aab3cc",
+          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+          "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "source": "Google AI Blog",
           "category": "ai",
-          "pub_date": "Mon, 21 Sep 2026 13:44:34 GMT"
+          "pub_date": "Mon, 28 Sep 2026 19:00:00 +0000"
         },
         {
           "id": "95c20d0c1c32",
@@ -432,6 +441,15 @@
           "source": "Google AI Blog",
           "category": "ai",
           "pub_date": "Wed, 23 Sep 2026 18:00:00 +0000"
+        },
+        {
+          "id": "0b856f0c28e8",
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "description": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 07:00:00 GMT"
         },
         {
           "id": "5b7650965bb3",
@@ -461,15 +479,6 @@
           "pub_date": "Wed, 23 Sep 2026 13:00:00 GMT"
         },
         {
-          "id": "13a655595ec9",
-          "title": "Sam Altman’s remarks at the United Nations Security Council",
-          "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-          "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 23 Sep 2026 12:00:00 GMT"
-        },
-        {
           "id": "fbe9a1ec984c",
           "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
           "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
@@ -492,6 +501,15 @@
           "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
           "link": "https://openai.com/index/ringg",
           "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 23 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "13a655595ec9",
+          "title": "Sam Altman’s remarks at the United Nations Security Council",
+          "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+          "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 23 Sep 2026 12:00:00 GMT"
@@ -569,42 +587,6 @@
           "pub_date": "Tue, 22 Sep 2026 00:00:00 GMT"
         },
         {
-          "id": "8a35a6da6975",
-          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-          "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-          "description": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Mon, 21 Sep 2026 12:00:00 GMT"
-        },
-        {
-          "id": "fec6de84d541",
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
-          "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-          "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Mon, 21 Sep 2026 12:00:00 GMT"
-        },
-        {
-          "id": "7c9dc9eb50e6",
-          "title": "Building standards for the next phase of AI",
-          "link": "https://openai.com/index/building-standards-next-phase-ai",
-          "description": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Mon, 21 Sep 2026 10:00:00 GMT"
-        },
-        {
-          "id": "d9dcd075e299",
-          "title": "Expanding OpenAI Academy with new learning paths",
-          "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-          "description": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Mon, 21 Sep 2026 07:00:00 GMT"
-        },
-        {
           "id": "654e572415af",
           "title": "Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents",
           "link": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
@@ -621,6 +603,24 @@
           "source": "HN-AI",
           "category": "ai",
           "pub_date": "Tue, 22 Sep 2026 02:10:04 +0000"
+        },
+        {
+          "id": "ecf89dd531e4",
+          "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+          "link": "https://www.qbitai.com/2026/09/498877.html",
+          "description": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 12:43:53 +0000"
+        },
+        {
+          "id": "cac404a38d51",
+          "title": "HC归来，华为正重新定义AIDC基础设施",
+          "link": "https://www.qbitai.com/2026/09/498787.html",
+          "description": "AI基础设施下一站：算电协同",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 11:18:27 +0000"
         },
         {
           "id": "44a5bee1682e",
@@ -641,11 +641,47 @@
           "pub_date": "Sun, 27 Sep 2026 13:57:57 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **Hugging Face 密集更新模型与工具链**：推出加速视觉语言模型的 LFM2.5-VL-DSpark；Transformers 现已支持 llama.cpp 量化格式；发布以物理学家视角（Ising 优化问题）进行 LLM 剪枝的新方法；oMLX 创建者 Jun Kim 加入 Hugging Face 支持 MLX 社区。\n2. **NVIDIA 与 UK AISI 推动仿真与评测可复现**：介绍如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习流程；英国 AISI 与 EvalEval 合作让基准测试结果可复现。\n3. **OpenAI 生态多点落地**：Proaction 用 Codex 提升销售 60%、节省 75+ 小时；Harvey、invideo、Ringg 分别借助 GPT-6 Astra 或 OpenAI 技术改进法律起草、调色效率（3 倍）和客服（解决高达 65% 来电）；OpenAI Academy 成立两周年，并扩展对乌克兰民用防御的网络支持，Sam Altman 在联合国安理会发言，同时推出 MentalHealthBench。\n4. **Google Beam 扩张**：新增区域、合作伙伴与客户。\n\n今日最值得关注的是 Hugging Face 在模型加速、量化兼容与剪枝优化上的连续动作，以及 OpenAI 技术在企业销售、法律、视频、客服等多场景的规模化落地。",
+      "summary": "今日AI动态摘要\n\n1. **Hugging Face 集中发布多项技术更新**：推出 Holo4 通用计算机使用代理，发布 LFM2.5-VL-DSpark 加速视觉语言模型，并让 Transformers 支持 llama.cpp 量化格式，同时引入 NVIDIA Warp/MjWarp 加速机器人仿真，以及 oMLX 创建者加入以支持 MLX 社区。\n\n2. **AI 评测与基准可复现性成为焦点**：英国 AISI 与 EvalEval 合作，推动基准测试结果的可复现性，提升 AI 评估的透明度和可信度。\n\n3. **OpenAI 生态持续扩张并深化行业应用**：OpenAI Academy 成立两周年，Lenfest Institute 扩大与 OpenAI 的合作，同时多个企业案例显示显著成效——Proaction 借助 Codex 提升销售 60%、节省 75+ 小时，Harvey 用 GPT-6 Astra 强化法律文书起草，invideo 将调色效率提升 3 倍，Ringg 的 AI 代理解决高达 65% 的客户来电。\n\n4. **Google 推进 AI 项目落地**：XPRIZE 未来愿景大赛获奖预告片《The Gifted》发布，Google Beam 拓展新地区、合作伙伴与客户。\n\n**总结：今日最值得关注的是 Hugging Face 在开源模型工具链与代理能力上的密集更新，以及 OpenAI 通过企业级案例展示 GPT-6 Astra 在垂直行业中的实际生产力提升。**",
       "count": 30
     },
     "cctv": {
       "articles": [
+        {
+          "id": "581267572531",
+          "title": "China's AI Ecosystem: A Background Explainer",
+          "link": "https://oxfordchinapolicylab.org/research/china-s-ai-ecosystem-a-background-explainer",
+          "description": "Article URL: https://oxfordchinapolicylab.org/research/china-s-ai-ecosystem-a-background-explainer Comments URL: https://news.ycombinator.com/item?id=49883579 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 28 Sep 2026 20:03:03 +0000"
+        },
+        {
+          "id": "72fb9800572d",
+          "title": "China expands overseas travel curbs for top AI talent to include their families",
+          "link": "https://www.thestandard.com.hk/innovation/article/344062/China-expands-overseas-travel-curbs-for-top-AI-talent-to-include-their-families-Bloomberg",
+          "description": "Article URL: https://www.thestandard.com.hk/innovation/article/344062/China-expands-overseas-travel-curbs-for-top-AI-talent-to-include-their-families-Bloomberg Comments URL: https://news.ycombinator.com/item?id=49877376 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 28 Sep 2026 13:09:56 +0000"
+        },
+        {
+          "id": "db06e568fa7a",
+          "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent Comments URL: https://news.ycombinator.com/item?id=49876719 Points: 5 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 28 Sep 2026 12:07:08 +0000"
+        },
+        {
+          "id": "d05b3090094b",
+          "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips",
+          "link": "https://www.reuters.com/business/retail-consumer/china-weighs-allowing-bytedance-alibaba-buy-new-nvidia-chips-information-reports-2026-09-27/",
+          "description": "Article URL: https://www.reuters.com/business/retail-consumer/china-weighs-allowing-bytedance-alibaba-buy-new-nvidia-chips-information-reports-2026-09-27/ Comments URL: https://news.ycombinator.com/item?id=49875844 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 28 Sep 2026 10:20:20 +0000"
+        },
         {
           "id": "114a26dc76ca",
           "title": "China and U.S. to open AI 'communication channel' after summit",
@@ -695,7 +731,7 @@
           "id": "0e67c92ba573",
           "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
           "link": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
-          "description": "Article URL: https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/ Comments URL: https://news.ycombinator.com/item?id=49849293 Points: 11 # Comments: 2",
+          "description": "Article URL: https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/ Comments URL: https://news.ycombinator.com/item?id=49849293 Points: 12 # Comments: 2",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 25 Sep 2026 20:11:13 +0000"
@@ -870,37 +906,10 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Tue, 22 Sep 2026 14:28:55 +0000"
-        },
-        {
-          "id": "23296bfa3480",
-          "title": "America is getting its AI race with China wrong",
-          "link": "https://restofworld.org/2026/america-china-ai-race-trust/",
-          "description": "Article URL: https://restofworld.org/2026/america-china-ai-race-trust/ Comments URL: https://news.ycombinator.com/item?id=49799198 Points: 8 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 22 Sep 2026 10:49:40 +0000"
-        },
-        {
-          "id": "946c117a9f92",
-          "title": "Flomo: A two-person notes app from China that bought a product from ByteDance",
-          "link": "https://www.sinosphere.app/p/flomo-two-people-one-text-box-and",
-          "description": "Article URL: https://www.sinosphere.app/p/flomo-two-people-one-text-box-and Comments URL: https://news.ycombinator.com/item?id=49797185 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 22 Sep 2026 05:39:36 +0000"
-        },
-        {
-          "id": "77eda30740a8",
-          "title": "China's AI Realism Is Not Conspiracy",
-          "link": "https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy",
-          "description": "Article URL: https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy Comments URL: https://news.ycombinator.com/item?id=49796331 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 22 Sep 2026 03:01:06 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. **中美人工智能竞争与合作并行**：中美在峰会后同意开设AI“沟通渠道”，但美方对中国AI安全立场存疑；同时中国已超越美国成为全球最大AI人才中心（占比40.6%对34.2%），美国会议员则试图将中国技术排除在敏感政府系统之外。\n\n2. **中国在关键技术与供应链领域取得突破**：中国实现5分钟电动汽车快充（充至70%），在充电速度上领先美国；同时美国在稀土供应链上已将控制权拱手让给中国，引发战略担忧。\n\n3. **安全与人才流动问题突出**：中国截获经香港转运的F-35敏感零部件；NASA局长警告中国可能限制月球南极访问；中国新旅行规定令科技巨头和人才感到不安，AMD因受限芯片流向中国被呼吁调查。\n\n4. **中国AI生态与全球影响受关注**：美媒探访中国“氛围编程”之都，分析其AI繁荣的启示；同时有报道关注中国在吉尔吉斯斯坦的“沉默游牧者”现象。\n\n**总结：今日最值得关注的是中国在AI人才和EV快充等关键领域对美实现反超，同时中美在技术安全与供应链上的博弈持续升温。**",
-      "count": 28
+      "summary": "今日新闻联播动态摘要\n\n1. **AI人才管控升级**：中国扩大对顶尖AI人才的出境限制，范围延伸至其家庭成员，引发科技巨头与人才群体不安。\n2. **AI芯片与对话并行**：中国考虑允许字节跳动、阿里巴巴采购新款英伟达芯片，同时中美在峰会后就AI建立“沟通渠道”。\n3. **AI人才中心易位**：卡内基报告显示中国以40.6%比34.2%超越美国，成为全球最大AI人才中心。\n4. **科技与安全博弈**：美国议员推动将中国技术排除于敏感政府系统之外；另有报道称中国截获经香港转运的F-35机密部件。\n5. **新能源与太空竞争**：中国实现5分钟快充至70%，EV充电速度领先美国；NASA局长警告中国可能限制月球南极准入。\n\n今日最值得关注的是，中国在AI人才管控、芯片采购与中美对话三条线上同时出手，标志着AI竞争进入“人才+算力+规则”全面博弈阶段。",
+      "count": 29
     }
   }
 }
