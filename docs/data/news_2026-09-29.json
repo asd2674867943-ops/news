@@ -1,0 +1,653 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T01:39:59.762325",
+  "categories": {
+    "tech": {
+      "articles": [
+        {
+          "id": "2c65d2ab8307",
+          "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+          "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+          "description": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 29 Sep 2026 00:30:00 +0000"
+        },
+        {
+          "id": "ac9b64b6b47b",
+          "title": "OpenAI reportedly ditches model over safety concerns",
+          "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+          "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 23:39:20 +0000"
+        },
+        {
+          "id": "a4261c43b193",
+          "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+          "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+          "description": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 22:58:35 +0000"
+        },
+        {
+          "id": "568bc1b1e4c3",
+          "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+          "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+          "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 21:29:18 +0000"
+        },
+        {
+          "id": "611ecf10fc53",
+          "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+          "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+          "description": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 20:39:33 +0000"
+        },
+        {
+          "id": "a32dbf1a5e2b",
+          "title": "Shopify opens checkout to browser-based AI agents",
+          "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+          "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 19:33:57 +0000"
+        },
+        {
+          "id": "3a3212c8ec04",
+          "title": "Tesla delays Roadster 2 event again due to bad weather",
+          "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+          "description": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 19:27:27 +0000"
+        },
+        {
+          "id": "099d248b9411",
+          "title": "The AI boom took over Climate Week and not everyone is happy about it",
+          "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+          "description": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 19:21:59 +0000"
+        },
+        {
+          "id": "03e78061f582",
+          "title": "Nvidia launches new platform for reining in rogue AI agents",
+          "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+          "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 18:31:23 +0000"
+        },
+        {
+          "id": "0f5c7016b831",
+          "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+          "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+          "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 18:00:00 +0000"
+        },
+        {
+          "id": "49ee8aefa3a7",
+          "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+          "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+          "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 17:29:50 +0000"
+        },
+        {
+          "id": "0b8f855cb448",
+          "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+          "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 17:09:02 +0000"
+        },
+        {
+          "id": "b3a36c6661a1",
+          "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+          "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+          "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 16:52:38 +0000"
+        },
+        {
+          "id": "0e5767c7744b",
+          "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+          "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+          "description": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 16:47:49 +0000"
+        },
+        {
+          "id": "389e89489d00",
+          "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+          "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 15:30:00 +0000"
+        },
+        {
+          "id": "591cdf80412c",
+          "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+          "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+          "description": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 15:29:21 +0000"
+        },
+        {
+          "id": "76493638f56f",
+          "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+          "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+          "description": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 15:26:46 +0000"
+        },
+        {
+          "id": "007c41c2a36b",
+          "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+          "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+          "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 15:00:00 +0000"
+        },
+        {
+          "id": "0727318b544d",
+          "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+          "description": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 15:00:00 +0000"
+        },
+        {
+          "id": "7ef3ecf77c10",
+          "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+          "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+          "description": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 14:50:30 +0000"
+        },
+        {
+          "id": "6b57db72890c",
+          "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
+          "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
+          "description": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 22:24:33 +0000"
+        },
+        {
+          "id": "c9b82f7efe3f",
+          "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+          "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+          "description": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 21:49:10 +0000"
+        },
+        {
+          "id": "c931600ec8a4",
+          "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+          "link": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+          "description": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 21:26:19 +0000"
+        },
+        {
+          "id": "f3b285c9ba32",
+          "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+          "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+          "description": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 20:49:39 +0000"
+        },
+        {
+          "id": "20718b3ca0c4",
+          "title": "New device captures carbon dioxide by pumping it across a battery",
+          "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
+          "description": "The design requires less energy to capture CO 2 than current systems.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 20:31:06 +0000"
+        },
+        {
+          "id": "6cac42d7a7aa",
+          "title": "To keep drug prices high, pharma has been piling up the patents",
+          "link": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
+          "description": "Add-on patents have increased drug patent periods from two years to over six.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 19:53:37 +0000"
+        },
+        {
+          "id": "b903073fb892",
+          "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+          "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+          "description": "Kalshi's defiance of state gambling laws may be headed to Supreme Court.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 19:04:09 +0000"
+        },
+        {
+          "id": "dc5054543324",
+          "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+          "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
+          "description": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 18:04:59 +0000"
+        },
+        {
+          "id": "fbfded00799a",
+          "title": "Scientists solve 1840s space weather mystery",
+          "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+          "description": "19th century Nature account of 1841 train delayed by geomagnetic storm got year wrong—due to a typo.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 17:56:36 +0000"
+        },
+        {
+          "id": "dcf5a0509bf4",
+          "title": "F1 in Azerbaijan: That was almost a close-run thing",
+          "link": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
+          "description": "Kimi Antonelli could not repeat his Monza magic after a crash in qualifying.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 17:41:35 +0000"
+        },
+        {
+          "id": "221fbb8c9f50",
+          "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+          "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+          "description": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 16:43:18 +0000"
+        },
+        {
+          "id": "0b8ff05ff977",
+          "title": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
+          "link": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
+          "description": "NASA isn't saying much. The problem may be temporary.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 16:03:50 +0000"
+        },
+        {
+          "id": "ed87daa6247f",
+          "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+          "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+          "description": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 11:00:09 +0000"
+        },
+        {
+          "id": "56e1222a877a",
+          "title": "How the Smithsonian became the latest front in Trump’s culture war",
+          "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+          "description": "The Smithsonian has faced withering pressure from the Trump administration.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sun, 27 Sep 2026 11:00:12 +0000"
+        },
+        {
+          "id": "7e43acb610a0",
+          "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+          "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+          "description": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sat, 26 Sep 2026 10:45:09 +0000"
+        },
+        {
+          "id": "ba45af68188e",
+          "title": "OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns",
+          "link": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
+          "description": "Article URL: https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html Comments URL: https://news.ycombinator.com/item?id=49886416 Points: 24 # Comments: 19",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Tue, 29 Sep 2026 00:34:27 +0000"
+        },
+        {
+          "id": "f4868ecbfb5b",
+          "title": "AI and the Revenge of the Non-Techies",
+          "link": "https://maroun-baydoun.com/blog/ai-revenge-non-techies/",
+          "description": "Article URL: https://maroun-baydoun.com/blog/ai-revenge-non-techies/ Comments URL: https://news.ycombinator.com/item?id=49886277 Points: 3 # Comments: 0",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Tue, 29 Sep 2026 00:18:30 +0000"
+        },
+        {
+          "id": "f14a8a3ce6e2",
+          "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+          "link": "https://lolchat.rip/",
+          "description": "Article URL: https://lolchat.rip/ Comments URL: https://news.ycombinator.com/item?id=49886195 Points: 10 # Comments: 5",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Tue, 29 Sep 2026 00:06:48 +0000"
+        },
+        {
+          "id": "bbff0df186a8",
+          "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+          "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+          "description": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster Comments URL: https://news.ycombinator.com/item?id=49884625 Points: 16 # Comments: 1",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 21:26:41 +0000"
+        },
+        {
+          "id": "80b04c57b3ab",
+          "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+          "link": "https://github.com/firelex/jeff",
+          "description": "Article URL: https://github.com/firelex/jeff Comments URL: https://news.ycombinator.com/item?id=49883844 Points: 249 # Comments: 102",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 28 Sep 2026 20:23:36 +0000"
+        }
+      ],
+      "summary": "今日科技动态摘要\n\n1. **AI巨头加速布局与整合**：AMD以82亿美元收购李飞飞创办的World Labs；Meta推出企业AI平台并挖来MongoDB CEO领导新业务；Nvidia发布新平台治理失控AI代理；Anthropic发布更便宜快速的Sonnet 5.5；Google将Gemini的Gems替换为“skills”。\n\n2. **OpenAI安全与失控问题持续**：OpenAI据报因安全顾虑放弃某模型，且仍未能完全掌控其AI代理的失控活动，引发外界对其安全治理的担忧。\n\n3. **AI商业化与基础设施升温**：Modal Labs接近以157.5亿美元估值完成7.5亿美元融资；Shopify向浏览器AI代理开放结账功能；Peak XV将Surge种子投资上限提至500万美元并推出18家初创公司。\n\n4. **自动驾驶与电动车进展**：Aurora CFO称2030年3万辆无人卡车并非遥不可及；特斯拉因恶劣天气再次推迟Roadster 2活动。\n\n5. **AI热潮引发争议**：AI主题占据气候周风头，但并非所有人都对此感到满意。\n\n今日最值得关注的是AMD以82亿美元收购World Labs，标志着AI人才与技术的整合进入新阶段，同时OpenAI的安全失控问题仍是行业隐忧。",
+      "count": 40
+    },
+    "ai": {
+      "articles": [
+        {
+          "id": "718eaa7d18e8",
+          "title": "Holo4: powering generalist computer-use agents",
+          "link": "https://huggingface.co/blog/Hcompany/holo4",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 09:44:05 GMT"
+        },
+        {
+          "id": "cc3e035d96a2",
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Thu, 24 Sep 2026 14:08:57 GMT"
+        },
+        {
+          "id": "0ed930f10fdf",
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 23 Sep 2026 18:41:40 GMT"
+        },
+        {
+          "id": "388ee7aab3cc",
+          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+          "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 19:00:00 +0000"
+        },
+        {
+          "id": "95c20d0c1c32",
+          "title": "Google Beam expands with new regions, partners, and customers",
+          "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+          "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 23 Sep 2026 18:00:00 +0000"
+        },
+        {
+          "id": "760eab4b8dcd",
+          "title": "How we will do better for Australia",
+          "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "description": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 29 Sep 2026 01:00:00 GMT"
+        },
+        {
+          "id": "0b856f0c28e8",
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "description": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "id": "6f237a50dac1",
+          "title": "Are you a Codex Original?",
+          "link": "https://openai.com/form/codex-originals",
+          "description": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "id": "aa819067af2f",
+          "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+          "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+          "description": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "id": "5b7650965bb3",
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "link": "https://openai.com/index/proaction",
+          "description": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 25 Sep 2026 19:00:00 GMT"
+        },
+        {
+          "id": "6c1dab7f103b",
+          "title": "Two years of OpenAI Academy",
+          "link": "https://openai.com/index/two-years-of-openai-academy",
+          "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 23 Sep 2026 16:00:00 GMT"
+        },
+        {
+          "id": "6347121011e1",
+          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "description": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 23 Sep 2026 13:00:00 GMT"
+        },
+        {
+          "id": "255eb29118b4",
+          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "link": "https://openai.com/index/ringg",
+          "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 23 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "fbe9a1ec984c",
+          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+          "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 23 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "48775eec6b66",
+          "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+          "description": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 23 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "13a655595ec9",
+          "title": "Sam Altman’s remarks at the United Nations Security Council",
+          "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+          "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 23 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "ee3eaa9a65ae",
+          "title": "Introducing MentalHealthBench",
+          "link": "https://openai.com/index/introducing-mentalhealthbench",
+          "description": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 23 Sep 2026 10:00:00 GMT"
+        },
+        {
+          "id": "f96fe300db20",
+          "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+          "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+          "description": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 23 Sep 2026 02:00:00 GMT"
+        },
+        {
+          "id": "d2ee1c03d82e",
+          "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+          "link": "https://openai.com/index/airbnb-gpt-6-astra",
+          "description": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 23 Sep 2026 01:00:00 GMT"
+        },
+        {
+          "id": "63d08e543459",
+          "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+          "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+          "description": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 23 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "id": "7bf0089438e9",
+          "title": "Better prompt caching for GPT-6",
+          "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "description": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 22 Sep 2026 21:00:00 GMT"
+        },
+        {
+          "id": "a3bb81c51c43",
+          "title": "Introducing GPT-6 Sol and Luna",
+          "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "description": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 22 Sep 2026 18:00:00 GMT"
+        },
+        {
+          "id": "6fd0d2051048",
+          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+          "description": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 22 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "5c5ba971a847",
+          "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+          "link": "https://www.qbitai.com/2026/09/499098.html",
+          "description": "李飞飞将入职AMD首席科学家",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Tue, 29 Sep 2026 00:49:30 +0000"
+        },
+        {
+          "id": "ecf89dd531e4",
+          "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+          "link": "https://www.qbitai.com/2026/09/498877.html",
+          "description": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 12:43:53 +0000"
+        },
+        {
+          "id": "cac404a38d51",
+          "title": "HC归来，华为正重新定义AIDC基础设施",
+          "link": "https://www.qbitai.com/2026/09/498787.html",
+          "description": "AI基础设施下一站：算电协同",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 11:18:27 +0000"
+        },
+        {
+          "id": "44a5bee1682e",
+          "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+          "link": "https://www.qbitai.com/2026/09/498633.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sun, 27 Sep 2026 14:20:35 +0000"
+        },
+        {
+          "id": "d5549349db78",
+          "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+          "link": "https://www.qbitai.com/2026/09/498605.html",
+          "description": "想让开发者“说句话就能跑量子计算”",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sun, 27 Sep 2026 13:57:57 +0000"
+        },
+        {
+          "id": "2f6c930837c3",
+          "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+          "link": "https://www.qbitai.com/2026/09/498584.html",
+          "description": "中秋假期文具OpenRouter调用日榜榜首",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sun, 27 Sep 2026 13:40:02 +0000"
+        },
+        {
+          "id": "58a68790de8f",
+          "title": "啥题啊能干崩OpenAI最强模型训练…",
+          "link": "https://www.qbitai.com/2026/09/498546.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sun, 27 Sep 2026 09:44:16 +0000"
+        }
+      ],
+      "summary": "今日AI动态摘要\n\n1. **Hugging Face 集中发布多项技术进展**：推出 Holo4 通用计算机使用代理，发布 LFM2.5-VL-DSpark 加速视觉语言模型，并介绍如何用 NVIDIA Warp 与 MjWarp 加速机器人仿真与学习流程。\n\n2. **Google 扩展 AI 产品与生态**：Google Beam 新增区域、合作伙伴与客户；同时公布 Future Vision XPRIZE 获奖预告片《The Gifted》。\n\n3. **OpenAI 多线推进企业与公共项目**：GPT-6 Astra 被 Basis、Harvey、invideo 等用于税务、法律、视频调色等场景；Codex 助力 Proaction 销售提升 60%、节省 75+ 小时；OpenAI Academy 成立两周年，并扩大对 Lenfest Institute 的支持、延长对乌克兰民用防务的网络访问。\n\n4. **OpenAI 强化客户案例与社区运营**：Ringg 的 AI 代理解决高达 65% 的客户来电；同时以“Are you a Codex Original?”等活动推广 Codex 使用。\n\n今日最值得关注的是 OpenAI 的 GPT-6 Astra 与 Codex 在多个行业快速落地，显示出 AI 代理正从实验阶段转向可量化的企业生产力提升。",
+      "count": 30
+    },
+    "cctv": {
+      "articles": [],
+      "summary": "今日暂无相关新闻。",
+      "count": 0
+    }
+  }
+}
