@@ -1,9 +1,54 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T01:00:23.518300",
+  "generated_at": "2026-10-03T17:49:43.593505",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "614a63a7cfa2",
+          "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+          "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+          "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 16:30:01 +0000"
+        },
+        {
+          "id": "3c9d567f7f4a",
+          "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+          "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+          "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 15:02:01 +0000"
+        },
+        {
+          "id": "e59ec53e6636",
+          "title": "Vessev built an electric ferry that almost flies",
+          "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+          "description": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 14:42:00 +0000"
+        },
+        {
+          "id": "2e2b0b0a116c",
+          "title": "All the AI agents that can live in your text messages",
+          "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 14:00:00 +0000"
+        },
+        {
+          "id": "326e9171fbe3",
+          "title": "Spotify billionaire’s body scan startup has come to America",
+          "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+          "description": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 14:00:00 +0000"
+        },
         {
           "id": "d6f95c09d8b8",
           "title": "Meta wants your next gadget to be Muse-infused",
@@ -140,49 +185,22 @@
           "pub_date": "Fri, 02 Oct 2026 14:00:00 +0000"
         },
         {
-          "id": "fcab4ac26bc0",
-          "title": "Tesla sustains its EV sales momentum despite US troubles",
-          "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
-          "description": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
-          "source": "TechCrunch",
+          "id": "160d617511cf",
+          "title": "The dawn of the age of the exoskeleton",
+          "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+          "description": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Fri, 02 Oct 2026 13:39:23 +0000"
+          "pub_date": "Sat, 03 Oct 2026 11:15:33 +0000"
         },
         {
-          "id": "a6631c7b8bd5",
-          "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-          "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-          "description": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
-          "source": "TechCrunch",
+          "id": "99bce33ea5ef",
+          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+          "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Fri, 02 Oct 2026 13:23:09 +0000"
-        },
-        {
-          "id": "956ec5096f7e",
-          "title": "Rivian’s R2 just helped it set a new sales record",
-          "link": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
-          "description": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 02 Oct 2026 13:17:05 +0000"
-        },
-        {
-          "id": "14c74f8ac8cb",
-          "title": "Rivian issues R2 recall for poorly tightened battery packs",
-          "link": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
-          "description": "The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 02 Oct 2026 12:50:11 +0000"
-        },
-        {
-          "id": "85ac9b015c9d",
-          "title": "Robotaxi operators will face fines for blocking first responders",
-          "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-          "description": "A new California law places new rules on autonomous vehicles operators.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 02 Oct 2026 00:57:57 +0000"
+          "pub_date": "Fri, 02 Oct 2026 23:03:16 +0000"
         },
         {
           "id": "eacd8e5e71d1",
@@ -338,34 +356,16 @@
           "pub_date": "Thu, 01 Oct 2026 19:19:42 +0000"
         },
         {
-          "id": "6ce9dd765fa3",
-          "title": "Marvel releases one last VisionQuest trailer",
-          "link": "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/",
-          "description": "\"This is a fight I likely won't win. We have said goodbye before. But remember, family is forever.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 01 Oct 2026 18:04:48 +0000"
-        },
-        {
-          "id": "e6260c99ad9e",
-          "title": "Memory executives expect RAM shortage to continue through 2028",
-          "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-          "description": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 01 Oct 2026 17:49:56 +0000"
-        },
-        {
-          "id": "3be0e01ed942",
-          "title": "Debian Inference Portal",
-          "link": "https://inference.debian.net/",
-          "description": "Article URL: https://inference.debian.net/ Comments URL: https://news.ycombinator.com/item?id=49939513 Points: 6 # Comments: 2",
+          "id": "343dfeb45194",
+          "title": "RetailReady (YC W24) Is Hiring",
+          "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+          "description": "Article URL: https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations Comments URL: https://news.ycombinator.com/item?id=49945904 Points: 0 # Comments: 0",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Fri, 02 Oct 2026 22:43:01 +0000"
+          "pub_date": "Sat, 03 Oct 2026 17:00:12 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. Meta推动下一代设备融入“Muse”能力，显示其继续探索AI与消费硬件结合的方向。\n2. 美国参议员Sanders提出法案，拟禁止联邦政府使用Flock，反映对监控技术与隐私风险的立法关注升温。\n3. Stability AI在Sean Parker主导下围绕音乐业务重建，表明生成式AI公司正寻找更聚焦的商业化路径。\n4. Apple收紧macOS“完全磁盘访问”控制，以应对AI代理带来的新安全风险，凸显AI自动化引发的系统权限与隐私挑战。\n5. 白宫使用“超级智能”取代“AI”表述，同时斯洛文尼亚.si域名注册激增，显示政策话语与市场行为都在围绕新一轮AI叙事升温。\n\n今日最值得关注的是：AI正从技术话题升级为政策、安全、硬件与商业重组的多线博弈，“超级智能”叙事开始外溢到现实决策与市场行为中。",
+      "summary": "今日科技动态摘要\n\n1. **AI安全与监管争议升温**：OpenAI一名安全部门员工辞职，称公司“文化已破裂”；苹果因AI代理带来的新风险，收紧macOS“完全磁盘访问”权限；白宫将AI表述升级为“超级智能”；Circuit Breaker Labs则试图为儿童和成人打造更安全的AI。\n\n2. **平台与政策冲突加剧**：Jack Dorsey的Bitchat因印度政府命令从应用商店下架；美国参议员Sanders提出法案，禁止联邦政府使用Flock；Paramount与Warner Bros. Discovery将合并为Skydance，媒体格局再迎巨变。\n\n3. **AI与硬件、音乐、社交深度融合**：Meta计划在新一代设备中融入Muse技术；Sean Parker正围绕音乐重建Stability AI；多款可存在于短信中的AI代理涌现；Spotify亿万富翁旗下的身体扫描初创公司进入美国市场。\n\n4. **交通与艺术领域新动向**：Vessev推出近乎“飞行”的电动渡轮；教皇利奥十四世对AI生成艺术表示不满。\n\n今日最值得关注的是：AI安全争议、政府监管行动与媒体巨头合并同时加速，显示科技行业正进入更复杂的合规与竞争新阶段。",
       "count": 40
     },
     "ai": {
@@ -578,6 +578,42 @@
           "pub_date": "Mon, 28 Sep 2026 00:00:00 GMT"
         },
         {
+          "id": "bb06fcf31514",
+          "title": "AMD Boosting AI/LLM Performance for Radeon iGPUs as Much as 18~23% with Linux7.4",
+          "link": "https://www.phoronix.com/review/amd-perfopt",
+          "description": "Article URL: https://www.phoronix.com/review/amd-perfopt Comments URL: https://news.ycombinator.com/item?id=49900455 Points: 2 # Comments: 0",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Tue, 29 Sep 2026 20:59:43 +0000"
+        },
+        {
+          "id": "bde9121888d8",
+          "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+          "link": "https://www.qbitai.com/2026/10/501381.html",
+          "description": "岗位JD甩了篇技术报告",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 03 Oct 2026 07:54:43 +0000"
+        },
+        {
+          "id": "1ed152348f46",
+          "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+          "link": "https://www.qbitai.com/2026/10/501368.html",
+          "description": "又咋啦。。。",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 03 Oct 2026 04:41:24 +0000"
+        },
+        {
+          "id": "d51c7587b454",
+          "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+          "link": "https://www.qbitai.com/2026/10/500148.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 03 Oct 2026 02:38:19 +0000"
+        },
+        {
           "id": "1f71aed71b18",
           "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
           "link": "https://www.qbitai.com/2026/10/500098.html",
@@ -603,49 +639,22 @@
           "source": "量子位",
           "category": "ai",
           "pub_date": "Fri, 02 Oct 2026 06:46:32 +0000"
-        },
-        {
-          "id": "5a28d85d8548",
-          "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-          "link": "https://www.qbitai.com/2026/10/499812.html",
-          "description": "用ImageNet训练encoder",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 01 Oct 2026 15:06:30 +0000"
-        },
-        {
-          "id": "11654e1f6c9c",
-          "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-          "link": "https://www.qbitai.com/2026/10/499663.html",
-          "description": "价格只有Astra一半",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 01 Oct 2026 15:02:14 +0000"
-        },
-        {
-          "id": "c2c90e96d8f9",
-          "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-          "link": "https://www.qbitai.com/2026/09/499654.html",
-          "description": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Wed, 30 Sep 2026 14:03:43 +0000"
-        },
-        {
-          "id": "04db06b3425f",
-          "title": "直播回顾：工业AI的下一个机会在哪？",
-          "link": "https://www.qbitai.com/2026/09/499605.html",
-          "description": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Wed, 30 Sep 2026 12:11:24 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **模型与数据开源工具密集发布**：Hugging Face 上架了多个开源项目，包括快速报告生成模型 AstaBrief、面向企业智能体的训练数据生成工具 AutoSynthData、多语言TTS与语音克隆评估榜单 Open TTS Leaderboard，以及面向表格预测的 NVIDIA Kumo Tabular。\n\n2. **智能体能力持续扩展**：Holo4 致力于通用计算机操作智能体，Source-Aware Verification 则关注 MCP 智能体的来源感知验证，强调不仅事实正确，来源也要可靠。\n\n3. **大厂动态聚焦应用落地**：OpenAI 发布 GPT-6 系列模型指南，并披露 Chatham、Albertsons、The Den 等企业使用 ChatGPT 提升资本市场的专业能力、零售体验和日常效率；同时 OpenAI 还披露打击了一起协同模型蒸馏活动。Google 则发布了 2026 年 9 月 AI 新闻汇总及 XPRIZE 获奖预告片。\n\n今日最值得关注的是，AI 竞争正从单纯模型能力转向“开源工具链 + 企业级智能体落地 + 安全治理”的多维较量。",
+      "summary": "今日AI动态摘要\n\n1. **开源与企业级工具持续丰富**：Hugging Face 发布了快速报告生成模型 AstaBrief、面向企业智能体的训练数据生成工具 AutoSynthData，以及面向多语言 TTS 和语音克隆的可扩展评测榜单 Open TTS Leaderboard，降低了企业落地 AI 的门槛。\n\n2. **模型能力向垂直场景深化**：NVIDIA Kumo Tabular 在表格预测上实现新的精度-效率平衡；Holo4 推动通用计算机使用智能体发展；针对 MCP 智能体的“来源感知验证”研究强调不仅要核实事实，还要追溯信息来源。\n\n3. **大厂生态与商业应用加速**：OpenAI 发布 GPT-6 系列模型指南，并披露 Chatham、Albertsons、The Den 等企业在资本市场、零售和办公场景中的落地案例，同时披露打击模型蒸馏攻击、助力小企业应用 AI 等举措；Google 则汇总了 2026 年 9 月的 AI 进展及 XPRIZE 获奖预告片。\n\n今日最值得关注的是，AI 竞争正从单纯比拼模型能力，转向开源工具、垂直场景优化与企业商业落地的全方位生态较量。",
       "count": 30
     },
     "cctv": {
       "articles": [
+        {
+          "id": "22aef208a9b9",
+          "title": "Singapore builds most accurate clock ever, leaves US and China in dust",
+          "link": "https://www.scmp.com/news/china/science/article/3369532/david-vs-goliaths-singapore-builds-most-accurate-clock-ever-leaves-us-and-china-dust",
+          "description": "Article URL: https://www.scmp.com/news/china/science/article/3369532/david-vs-goliaths-singapore-builds-most-accurate-clock-ever-leaves-us-and-china-dust Comments URL: https://news.ycombinator.com/item?id=49946178 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 03 Oct 2026 17:39:22 +0000"
+        },
         {
           "id": "667ba85097b2",
           "title": "Dual defence betrayal: China reveals case of executive spying for 2 countries",
@@ -659,7 +668,7 @@
           "id": "53b0ec2e2f6f",
           "title": "Researchers Drove a Chinese EV into an Underground Mine. It Kept Calling China",
           "link": "https://autos.yahoo.com/ev-and-future-tech/articles/researchers-drove-chinese-ev-underground-155725649.html",
-          "description": "Article URL: https://autos.yahoo.com/ev-and-future-tech/articles/researchers-drove-chinese-ev-underground-155725649.html Comments URL: https://news.ycombinator.com/item?id=49933352 Points: 5 # Comments: 2",
+          "description": "Article URL: https://autos.yahoo.com/ev-and-future-tech/articles/researchers-drove-chinese-ev-underground-155725649.html Comments URL: https://news.ycombinator.com/item?id=49933352 Points: 5 # Comments: 4",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 02 Oct 2026 13:33:54 +0000"
@@ -695,7 +704,7 @@
           "id": "264e34d2a28b",
           "title": "On social reality in China",
           "link": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
-          "description": "Article URL: https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china Comments URL: https://news.ycombinator.com/item?id=49932402 Points: 150 # Comments: 148",
+          "description": "Article URL: https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china Comments URL: https://news.ycombinator.com/item?id=49932402 Points: 229 # Comments: 220",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 02 Oct 2026 11:42:26 +0000"
@@ -879,18 +888,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sun, 27 Sep 2026 12:11:00 +0000"
-        },
-        {
-          "id": "6cdfb65f6396",
-          "title": "US lawmakers aim to keep China's tech out of sensitive government systems",
-          "link": "https://www.rnz.co.nz/news/world/1591943/us-lawmakers-aim-to-keep-china-s-tech-out-of-sensitive-government-systems",
-          "description": "Article URL: https://www.rnz.co.nz/news/world/1591943/us-lawmakers-aim-to-keep-china-s-tech-out-of-sensitive-government-systems Comments URL: https://news.ycombinator.com/item?id=49853014 Points: 5 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 26 Sep 2026 03:46:39 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 国家安全与反间谍：中国公布一名高管为两个国家从事间谍活动的案件；英国军情五处警告称中国资助英国研究并将成果传送给北京间谍；美国司法部与FBI查封中国黑客使用的平台。\n2. 人工智能与科技竞争：中国“开放权重”AI在黑客竞赛中展现强大能力；开源AI平台争夺中国版Hugging Face地位；中国AI前沿面临关闭风险；中国对顶尖AI人才家属扩大出境限制。\n3. 电动汽车与能源产业：中国电动汽车产业走向整合；中国2250kW充电桩投入使用，美国考虑明年跟进750kW；中国推出电动重型卡车应对全球柴油价格上涨；研究人员将中国电动车开入地下矿场，车辆仍持续连接中国。\n4. 地缘政治与海洋安全：南海出现大面积岛屿建设；中国健康科技崛起成为超级大国。\n5. 社会与经济观察：中国“氛围编程”之都揭示AI热潮动向；中国社会现实引发关注。\n\n今日最值得关注的发展是：中国在AI、电动汽车和充电基础设施领域持续快速推进，同时围绕技术出口、间谍活动和数据安全的国际摩擦显著升级。",
+      "summary": "今日新闻联播动态摘要\n\n1. 中国在科技与基础设施领域持续发力：新加坡建成全球最精确时钟，中国在量子计时领域保持领先；中国开放权重AI在黑客竞赛中展现强大实力；开源AI平台正争夺中国版Hugging Face地位；中国2250kW充电桩已投入使用，远超美国计划中的750kW。\n\n2. 中国电动汽车产业进入整合与出海新阶段：拥挤的电动车行业走向兼并重组；十八轮电动重卡成为应对全球柴油价格飙升的中国方案；研究人员将中国电动车开入地下矿井，车辆仍持续连接中国网络，引发数据安全关注。\n\n3. 国家安全与外部风险警报频发：中国披露一名高管同时为两国从事间谍活动的双重背叛案件；英国军情五处警告中国资助英国研究并输送至北京间谍网络；美国司法部与FBI查封中国黑客使用的平台。\n\n4. 地缘与科技竞争态势复杂：南海岛礁建设持续引发关注；中国AI前沿面临关闭风险；中国健康科技超级大国崛起具有重要意义；中国“氛围编程”之都的经验为AI繁荣提供启示。\n\n今日最值得关注的发展是：中国在AI、电动车和充电基础设施等领域的技术输出与产业整合加速推进，但与此同时，间谍活动、数据安全与地缘博弈带来的外部风险也在同步上升，科技崛起与安全挑战并行。",
       "count": 27
     }
   }
