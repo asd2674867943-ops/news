@@ -1,0 +1,924 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T00:36:37.903415",
+  "categories": {
+    "tech": {
+      "articles": [
+        {
+          "id": "1e5a15fb70fb",
+          "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+          "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+          "description": "AI slop seems to be overwhelming bug bounty programs.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 04 Oct 2026 20:31:07 +0000"
+        },
+        {
+          "id": "93a1dabfbe30",
+          "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+          "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+          "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 04 Oct 2026 20:08:34 +0000"
+        },
+        {
+          "id": "694de6f9cb46",
+          "title": "TechCrunch Mobility: Reining in robotaxis",
+          "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+          "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 04 Oct 2026 16:05:00 +0000"
+        },
+        {
+          "id": "743c438dfba3",
+          "title": "Trump unveils his new Super Intelligence Force",
+          "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+          "description": "This new task force is Trump's latest response to the debate over AI safety.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 04 Oct 2026 15:15:10 +0000"
+        },
+        {
+          "id": "848ef5209097",
+          "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+          "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+          "description": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 19:33:15 +0000"
+        },
+        {
+          "id": "d2bfe8891793",
+          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+          "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+          "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 18:43:57 +0000"
+        },
+        {
+          "id": "614a63a7cfa2",
+          "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+          "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+          "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 16:30:01 +0000"
+        },
+        {
+          "id": "3c9d567f7f4a",
+          "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+          "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+          "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 15:02:01 +0000"
+        },
+        {
+          "id": "e59ec53e6636",
+          "title": "Vessev built an electric ferry that almost flies",
+          "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+          "description": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 14:42:00 +0000"
+        },
+        {
+          "id": "2e2b0b0a116c",
+          "title": "All the AI agents that can live in your text messages",
+          "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 14:00:00 +0000"
+        },
+        {
+          "id": "326e9171fbe3",
+          "title": "Spotify billionaire’s body scan startup has come to America",
+          "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+          "description": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 14:00:00 +0000"
+        },
+        {
+          "id": "d6f95c09d8b8",
+          "title": "Meta wants your next gadget to be Muse-infused",
+          "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+          "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 00:45:39 +0000"
+        },
+        {
+          "id": "261f3511b1eb",
+          "title": "Sanders introduces bill to ban the federal government from using Flock",
+          "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+          "description": "The proposed legislation would extend to all automotica license plate readers.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 00:21:57 +0000"
+        },
+        {
+          "id": "87473a1fbe9b",
+          "title": "Sean Parker is rebuilding Stability AI around music",
+          "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+          "description": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 21:09:14 +0000"
+        },
+        {
+          "id": "fe3f11359fb5",
+          "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+          "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+          "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 19:15:51 +0000"
+        },
+        {
+          "id": "479f66b0c00a",
+          "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+          "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 18:11:27 +0000"
+        },
+        {
+          "id": "e23fe4394561",
+          "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+          "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+          "description": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 17:48:16 +0000"
+        },
+        {
+          "id": "759bd2fa7cf9",
+          "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+          "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+          "description": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 17:32:05 +0000"
+        },
+        {
+          "id": "a6d2710d003d",
+          "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+          "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+          "description": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 17:00:00 +0000"
+        },
+        {
+          "id": "2170f77d2bf2",
+          "title": "Paramount and Warner Bros. Discovery to become Skydance",
+          "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+          "description": "The roughly $110 billion deal is expected to close October 6.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 15:53:50 +0000"
+        },
+        {
+          "id": "50e17f1dc00b",
+          "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+          "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
+          "description": "Wunmi Mosaku ( Sinners, Loki ) narrates NatGeo's new documentary Africa: Earth's Wild Home",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sun, 04 Oct 2026 15:34:14 +0000"
+        },
+        {
+          "id": "f5696b144b8b",
+          "title": "All hail electrification. But let’s talk about the hard part.",
+          "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+          "description": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sun, 04 Oct 2026 11:05:53 +0000"
+        },
+        {
+          "id": "d520bd16e6b0",
+          "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+          "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+          "description": "\"...we were making history.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 19:45:17 +0000"
+        },
+        {
+          "id": "160d617511cf",
+          "title": "The dawn of the age of the exoskeleton",
+          "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+          "description": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sat, 03 Oct 2026 11:15:33 +0000"
+        },
+        {
+          "id": "99bce33ea5ef",
+          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+          "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 23:03:16 +0000"
+        },
+        {
+          "id": "eacd8e5e71d1",
+          "title": "Someone got Doom in an SQL database",
+          "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+          "description": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 21:19:05 +0000"
+        },
+        {
+          "id": "8a649d0bb922",
+          "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+          "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+          "description": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 20:30:27 +0000"
+        },
+        {
+          "id": "61080bd14dda",
+          "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+          "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
+          "description": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 20:07:59 +0000"
+        },
+        {
+          "id": "1bb3194be9cd",
+          "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
+          "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+          "description": "Critics say workers are still owed far more.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 19:09:49 +0000"
+        },
+        {
+          "id": "45fe875ee477",
+          "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+          "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+          "description": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 18:39:36 +0000"
+        },
+        {
+          "id": "5a8b12987d83",
+          "title": "Research roundup: 6 cool science stories we almost missed",
+          "link": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+          "description": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 18:17:27 +0000"
+        },
+        {
+          "id": "832ff40827a6",
+          "title": "US military ends long-running program to spot nuclear missile launches",
+          "link": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
+          "description": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 17:32:14 +0000"
+        },
+        {
+          "id": "ed19bc0b2a05",
+          "title": "This startup pays NYC residents to run air conditioners on free batteries",
+          "link": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
+          "description": "Bonus: Every Electric’s batteries are beloved by household cats.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 17:20:21 +0000"
+        },
+        {
+          "id": "64fbbb8d4b35",
+          "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
+          "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
+          "description": "Tesla met analysts expectations as it sold fewer cars in Q3 2026 than Q3 2025.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 16:05:26 +0000"
+        },
+        {
+          "id": "2d69cb36d947",
+          "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+          "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+          "description": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 14:52:16 +0000"
+        },
+        {
+          "id": "6a67adb33c70",
+          "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+          "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
+          "description": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 13:54:34 +0000"
+        },
+        {
+          "id": "88106b5fb092",
+          "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
+          "link": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
+          "description": "Can it be Mini LED without a FALD backlight?",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 02 Oct 2026 10:30:11 +0000"
+        },
+        {
+          "id": "8305f9e5d3f1",
+          "title": "1 in 8 cancer cases are caused by infections",
+          "link": "https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say",
+          "description": "Article URL: https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say Comments URL: https://news.ycombinator.com/item?id=49959260 Points: 16 # Comments: 4",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 05 Oct 2026 00:04:02 +0000"
+        },
+        {
+          "id": "d502945e2bae",
+          "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+          "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+          "description": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 33 # Comments: 10",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 04 Oct 2026 22:25:10 +0000"
+        },
+        {
+          "id": "f3d6f46fd2e1",
+          "title": "In the wake of closure, a digital archive of animated materials appears online",
+          "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+          "description": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/ Comments URL: https://news.ycombinator.com/item?id=49957812 Points: 7 # Comments: 1",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 04 Oct 2026 21:01:28 +0000"
+        }
+      ],
+      "summary": "今日科技动态摘要\n\n1. AI安全与监管争议升温：OpenAI一名安全员工因称公司“文化已崩坏”而辞职；同时Google因AI提交的漏洞报告激增，冻结了其开源漏洞赏金计划。此外，特朗普推出新的“超级智能力量”计划，并探讨以非约束性安全协议应对AI形象问题。\n\n2. 监控与隐私问题引发反弹：一名联邦法官将Flock系统称为“无差别大规模监控”，参议员Sanders随即提出法案禁止联邦政府使用Flock。与此同时，亚马逊回应数据中心争议，称已不再使用保密协议。\n\n3. 科技产品与平台动态：Jack Dorsey的Bitchat因印度政府命令从当地应用商店下架；Meta推出Muse品牌相关的新硬件方向；Sean Parker正围绕音乐重建Stability AI；此外还有可入住短信的AI代理、Vessev的电动渡轮、Spotify亿万富翁的体扫初创公司进入美国等新进展。\n\n今日最值得关注的发展是：AI安全文化与政府监控争议同时升温，科技行业正面临来自内部员工和外部监管的双重压力。",
+      "count": 40
+    },
+    "ai": {
+      "articles": [
+        {
+          "id": "284131e20f12",
+          "title": "The Agent Said It Was Done. The Database Disagreed.",
+          "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Sat, 03 Oct 2026 22:56:48 GMT"
+        },
+        {
+          "id": "6c5e9b406018",
+          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "link": "https://huggingface.co/blog/allenai/astabrief",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Fri, 02 Oct 2026 15:19:50 GMT"
+        },
+        {
+          "id": "83737369d857",
+          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Fri, 02 Oct 2026 04:01:31 GMT"
+        },
+        {
+          "id": "068d666c4975",
+          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+          "link": "https://huggingface.co/blog/open-tts-leaderboard",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 30 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "id": "ab6044a0b4f1",
+          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 29 Sep 2026 15:30:38 GMT"
+        },
+        {
+          "id": "6088a6743bf9",
+          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 29 Sep 2026 13:07:00 GMT"
+        },
+        {
+          "id": "718eaa7d18e8",
+          "title": "Holo4: powering generalist computer-use agents",
+          "link": "https://huggingface.co/blog/Hcompany/holo4",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 09:44:05 GMT"
+        },
+        {
+          "id": "af67a17b1cd2",
+          "title": "The latest AI news we announced in September 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+          "description": "Here are Google’s latest AI updates from September 2026",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 02 Oct 2026 15:00:00 +0000"
+        },
+        {
+          "id": "388ee7aab3cc",
+          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+          "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 19:00:00 +0000"
+        },
+        {
+          "id": "c83e364563f3",
+          "title": "A model guide for the GPT-6 family",
+          "link": "https://openai.com/index/practical-guide-building-gpt-6",
+          "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 02 Oct 2026 16:15:00 GMT"
+        },
+        {
+          "id": "b17704a950d6",
+          "title": "Chatham scales its capital markets expertise with OpenAI",
+          "link": "https://openai.com/index/chatham-financial",
+          "description": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 02 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "adf877cfc406",
+          "title": "The eternal complement",
+          "link": "https://openai.com/index/the-eternal-complement",
+          "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 01 Oct 2026 17:00:00 GMT"
+        },
+        {
+          "id": "f08dbcece234",
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "link": "https://openai.com/index/albertsons-reimagining-retail",
+          "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 01 Oct 2026 16:00:00 GMT"
+        },
+        {
+          "id": "5ea7878fad01",
+          "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "link": "https://openai.com/index/the-den-family-social",
+          "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 01 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "a0a0ab054023",
+          "title": "Disrupting a coordinated model-distillation campaign",
+          "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "description": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 30 Sep 2026 10:30:00 GMT"
+        },
+        {
+          "id": "7254ece23c0f",
+          "title": "Helping small businesses put AI to work",
+          "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "description": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 30 Sep 2026 10:00:00 GMT"
+        },
+        {
+          "id": "3dcfd5b87d30",
+          "title": "DevDay 2026 Recap",
+          "link": "https://openai.com/index/devday-2026-recap",
+          "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 29 Sep 2026 10:00:00 GMT"
+        },
+        {
+          "id": "8517814ef33a",
+          "title": "Introducing GPT-6.1 Sol",
+          "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 29 Sep 2026 10:00:00 GMT"
+        },
+        {
+          "id": "b8d10485a791",
+          "title": "Introducing dots",
+          "link": "https://openai.com/index/introducing-dots",
+          "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 29 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "id": "760eab4b8dcd",
+          "title": "How we will do better for Australia",
+          "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "description": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 19:00:00 GMT"
+        },
+        {
+          "id": "042fb31730ca",
+          "title": "Towards safety cases for frontier AI training",
+          "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "description": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 19:00:00 GMT"
+        },
+        {
+          "id": "0b856f0c28e8",
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "description": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 28 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "id": "bb06fcf31514",
+          "title": "AMD Boosting AI/LLM Performance for Radeon iGPUs as Much as 18~23% with Linux7.4",
+          "link": "https://www.phoronix.com/review/amd-perfopt",
+          "description": "Article URL: https://www.phoronix.com/review/amd-perfopt Comments URL: https://news.ycombinator.com/item?id=49900455 Points: 2 # Comments: 0",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Tue, 29 Sep 2026 20:59:43 +0000"
+        },
+        {
+          "id": "e3fbd6581189",
+          "title": "AI算力硬合作，马斯克还是更相信中国制造",
+          "link": "https://www.qbitai.com/2026/10/501605.html",
+          "description": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sun, 04 Oct 2026 06:12:22 +0000"
+        },
+        {
+          "id": "cca32a96d48b",
+          "title": "最火AI岗位FDE：月薪5万，都干这些…",
+          "link": "https://www.qbitai.com/2026/10/501506.html",
+          "description": "什么是FDE？它会一直存在吗？",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sun, 04 Oct 2026 06:05:35 +0000"
+        },
+        {
+          "id": "719c19facc96",
+          "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+          "link": "https://www.qbitai.com/2026/10/501451.html",
+          "description": "专业3D模型反而更稀缺了",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sun, 04 Oct 2026 00:53:29 +0000"
+        },
+        {
+          "id": "bde9121888d8",
+          "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+          "link": "https://www.qbitai.com/2026/10/501381.html",
+          "description": "岗位JD甩了篇技术报告",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 03 Oct 2026 07:54:43 +0000"
+        },
+        {
+          "id": "1ed152348f46",
+          "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+          "link": "https://www.qbitai.com/2026/10/501368.html",
+          "description": "又咋啦。。。",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 03 Oct 2026 04:41:24 +0000"
+        },
+        {
+          "id": "d51c7587b454",
+          "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+          "link": "https://www.qbitai.com/2026/10/500148.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 03 Oct 2026 02:38:19 +0000"
+        },
+        {
+          "id": "1f71aed71b18",
+          "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+          "link": "https://www.qbitai.com/2026/10/500098.html",
+          "description": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 02 Oct 2026 07:34:15 +0000"
+        }
+      ],
+      "summary": "今日AI动态摘要\n\n1. **智能体可靠性与验证成为焦点**：Hugging Face发布多项研究，直指AI智能体“声称完成但实际未完成”的可靠性问题，并提出面向MCP智能体的“来源感知验证”方案，强调不仅要核实事实，还要核实信息来源。\n\n2. **企业级智能体工具链加速成熟**：Hugging Face开源AstaBrief快速报告生成模型、推出AutoSynthData企业智能体训练数据生成工具，OpenAI则展示了Chatham、Albertsons、The Den等企业在资本市场的专业应用、零售重构和效率提升方面的落地案例。\n\n3. **模型能力与评测体系持续扩展**：OpenAI发布GPT-6系列模型指南；Hugging Face推出开放TTS排行榜（支持多语言语音合成与声音克隆的可扩展评估）、NVIDIA Kumo Tabular刷新表格预测精度-效率边界、Holo4推动通用计算机使用智能体发展。\n\n4. **AI安全与竞争态势升温**：OpenAI披露打击 coordinated model-distillation campaign（协同模型蒸馏活动），反映模型知识产权与安全防护正成为行业重要议题。\n\n今日最值得关注的是：AI智能体正从“能做事”迈向“可信地做事”，来源验证与可靠性评估成为下一阶段企业落地的关键瓶颈。",
+      "count": 30
+    },
+    "cctv": {
+      "articles": [
+        {
+          "id": "b5ed72bca43b",
+          "title": "Let's compete with China on AI social impact",
+          "link": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
+          "description": "Article URL: https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social Comments URL: https://news.ycombinator.com/item?id=49957639 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 20:45:18 +0000"
+        },
+        {
+          "id": "dea4ce332272",
+          "title": "Californian accused of shipping $300M worth of Nvidia chips to China",
+          "link": "https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856",
+          "description": "Article URL: https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856 Comments URL: https://news.ycombinator.com/item?id=49954823 Points: 7 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 15:36:54 +0000"
+        },
+        {
+          "id": "23a03b6a9c2b",
+          "title": "Russia, China, Iran, Energy: Why Every Western Move Makes Things Worse [video]",
+          "link": "https://www.youtube.com/watch?v=-ziZCAUGZjk",
+          "description": "Article URL: https://www.youtube.com/watch?v=-ziZCAUGZjk Comments URL: https://news.ycombinator.com/item?id=49954767 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 15:31:24 +0000"
+        },
+        {
+          "id": "6742161cdf5e",
+          "title": "University asks staff to review some partnerships with China after MI5 warning",
+          "link": "https://www.bbc.com/news/articles/c65yn877dkk0o",
+          "description": "Article URL: https://www.bbc.com/news/articles/c65yn877dkk0o Comments URL: https://news.ycombinator.com/item?id=49952956 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 11:30:16 +0000"
+        },
+        {
+          "id": "2aa75dca4385",
+          "title": "China Importer's Pre-Production Checklist",
+          "link": "https://jpchair.com/",
+          "description": "Article URL: https://jpchair.com/ Comments URL: https://news.ycombinator.com/item?id=49952112 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 09:24:58 +0000"
+        },
+        {
+          "id": "53cb78954be3",
+          "title": "China's Push into A.I. Has Led to a Problem: Too Much Usage",
+          "link": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html",
+          "description": "Article URL: https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html Comments URL: https://news.ycombinator.com/item?id=49951755 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 08:12:20 +0000"
+        },
+        {
+          "id": "d7c727c088a3",
+          "title": "China's space plane appears to have released a mystery object in orbit",
+          "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit",
+          "description": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit Comments URL: https://news.ycombinator.com/item?id=49950197 Points: 7 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 03:00:55 +0000"
+        },
+        {
+          "id": "cfa9c9f1eac6",
+          "title": "Feathered Dinosaur Discovery in China Suggests Flight Evolved Multiple Times",
+          "link": "https://www.sciencealert.com/discovery-of-exquisite-feathered-dinosaur-in-china-could-rewrite-the-evolution-of-flight",
+          "description": "Article URL: https://www.sciencealert.com/discovery-of-exquisite-feathered-dinosaur-in-china-could-rewrite-the-evolution-of-flight Comments URL: https://news.ycombinator.com/item?id=49949909 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 02:08:40 +0000"
+        },
+        {
+          "id": "07c1a84423ba",
+          "title": "Theaster Gates bets on fine China",
+          "link": "https://text.npr.org/nx-s1-5977069",
+          "description": "Article URL: https://text.npr.org/nx-s1-5977069 Comments URL: https://news.ycombinator.com/item?id=49948140 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 03 Oct 2026 21:50:25 +0000"
+        },
+        {
+          "id": "666e3ffdbb85",
+          "title": "How China Is Winning the AI Race [video-essay]",
+          "link": "https://www.youtube.com/watch?v=QdznbGzRWSw",
+          "description": "Article URL: https://www.youtube.com/watch?v=QdznbGzRWSw Comments URL: https://news.ycombinator.com/item?id=49946751 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 03 Oct 2026 18:57:01 +0000"
+        },
+        {
+          "id": "22aef208a9b9",
+          "title": "Singapore builds most accurate clock ever, leaves US and China in dust",
+          "link": "https://www.scmp.com/news/china/science/article/3369532/david-vs-goliaths-singapore-builds-most-accurate-clock-ever-leaves-us-and-china-dust",
+          "description": "Article URL: https://www.scmp.com/news/china/science/article/3369532/david-vs-goliaths-singapore-builds-most-accurate-clock-ever-leaves-us-and-china-dust Comments URL: https://news.ycombinator.com/item?id=49946178 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 03 Oct 2026 17:39:22 +0000"
+        },
+        {
+          "id": "667ba85097b2",
+          "title": "Dual defence betrayal: China reveals case of executive spying for 2 countries",
+          "link": "https://www.scmp.com/news/china/politics/article/3365817/dual-defence-betrayal-china-reveals-rare-case-executive-spying-two-countries",
+          "description": "Article URL: https://www.scmp.com/news/china/politics/article/3365817/dual-defence-betrayal-china-reveals-rare-case-executive-spying-two-countries Comments URL: https://news.ycombinator.com/item?id=49937817 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 02 Oct 2026 19:52:45 +0000"
+        },
+        {
+          "id": "53b0ec2e2f6f",
+          "title": "Researchers Drove a Chinese EV into an Underground Mine. It Kept Calling China",
+          "link": "https://autos.yahoo.com/ev-and-future-tech/articles/researchers-drove-chinese-ev-underground-155725649.html",
+          "description": "Article URL: https://autos.yahoo.com/ev-and-future-tech/articles/researchers-drove-chinese-ev-underground-155725649.html Comments URL: https://news.ycombinator.com/item?id=49933352 Points: 5 # Comments: 4",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 02 Oct 2026 13:33:54 +0000"
+        },
+        {
+          "id": "a1ba68154f3c",
+          "title": "The Looming Closure of China's AI Frontier",
+          "link": "https://www.aei.org/foreign-and-defense-policy/the-looming-closure-of-chinas-ai-frontier/",
+          "description": "Article URL: https://www.aei.org/foreign-and-defense-policy/the-looming-closure-of-chinas-ai-frontier/ Comments URL: https://news.ycombinator.com/item?id=49933330 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 02 Oct 2026 13:30:42 +0000"
+        },
+        {
+          "id": "87f66bd33602",
+          "title": "Sprawling Islands in South China Sea",
+          "link": "https://en.wikipedia.org/wiki/Spratly_Islands",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Spratly_Islands Comments URL: https://news.ycombinator.com/item?id=49932846 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 02 Oct 2026 12:40:38 +0000"
+        },
+        {
+          "id": "5ad4c1364f41",
+          "title": "What China's vibe-coding capital can tell us about the A.I. boom",
+          "link": "https://www.newyorker.com/news/the-lede/what-chinas-vibe-coding-capital-can-tell-us-about-the-ai-boom",
+          "description": "Article URL: https://www.newyorker.com/news/the-lede/what-chinas-vibe-coding-capital-can-tell-us-about-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49932840 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 02 Oct 2026 12:40:03 +0000"
+        },
+        {
+          "id": "264e34d2a28b",
+          "title": "On social reality in China",
+          "link": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+          "description": "Article URL: https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china Comments URL: https://news.ycombinator.com/item?id=49932402 Points: 254 # Comments: 261",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 02 Oct 2026 11:42:26 +0000"
+        },
+        {
+          "id": "914426425b13",
+          "title": "China's rise as a health tech superpower is important",
+          "link": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/",
+          "description": "Article URL: https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/ Comments URL: https://news.ycombinator.com/item?id=49930512 Points: 9 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 02 Oct 2026 06:45:16 +0000"
+        },
+        {
+          "id": "0712eb36cc36",
+          "title": "China's Crowded EV Car Industry Moves Toward Consolidation",
+          "link": "https://www.nytimes.com/2026/09/28/business/china-ev-geely-nio.html",
+          "description": "Article URL: https://www.nytimes.com/2026/09/28/business/china-ev-geely-nio.html Comments URL: https://news.ycombinator.com/item?id=49927949 Points: 5 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 01 Oct 2026 22:47:09 +0000"
+        },
+        {
+          "id": "12a9df42b1f6",
+          "title": "A Hacking Competition Shows the Power of China's 'Open Weight' A.I",
+          "link": "https://www.nytimes.com/2026/10/01/science/hackerone-tenzai-china-open-weights.html",
+          "description": "Article URL: https://www.nytimes.com/2026/10/01/science/hackerone-tenzai-china-open-weights.html Comments URL: https://news.ycombinator.com/item?id=49922248 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 01 Oct 2026 14:35:51 +0000"
+        },
+        {
+          "id": "06f364693fca",
+          "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
+          "link": "https://www.bbc.com/news/articles/cwy7zrljp527o",
+          "description": "Article URL: https://www.bbc.com/news/articles/cwy7zrljp527o Comments URL: https://news.ycombinator.com/item?id=49921106 Points: 5 # Comments: 4",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 01 Oct 2026 13:04:51 +0000"
+        },
+        {
+          "id": "72e2a7d3b64b",
+          "title": "China's 2,250kW chargers are in service, US thinks about 750kW next year",
+          "link": "https://electrek.co/2026/09/30/chinas-2250kw-chargers-are-already-in-service-while-us-thinks-about-750kw-next-year/",
+          "description": "Article URL: https://electrek.co/2026/09/30/chinas-2250kw-chargers-are-already-in-service-while-us-thinks-about-750kw-next-year/ Comments URL: https://news.ycombinator.com/item?id=49915002 Points: 18 # Comments: 17",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 30 Sep 2026 21:55:28 +0000"
+        },
+        {
+          "id": "8323fff60d8d",
+          "title": "Justice Department and FBI Seize Platforms Operated and Used by China Hackers",
+          "link": "https://www.justice.gov/opa/pr/justice-department-and-fbi-seize-platforms-operated-and-used-china-state-sponsored-hackers",
+          "description": "Article URL: https://www.justice.gov/opa/pr/justice-department-and-fbi-seize-platforms-operated-and-used-china-state-sponsored-hackers Comments URL: https://news.ycombinator.com/item?id=49909861 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 30 Sep 2026 14:56:13 +0000"
+        },
+        {
+          "id": "197a2b188b9e",
+          "title": "Eighteen-Wheeler E-Trucks Are China's Answer to Soaring Global Diesel Prices",
+          "link": "https://www.bloomberg.com/news/features/2026-09-29/eighteen-wheeler-e-trucks-are-china-s-answer-to-soaring-global-diesel-prices",
+          "description": "Article URL: https://www.bloomberg.com/news/features/2026-09-29/eighteen-wheeler-e-trucks-are-china-s-answer-to-soaring-global-diesel-prices Comments URL: https://news.ycombinator.com/item?id=49905702 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 30 Sep 2026 07:41:37 +0000"
+        },
+        {
+          "id": "f430da31408e",
+          "title": "The open-source AI platforms vying to become China's Hugging Face",
+          "link": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/",
+          "description": "Article URL: https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/ Comments URL: https://news.ycombinator.com/item?id=49904335 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 30 Sep 2026 04:24:16 +0000"
+        },
+        {
+          "id": "3bbdb191a17e",
+          "title": "China broadens travel curbs to encompass family of top AI talent",
+          "link": "https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html",
+          "description": "Article URL: https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html Comments URL: https://news.ycombinator.com/item?id=49902999 Points: 8 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 30 Sep 2026 00:52:00 +0000"
+        },
+        {
+          "id": "1b657d001cbd",
+          "title": "China's Selective Online Policing System Explained [video]",
+          "link": "https://www.youtube.com/watch?v=jnnuZ3DQq10",
+          "description": "Article URL: https://www.youtube.com/watch?v=jnnuZ3DQq10 Comments URL: https://news.ycombinator.com/item?id=49900894 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 29 Sep 2026 21:29:18 +0000"
+        },
+        {
+          "id": "eac71d64986e",
+          "title": "China accounts for 77.9% of global humanoid robot shipments in H1, IDC says",
+          "link": "https://technode.com/2026/09/29/china-accounts-for-77-9-of-global-humanoid-robot-shipments-in-h1-idc-says/",
+          "description": "Article URL: https://technode.com/2026/09/29/china-accounts-for-77-9-of-global-humanoid-robot-shipments-in-h1-idc-says/ Comments URL: https://news.ycombinator.com/item?id=49898563 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 29 Sep 2026 18:55:56 +0000"
+        },
+        {
+          "id": "32ed8cdd0508",
+          "title": "AI Data Centers – U.S. vs. China",
+          "link": "https://aidatacenterindex.com/compare/united-states-vs-china/",
+          "description": "Article URL: https://aidatacenterindex.com/compare/united-states-vs-china/ Comments URL: https://news.ycombinator.com/item?id=49898122 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 29 Sep 2026 18:27:25 +0000"
+        },
+        {
+          "id": "db06e568fa7a",
+          "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent Comments URL: https://news.ycombinator.com/item?id=49891184 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 29 Sep 2026 11:03:47 +0000"
+        }
+      ],
+      "summary": "今日新闻联播动态摘要\n\n1. 人工智能竞争白热化：中国AI发展迅猛，使用量过大成新问题，同时面临前沿领域可能关闭的风险；美国加州有人被控向中国走私价值3亿美元的英伟达芯片，西方在AI领域对华竞争与封锁态势明显。\n2. 安全与防务摩擦升级：英国军情五处警告后，大学要求员工审查与中国合作；中国披露一起高管为两国从事间谍活动的案件；俄罗斯、中国、伊朗与能源议题被指西方每步行动都使局势恶化。\n3. 科技与航天新进展：中国空天飞机在轨释放神秘物体；中国发现带羽毛恐龙，暗示飞行可能多次进化；新加坡建成最精确时钟，领先中美。\n4. 经济与贸易关注：中国进口商预生产清单发布；中国电动汽车被开进地下矿后仍持续呼叫中国，引发数据安全担忧；南海岛屿建设持续引发关注。\n\n今日最值得关注的是：中国在AI领域快速扩张的同时，正面临使用过载、外部芯片走私管控及国际合作审查等多重压力，科技竞争与安全博弈同步加剧。",
+      "count": 30
+    }
+  }
+}
