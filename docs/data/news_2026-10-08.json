@@ -1,188 +1,242 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T01:39:40.939925",
+  "generated_at": "2026-10-08T19:41:58.647339",
   "categories": {
     "tech": {
       "articles": [
         {
-          "id": "5d73a88c779b",
-          "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-          "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-          "description": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+          "id": "80ce35c4b19f",
+          "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+          "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+          "description": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 23:36:57 +0000"
+          "pub_date": "Thu, 08 Oct 2026 18:30:00 +0000"
         },
         {
-          "id": "dc5e44cc20bd",
-          "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-          "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-          "description": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+          "id": "ee139785ceca",
+          "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+          "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+          "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 22:59:16 +0000"
+          "pub_date": "Thu, 08 Oct 2026 18:20:32 +0000"
         },
         {
-          "id": "bdada83b14e8",
-          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-          "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-          "description": "The developer of Hermes Agent raised a $90 million Series B.",
+          "id": "8de8901301e6",
+          "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+          "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+          "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 20:48:45 +0000"
+          "pub_date": "Thu, 08 Oct 2026 18:19:45 +0000"
         },
         {
-          "id": "617fb4c418e7",
-          "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-          "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-          "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+          "id": "a6e9d4256e6c",
+          "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+          "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+          "description": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 20:22:37 +0000"
+          "pub_date": "Thu, 08 Oct 2026 18:19:42 +0000"
         },
         {
-          "id": "2a2560a74fed",
-          "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-          "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-          "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+          "id": "8329acb02c74",
+          "title": "Google brings agentic AI to Gemini, starting with businesses",
+          "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 18:30:57 +0000"
+          "pub_date": "Thu, 08 Oct 2026 18:18:00 +0000"
         },
         {
-          "id": "5db17002aa70",
-          "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-          "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-          "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+          "id": "dd37ce884a1a",
+          "title": "Anthropic changes usage policy to ban model abuse and election interference",
+          "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+          "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 18:15:28 +0000"
+          "pub_date": "Thu, 08 Oct 2026 18:16:24 +0000"
         },
         {
-          "id": "d3a2183add10",
-          "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
-          "link": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
-          "description": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
+          "id": "17024493c7be",
+          "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+          "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+          "description": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 18:10:00 +0000"
+          "pub_date": "Thu, 08 Oct 2026 18:10:55 +0000"
         },
         {
-          "id": "9fd16e0b7c09",
-          "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-          "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-          "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+          "id": "538c074828b1",
+          "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+          "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
+          "description": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 18:00:19 +0000"
+          "pub_date": "Thu, 08 Oct 2026 16:45:00 +0000"
         },
         {
-          "id": "7509f38ac0eb",
-          "title": "Greenairy is building smart plant towers to clean the air in your office",
-          "link": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
-          "description": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
+          "id": "0faa768bf882",
+          "title": "Natura’s $99 smart ring puts AI agents on your finger",
+          "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+          "description": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 17:30:00 +0000"
+          "pub_date": "Thu, 08 Oct 2026 16:00:00 +0000"
         },
         {
-          "id": "d77c83e71b55",
-          "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars",
-          "link": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
-          "description": "CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract.",
+          "id": "ef9831585a64",
+          "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+          "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+          "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 17:04:46 +0000"
+          "pub_date": "Thu, 08 Oct 2026 16:00:00 +0000"
         },
         {
-          "id": "4d9352d39f78",
-          "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-          "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-          "description": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+          "id": "458bf186a8e7",
+          "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+          "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+          "description": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 16:53:46 +0000"
+          "pub_date": "Thu, 08 Oct 2026 15:42:26 +0000"
         },
         {
-          "id": "13feb0a49d96",
-          "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-          "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-          "description": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+          "id": "15818b1a14ce",
+          "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
+          "link": "https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+          "description": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 15:07:08 +0000"
+          "pub_date": "Thu, 08 Oct 2026 15:12:59 +0000"
         },
         {
-          "id": "a1535814b646",
-          "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
-          "link": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
-          "description": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
+          "id": "ee7ac7ee8329",
+          "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
+          "link": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
+          "description": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 15:00:00 +0000"
+          "pub_date": "Thu, 08 Oct 2026 15:06:17 +0000"
         },
         {
-          "id": "537e8b5cfff8",
-          "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-          "link": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
-          "description": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
+          "id": "37a00a6c2a94",
+          "title": "Asos confirms breach of customer data after hackers send rogue app notification",
+          "link": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
+          "description": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 15:00:00 +0000"
+          "pub_date": "Thu, 08 Oct 2026 15:01:15 +0000"
         },
         {
-          "id": "d507e9b2cb73",
-          "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-          "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-          "description": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+          "id": "6e923200b615",
+          "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+          "description": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 14:41:38 +0000"
+          "pub_date": "Thu, 08 Oct 2026 15:00:00 +0000"
         },
         {
-          "id": "ab103b5edda8",
-          "title": "Google experiments with an AI-powered gaming platform",
-          "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-          "description": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+          "id": "77663cb693c6",
+          "title": "Spotify is getting more serious about selling enterprise software",
+          "link": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+          "description": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 14:36:23 +0000"
+          "pub_date": "Thu, 08 Oct 2026 14:34:33 +0000"
         },
         {
-          "id": "ebba1e49c322",
-          "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-          "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-          "description": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+          "id": "b98ab9f665d6",
+          "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
+          "link": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
+          "description": "This is the first time the Alphabet-owned company has turned to debt financing.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 14:30:00 +0000"
+          "pub_date": "Thu, 08 Oct 2026 14:16:56 +0000"
         },
         {
-          "id": "5008850378e6",
-          "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-          "description": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+          "id": "73f8f2ee8d8c",
+          "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+          "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+          "description": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 14:15:00 +0000"
+          "pub_date": "Thu, 08 Oct 2026 14:00:00 +0000"
         },
         {
-          "id": "95a03c9fd0db",
-          "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-          "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-          "description": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
+          "id": "0af4cf161117",
+          "title": "The complete Side Events lineup at Founder Summit 2026",
+          "link": "https://techcrunch.com/2026/10/08/the-complete-side-events-lineup-at-founder-summit-2026/",
+          "description": "Boston, are you ready?! TechCrunch Founder Summit 2026 is about to explode with energy — and the real magic kicks off with an epic lineup of Side Events lighting up the city from November 3–6!",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 14:00:00 +0000"
+          "pub_date": "Thu, 08 Oct 2026 14:00:00 +0000"
         },
         {
-          "id": "80150817add0",
-          "title": "Google’s new SynthID website can identify AI-generated media",
-          "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-          "description": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+          "id": "ea51b2a8a4ee",
+          "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+          "link": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+          "description": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Wed, 07 Oct 2026 14:00:00 +0000"
+          "pub_date": "Thu, 08 Oct 2026 14:00:00 +0000"
+        },
+        {
+          "id": "640b05d311b6",
+          "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+          "link": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+          "description": "Amazon killed its app store, so Google Play it is.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 08 Oct 2026 16:32:46 +0000"
+        },
+        {
+          "id": "5d7ef380eb72",
+          "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
+          "link": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
+          "description": "\"If this was easy, everybody else would be doing it.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 08 Oct 2026 15:28:36 +0000"
+        },
+        {
+          "id": "2bbf134d63eb",
+          "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+          "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+          "description": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 08 Oct 2026 14:04:42 +0000"
+        },
+        {
+          "id": "aeb90ebcf05e",
+          "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+          "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+          "description": "Full-stack safety solution for physical AI is being used by robotics companies.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 08 Oct 2026 11:15:33 +0000"
+        },
+        {
+          "id": "b3c47bf731ff",
+          "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
+          "link": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
+          "description": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 08 Oct 2026 11:00:14 +0000"
+        },
+        {
+          "id": "fac56adec36e",
+          "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+          "description": "Get ready for more AI in your Windows and more AI on the desktop.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 08 Oct 2026 00:00:24 +0000"
         },
         {
           "id": "3485115bd7e6",
@@ -309,63 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Tue, 06 Oct 2026 21:31:10 +0000"
-        },
-        {
-          "id": "9219812c5c1a",
-          "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-          "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-          "description": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 06 Oct 2026 20:50:32 +0000"
-        },
-        {
-          "id": "e104a1f42614",
-          "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
-          "link": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
-          "description": "A combined service could lead to higher prices.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 06 Oct 2026 20:32:12 +0000"
-        },
-        {
-          "id": "fa023d84f27c",
-          "title": "It looks like the Atlantic storm season may finally produce a hurricane",
-          "link": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/",
-          "description": "To date, this Atlantic tropics year has been exceptionally quiet.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 06 Oct 2026 19:55:50 +0000"
-        },
-        {
-          "id": "c19d9131c486",
-          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-          "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-          "description": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 06 Oct 2026 19:21:14 +0000"
-        },
-        {
-          "id": "011ddb7716a3",
-          "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
-          "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-          "description": "Paramount now owns Warner Bros. as last-ditch effort to stop $111B merger fails.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 06 Oct 2026 17:33:44 +0000"
-        },
-        {
-          "id": "270cb1b94414",
-          "title": "Support Ars and get a better reading experience in return",
-          "link": "https://arstechnica.com/staff/2026/10/make-ars-better-with-an-arspro-subscription/",
-          "description": "ArsPro gives you more ways to read while directly supporting our journalism.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 06 Oct 2026 17:21:15 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. AI与机器人领域融资活跃：机器人数据初创公司Mecka AI获红杉资本6000万美元投资；Nous Research确认估值达15亿美元，并推出面向企业用户的AI智能体；医疗AI公司Healthleap融资3800万美元，用于识别需重点关注的住院患者。\n\n2. 大厂AI与硬件动态密集：微软发布搭载英伟达芯片的新款AI PC，并更新Windows 11；Meta旗下Muse在移动端上线仅一个月后即登陆iPad；ChatGPT推出全新界面，视觉交互能力大幅增强，同时面向青少年的版本引发心理健康争议。\n\n3. 科技应用与安全并进：Meta推出新AI工具，检测暗藏儿童性虐待材料的广告；X将“Gametime”体育中心从NFL扩展至MLB；SpaceX校友团队融资1亿美元，研发自动驾驶货运列车以重塑物流。\n\n今日最值得关注的是AI正加速渗透企业服务、硬件终端与内容安全领域，同时资本对垂直AI应用的押注持续升温。",
+      "summary": "今日科技动态摘要\n\n1. **AI行业竞争与商业化加速**：OpenAI被曝收入比此前预期低200亿美元，其数学解决方案也未达行业标准；与此同时，Anthropic更新使用政策，禁止模型滥用和选举干预；Google将代理式AI引入Gemini，率先面向企业客户。\n\n2. **AI估值与投资热度持续**：热门AI排行榜Arena在10个月内估值近乎翻倍至31亿美元；Goodfire推出低成本“由内向外”监控方案，用于捕捉失控AI代理；Natura发布99美元智能戒指，将AI代理戴在手指上。\n\n3. **科技巨头与监管动态**：美国禁止微软、Adobe等主要IT公司通过绿卡项目雇佣技术外籍员工；纽约州指控TikTok向青少年提供“安慰剂式”安全功能而非真正保护；Asos确认客户数据泄露，起因是黑客发送恶意应用通知。\n\n4. **企业与市场新动向**：Netflix发布关于FTX丑闻的剧集《The Altruists》预告片；Ben Affleck因AI相关表现引发网络关注；一位曾入狱的创业创始人瞄准“前科人员”这一未被开发的市场；马斯克质疑安巴尼的影响力，Starlink印度上线受阻。\n\n今日最值得关注的发展是：OpenAI收入预期大幅缩水与AI排行榜Arena估值飙升形成鲜明对比，显示AI行业在商业化验证与资本狂热之间正面临越来越大的张力。",
       "count": 40
     },
     "ai": {
@@ -378,6 +378,15 @@
           "source": "Hugging Face",
           "category": "ai",
           "pub_date": "Wed, 07 Oct 2026 16:54:33 GMT"
+        },
+        {
+          "id": "cce0d9f4bd00",
+          "title": "Introducing Falcon ASR",
+          "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 07 Oct 2026 13:21:03 GMT"
         },
         {
           "id": "d686531c1bc7",
@@ -432,6 +441,33 @@
           "source": "Google AI Blog",
           "category": "ai",
           "pub_date": "Fri, 02 Oct 2026 15:00:00 +0000"
+        },
+        {
+          "id": "33ef4cdd08c6",
+          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "link": "https://openai.com/index/oracle",
+          "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 08 Oct 2026 16:00:00 GMT"
+        },
+        {
+          "id": "1d810393fbd4",
+          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "link": "https://openai.com/index/pollo-ai",
+          "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 08 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "55bed8c71043",
+          "title": "Disrupting AI-enabled “false front” operations",
+          "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "description": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 08 Oct 2026 00:00:00 GMT"
         },
         {
           "id": "776041a37bb7",
@@ -533,121 +569,338 @@
           "pub_date": "Fri, 02 Oct 2026 00:00:00 GMT"
         },
         {
-          "id": "adf877cfc406",
-          "title": "The eternal complement",
-          "link": "https://openai.com/index/the-eternal-complement",
-          "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-          "source": "OpenAI Blog",
+          "id": "40084b3bd660",
+          "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
+          "link": "https://www.qbitai.com/2026/10/502049.html",
+          "description": "Vidu Q4预览版，了解一下~",
+          "source": "量子位",
           "category": "ai",
-          "pub_date": "Thu, 01 Oct 2026 17:00:00 GMT"
+          "pub_date": "Thu, 08 Oct 2026 13:28:23 +0000"
         },
         {
-          "id": "f08dbcece234",
-          "title": "How Albertsons Companies is reimagining retail from the inside out",
-          "link": "https://openai.com/index/albertsons-reimagining-retail",
-          "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-          "source": "OpenAI Blog",
+          "id": "ca1aef9d9d8a",
+          "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
+          "link": "https://www.qbitai.com/2026/10/502035.html",
+          "description": "打造便利店“人机协作”运营新模式",
+          "source": "量子位",
           "category": "ai",
-          "pub_date": "Thu, 01 Oct 2026 16:00:00 GMT"
+          "pub_date": "Thu, 08 Oct 2026 12:43:31 +0000"
         },
         {
-          "id": "17c88d82c0d5",
-          "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
-          "link": "https://www.qbitai.com/2026/10/501825.html",
+          "id": "78a5e7226476",
+          "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+          "link": "https://www.qbitai.com/2026/10/501995.html",
+          "description": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 08 Oct 2026 09:28:44 +0000"
+        },
+        {
+          "id": "ba1c64b7af2f",
+          "title": "吉利智充技术正式发布，重塑全球补能新标杆",
+          "link": "https://www.qbitai.com/2026/10/501956.html",
+          "description": "2027年底实现“县县通”",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 08 Oct 2026 09:10:55 +0000"
+        },
+        {
+          "id": "6478132a6a03",
+          "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
+          "link": "https://www.qbitai.com/2026/10/501930.html",
+          "description": "管理岗砍掉四成，顶级车型涨价20%卖",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Thu, 08 Oct 2026 07:10:24 +0000"
+        },
+        {
+          "id": "b028c23e8db1",
+          "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+          "link": "https://www.qbitai.com/2026/10/501915.html",
           "description": "",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Wed, 07 Oct 2026 14:10:33 +0000"
+          "pub_date": "Thu, 08 Oct 2026 02:15:37 +0000"
         },
         {
-          "id": "f872af5844ef",
-          "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-          "link": "https://www.qbitai.com/2026/10/501803.html",
-          "description": "",
+          "id": "18ef3da4238b",
+          "title": "GPT-6今起免费用！拒答变少，话变多了",
+          "link": "https://www.qbitai.com/2026/10/501834.html",
+          "description": "ChatGPT聊天框长出界面",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Wed, 07 Oct 2026 11:34:47 +0000"
+          "pub_date": "Thu, 08 Oct 2026 01:07:19 +0000"
         },
         {
-          "id": "d5ae05efdc82",
-          "title": "晕…这年头还有说人话的AI不",
-          "link": "https://www.qbitai.com/2026/10/501796.html",
-          "description": "",
+          "id": "6ed8802764cf",
+          "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+          "link": "https://www.qbitai.com/2026/10/501832.html",
+          "description": "小模型新守门员",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Wed, 07 Oct 2026 08:41:13 +0000"
-        },
-        {
-          "id": "db2ca06f2918",
-          "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-          "link": "https://www.qbitai.com/2026/10/501791.html",
-          "description": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Wed, 07 Oct 2026 06:39:36 +0000"
-        },
-        {
-          "id": "d28a78494636",
-          "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-          "link": "https://www.qbitai.com/2026/10/501749.html",
-          "description": "三位菲尔兹奖得主：不代表认可",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Wed, 07 Oct 2026 01:05:13 +0000"
-        },
-        {
-          "id": "3efacf523afa",
-          "title": "刚刚，诺贝尔物理奖一人独揽！",
-          "link": "https://www.qbitai.com/2026/10/501746.html",
-          "description": "南极洲甚至有一座高地以他名字命名",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Tue, 06 Oct 2026 10:44:58 +0000"
-        },
-        {
-          "id": "2de5dc8ac2e5",
-          "title": "不er，咋陶哲轩也成AI减速派了？？",
-          "link": "https://www.qbitai.com/2026/10/501736.html",
-          "description": "",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Tue, 06 Oct 2026 07:59:17 +0000"
-        },
-        {
-          "id": "b520e68ce1dc",
-          "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-          "link": "https://www.qbitai.com/2026/10/501726.html",
-          "description": "",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Tue, 06 Oct 2026 06:45:40 +0000"
-        },
-        {
-          "id": "b2558d25d8c5",
-          "title": "刚刚，诺贝尔奖颁给光遗传学！",
-          "link": "https://www.qbitai.com/2026/10/501720.html",
-          "description": "从绿藻里的光开关，到控制神经元",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Mon, 05 Oct 2026 10:37:01 +0000"
-        },
-        {
-          "id": "f00a225f9533",
-          "title": "刚刚，Hinton发了首篇RSI论文",
-          "link": "https://www.qbitai.com/2026/10/501705.html",
-          "description": "AI已经开始真正进入「造下一代AI」的流水线",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Mon, 05 Oct 2026 04:42:52 +0000"
+          "pub_date": "Thu, 08 Oct 2026 01:04:00 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **开源多模态决策模型与高效训练数据生成**：Hugging Face 发布面向边缘设备的多模态开放决策模型，并推出 AutoSynthData 为企业级智能体自动生成训练数据，同时开源快速报告生成模型 AstaBrief，推动 AI 能力向端侧和企业场景落地。\n\n2. **大模型在竞赛与推理可靠性上取得突破**：同一模型家族（Nemotron）经微调后在 IOI 和 IMO 两项国际赛事中均获金牌级成绩；同时业界关注智能体“自称完成”但数据库实际状态不符的问题，凸显 AI 推理与执行可靠性的重要性。\n\n3. **OpenAI 全面推进产品化与行业合作**：GPT-6 与智能 UI 面向大众发布，ChatGPT 接入 Radisson 酒店发现、Jump Trading 量化研究、Atlassian 企业知识协作等场景，并推进数学 AI 进展、计算机使用能力（Ironclad）及欧盟文本溯源合规方案。\n\n4. **Google 与 OpenAI 加码教育与青少年 AI 素养**：Google 推出 Playground 自定义游戏创作平台并发布 9 月 AI 新闻汇总；OpenAI 帮助青少年学习、规划并参与塑造 AI 未来。\n\n今日最值得关注的是：AI 正从“模型能力竞赛”转向“可靠执行 + 行业落地 + 合规治理”的多线并进，其中智能体执行可靠性与企业级应用成为新的竞争焦点。",
+      "summary": "今日AI动态摘要\n\n1. **开源模型与工具持续涌现**：Hugging Face 发布了多模态边缘决策模型、Falcon ASR 语音识别模型、AstaBrief 快速报告生成模型，以及面向企业智能体的 AutoSynthData 训练数据生成工具，进一步丰富了开源AI生态。\n\n2. **AI在竞赛与科研中展现顶尖能力**：通过微调 Nemotron 模型家族，在 IOI（国际信息学奥林匹克）和 IMO（国际数学奥林匹克）两项赛事中均取得金牌级成绩，展示了AI在复杂推理任务上的潜力。\n\n3. **OpenAI 加速企业级与消费级落地**：Oracle 借助 ChatGPT 和 Codex 将数天工作缩短至分钟级，Jump Trading 用其扩展量化研究，Radisson 酒店集团将酒店发现引入 ChatGPT，同时 OpenAI 还推出了 GPT-6 与智能UI、青少年AI教育计划，并打击AI“假前台”欺诈操作。\n\n4. **Google 推出 Playground 并汇总9月AI进展**：Google AI Blog 发布 Playground 功能，允许用户创建和游玩自定义游戏，同时汇总了2026年9月的最新AI公告。\n\n5. **AI智能体可靠性问题引发关注**：Hugging Face 文章《The Agent Said It Was Done. The Database Disagreed.》揭示了智能体声称任务完成但实际数据库状态不符的问题，凸显了AI Agent 在真实环境中落地仍需解决可靠性挑战。\n\n今日最值得关注的是：开源模型在边缘计算、语音、报告生成等垂直场景加速落地，同时AI在奥赛级推理中达到金牌水平，但智能体可靠性问题仍是规模化部署的关键瓶颈。",
       "count": 30
     },
     "cctv": {
-      "articles": [],
-      "summary": "今日暂无相关新闻。",
-      "count": 0
+      "articles": [
+        {
+          "id": "0480968ee15f",
+          "title": "Ukraine warns China and Russia are close to creating a Starlink competitor",
+          "link": "https://ukranews.com/en/news/1178852-ukraine-will-ask-u-s-to-impose-sanctions-on-russia-and-china-over-russia-s-version-of-starlink-media",
+          "description": "Article URL: https://ukranews.com/en/news/1178852-ukraine-will-ask-u-s-to-impose-sanctions-on-russia-and-china-over-russia-s-version-of-starlink-media Comments URL: https://news.ycombinator.com/item?id=50010829 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 08 Oct 2026 19:30:31 +0000"
+        },
+        {
+          "id": "16eb829f13b6",
+          "title": "China is ramping up spy recruitment across the US – and threatening families",
+          "link": "https://nypost.com/2026/10/07/us-news/wanying-zhang-is-one-of-a-growing-number-of-chinese-spies-in-us/",
+          "description": "Article URL: https://nypost.com/2026/10/07/us-news/wanying-zhang-is-one-of-a-growing-number-of-chinese-spies-in-us/ Comments URL: https://news.ycombinator.com/item?id=50005206 Points: 4 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 08 Oct 2026 12:48:55 +0000"
+        },
+        {
+          "id": "73b824cc2ea4",
+          "title": "China gets access to stealth coating on F-35 parts [Bloomberg]",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts Comments URL: https://news.ycombinator.com/item?id=50002627 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 08 Oct 2026 07:02:43 +0000"
+        },
+        {
+          "id": "3ac8ae1781f5",
+          "title": "UPS Worker Missed Security Email, Letting China Get F-35 Parts",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts Comments URL: https://news.ycombinator.com/item?id=49997902 Points: 10 # Comments: 8",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 07 Oct 2026 19:47:33 +0000"
+        },
+        {
+          "id": "ef77deb12c46",
+          "title": "Sizing Up SMRs: Assessing U.S.-China Tech Competition in Small Modular Reactors",
+          "link": "https://scsp222.substack.com/p/introducing-sizing-up-smrs-assessing",
+          "description": "Article URL: https://scsp222.substack.com/p/introducing-sizing-up-smrs-assessing Comments URL: https://news.ycombinator.com/item?id=49996223 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 07 Oct 2026 17:45:26 +0000"
+        },
+        {
+          "id": "937dbb5b6ec0",
+          "title": "A New Crop of Solar Panels Is the U.S.'s Best Hope of Catching China",
+          "link": "https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html",
+          "description": "Article URL: https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html Comments URL: https://news.ycombinator.com/item?id=49995700 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 07 Oct 2026 17:09:28 +0000"
+        },
+        {
+          "id": "2cca526578fb",
+          "title": "China's LinkedIn Espionage Is Only Getting More Advanced",
+          "link": "https://thediplomat.com/2026/10/chinas-linkedin-espionage-is-only-getting-more-advanced/",
+          "description": "Article URL: https://thediplomat.com/2026/10/chinas-linkedin-espionage-is-only-getting-more-advanced/ Comments URL: https://news.ycombinator.com/item?id=49986661 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 07 Oct 2026 01:15:31 +0000"
+        },
+        {
+          "id": "ba069c742897",
+          "title": "Mistral unveils new AI model it says rivals best open systems from China",
+          "link": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
+          "description": "Article URL: https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html Comments URL: https://news.ycombinator.com/item?id=49984444 Points: 1 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 06 Oct 2026 21:32:18 +0000"
+        },
+        {
+          "id": "eb583c6eb3ca",
+          "title": "In race with U.S., China struggles to recruit foreign AI researchers",
+          "link": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
+          "description": "Article URL: https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html Comments URL: https://news.ycombinator.com/item?id=49980818 Points: 2 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 06 Oct 2026 16:32:43 +0000"
+        },
+        {
+          "id": "661e279473ad",
+          "title": "Almost half of China's workforce is now in the gig economy",
+          "link": "https://www.abc.net.au/news/2026-10-06/inside-the-life-of-chinese-gig-workers/107209244",
+          "description": "Article URL: https://www.abc.net.au/news/2026-10-06/inside-the-life-of-chinese-gig-workers/107209244 Comments URL: https://news.ycombinator.com/item?id=49974446 Points: 7 # Comments: 4",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 06 Oct 2026 05:11:31 +0000"
+        },
+        {
+          "id": "2c3ee85e93fe",
+          "title": "Germany and France Push Trade Weapon to Bar China Access to EU Market",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-05/germany-and-france-push-trade-weapon-to-bar-china-market-access",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-10-05/germany-and-france-push-trade-weapon-to-bar-china-market-access Comments URL: https://news.ycombinator.com/item?id=49967976 Points: 2 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 05 Oct 2026 17:44:02 +0000"
+        },
+        {
+          "id": "2ce18a614ee0",
+          "title": "Pop-up ad allegedly delaying fatal heart attack call sparks China debate",
+          "link": "https://www.scmp.com/news/people-culture/trending-china/article/3367793/pop-ad-accused-delaying-life-saving-call-during-chinese-womans-heart-attack-sparks-debate",
+          "description": "Article URL: https://www.scmp.com/news/people-culture/trending-china/article/3367793/pop-ad-accused-delaying-life-saving-call-during-chinese-womans-heart-attack-sparks-debate Comments URL: https://news.ycombinator.com/item?id=49965503 Points: 6 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 05 Oct 2026 14:40:03 +0000"
+        },
+        {
+          "id": "b5ed72bca43b",
+          "title": "Let's compete with China on AI social impact",
+          "link": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
+          "description": "Article URL: https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social Comments URL: https://news.ycombinator.com/item?id=49957639 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 20:45:18 +0000"
+        },
+        {
+          "id": "dea4ce332272",
+          "title": "Californian accused of shipping $300M worth of Nvidia chips to China",
+          "link": "https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856",
+          "description": "Article URL: https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856 Comments URL: https://news.ycombinator.com/item?id=49954823 Points: 7 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 15:36:54 +0000"
+        },
+        {
+          "id": "23a03b6a9c2b",
+          "title": "Russia, China, Iran, Energy: Why Every Western Move Makes Things Worse [video]",
+          "link": "https://www.youtube.com/watch?v=-ziZCAUGZjk",
+          "description": "Article URL: https://www.youtube.com/watch?v=-ziZCAUGZjk Comments URL: https://news.ycombinator.com/item?id=49954767 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 15:31:24 +0000"
+        },
+        {
+          "id": "6742161cdf5e",
+          "title": "University asks staff to review some partnerships with China after MI5 warning",
+          "link": "https://www.bbc.com/news/articles/c65yn877dkk0o",
+          "description": "Article URL: https://www.bbc.com/news/articles/c65yn877dkk0o Comments URL: https://news.ycombinator.com/item?id=49952956 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 11:30:16 +0000"
+        },
+        {
+          "id": "2aa75dca4385",
+          "title": "China Importer's Pre-Production Checklist",
+          "link": "https://jpchair.com/",
+          "description": "Article URL: https://jpchair.com/ Comments URL: https://news.ycombinator.com/item?id=49952112 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 09:24:58 +0000"
+        },
+        {
+          "id": "53cb78954be3",
+          "title": "China's Push into A.I. Has Led to a Problem: Too Much Usage",
+          "link": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html",
+          "description": "Article URL: https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html Comments URL: https://news.ycombinator.com/item?id=49951755 Points: 2 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 08:12:20 +0000"
+        },
+        {
+          "id": "d7c727c088a3",
+          "title": "China's space plane appears to have released a mystery object in orbit",
+          "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit",
+          "description": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit Comments URL: https://news.ycombinator.com/item?id=49950197 Points: 8 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 03:00:55 +0000"
+        },
+        {
+          "id": "cfa9c9f1eac6",
+          "title": "Feathered Dinosaur Discovery in China Suggests Flight Evolved Multiple Times",
+          "link": "https://www.sciencealert.com/discovery-of-exquisite-feathered-dinosaur-in-china-could-rewrite-the-evolution-of-flight",
+          "description": "Article URL: https://www.sciencealert.com/discovery-of-exquisite-feathered-dinosaur-in-china-could-rewrite-the-evolution-of-flight Comments URL: https://news.ycombinator.com/item?id=49949909 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 04 Oct 2026 02:08:40 +0000"
+        },
+        {
+          "id": "07c1a84423ba",
+          "title": "Theaster Gates bets on fine China",
+          "link": "https://text.npr.org/nx-s1-5977069",
+          "description": "Article URL: https://text.npr.org/nx-s1-5977069 Comments URL: https://news.ycombinator.com/item?id=49948140 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 03 Oct 2026 21:50:25 +0000"
+        },
+        {
+          "id": "666e3ffdbb85",
+          "title": "How China Is Winning the AI Race [video-essay]",
+          "link": "https://www.youtube.com/watch?v=QdznbGzRWSw",
+          "description": "Article URL: https://www.youtube.com/watch?v=QdznbGzRWSw Comments URL: https://news.ycombinator.com/item?id=49946751 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 03 Oct 2026 18:57:01 +0000"
+        },
+        {
+          "id": "22aef208a9b9",
+          "title": "Singapore builds most accurate clock ever, leaves US and China in dust",
+          "link": "https://www.scmp.com/news/china/science/article/3369532/david-vs-goliaths-singapore-builds-most-accurate-clock-ever-leaves-us-and-china-dust",
+          "description": "Article URL: https://www.scmp.com/news/china/science/article/3369532/david-vs-goliaths-singapore-builds-most-accurate-clock-ever-leaves-us-and-china-dust Comments URL: https://news.ycombinator.com/item?id=49946178 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 03 Oct 2026 17:39:22 +0000"
+        },
+        {
+          "id": "667ba85097b2",
+          "title": "Dual defence betrayal: China reveals case of executive spying for 2 countries",
+          "link": "https://www.scmp.com/news/china/politics/article/3365817/dual-defence-betrayal-china-reveals-rare-case-executive-spying-two-countries",
+          "description": "Article URL: https://www.scmp.com/news/china/politics/article/3365817/dual-defence-betrayal-china-reveals-rare-case-executive-spying-two-countries Comments URL: https://news.ycombinator.com/item?id=49937817 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 02 Oct 2026 19:52:45 +0000"
+        },
+        {
+          "id": "53b0ec2e2f6f",
+          "title": "Researchers Drove a Chinese EV into an Underground Mine. It Kept Calling China",
+          "link": "https://autos.yahoo.com/ev-and-future-tech/articles/researchers-drove-chinese-ev-underground-155725649.html",
+          "description": "Article URL: https://autos.yahoo.com/ev-and-future-tech/articles/researchers-drove-chinese-ev-underground-155725649.html Comments URL: https://news.ycombinator.com/item?id=49933352 Points: 5 # Comments: 4",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 02 Oct 2026 13:33:54 +0000"
+        },
+        {
+          "id": "a1ba68154f3c",
+          "title": "The Looming Closure of China's AI Frontier",
+          "link": "https://www.aei.org/foreign-and-defense-policy/the-looming-closure-of-chinas-ai-frontier/",
+          "description": "Article URL: https://www.aei.org/foreign-and-defense-policy/the-looming-closure-of-chinas-ai-frontier/ Comments URL: https://news.ycombinator.com/item?id=49933330 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 02 Oct 2026 13:30:42 +0000"
+        },
+        {
+          "id": "87f66bd33602",
+          "title": "Sprawling Islands in South China Sea",
+          "link": "https://en.wikipedia.org/wiki/Spratly_Islands",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Spratly_Islands Comments URL: https://news.ycombinator.com/item?id=49932846 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 02 Oct 2026 12:40:38 +0000"
+        },
+        {
+          "id": "5ad4c1364f41",
+          "title": "What China's vibe-coding capital can tell us about the A.I. boom",
+          "link": "https://www.newyorker.com/news/the-lede/what-chinas-vibe-coding-capital-can-tell-us-about-the-ai-boom",
+          "description": "Article URL: https://www.newyorker.com/news/the-lede/what-chinas-vibe-coding-capital-can-tell-us-about-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49932840 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 02 Oct 2026 12:40:03 +0000"
+        }
+      ],
+      "summary": "今日新闻联播动态摘要\n\n1. 美国联邦快递员工因错过安全邮件，导致中国获得F-35战机零部件，涉及隐形涂层技术泄露。\n2. 中国被指在美国加强间谍招募活动，并利用领英等平台进行高级别情报渗透，同时威胁相关人员家属。\n3. 欧美加强应对中国科技竞争：德国和法国推动贸易武器以限制中国进入欧盟市场；美国在小型模块化反应堆和太阳能面板领域试图追赶中国；加州一男子被控向中国走私价值3亿美元的英伟达芯片。\n4. 中国在AI和劳动力领域面临挑战与变化：难以招募外国AI研究人员，近半数劳动力从事零工经济；同时乌克兰警告中俄即将推出“星链”竞争对手。\n5. 社会与科技议题：中国弹出广告被指延误致命心脏病呼叫引发辩论；有观点呼吁西方在AI社会影响方面与中国竞争。\n\n今日最值得关注的发展是：美国F-35零部件因人为疏忽流入中国，暴露出敏感军事技术供应链的安全漏洞。",
+      "count": 28
     }
   }
 }
