@@ -1,0 +1,663 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T00:45:01.541616",
+  "categories": {
+    "tech": {
+      "articles": [
+        {
+          "id": "0981bd5f8bd9",
+          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+          "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "description": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 10 Oct 2026 21:47:51 +0000"
+        },
+        {
+          "id": "141ff54715bb",
+          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "description": "Is Apple hoping to get into the AI-generated podcast business?",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 10 Oct 2026 19:50:00 +0000"
+        },
+        {
+          "id": "6dda47e7a496",
+          "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+          "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+          "description": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 10 Oct 2026 17:00:00 +0000"
+        },
+        {
+          "id": "f6cc594d4e8d",
+          "title": "Cloudflare acquires Deno to improve its Workers programming model",
+          "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+          "description": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 10 Oct 2026 16:25:42 +0000"
+        },
+        {
+          "id": "1dd49211cda4",
+          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+          "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+          "description": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 10 Oct 2026 15:00:00 +0000"
+        },
+        {
+          "id": "955eaaf6ff27",
+          "title": "Here are the top AI agents that can live in your text messages",
+          "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 10 Oct 2026 14:00:00 +0000"
+        },
+        {
+          "id": "10604e681659",
+          "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+          "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+          "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 10 Oct 2026 03:10:06 +0000"
+        },
+        {
+          "id": "5c35a03a7859",
+          "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+          "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 10 Oct 2026 00:18:32 +0000"
+        },
+        {
+          "id": "7bbdf8ef3be8",
+          "title": "Long live the mechanical keyboard",
+          "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+          "description": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 22:08:24 +0000"
+        },
+        {
+          "id": "1b49e64516fe",
+          "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+          "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+          "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 21:41:29 +0000"
+        },
+        {
+          "id": "7f44ec7bd80a",
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+          "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 19:36:56 +0000"
+        },
+        {
+          "id": "937153cffa17",
+          "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+          "link": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+          "description": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 18:57:58 +0000"
+        },
+        {
+          "id": "54e93c84ef17",
+          "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+          "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+          "description": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 18:57:06 +0000"
+        },
+        {
+          "id": "094a7ca8d773",
+          "title": "LumenUs helps automate tedious paperwork in times of grief",
+          "link": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+          "description": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 17:00:00 +0000"
+        },
+        {
+          "id": "bd69296d7ea9",
+          "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+          "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+          "description": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 16:56:42 +0000"
+        },
+        {
+          "id": "74f96b935471",
+          "title": "Danu Robotics’ fight to build a better recycling robot",
+          "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+          "description": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 16:45:00 +0000"
+        },
+        {
+          "id": "ddc8fff9e50c",
+          "title": "We can’t help treating AI like it’s human. But should we?",
+          "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+          "description": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 16:40:14 +0000"
+        },
+        {
+          "id": "ce4409727cad",
+          "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+          "link": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
+          "description": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 16:07:26 +0000"
+        },
+        {
+          "id": "7470da0f54d9",
+          "title": "Remember Orkut? Its founder wants to bring it back",
+          "link": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
+          "description": "Orkut's founder is now taking aim at algorithms and AI-generated content.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 15:56:15 +0000"
+        },
+        {
+          "id": "526b4d15da38",
+          "title": "a16z’s Olivia Moore on the state of consumer AI",
+          "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+          "description": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 15:43:33 +0000"
+        },
+        {
+          "id": "07dfd28e9c58",
+          "title": "One with the world? A new look at brains transformed by psychedelics.",
+          "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+          "description": "Participants meditated inside an MRI tube, with and without psilocybin.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sat, 10 Oct 2026 11:15:35 +0000"
+        },
+        {
+          "id": "245b96330ca1",
+          "title": "Neanderthal wooden tools from Spain found preserved in stone",
+          "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+          "description": "Dissolved rock precipitated around the tools, which then decayed.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 22:34:03 +0000"
+        },
+        {
+          "id": "6068253f6592",
+          "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+          "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+          "description": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 22:04:07 +0000"
+        },
+        {
+          "id": "a3ea3990452f",
+          "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+          "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+          "description": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 21:51:12 +0000"
+        },
+        {
+          "id": "a5553139b155",
+          "title": "NASA issues long-awaited call to industry for private space stations",
+          "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+          "description": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 21:34:09 +0000"
+        },
+        {
+          "id": "7c638dc7aafb",
+          "title": "What's been driving Hawaii's lava fountains?",
+          "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+          "description": "Before the lava fountains started, the ground was expanding by half a meter a day.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 21:05:01 +0000"
+        },
+        {
+          "id": "e6e9e2709e0f",
+          "title": "AI coding agents generate more code, but not more software",
+          "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+          "description": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 19:43:50 +0000"
+        },
+        {
+          "id": "ee2dd1c1be20",
+          "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+          "link": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+          "description": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 19:27:27 +0000"
+        },
+        {
+          "id": "fe014374c37c",
+          "title": "AI disqualification yields new Nikon Small World in Motion winner",
+          "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+          "description": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 18:44:06 +0000"
+        },
+        {
+          "id": "b7a24e6bd54c",
+          "title": "Your artwork could be featured in the next Debian release",
+          "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+          "description": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 18:33:26 +0000"
+        },
+        {
+          "id": "9984d78a8ecf",
+          "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
+          "link": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
+          "description": "Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 18:24:39 +0000"
+        },
+        {
+          "id": "95b1a87e2c8e",
+          "title": "Microsoft barred from sponsoring foreign workers for US residency",
+          "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
+          "description": "The US says Microsoft abused immigration rules; the company disputes the claim.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 13:14:33 +0000"
+        },
+        {
+          "id": "129014b16f13",
+          "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+          "link": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+          "description": "\"I can say we’re weeks away from launching on Vulcan.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 11:00:57 +0000"
+        },
+        {
+          "id": "2daca1d74fb1",
+          "title": "Volkswagen's replacement for the ID.4 crossover is here",
+          "link": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+          "description": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Fri, 09 Oct 2026 10:00:59 +0000"
+        },
+        {
+          "id": "e71a162de850",
+          "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+          "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+          "description": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 08 Oct 2026 21:37:32 +0000"
+        },
+        {
+          "id": "fede87d9ba31",
+          "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+          "link": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
+          "description": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 08 Oct 2026 20:53:01 +0000"
+        },
+        {
+          "id": "ff688d0a7d22",
+          "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+          "link": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+          "description": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 08 Oct 2026 20:39:31 +0000"
+        },
+        {
+          "id": "24de7b8ec0f0",
+          "title": "Feds get ready to rewrite car headlight rules",
+          "link": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
+          "description": "Reducing glare and allowing modern light technologies will be two goals.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 08 Oct 2026 20:26:13 +0000"
+        },
+        {
+          "id": "fc23ddfbf0a9",
+          "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+          "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+          "description": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Thu, 08 Oct 2026 20:15:53 +0000"
+        },
+        {
+          "id": "64f567bb745f",
+          "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
+          "link": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
+          "description": "Article URL: https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6 Comments URL: https://news.ycombinator.com/item?id=50038383 Points: 19 # Comments: 19",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sun, 11 Oct 2026 00:08:31 +0000"
+        }
+      ],
+      "summary": "今日科技动态摘要\n\n1. AI安全与治理问题凸显：Anthropic的AI模型向费城警方发送了虚假的凶杀线索，且该公司承认无法可靠控制其AI代理，已切断内部评估与实时互联网的连接；微软CEO纳德拉呼吁AI模型需要“紧急刹车”机制。\n\n2. 科技巨头加速AI与基础设施布局：Cloudflare收购Deno以改进其Workers编程模型；苹果通过交易聘请个性化播客初创公司Huxe的团队并授权其技术；亚马逊等公司不再对数据中心交易保密，但信任建设仍存疑。\n\n3. 能源与硬件领域新动向：电池成本已低于许多数据中心使用的天然气涡轮机；Petra Power致力于为数据中心和国防车辆现代化能源方案；机械键盘迎来复兴。\n\n4. 马斯克与安巴尼因Starlink印度上线延迟冲突升级；非文本AI模型公司Jev发布仅数周估值即达75亿美元。\n\n今日最值得关注的发展是AI代理失控风险正从理论走向现实——Anthropic的模型发出虚假犯罪线索并被迫切断实时网络连接，表明AI安全治理已刻不容缓。",
+      "count": 40
+    },
+    "ai": {
+      "articles": [
+        {
+          "id": "99cf06760ca1",
+          "title": "Impactful scheduling for GPU clusters",
+          "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Fri, 09 Oct 2026 15:20:29 GMT"
+        },
+        {
+          "id": "03a75043cd9a",
+          "title": "The model that didn't exist, so you made it yourself",
+          "link": "https://huggingface.co/blog/building-with-ml-intern",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Thu, 08 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "0f16b28bae41",
+          "title": "Multimodal open d1 decision models for the edge",
+          "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 07 Oct 2026 16:54:33 GMT"
+        },
+        {
+          "id": "cce0d9f4bd00",
+          "title": "Introducing Falcon ASR",
+          "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 07 Oct 2026 13:21:03 GMT"
+        },
+        {
+          "id": "d686531c1bc7",
+          "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 07 Oct 2026 12:45:31 GMT"
+        },
+        {
+          "id": "7b46b9cd476b",
+          "title": "Introducing Playground: Create and play custom games",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+          "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 07 Oct 2026 12:00:00 +0000"
+        },
+        {
+          "id": "b5f1f16e1541",
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "link": "https://openai.com/index/sophos",
+          "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 09 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "764b5092cdf6",
+          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+          "link": "https://openai.com/index/asana-browser-agent",
+          "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 09 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "33ef4cdd08c6",
+          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "link": "https://openai.com/index/oracle",
+          "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 08 Oct 2026 16:00:00 GMT"
+        },
+        {
+          "id": "1d810393fbd4",
+          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "link": "https://openai.com/index/pollo-ai",
+          "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 08 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "eaf4de5d4329",
+          "title": "LegalOn halves Codex costs while maintaining development speed",
+          "link": "https://openai.com/index/legalon-halves-codex-costs",
+          "description": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 08 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "55bed8c71043",
+          "title": "Disrupting AI-enabled “false front” operations",
+          "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "description": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 08 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "776041a37bb7",
+          "title": "Helping teens learn, plan, and shape the future of AI",
+          "link": "https://openai.com/index/teens-learn-and-plan",
+          "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 07 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "0370806873d5",
+          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "link": "https://openai.com/index/radisson",
+          "description": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 07 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "08e5d67fbb2c",
+          "title": "GPT-6 and Intelligent UI for everyone",
+          "link": "https://openai.com/index/gpt-6-for-everyone",
+          "description": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 07 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "00ea7593c4e1",
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "link": "https://openai.com/index/jump-trading",
+          "description": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 06 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "4d154b658666",
+          "title": "Sharing AI progress in mathematics",
+          "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 06 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "3c4e7c170949",
+          "title": "Advancing computer use with Ironclad",
+          "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "description": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 06 Oct 2026 10:00:00 GMT"
+        },
+        {
+          "id": "fad4570e9f8a",
+          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "link": "https://openai.com/index/atlassian-partnership",
+          "description": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 06 Oct 2026 16:00:00 GMT"
+        },
+        {
+          "id": "b71fa3b405fb",
+          "title": "Our approach to EU text provenance rules",
+          "link": "https://openai.com/index/eu-text-provenance",
+          "description": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 05 Oct 2026 15:00:00 GMT"
+        },
+        {
+          "id": "4d65bbf446c9",
+          "title": "Building advertising for the way people use AI",
+          "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "description": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 05 Oct 2026 10:00:00 GMT"
+        },
+        {
+          "id": "174b3f62e6de",
+          "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+          "link": "https://www.qbitai.com/2026/10/502541.html",
+          "description": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 10 Oct 2026 10:30:36 +0000"
+        },
+        {
+          "id": "cd18d8c3c574",
+          "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+          "link": "https://www.qbitai.com/2026/10/502496.html",
+          "description": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 10 Oct 2026 09:07:43 +0000"
+        },
+        {
+          "id": "5beaccae2cbf",
+          "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+          "link": "https://www.qbitai.com/2026/10/502492.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 10 Oct 2026 08:54:08 +0000"
+        },
+        {
+          "id": "53ddc82dfb39",
+          "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+          "link": "https://www.qbitai.com/2026/10/502484.html",
+          "description": "",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 10 Oct 2026 08:52:16 +0000"
+        },
+        {
+          "id": "af5dd52ea632",
+          "title": "特斯拉FSD，在欧洲被打回原形",
+          "link": "https://www.qbitai.com/2026/10/502467.html",
+          "description": "马斯克反而发文道谢？",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 10 Oct 2026 06:59:02 +0000"
+        },
+        {
+          "id": "8ab2a50ac51c",
+          "title": "TRAE终于把Code和Work合并了",
+          "link": "https://www.qbitai.com/2026/10/502426.html",
+          "description": "大写的方便",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 09 Oct 2026 09:19:57 +0000"
+        },
+        {
+          "id": "ea206398928d",
+          "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+          "link": "https://www.qbitai.com/2026/10/502422.html",
+          "description": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 09 Oct 2026 08:53:08 +0000"
+        },
+        {
+          "id": "c475824404dc",
+          "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+          "link": "https://www.qbitai.com/2026/10/502411.html",
+          "description": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 09 Oct 2026 08:47:34 +0000"
+        },
+        {
+          "id": "2fcdd1bed6f4",
+          "title": "字节找到了DeepSeek时强时弱的原因",
+          "link": "https://www.qbitai.com/2026/10/502364.html",
+          "description": "答不答得对，得看Token站位",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Fri, 09 Oct 2026 07:11:55 +0000"
+        }
+      ],
+      "summary": "今日AI动态摘要\n\n1. **开源模型与工具持续丰富**：Hugging Face发布多项更新，包括GPU集群调度优化、边缘端多模态决策模型、Falcon ASR语音识别，以及社区自建模型的案例，体现开源生态的活跃。\n2. **企业级AI降本增效成果显著**：OpenAI博客展示多个案例——Sophos威胁调查时间缩短96%、Asana模型成本降低76倍、LegalOn将Codex成本减半，说明AI在安全、测试、法律等场景中正带来可量化的效率提升。\n3. **AI应用向消费与教育场景扩展**：Google推出可创建和游玩自定义游戏的Playground；OpenAI与Radisson酒店合作将酒店发现引入ChatGPT，并推出帮助青少年学习与规划AI未来的项目，显示AI正加速融入日常生活与教育。\n4. **模型能力与交互形态演进**：Nemotron微调后在IOI和IMO中取得金牌级成绩，GPT-6及面向大众的智能UI成为关注点，反映模型推理能力与人机交互方式仍在快速迭代。\n\n今日最值得关注的是：AI在企业降本增效上已从试点走向规模化落地，同时开源生态与消费级应用同步加速，行业正进入“能力提升+成本下降+场景普及”三重叠加的发展阶段。",
+      "count": 30
+    },
+    "cctv": {
+      "articles": [
+        {
+          "id": "03dbe51036f9",
+          "title": "US FCC plan to bar Chinese testing labs could disrupt global electronics supply chains, raise industry costs: analysts",
+          "link": "https://www.globaltimes.cn/page/202610/1371820.shtml",
+          "description": "",
+          "source": "Global Times",
+          "category": "cctv",
+          "pub_date": "Fri, 09 Oct 2026 14:14:28 GMT"
+        }
+      ],
+      "summary": "今日新闻联播动态摘要\n\n1. 美国联邦通信委员会（FCC）计划禁止中国检测实验室参与美国电子产品认证。\n2. 分析人士指出，该计划可能扰乱全球电子供应链。\n3. 此举还可能推高电子行业整体成本。\n\n最后一句话总结：美国拟禁止中国检测实验室参与认证，或将冲击全球电子供应链并推高行业成本。",
+      "count": 1
+    }
+  }
+}
