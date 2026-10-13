@@ -1,188 +1,242 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T02:55:15.157497",
+  "generated_at": "2026-10-13T20:06:47.824257",
   "categories": {
     "tech": {
       "articles": [
         {
-          "id": "f7eeb774bba4",
-          "title": "Meta releases its first frontier model, Muse Wonder",
-          "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-          "description": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+          "id": "c699c7b76856",
+          "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
+          "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
+          "description": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 17:56:56 +0000"
+          "pub_date": "Tue, 13 Oct 2026 20:00:00 +0000"
         },
         {
-          "id": "ace534b7832b",
-          "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-          "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-          "description": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+          "id": "6e9f0d82f068",
+          "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
+          "link": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+          "description": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 17:19:14 +0000"
+          "pub_date": "Tue, 13 Oct 2026 19:00:00 +0000"
         },
         {
-          "id": "e311524640d7",
-          "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-          "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-          "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+          "id": "86affbf941f4",
+          "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+          "link": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+          "description": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 15:45:00 +0000"
+          "pub_date": "Tue, 13 Oct 2026 18:30:03 +0000"
         },
         {
-          "id": "b284b5d8ed28",
-          "title": "Microsoft president says UK is best placed to drive AI regulation",
-          "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-          "description": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+          "id": "cb5aeb847be5",
+          "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+          "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+          "description": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 15:31:19 +0000"
+          "pub_date": "Tue, 13 Oct 2026 18:30:00 +0000"
         },
         {
-          "id": "c01d729608dc",
-          "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-          "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-          "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+          "id": "bd2f5b4440de",
+          "title": "Facebook is giving users more control over their algorithm",
+          "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+          "description": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 15:27:59 +0000"
+          "pub_date": "Tue, 13 Oct 2026 18:05:24 +0000"
         },
         {
-          "id": "7758c01a86ff",
-          "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
-          "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
-          "description": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
+          "id": "928366a75f36",
+          "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
+          "description": "Longshot is trying to build a gun big enough to make space data centers a reality.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 15:11:19 +0000"
+          "pub_date": "Tue, 13 Oct 2026 18:05:00 +0000"
         },
         {
-          "id": "a578c190a176",
-          "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
-          "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
-          "description": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
+          "id": "104d1463aa51",
+          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+          "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+          "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 14:09:34 +0000"
+          "pub_date": "Tue, 13 Oct 2026 17:30:00 +0000"
         },
         {
-          "id": "0fb57ef697c6",
-          "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-          "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-          "description": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+          "id": "41b689c64089",
+          "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+          "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+          "description": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 14:00:00 +0000"
+          "pub_date": "Tue, 13 Oct 2026 17:18:25 +0000"
         },
         {
-          "id": "ad0f967b8272",
-          "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-          "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-          "description": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
+          "id": "522a3f02f047",
+          "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
+          "link": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
+          "description": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 12:47:59 +0000"
+          "pub_date": "Tue, 13 Oct 2026 17:00:00 +0000"
         },
         {
-          "id": "7775aae7be3d",
-          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+          "id": "d2e41eaa4f37",
+          "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+          "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+          "description": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 00:59:01 +0000"
+          "pub_date": "Tue, 13 Oct 2026 17:00:00 +0000"
         },
         {
-          "id": "ddf574ab08f8",
-          "title": "Will the HomeView be Apple’s first smart home success?",
-          "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-          "description": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+          "id": "b6aba482afd1",
+          "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+          "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+          "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 11 Oct 2026 21:14:40 +0000"
+          "pub_date": "Tue, 13 Oct 2026 16:30:00 +0000"
         },
         {
-          "id": "3e28e4c3df6c",
-          "title": "Aaron Sorkin’s ‘The Social Reckoning’ is off to a weak start",
-          "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
-          "description": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+          "id": "93aadda7e716",
+          "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+          "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
+          "description": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 11 Oct 2026 20:51:47 +0000"
+          "pub_date": "Tue, 13 Oct 2026 15:02:00 +0000"
         },
         {
-          "id": "f77afcc92c6f",
-          "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-          "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-          "description": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+          "id": "3c6f96f52eb1",
+          "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
+          "link": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
+          "description": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 11 Oct 2026 19:00:00 +0000"
+          "pub_date": "Tue, 13 Oct 2026 14:30:12 +0000"
         },
         {
-          "id": "46f757922994",
-          "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "description": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
+          "id": "1c7dfbb95abd",
+          "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
+          "link": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
+          "description": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 11 Oct 2026 17:53:37 +0000"
+          "pub_date": "Tue, 13 Oct 2026 14:25:48 +0000"
         },
         {
-          "id": "a47356ab9c4a",
-          "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-          "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-          "description": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+          "id": "c51cc49e361d",
+          "title": "TechCrunch Disrupt 2026: Day 1",
+          "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+          "description": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 11 Oct 2026 16:52:33 +0000"
+          "pub_date": "Tue, 13 Oct 2026 14:00:00 +0000"
         },
         {
-          "id": "b126daeacd45",
-          "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
-          "link": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
-          "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+          "id": "9364685ec811",
+          "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+          "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+          "description": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 11 Oct 2026 16:02:00 +0000"
+          "pub_date": "Tue, 13 Oct 2026 13:50:19 +0000"
         },
         {
-          "id": "47fe127d840e",
-          "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
-          "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
-          "description": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+          "id": "77f9e5fe80c6",
+          "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
+          "link": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+          "description": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 11 Oct 2026 16:00:00 +0000"
+          "pub_date": "Tue, 13 Oct 2026 13:38:03 +0000"
         },
         {
-          "id": "7ff278013107",
-          "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-          "link": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
-          "description": "This Battlefield 200 startup has developed blood-purification tech to save children.",
+          "id": "d7dee76ca2db",
+          "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
+          "link": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+          "description": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 11 Oct 2026 15:00:00 +0000"
+          "pub_date": "Tue, 13 Oct 2026 13:37:19 +0000"
         },
         {
-          "id": "56b3e1202e1a",
-          "title": "What to know about the landmark Warner Bros. Discovery sale",
-          "link": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-          "description": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+          "id": "ce8a61d7d1e7",
+          "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+          "description": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 11 Oct 2026 14:15:00 +0000"
+          "pub_date": "Tue, 13 Oct 2026 13:28:06 +0000"
         },
         {
-          "id": "332b3aa926a1",
-          "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-          "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-          "description": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
+          "id": "7ee94e50a005",
+          "title": "India delays digital payments fee rollout amid retailer pushback",
+          "link": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+          "description": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Sun, 11 Oct 2026 14:00:00 +0000"
+          "pub_date": "Tue, 13 Oct 2026 13:25:05 +0000"
+        },
+        {
+          "id": "84ed86a5a938",
+          "title": "The Paris Auto Show is full of interesting cars Americans can’t have",
+          "link": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/",
+          "description": "Small EVs and efficient people carriers update familiar names for the modern age.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 13 Oct 2026 17:33:20 +0000"
+        },
+        {
+          "id": "1febc466604a",
+          "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+          "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+          "description": "Google plans to help turn those personal AI-generated apps into wide releases.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 13 Oct 2026 17:00:39 +0000"
+        },
+        {
+          "id": "a4115c764ff9",
+          "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+          "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+          "description": "Developers will get 50 percent discounted API rates through November.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 13 Oct 2026 16:00:02 +0000"
+        },
+        {
+          "id": "3c5e7ed66b9f",
+          "title": "Apple’s first smart display is the 7-inch HomeView for $299",
+          "link": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+          "description": "It can recognize up to six users with its camera.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 13 Oct 2026 15:29:17 +0000"
+        },
+        {
+          "id": "2b88760bbf57",
+          "title": "They war-gamed dimming the Sun. It went even worse than you think.",
+          "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+          "description": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 13 Oct 2026 15:17:59 +0000"
+        },
+        {
+          "id": "f2db65b03ffa",
+          "title": "High-speed video reveals how honey bee stingers pump venom",
+          "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+          "description": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 13 Oct 2026 13:03:45 +0000"
         },
         {
           "id": "d7e6b71ab5bb",
@@ -293,83 +347,38 @@
           "pub_date": "Sun, 11 Oct 2026 14:50:24 +0000"
         },
         {
-          "id": "07dfd28e9c58",
-          "title": "One with the world? A new look at brains transformed by psychedelics.",
-          "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-          "description": "Participants meditated inside an MRI tube, with and without psilocybin.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sat, 10 Oct 2026 11:15:35 +0000"
-        },
-        {
-          "id": "19326593703f",
-          "title": "Leaving Tech",
-          "link": "https://ryanbigg.com/2026/10/leaving-tech",
-          "description": "Article URL: https://ryanbigg.com/2026/10/leaving-tech Comments URL: https://news.ycombinator.com/item?id=50065892 Points: 18 # Comments: 1",
+          "id": "52f74f3c6883",
+          "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+          "link": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
+          "description": "https://celebratio.org/Appel_KI/article/796/#sender Comments URL: https://news.ycombinator.com/item?id=50077096 Points: 4 # Comments: 1",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 02:39:35 +0000"
+          "pub_date": "Tue, 13 Oct 2026 19:17:19 +0000"
         },
         {
-          "id": "96187f0dc2db",
-          "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
-          "link": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
-          "description": "Article URL: https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/ Comments URL: https://news.ycombinator.com/item?id=50065805 Points: 5 # Comments: 0",
+          "id": "3d7f92b41739",
+          "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+          "link": "https://guitoro.com/",
+          "description": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners. No signup or download. I would love feedback on how the strumming feels and sounds. Comments URL: https://news.ycombinator.com/item?id=50077020 Points: 24 # Comments: 7",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 02:25:00 +0000"
-        },
-        {
-          "id": "8275c838908d",
-          "title": "Strengthening our defenses against distillation attacks",
-          "link": "https://www.anthropic.com/research/distillation-defenses",
-          "description": "Article URL: https://www.anthropic.com/research/distillation-defenses Comments URL: https://news.ycombinator.com/item?id=50065553 Points: 6 # Comments: 2",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 01:46:47 +0000"
-        },
-        {
-          "id": "aa1cce3f0381",
-          "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-          "link": "https://doi.org/10.1111/acel.70751",
-          "description": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/ Comments URL: https://news.ycombinator.com/item?id=50064536 Points: 109 # Comments: 69",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 23:34:22 +0000"
-        },
-        {
-          "id": "caf7cbc6773e",
-          "title": "Show HN: An experimental pattern-first DAW that supports MCP",
-          "link": "https://github.com/andrewfader/blokkily",
-          "description": "Article URL: https://github.com/andrewfader/blokkily Comments URL: https://news.ycombinator.com/item?id=50064438 Points: 19 # Comments: 9",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 23:21:12 +0000"
-        },
-        {
-          "id": "1498cea8c6c8",
-          "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
-          "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-          "description": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 129 # Comments: 82",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 23:07:25 +0000"
-        },
-        {
-          "id": "1237457b4a7a",
-          "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-          "link": "https://github.com/prabanta-dev/janas",
-          "description": "Article URL: https://github.com/prabanta-dev/janas Comments URL: https://news.ycombinator.com/item?id=50063717 Points: 47 # Comments: 20",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 22:05:43 +0000"
+          "pub_date": "Tue, 13 Oct 2026 19:11:48 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. Meta发布首个前沿模型Muse Wonder，加入大模型竞争。\n2. 美国空军授予WindBorne气球数据合同，AI气象与国防应用受关注。\n3. AI初创公司可几分钟生成可审批蓝图，建筑与设计行业或被重塑。\n4. 微软总裁称英国最适合主导AI监管，全球AI治理话语权争夺升温。\n5. 前Plaud高管融资2600万美元，开发后台聆听式AI应用。\n\n今日最值得关注的是Meta正式推出首个前沿模型，标志着大模型竞争进一步升级。",
+      "summary": "今日科技动态摘要\n\n1. **聚变能源与前沿能源创业升温**：Licube 定位为聚变发电产业的燃料供应商，MIT 衍生创业公司则声称可将柴油卡车改装为更便宜的氢能运输车，显示出能源赛道在聚变与氢能方向持续吸引创业与资本关注。\n\n2. **AI 安全与机器人测试成为新焦点**：Laplace Intelligence 专注在机器人和自动驾驶汽车上路前进行“红队”测试，Pluto Security 则因 AI 给企业安全团队带来新难题而融资 4200 万美元，反映出 AI 带来的安全与风险验证需求正在快速增长。\n\n3. **社交与平台算法控制权调整**：Facebook 让用户对算法拥有更多控制权，Spotify 在 iOS 27 上支持用户直接让 Siri 播放音乐而无需说“on Spotify”，Bumble 同意 13 亿美元收购交易，显示社交、音乐与在线约会平台都在经历产品与资本层面的调整。\n\n4. **创业生态与太空运输新玩法**：TechCrunch Disrupt 2026 公布 Startup Battlefield Top 20，涵盖从器官到轨道等多个领域；Longshot 提出用“炮”将货物发射入太空，而非依赖火箭，成为太空运输领域的一个另类创新方向。\n\n5. **移动应用与开发门槛继续降低**：Google Play 允许任何人构建私有、由“vibe-coding”生成的应用并在 Android 上运行，进一步推动应用开发平民化，也延续了 AI 辅助开发工具向消费级平台渗透的趋势。\n\n今日最值得关注的发展是：AI 正在同时重塑能源、安全、社交平台和软件开发，而创业公司正围绕这些变化快速寻找新的基础设施与工具机会。",
       "count": 40
     },
     "ai": {
       "articles": [
+        {
+          "id": "df875ad3b1e9",
+          "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 13 Oct 2026 17:05:48 GMT"
+        },
         {
           "id": "99cf06760ca1",
           "title": "Impactful scheduling for GPU clusters",
@@ -387,15 +396,6 @@
           "source": "Hugging Face",
           "category": "ai",
           "pub_date": "Thu, 08 Oct 2026 00:00:00 GMT"
-        },
-        {
-          "id": "0f16b28bae41",
-          "title": "Multimodal open d1 decision models for the edge",
-          "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-          "description": "",
-          "source": "Hugging Face",
-          "category": "ai",
-          "pub_date": "Wed, 07 Oct 2026 16:54:33 GMT"
         },
         {
           "id": "cce0d9f4bd00",
@@ -416,6 +416,15 @@
           "pub_date": "Wed, 07 Oct 2026 12:45:31 GMT"
         },
         {
+          "id": "0766caa60b54",
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "description": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 13 Oct 2026 16:00:00 +0000"
+        },
+        {
           "id": "7b46b9cd476b",
           "title": "Introducing Playground: Create and play custom games",
           "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
@@ -423,6 +432,15 @@
           "source": "Google AI Blog",
           "category": "ai",
           "pub_date": "Wed, 07 Oct 2026 12:00:00 +0000"
+        },
+        {
+          "id": "b4c456b96952",
+          "title": "Higgsfield takes AI video from 1 minute to over 10",
+          "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "description": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 13 Oct 2026 12:00:00 GMT"
         },
         {
           "id": "b5f1f16e1541",
@@ -506,134 +524,98 @@
           "pub_date": "Wed, 07 Oct 2026 00:00:00 GMT"
         },
         {
-          "id": "00ea7593c4e1",
-          "title": "How Jump Trading is scaling quant research with ChatGPT",
-          "link": "https://openai.com/index/jump-trading",
-          "description": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Tue, 06 Oct 2026 12:00:00 GMT"
-        },
-        {
-          "id": "4d154b658666",
-          "title": "Sharing AI progress in mathematics",
-          "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Tue, 06 Oct 2026 12:00:00 GMT"
-        },
-        {
-          "id": "3c4e7c170949",
-          "title": "Advancing computer use with Ironclad",
-          "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "description": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Tue, 06 Oct 2026 10:00:00 GMT"
-        },
-        {
-          "id": "fad4570e9f8a",
-          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "link": "https://openai.com/index/atlassian-partnership",
-          "description": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Tue, 06 Oct 2026 16:00:00 GMT"
-        },
-        {
-          "id": "014217ec8397",
-          "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-          "link": "https://www.qbitai.com/2026/10/502654.html",
-          "description": "游戏打到21:0，AI甚至不用再调用大模型了",
+          "id": "2a03791651df",
+          "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+          "link": "https://www.qbitai.com/2026/10/503107.html",
+          "description": "让VLA从“演示可用”逼近“产线可用”",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Mon, 12 Oct 2026 05:48:36 +0000"
+          "pub_date": "Tue, 13 Oct 2026 11:05:39 +0000"
         },
         {
-          "id": "634a5bd85c69",
-          "title": "智谱新模型，490 tokens/s！",
-          "link": "https://www.qbitai.com/2026/10/502649.html",
-          "description": "GLM「速度仙人」来了？",
+          "id": "49fa8ab9c4bc",
+          "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+          "link": "https://www.qbitai.com/2026/10/503093.html",
+          "description": "Winverse AI",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Mon, 12 Oct 2026 02:37:04 +0000"
+          "pub_date": "Tue, 13 Oct 2026 09:33:37 +0000"
         },
         {
-          "id": "38828f943c41",
-          "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-          "link": "https://www.qbitai.com/2026/10/502644.html",
-          "description": "一套生成论文初稿的多智能体工作流",
+          "id": "89635de54d2c",
+          "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
+          "link": "https://www.qbitai.com/2026/10/502992.html",
+          "description": "宝马保时捷缺席",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Sun, 11 Oct 2026 09:04:31 +0000"
+          "pub_date": "Tue, 13 Oct 2026 07:20:23 +0000"
         },
         {
-          "id": "eb85fef92b89",
-          "title": "何恺明团队发布多模态Harness框架",
-          "link": "https://www.qbitai.com/2026/10/502628.html",
-          "description": "多模态模型的视觉原生Harness，来了！",
+          "id": "2f668868ad19",
+          "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
+          "link": "https://www.qbitai.com/2026/10/502954.html",
+          "description": "让材料感知压力，造出超薄高密度电子皮肤",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Sun, 11 Oct 2026 08:59:06 +0000"
+          "pub_date": "Tue, 13 Oct 2026 07:19:21 +0000"
         },
         {
-          "id": "32883a6efd04",
-          "title": "陶哲轩：数学2.0时代已至！",
-          "link": "https://www.qbitai.com/2026/10/502594.html",
-          "description": "",
+          "id": "d9067fc66286",
+          "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+          "link": "https://www.qbitai.com/2026/10/502920.html",
+          "description": "拉马克进化的幽灵",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Sun, 11 Oct 2026 07:52:16 +0000"
+          "pub_date": "Tue, 13 Oct 2026 06:19:10 +0000"
         },
         {
-          "id": "85ec7831f71e",
-          "title": "王的猜想，刚刚扩展到四维",
-          "link": "https://www.qbitai.com/2026/10/502584.html",
-          "description": "",
+          "id": "0cc7c49a4b38",
+          "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+          "link": "https://www.qbitai.com/2026/10/502907.html",
+          "description": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Sun, 11 Oct 2026 05:23:47 +0000"
+          "pub_date": "Tue, 13 Oct 2026 06:00:20 +0000"
         },
         {
-          "id": "3210ff851b16",
-          "title": "硅谷AI现状：谁有算力谁是爹",
-          "link": "https://www.qbitai.com/2026/10/502585.html",
-          "description": "马斯克连横A社，硅谷VC开始囤GPU",
+          "id": "ebc2fff102df",
+          "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
+          "link": "https://www.qbitai.com/2026/10/502784.html",
+          "description": "赢奖金、拿融资、送出海",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Sun, 11 Oct 2026 05:22:38 +0000"
+          "pub_date": "Tue, 13 Oct 2026 04:07:04 +0000"
         },
         {
-          "id": "611c9d912f57",
-          "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-          "link": "https://www.qbitai.com/2026/10/502550.html",
-          "description": "初代4o的API快照进入停用倒计时",
+          "id": "e2a05610b417",
+          "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
+          "link": "https://www.qbitai.com/2026/10/502849.html",
+          "description": "丢一句话进去，事儿就办完了",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Sun, 11 Oct 2026 05:18:04 +0000"
+          "pub_date": "Tue, 13 Oct 2026 04:04:22 +0000"
         },
         {
-          "id": "9af12555ef73",
-          "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-          "link": "https://www.qbitai.com/2026/10/502544.html",
-          "description": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+          "id": "976bf55a54ec",
+          "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+          "link": "https://www.qbitai.com/2026/10/502767.html",
+          "description": "算力、模型、行业，三层生意一起做",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Sun, 11 Oct 2026 03:27:08 +0000"
+          "pub_date": "Tue, 13 Oct 2026 04:01:15 +0000"
         },
         {
-          "id": "174b3f62e6de",
-          "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
-          "link": "https://www.qbitai.com/2026/10/502541.html",
-          "description": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+          "id": "d09fde4326d2",
+          "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
+          "link": "https://www.qbitai.com/2026/10/502770.html",
+          "description": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Sat, 10 Oct 2026 10:30:36 +0000"
+          "pub_date": "Tue, 13 Oct 2026 02:01:56 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. Hugging Face集中发布多项模型与工具：包括面向GPU集群的高效调度方案、多模态边缘决策模型、Falcon ASR语音识别系统，以及用户自建缺失模型的实践案例。\n2. 模型竞赛与垂直优化并进：Nemotron系列微调后在IOI和IMO两项赛事中均获金牌级成绩；OpenAI博客展示了多家企业（Sophos、Asana、LegalOn等）借助GPT-6.1/Codex大幅降本增效的案例。\n3. OpenAI拓展应用与生态：推出Playground自定义游戏平台、GPT-6与智能UI、酒店发现接入ChatGPT，同时关注青少年AI教育与打击AI虚假前台操作。\n4. 企业落地成效显著：威胁调查时间缩短96%、浏览器测试模型成本降低76倍、开发成本减半等，显示AI在安全、测试、法律等场景的规模化价值。\n\n今日最值得关注的是：AI正从通用能力竞争转向“垂直场景深度优化+成本极致压缩”，企业级落地效率成为新一轮焦点。",
-      "count": 29
+      "summary": "今日AI动态摘要\n\n1. **端侧与垂直模型持续发力**：Hugging Face 发布可在设备端运行快速、私密的智能体模型 LFM2.5-24B-A2B，并推出 Falcon ASR 语音识别模型；同时展示通过微调 Nemotron 在 IOI 和 IMO 两项竞赛中取得金牌级成绩，体现小模型与专用模型的实用化趋势。\n\n2. **大模型能力与产品化并进**：Google 发布 Gemini 4 Argon，主打解决最棘手问题，并推出 Playground 让用户创建和游玩自定义游戏；Higgsfield 将 AI 视频生成时长从 1 分钟提升至 10 分钟以上，显示多模态生成能力快速扩展。\n\n3. **企业降本增效案例密集涌现**：OpenAI 公布多个客户案例——Sophos 威胁调查时间缩短 96%，Asana 浏览器测试中模型成本降低 76 倍，Oracle 将数天工作压缩至分钟级，LegalOn 在保持开发速度的同时将 Codex 成本减半，凸显 AI 在企业工作流中的规模化落地。\n\n4. **安全与教育议题受关注**：OpenAI 发文打击 AI 赋能的“假前台”欺诈操作，并推出帮助青少年学习、规划及参与塑造 AI 未来的举措，反映行业对滥用风险与人才培养的双重重视。\n\n今日最值得关注的是：AI 正从“能力展示”加速转向“端侧部署、企业降本与安全治理”并行的实用化阶段。",
+      "count": 27
     },
     "cctv": {
       "articles": [
@@ -647,7 +629,7 @@
           "pub_date": "Fri, 09 Oct 2026 14:14:28 GMT"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 美国联邦通信委员会（FCC）计划禁止中国检测实验室参与美国电子产品认证。\n2. 分析人士指出，该计划可能扰乱全球电子供应链。\n3. 此举预计将推高电子行业整体成本。\n\n今日最值得关注的是，美国拟限制中国检测实验室的举措可能对全球电子产品供应链稳定和行业成本产生连锁冲击。",
+      "summary": "今日新闻联播动态摘要\n\n1. 美国联邦通信委员会计划禁止中国检测实验室参与美国电子产品认证。\n2. 分析人士指出，此举可能扰乱全球电子供应链。\n3. 该计划还可能推高电子行业整体成本。\n\n最后一句话总结：美国拟限制中国检测实验室的举动，可能对全球电子供应链和行业成本造成双重冲击。",
       "count": 1
     }
   }
