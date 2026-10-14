@@ -1,14 +1,122 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T01:00:46.605633",
+  "generated_at": "2026-10-14T18:21:49.922067",
   "categories": {
     "tech": {
       "articles": [
         {
+          "id": "a7d94549c94e",
+          "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+          "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+          "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 14 Oct 2026 18:00:00 +0000"
+        },
+        {
+          "id": "a91153009c05",
+          "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+          "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+          "description": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 14 Oct 2026 17:00:00 +0000"
+        },
+        {
+          "id": "97d625a2ca9d",
+          "title": "Prismm helps banks keep inherited money in-house",
+          "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+          "description": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 14 Oct 2026 16:00:00 +0000"
+        },
+        {
+          "id": "84dd477cc957",
+          "title": "Deezer will soon let you filter out AI-generated music",
+          "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+          "description": "Deezer said that the new toggle will be rolled out by the end of the year.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 14 Oct 2026 15:16:04 +0000"
+        },
+        {
+          "id": "54af114f6d60",
+          "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+          "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+          "description": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 14 Oct 2026 15:13:24 +0000"
+        },
+        {
+          "id": "6bd3508d526c",
+          "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+          "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+          "description": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 14 Oct 2026 15:08:00 +0000"
+        },
+        {
+          "id": "f7b18093bd96",
+          "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+          "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+          "description": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 14 Oct 2026 15:00:00 +0000"
+        },
+        {
+          "id": "bc3b8ff08973",
+          "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
+          "link": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+          "description": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 14 Oct 2026 14:55:47 +0000"
+        },
+        {
+          "id": "bab5a3c73a32",
+          "title": "TechCrunch Disrupt 2026: Day 2",
+          "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+          "description": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 14 Oct 2026 14:30:00 +0000"
+        },
+        {
+          "id": "d32246efb521",
+          "title": "NTangible bets it can predict how athletes will perform under pressure",
+          "link": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
+          "description": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 14 Oct 2026 14:00:00 +0000"
+        },
+        {
+          "id": "ac128557cf79",
+          "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+          "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+          "description": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 14 Oct 2026 11:00:00 +0000"
+        },
+        {
+          "id": "4e0ab5e526c8",
+          "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
+          "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+          "description": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Wed, 14 Oct 2026 01:30:42 +0000"
+        },
+        {
           "id": "dac881be6700",
           "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
           "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-          "description": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+          "description": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Tue, 13 Oct 2026 23:13:31 +0000"
@@ -77,112 +185,40 @@
           "pub_date": "Tue, 13 Oct 2026 20:13:53 +0000"
         },
         {
-          "id": "c699c7b76856",
-          "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
-          "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
-          "description": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
-          "source": "TechCrunch",
+          "id": "478e41b53226",
+          "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+          "link": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+          "description": "Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 20:00:00 +0000"
+          "pub_date": "Wed, 14 Oct 2026 13:56:11 +0000"
         },
         {
-          "id": "6e9f0d82f068",
-          "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
-          "link": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
-          "description": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
-          "source": "TechCrunch",
+          "id": "eb1561a49823",
+          "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+          "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+          "description": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 19:00:00 +0000"
+          "pub_date": "Wed, 14 Oct 2026 12:55:06 +0000"
         },
         {
-          "id": "86affbf941f4",
-          "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
-          "link": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
-          "description": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
-          "source": "TechCrunch",
+          "id": "5942d3793a0d",
+          "title": "The Internet’s undersea backbone is slipping into the danger zone",
+          "link": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
+          "description": "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 18:30:03 +0000"
+          "pub_date": "Wed, 14 Oct 2026 11:15:24 +0000"
         },
         {
-          "id": "cb5aeb847be5",
-          "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-          "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-          "description": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-          "source": "TechCrunch",
+          "id": "de9f778d9406",
+          "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+          "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+          "description": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 18:30:00 +0000"
-        },
-        {
-          "id": "bd2f5b4440de",
-          "title": "Facebook is giving users more control over their algorithm",
-          "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-          "description": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 18:05:24 +0000"
-        },
-        {
-          "id": "928366a75f36",
-          "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
-          "description": "Longshot is trying to build a gun big enough to make space data centers a reality.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 18:05:00 +0000"
-        },
-        {
-          "id": "104d1463aa51",
-          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-          "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-          "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 17:30:00 +0000"
-        },
-        {
-          "id": "41b689c64089",
-          "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-          "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-          "description": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 17:18:25 +0000"
-        },
-        {
-          "id": "522a3f02f047",
-          "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
-          "link": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
-          "description": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 17:00:00 +0000"
-        },
-        {
-          "id": "d2e41eaa4f37",
-          "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-          "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-          "description": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 17:00:00 +0000"
-        },
-        {
-          "id": "b6aba482afd1",
-          "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-          "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-          "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 16:30:00 +0000"
-        },
-        {
-          "id": "93aadda7e716",
-          "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
-          "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
-          "description": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Tue, 13 Oct 2026 15:02:00 +0000"
+          "pub_date": "Wed, 14 Oct 2026 11:00:30 +0000"
         },
         {
           "id": "0110d436557c",
@@ -327,49 +363,22 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Mon, 12 Oct 2026 18:46:43 +0000"
-        },
-        {
-          "id": "f4cb37af7e81",
-          "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-          "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-          "description": "“I may have information regarding this case,\" Claude AI told Philly police.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 18:21:36 +0000"
-        },
-        {
-          "id": "b8a8d1ab6064",
-          "title": "Russia was not ready for the data center war it started with Ukraine",
-          "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-          "description": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 17:52:36 +0000"
-        },
-        {
-          "id": "5ecf26e3478d",
-          "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-          "link": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-          "description": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 16:01:08 +0000"
-        },
-        {
-          "id": "b33d470fc2c3",
-          "title": "F1 in Singapore: There's a new fastest car now",
-          "link": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
-          "description": "Also, F1’s final sprint saw our first real wet racing of the year.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 12 Oct 2026 14:43:14 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **脑机接口与医疗科技取得进展**：Science Corporation 将其视觉恢复芯片植入首位 Stargardt 病患者体内；同时，FBI 逮捕了一名 OpenAI 员工，指控其在会议室安装隐藏录音设备，引发对科技公司内部安全的关注。\n\n2. **AI 与机器人技术加速落地**：Cerebras CEO 预测每个人都将拥有家庭个人 AI 助手，并对 AI 末日论调提出反驳；Industrial Next 致力于让工厂机器人实现分钟级任务切换；Laplace Intelligence 则在机器人和自动驾驶汽车上路前进行红队测试。\n\n3. **能源与航天领域出现新探索**：Helix Carbon 声称可通过回收高炉污染来降低铁的成本；Cambridge Heavy Industries 被曝一直在秘密研发桌面核聚变装置，Licube 则想成为核聚变产业的燃料供应商；Longshot 提出用“炮”而非火箭将货物射入太空。\n\n4. **自动驾驶与算法透明度受关注**：Rivian 支持的初创公司 Mind Robotics 聘请了前福特电动车负责人 Doug Field；Facebook 赋予用户更多算法控制权；Flox Intelligence 开发 AI 以驱离野生动物远离火车、机场和道路。\n\n今日最值得关注的是：脑机接口首次植入 Stargardt 病患者，标志着视觉恢复技术迈出临床关键一步。",
+      "summary": "今日科技动态摘要\n\n1. AI安全与反欺诈：Apate利用AI代理“卧底”诈骗场景，主动收集欺诈情报；Floqer的AI代理可自动调研销售线索，减少团队人工负担。\n2. AI应用加速落地：Zenzap获4400万美元融资，打造面向职场的AI聊天应用，目标替代WhatsApp；Cerebras CEO预测每个人都将拥有家庭个人AI助手；Deezer将允许用户过滤AI生成音乐。\n3. 机器人与硬件创新：Mosqitter将灭蚊陷阱升级为AI驱动的监测网络；Industrial Next让工厂机器人可在数分钟内切换任务，而非数周；Science Corporation首次将视觉恢复芯片植入Stargardt病患者。\n4. 企业与资本动态：Netflix因用户注意力竞争加剧将裁员1000人；Scimplify获2500万美元融资，用AI挑战中国在关键材料领域的主导地位；Prismm帮助银行留住继承资金。\n5. 安全与体育科技：美国司法部称朝鲜人员已渗透数十家美国公司；NTangible押注可预测运动员在压力下的表现。\n\n今日最值得关注的是AI代理正从“被动工具”转向“主动执行者”——无论是卧底反诈、销售调研还是职场沟通，AI正在深度嵌入真实业务场景。",
       "count": 40
     },
     "ai": {
       "articles": [
+        {
+          "id": "5e9c8aca0ada",
+          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 14 Oct 2026 16:12:42 GMT"
+        },
         {
           "id": "df875ad3b1e9",
           "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
@@ -378,15 +387,6 @@
           "source": "Hugging Face",
           "category": "ai",
           "pub_date": "Tue, 13 Oct 2026 17:05:48 GMT"
-        },
-        {
-          "id": "99cf06760ca1",
-          "title": "Impactful scheduling for GPU clusters",
-          "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "description": "",
-          "source": "Hugging Face",
-          "category": "ai",
-          "pub_date": "Fri, 09 Oct 2026 15:20:29 GMT"
         },
         {
           "id": "03a75043cd9a",
@@ -398,24 +398,6 @@
           "pub_date": "Thu, 08 Oct 2026 00:00:00 GMT"
         },
         {
-          "id": "cce0d9f4bd00",
-          "title": "Introducing Falcon ASR",
-          "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
-          "description": "",
-          "source": "Hugging Face",
-          "category": "ai",
-          "pub_date": "Wed, 07 Oct 2026 13:21:03 GMT"
-        },
-        {
-          "id": "d686531c1bc7",
-          "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "description": "",
-          "source": "Hugging Face",
-          "category": "ai",
-          "pub_date": "Wed, 07 Oct 2026 12:45:31 GMT"
-        },
-        {
           "id": "0766caa60b54",
           "title": "Gemini 4 Argon: Built to solve your hardest problems",
           "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
@@ -425,13 +407,40 @@
           "pub_date": "Tue, 13 Oct 2026 16:00:00 +0000"
         },
         {
-          "id": "7b46b9cd476b",
-          "title": "Introducing Playground: Create and play custom games",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-          "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-          "source": "Google AI Blog",
+          "id": "6b056a8c4f3e",
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "link": "https://openai.com/index/amp-beyond-coding",
+          "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+          "source": "OpenAI Blog",
           "category": "ai",
-          "pub_date": "Wed, 07 Oct 2026 12:00:00 +0000"
+          "pub_date": "Wed, 14 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "40df79f07b1b",
+          "title": "SentinelOne cuts malware analysis from weeks to hours",
+          "link": "https://openai.com/index/sentinelone",
+          "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 14 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "3457b5d8b791",
+          "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "link": "https://openai.com/index/third-moment-research",
+          "description": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 14 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "3c25b5b9474e",
+          "title": "The EU’s next chapter in AI is agentic",
+          "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 14 Oct 2026 00:00:00 GMT"
         },
         {
           "id": "b4c456b96952",
@@ -443,19 +452,19 @@
           "pub_date": "Tue, 13 Oct 2026 12:00:00 GMT"
         },
         {
-          "id": "b5f1f16e1541",
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "link": "https://openai.com/index/sophos",
-          "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+          "id": "764b5092cdf6",
+          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+          "link": "https://openai.com/index/asana-browser-agent",
+          "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Fri, 09 Oct 2026 07:00:00 GMT"
         },
         {
-          "id": "764b5092cdf6",
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "link": "https://openai.com/index/asana-browser-agent",
-          "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+          "id": "b5f1f16e1541",
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "link": "https://openai.com/index/sophos",
+          "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Fri, 09 Oct 2026 07:00:00 GMT"
@@ -497,24 +506,6 @@
           "pub_date": "Thu, 08 Oct 2026 00:00:00 GMT"
         },
         {
-          "id": "776041a37bb7",
-          "title": "Helping teens learn, plan, and shape the future of AI",
-          "link": "https://openai.com/index/teens-learn-and-plan",
-          "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 07 Oct 2026 12:00:00 GMT"
-        },
-        {
-          "id": "0370806873d5",
-          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "link": "https://openai.com/index/radisson",
-          "description": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 07 Oct 2026 07:00:00 GMT"
-        },
-        {
           "id": "c62eb052742d",
           "title": "Linux Kernel Developers Plan to Remove \"Assisted-By\" Tag Requirement for AI/LLM",
           "link": "https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req",
@@ -524,98 +515,98 @@
           "pub_date": "Tue, 13 Oct 2026 14:15:04 +0000"
         },
         {
-          "id": "2a03791651df",
-          "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-          "link": "https://www.qbitai.com/2026/10/503107.html",
-          "description": "让VLA从“演示可用”逼近“产线可用”",
+          "id": "5bd64f31bbf8",
+          "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+          "link": "https://www.qbitai.com/2026/10/503294.html",
+          "description": "“具身进实景，劳动最光荣”",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Tue, 13 Oct 2026 11:05:39 +0000"
+          "pub_date": "Wed, 14 Oct 2026 10:41:47 +0000"
         },
         {
-          "id": "49fa8ab9c4bc",
-          "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-          "link": "https://www.qbitai.com/2026/10/503093.html",
-          "description": "Winverse AI",
+          "id": "f07bef814fca",
+          "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+          "link": "https://www.qbitai.com/2026/10/503244.html",
+          "description": "这妥妥是个物理版Agent啊！",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Tue, 13 Oct 2026 09:33:37 +0000"
+          "pub_date": "Wed, 14 Oct 2026 08:01:18 +0000"
         },
         {
-          "id": "89635de54d2c",
-          "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
-          "link": "https://www.qbitai.com/2026/10/502992.html",
-          "description": "宝马保时捷缺席",
+          "id": "5a31c8e8e8a8",
+          "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+          "link": "https://www.qbitai.com/2026/10/503231.html",
+          "description": "汽车竞争正在回归汽车本身",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Tue, 13 Oct 2026 07:20:23 +0000"
+          "pub_date": "Wed, 14 Oct 2026 07:12:02 +0000"
         },
         {
-          "id": "2f668868ad19",
-          "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-          "link": "https://www.qbitai.com/2026/10/502954.html",
-          "description": "让材料感知压力，造出超薄高密度电子皮肤",
+          "id": "22b220f5297f",
+          "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+          "link": "https://www.qbitai.com/2026/10/503211.html",
+          "description": "从创意到成本，AI正在重写综艺的生产逻辑",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Tue, 13 Oct 2026 07:19:21 +0000"
+          "pub_date": "Wed, 14 Oct 2026 07:03:44 +0000"
         },
         {
-          "id": "d9067fc66286",
-          "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-          "link": "https://www.qbitai.com/2026/10/502920.html",
-          "description": "拉马克进化的幽灵",
+          "id": "362c7a21de59",
+          "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+          "link": "https://www.qbitai.com/2026/10/503201.html",
+          "description": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Tue, 13 Oct 2026 06:19:10 +0000"
+          "pub_date": "Wed, 14 Oct 2026 06:45:38 +0000"
         },
         {
-          "id": "0cc7c49a4b38",
-          "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
-          "link": "https://www.qbitai.com/2026/10/502907.html",
-          "description": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
+          "id": "4debfd5f6367",
+          "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+          "link": "https://www.qbitai.com/2026/10/503198.html",
+          "description": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Tue, 13 Oct 2026 06:00:20 +0000"
+          "pub_date": "Wed, 14 Oct 2026 06:24:00 +0000"
         },
         {
-          "id": "ebc2fff102df",
-          "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
-          "link": "https://www.qbitai.com/2026/10/502784.html",
-          "description": "赢奖金、拿融资、送出海",
+          "id": "678a0cae6c61",
+          "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+          "link": "https://www.qbitai.com/2026/10/503172.html",
+          "description": "给Ego补上缺失的交互信息",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Tue, 13 Oct 2026 04:07:04 +0000"
+          "pub_date": "Wed, 14 Oct 2026 04:51:32 +0000"
         },
         {
-          "id": "e2a05610b417",
-          "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
-          "link": "https://www.qbitai.com/2026/10/502849.html",
-          "description": "丢一句话进去，事儿就办完了",
+          "id": "b499a6b444d8",
+          "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+          "link": "https://www.qbitai.com/2026/10/503173.html",
+          "description": "从“懂空间”到“能干活”",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Tue, 13 Oct 2026 04:04:22 +0000"
+          "pub_date": "Wed, 14 Oct 2026 04:09:29 +0000"
         },
         {
-          "id": "976bf55a54ec",
-          "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
-          "link": "https://www.qbitai.com/2026/10/502767.html",
-          "description": "算力、模型、行业，三层生意一起做",
+          "id": "324aabe9d8eb",
+          "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+          "link": "https://www.qbitai.com/2026/10/503165.html",
+          "description": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Tue, 13 Oct 2026 04:01:15 +0000"
+          "pub_date": "Wed, 14 Oct 2026 03:32:48 +0000"
         },
         {
-          "id": "d09fde4326d2",
-          "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
-          "link": "https://www.qbitai.com/2026/10/502770.html",
-          "description": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名",
+          "id": "bb68c89d2bed",
+          "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+          "link": "https://www.qbitai.com/2026/10/503157.html",
+          "description": "一次采集，反复使用",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Tue, 13 Oct 2026 02:01:56 +0000"
+          "pub_date": "Wed, 14 Oct 2026 02:14:50 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **端侧AI与模型能力持续突破**：Hugging Face发布LFM2.5-24B-A2B，支持在设备端运行快速、私密的AI代理；同时推出Falcon ASR语音识别模型。谷歌发布Gemini 4 Argon，定位解决最复杂问题。\n\n2. **企业级AI降本增效成果显著**：OpenAI博客集中展示多个案例——Asana浏览器测试中模型成本降低76倍，LegalOn将Codex成本减半且保持开发速度，Sophos威胁调查时间缩短96%，Oracle将数天工作压缩至分钟级。\n\n3. **AI应用场景加速扩展**：谷歌推出Playground支持创建和游玩自定义游戏；Higgsfield将AI视频生成时长从1分钟提升至10分钟以上；Pollo AI利用OpenAI将创意转化为营销活动。\n\n4. **AI安全与教育议题受关注**：OpenAI发布关于打击AI驱动的“假前台”操作的内容，并推出帮助青少年学习、规划及参与塑造AI未来的相关举措。\n\n5. **模型专业化与竞赛能力提升**：Hugging Face展示单一模型家族（Nemotron）经微调后在IOI和IMO两项竞赛中均获金牌级成绩，体现模型专业化训练的巨大潜力。\n\n今日最值得关注的是企业级AI应用在成本控制和效率提升上取得规模化突破，标志着AI从实验阶段全面迈向高ROI的生产部署。",
-      "count": 27
+      "summary": "今日AI动态摘要\n\n1. **极端天气模拟成本大幅降低**：HiRO-ACEv2 实现3公里分辨率的极端天气模拟，成本仅为传统方法的一小部分。\n2. **端侧私有AI代理运行**：LFM2.5-24B-A2B 支持在设备本地快速运行私有AI代理，兼顾速度与隐私。\n3. **企业级AI代理加速落地**：OpenAI 与 Asana、Sophos、Oracle、LegalOn 等企业合作，实现模型成本降低76倍、威胁调查时间缩短96%、开发成本减半等显著效率提升。\n4. **AI视频与创意生成能力跃升**：Higgsfield 将AI视频时长从1分钟扩展至10分钟以上，Pollo AI 则用AI将创意快速转化为营销活动。\n5. **欧盟推进代理式AI发展**：欧盟AI下一阶段聚焦“代理式AI”（agentic AI），同时OpenAI也在打击AI驱动的“假前台”欺诈操作。\n\n今日最值得关注的是企业级AI代理正从实验走向规模化落地，在成本、速度和安全性上同时取得突破性进展。",
+      "count": 26
     },
     "cctv": {
       "articles": [
@@ -627,10 +618,271 @@
           "source": "Global Times",
           "category": "cctv",
           "pub_date": "Fri, 09 Oct 2026 14:14:28 GMT"
+        },
+        {
+          "id": "b820f5509e4e",
+          "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
+          "link": "https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/",
+          "description": "Article URL: https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/ Comments URL: https://news.ycombinator.com/item?id=50089482 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 14 Oct 2026 15:44:04 +0000"
+        },
+        {
+          "id": "8ffd0bfc9783",
+          "title": "Rogue A.I. Agents from China Chatted with Researchers",
+          "link": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
+          "description": "Article URL: https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html Comments URL: https://news.ycombinator.com/item?id=50089373 Points: 9 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 14 Oct 2026 15:38:40 +0000"
+        },
+        {
+          "id": "b8622791a36a",
+          "title": "How China Became Rich",
+          "link": "https://www.worksinprogress.news/p/how-china-became-rich",
+          "description": "Article URL: https://www.worksinprogress.news/p/how-china-became-rich Comments URL: https://news.ycombinator.com/item?id=50088731 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 14 Oct 2026 15:01:42 +0000"
+        },
+        {
+          "id": "e94012829fe0",
+          "title": "Memory breakthrough by China's CXMT puts chip rivals on back foot",
+          "link": "https://asia.nikkei.com/business/tech/semiconductors/memory-breakthrough-by-china-s-cxmt-puts-chip-rivals-on-back-foot",
+          "description": "Article URL: https://asia.nikkei.com/business/tech/semiconductors/memory-breakthrough-by-china-s-cxmt-puts-chip-rivals-on-back-foot Comments URL: https://news.ycombinator.com/item?id=50088577 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 14 Oct 2026 14:50:51 +0000"
+        },
+        {
+          "id": "a618fe221b4b",
+          "title": "China Still Has Easy Access to TikTok Despite Trump 'Fixes'",
+          "link": "https://www.techdirt.com/2026/10/14/china-still-has-easy-access-to-tiktok-despite-trump-fixes/",
+          "description": "Article URL: https://www.techdirt.com/2026/10/14/china-still-has-easy-access-to-tiktok-despite-trump-fixes/ Comments URL: https://news.ycombinator.com/item?id=50087421 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 14 Oct 2026 13:25:13 +0000"
+        },
+        {
+          "id": "4659fb1576b4",
+          "title": "Will China overtake the US in the AI race? (In charts)",
+          "link": "https://salvozappa.com/will-china-overtake-the-us-in-the-ai-race.html",
+          "description": "Article URL: https://salvozappa.com/will-china-overtake-the-us-in-the-ai-race.html Comments URL: https://news.ycombinator.com/item?id=50086815 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 14 Oct 2026 12:42:47 +0000"
+        },
+        {
+          "id": "937dbb5b6ec0",
+          "title": "A New Crop of Solar Panels Is the U.S.'s Best Hope of Catching China",
+          "link": "https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html",
+          "description": "Article URL: https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html Comments URL: https://news.ycombinator.com/item?id=50086419 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 14 Oct 2026 12:10:48 +0000"
+        },
+        {
+          "id": "6e9aeeca1a45",
+          "title": "App Life in China",
+          "link": "https://www.chinafile.com/reporting-opinion/postcard/app-life-china",
+          "description": "Article URL: https://www.chinafile.com/reporting-opinion/postcard/app-life-china Comments URL: https://news.ycombinator.com/item?id=50085606 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 14 Oct 2026 10:55:56 +0000"
+        },
+        {
+          "id": "b3de25d6ad67",
+          "title": "U.S. Defense Startups Flock to Taiwan to Build China-Free Drones",
+          "link": "https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94",
+          "description": "Article URL: https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94 Comments URL: https://news.ycombinator.com/item?id=50083232 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 14 Oct 2026 06:28:39 +0000"
+        },
+        {
+          "id": "1b4b1960cd4b",
+          "title": "Nvidia falls to 34% of China's AI chip market as Huawei takes 28%",
+          "link": "https://theinference.org/article/nvidia-falls-to-34-of-china-s-ai-chip-market-as-huawei-takes-28",
+          "description": "Article URL: https://theinference.org/article/nvidia-falls-to-34-of-china-s-ai-chip-market-as-huawei-takes-28 Comments URL: https://news.ycombinator.com/item?id=50073676 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 13 Oct 2026 15:52:22 +0000"
+        },
+        {
+          "id": "62b4e23f1a09",
+          "title": "China Reduced Extreme Poverty Fast, but Indonesia Hasn't Been Far Behind",
+          "link": "https://ourworldindata.org/data-insights/china-reduced-extreme-poverty-fast-but-indonesia-hasnt-been-far-behind",
+          "description": "Article URL: https://ourworldindata.org/data-insights/china-reduced-extreme-poverty-fast-but-indonesia-hasnt-been-far-behind Comments URL: https://news.ycombinator.com/item?id=50073358 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 13 Oct 2026 15:34:27 +0000"
+        },
+        {
+          "id": "451c55d196f0",
+          "title": "China Just Broke America's Biggest AI Advantage? [video]",
+          "link": "https://www.youtube.com/watch?v=pw3T0wZjYes",
+          "description": "Article URL: https://www.youtube.com/watch?v=pw3T0wZjYes Comments URL: https://news.ycombinator.com/item?id=50072773 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 13 Oct 2026 14:58:37 +0000"
+        },
+        {
+          "id": "418af97ca4b1",
+          "title": "China's Growth Machines",
+          "link": "https://worksinprogress.co/issue/chinas-growth-machine/",
+          "description": "Article URL: https://worksinprogress.co/issue/chinas-growth-machine/ Comments URL: https://news.ycombinator.com/item?id=50072426 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 13 Oct 2026 14:36:04 +0000"
+        },
+        {
+          "id": "f1dd93c3cc39",
+          "title": "China is building AI data centers at speed as the US wrestles with the costs",
+          "link": "https://mezha.net/eng/news/mezha-28304fbbe08e489bfe006d9c_china_is_building/",
+          "description": "Article URL: https://mezha.net/eng/news/mezha-28304fbbe08e489bfe006d9c_china_is_building/ Comments URL: https://news.ycombinator.com/item?id=50070872 Points: 10 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 13 Oct 2026 12:50:04 +0000"
+        },
+        {
+          "id": "aceb6be2c882",
+          "title": "China races to build data centres in bid for AI supremacy",
+          "link": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e",
+          "description": "Article URL: https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e Comments URL: https://news.ycombinator.com/item?id=50070840 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 13 Oct 2026 12:48:03 +0000"
+        },
+        {
+          "id": "7db0512f0c00",
+          "title": "China's Weakening Economy Is Creating a Lost Generation",
+          "link": "https://www.wsj.com/world/china-economy-gen-z-f9058941",
+          "description": "Article URL: https://www.wsj.com/world/china-economy-gen-z-f9058941 Comments URL: https://news.ycombinator.com/item?id=50066300 Points: 6 # Comments: 3",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 13 Oct 2026 03:33:52 +0000"
+        },
+        {
+          "id": "96187f0dc2db",
+          "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
+          "link": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
+          "description": "Article URL: https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/ Comments URL: https://news.ycombinator.com/item?id=50065805 Points: 159 # Comments: 156",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 13 Oct 2026 02:25:00 +0000"
+        },
+        {
+          "id": "2f8086a72bf0",
+          "title": "Dust Pollution Mitigation by Solar Farm Deployment in Northern China",
+          "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124605",
+          "description": "Article URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124605 Comments URL: https://news.ycombinator.com/item?id=50065480 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 13 Oct 2026 01:36:24 +0000"
+        },
+        {
+          "id": "bc86d6f1f689",
+          "title": "Examining China's AI Financing [pdf]",
+          "link": "https://www.visualcapitalist.com/wp-content/uploads/2026/09/Examining-Chinas-AI-Financing.pdf",
+          "description": "Article URL: https://www.visualcapitalist.com/wp-content/uploads/2026/09/Examining-Chinas-AI-Financing.pdf Comments URL: https://news.ycombinator.com/item?id=50065399 Points: 7 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 13 Oct 2026 01:25:16 +0000"
+        },
+        {
+          "id": "6a278f2284c0",
+          "title": "UK data centre giant removed evidence of China deal ahead of $35B listing",
+          "link": "https://www.telegraph.co.uk/business/2026/10/10/uk-data-centre-giant-removed-evidence-of-china-deal-ahead-o/",
+          "description": "Article URL: https://www.telegraph.co.uk/business/2026/10/10/uk-data-centre-giant-removed-evidence-of-china-deal-ahead-o/ Comments URL: https://news.ycombinator.com/item?id=50063755 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 12 Oct 2026 22:09:33 +0000"
+        },
+        {
+          "id": "e879c9c5b6d4",
+          "title": "China's Five-Year Plan Mandates AI Agents Across the Economy: What It Means",
+          "link": "https://openclawai.io/blog/china-ai-agents-five-year-plan",
+          "description": "Article URL: https://openclawai.io/blog/china-ai-agents-five-year-plan Comments URL: https://news.ycombinator.com/item?id=50062933 Points: 6 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 12 Oct 2026 20:53:26 +0000"
+        },
+        {
+          "id": "121a23a5a507",
+          "title": "China's carmakers export more as EU caps hybrid vehicle imports at 350k a year",
+          "link": "https://apnews.com/article/china-car-sales-exports-evs-0d0bf31b40a68fa75ea6ccf8e9f6467e",
+          "description": "Article URL: https://apnews.com/article/china-car-sales-exports-evs-0d0bf31b40a68fa75ea6ccf8e9f6467e Comments URL: https://news.ycombinator.com/item?id=50058664 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 12 Oct 2026 16:21:17 +0000"
+        },
+        {
+          "id": "19d20c83a746",
+          "title": "China's Race Towards 'Infinite' Energy [video]",
+          "link": "https://www.youtube.com/watch?v=qcGtWW8uERI",
+          "description": "Article URL: https://www.youtube.com/watch?v=qcGtWW8uERI Comments URL: https://news.ycombinator.com/item?id=50054633 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Mon, 12 Oct 2026 11:11:30 +0000"
+        },
+        {
+          "id": "34ec98921232",
+          "title": "Russia, China targeting underwater cables that could send us to the Dark Ages",
+          "link": "https://nypost.com/2026/10/11/us-news/russia-and-china-could-send-us-back-to-the-dark-ages/",
+          "description": "Article URL: https://nypost.com/2026/10/11/us-news/russia-and-china-could-send-us-back-to-the-dark-ages/ Comments URL: https://news.ycombinator.com/item?id=50049121 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 11 Oct 2026 23:21:47 +0000"
+        },
+        {
+          "id": "ac6e42209570",
+          "title": "China's Delivery Robots Are Learning to Tackle the Night Shift",
+          "link": "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift",
+          "description": "Article URL: https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift Comments URL: https://news.ycombinator.com/item?id=50047963 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 11 Oct 2026 21:24:46 +0000"
+        },
+        {
+          "id": "131d501a6f0f",
+          "title": "There has been no increase in car sales in China in over a decade",
+          "link": "https://twitter.com/lymanstoneky/status/2107227592151445963",
+          "description": "Article URL: https://twitter.com/lymanstoneky/status/2107227592151445963 Comments URL: https://news.ycombinator.com/item?id=50036400 Points: 5 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 10 Oct 2026 19:40:22 +0000"
+        },
+        {
+          "id": "3ca5c4110f3e",
+          "title": "California woman accused of spying for China fights detention with $820K bond",
+          "link": "https://www.foxnews.com/us/california-woman-accused-spying-china-fights-detention-820k-proposed-security",
+          "description": "Article URL: https://www.foxnews.com/us/california-woman-accused-spying-china-fights-detention-820k-proposed-security Comments URL: https://news.ycombinator.com/item?id=50036115 Points: 1 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 10 Oct 2026 19:12:11 +0000"
+        },
+        {
+          "id": "75fe980c517f",
+          "title": "China's Weaponization of Dual-Use Research Vessels for Undersea Data Dominance",
+          "link": "https://www.csis.org/analysis/chinas-weaponization-dual-use-research-vessels-undersea-data-dominance",
+          "description": "Article URL: https://www.csis.org/analysis/chinas-weaponization-dual-use-research-vessels-undersea-data-dominance Comments URL: https://news.ycombinator.com/item?id=50035650 Points: 5 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 10 Oct 2026 18:21:55 +0000"
+        },
+        {
+          "id": "b16c7192d795",
+          "title": "Super Micro contractor pleads guilty in scheme to divert Nvidia chips to China",
+          "link": "https://www.reuters.com/legal/government/super-micro-contractor-pleads-guilty-scheme-divert-ai-servers-with-nvidia-chips-2026-10-09/",
+          "description": "Article URL: https://www.reuters.com/legal/government/super-micro-contractor-pleads-guilty-scheme-divert-ai-servers-with-nvidia-chips-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50035319 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 10 Oct 2026 17:49:14 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 美国联邦通信委员会（FCC）计划禁止中国检测实验室参与相关认证，此举可能扰乱全球电子产品供应链。\n2. 分析人士指出，该计划将推高电子行业成本，影响范围涉及多国企业。\n3. 全球电子供应链的稳定性面临新的政策风险，中美经贸摩擦向技术标准领域延伸。\n\n今日最值得关注的是，美国以安全为名限制中国检测实验室，可能对全球电子产品供应链造成系统性干扰并抬高行业成本。",
-      "count": 1
+      "summary": "今日新闻联播动态摘要\n\n1. **中美科技竞争持续升温**：美国FCC拟禁止中国检测实验室，可能扰乱全球电子供应链并推高行业成本；同时英伟达在中国AI芯片市场份额降至34%，华为升至28%，显示国产替代加速。\n\n2. **中国AI与芯片领域进展显著**：中国开放权重AI模型仅落后美国闭源模型约7个月，AI数据中心建设速度加快；长鑫存储（CXMT）取得内存技术突破，令竞争对手承压。\n\n3. **地缘科技博弈向多领域蔓延**：美国国防初创企业涌入台湾打造“去中国化”无人机；中国太阳能面板产业领先，美国试图以新一代太阳能板追赶；TikTok在美国仍可轻松访问。\n\n4. **中国经济与社会发展受关注**：外媒讨论中国如何实现富裕、中国经济增长机制，以及中国在减贫方面的快速进展。\n\n今日最值得关注的发展是：中国在AI芯片和内存等关键技术领域加速自主突破，同时中美科技脱钩风险正从芯片向检测、无人机、供应链等多领域扩散。",
+      "count": 30
     }
   }
 }
