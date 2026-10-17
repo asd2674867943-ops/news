@@ -1,9 +1,45 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T16:52:56.529699",
+  "generated_at": "2026-10-17T23:53:07.435479",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "ecade87f6e3b",
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 17 Oct 2026 21:31:32 +0000"
+        },
+        {
+          "id": "ebc0c98ae70f",
+          "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+          "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+          "description": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 17 Oct 2026 20:55:52 +0000"
+        },
+        {
+          "id": "fc072e51cefc",
+          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+          "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+          "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 17 Oct 2026 20:21:19 +0000"
+        },
+        {
+          "id": "7776c0d92ece",
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 17 Oct 2026 18:48:08 +0000"
+        },
         {
           "id": "f69405870b2d",
           "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
@@ -21,15 +57,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Sat, 17 Oct 2026 02:36:18 +0000"
-        },
-        {
-          "id": "64265f4c8926",
-          "title": "Replit is no longer working with Anthropic, CEO says",
-          "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-          "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 16 Oct 2026 21:22:28 +0000"
         },
         {
           "id": "4d81a7314518",
@@ -156,33 +183,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 15 Oct 2026 23:44:56 +0000"
-        },
-        {
-          "id": "d41b1412d40a",
-          "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-          "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-          "description": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 15 Oct 2026 23:33:45 +0000"
-        },
-        {
-          "id": "d0aba299b28a",
-          "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-          "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-          "description": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 15 Oct 2026 20:38:13 +0000"
-        },
-        {
-          "id": "130cc4418f8c",
-          "title": "Meta launches an open-weight AI model that runs on Macs",
-          "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-          "description": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 15 Oct 2026 20:04:53 +0000"
         },
         {
           "id": "d21417d29823",
@@ -365,7 +365,7 @@
           "pub_date": "Thu, 15 Oct 2026 20:30:02 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI行业合作与竞争格局变动**：Replit宣布终止与Anthropic的合作，其CEO提出“自动驾驶公司”将是未来工作形态；同时Benchmark等风投机构开始打破不投竞争对手的行业默契，反映AI正在重塑创投规则。此外，Vercel的AI模型Jev成为其史上采用速度最快的AI模型。\n\n2. **自动驾驶与机器人技术持续推进**：Waymo的robotaxi即将进军加拿大市场；而一位从Nvidia转行做风投的人士指出，机器人技术尚未迎来属于自己的“ChatGPT时刻”。印度成为最新一个报告恶意AI智能体活动的国家，引发安全关注。\n\n3. **AI应用与硬件创新**：Elorian推出首个AI模型，主打“用图像进行推理”而非仅对图像进行分析；Ember新款温控马克杯提升了日常泡茶体验；Veritas将防伪芯片扩展至珠宝、奖杯和香水瓶领域。Mark Wahlberg则一方面推出平价健身房概念瞄准长寿科技市场，另一方面表态支持以“正确方式”在电影中使用AI，并愿意接受AI克隆延续自己的遗产。\n\n4. **电动汽车与行业反思**：保时捷电动Macan Turbo被评价为引发“汽车行业存在主义危机”的产品，折射出传统车企电动化转型中的定位困惑。\n\n**今日最值得关注的是Replit与Anthropic合作终止及风投界对AI竞争态度的转变，这标志着AI行业从合作共赢加速走向竞争分化。**",
+      "summary": "今日科技动态摘要\n\n1. Meta删除引发数据抓取和AI训练担忧的相关表述，反映出平台在数据使用政策上的敏感调整。\n2. TikTok永久封禁“马斯克”纪录片广告账户，显示平台对争议性广告内容的强硬态度。\n3. Anthropic表示员工结构趋于资深化、会议时间增加；同时Replit将OpenAI设为默认模型（而非Anthropic），显示AI公司间竞争与内部运营变化。\n4. Waymo自动驾驶出租车将进军加拿大，印度报告出现 rogue AI agent 活动，AI安全与全球化部署成为焦点。\n5. 英伟达前高管转VC谈机器人尚未迎来“ChatGPT时刻”，以及Elorian推出侧重图像推理的AI模型，体现机器人与多模态AI仍是探索期。\n\n今日最值得关注的是：AI公司在模型选择与安全治理上动作频频（Replit转投OpenAI、印度报告失控AI代理），同时自动驾驶全球化扩张加速，行业正处在能力提升与风险管控并行的关键阶段。",
       "count": 40
     },
     "ai": {
@@ -641,7 +641,7 @@
           "pub_date": "Fri, 16 Oct 2026 05:04:59 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. Hugging Face集中发布多个开放模型与工具：包括501B参数的Beam开放模型（可拥有、定制和扩展）、Meta开源权重前沿多模态MoE模型Muse Spark Open、统一聊天/决策/语音的Granite Switch 4.1，以及Diffusers中的FLUX.3 Image Klein图像模型。\n2. 印度语预训练规模化：发布2.8万亿token的Indic预训练数据集及开放数据生成流水线，推动多语言大模型发展。\n3. 高效能与垂直应用并进：LFM2.5-24B-A2B支持端侧快速私有智能体；HiRO-ACEv2以低成本实现3公里分辨率极端天气模拟。\n4. 谷歌发布Gemini 4 Argon，定位解决最难题；OpenAI则密集披露企业落地案例（Itaú、Benefit Street、Stack Overflow、Sullivan & Cromwell、Amp）及学术研究合作（GPT-Rosalind）。\n5. OpenAI生态扩展：ChatGPT插件助力Stack Overflow for Agents注册量翻三倍，Amp将AI智能体应用拓展至代码之外。\n\n今日最值得关注的是Hugging Face一次性释放多个大规模开放权重模型与数据流水线，开放模型生态的规模与多模态能力正加速逼近闭源前沿。",
+      "summary": "今日AI动态摘要\n\n1. **开源模型生态持续扩张**：Hugging Face集中发布多款开放模型，包括可自主拥有和定制的501B参数模型Beam、Meta开源的多模态混合专家模型Muse Spark Open，以及统一处理对话/决策/语音的Granite Switch 4.1，显示开放权重模型正朝更大规模、多模态方向演进。\n\n2. **数据与训练基础设施开放化**：Hugging Face发布2.8万亿token的印度语言预训练数据集及开放数据生成流水线，推动非英语语种大模型训练资源的公开化。\n\n3. **AI能力向垂直场景深度渗透**：OpenAI博客展示多个行业落地案例——Itaú银行面向全量客户构建生成式AI、法律机构Sullivan & Cromwell用AI辅助合同审查、Stack Overflow for Agents通过ChatGPT插件实现注册量三倍增长，AI代理正从编程扩展到金融、法律、客服等领域。\n\n4. **端侧与高效推理成为新焦点**：LFM2.5-24B-A2B支持在设备端运行快速、私密的AI代理；HiRO-ACEv2以低成本实现3公里分辨率极端天气模拟，体现AI在科学计算与本地化部署上的效率突破。\n\n5. **前沿模型竞争加剧**：Google发布Gemini 4 Argon主打复杂问题求解，OpenAI将GPT-Rosalind引入学术研究实验室，头部厂商持续在推理能力与科研应用上发力。\n\n今日最值得关注的是开放权重模型在规模与多模态能力上加速追赶闭源前沿模型，同时AI代理正快速渗透至金融、法律等专业服务场景。",
       "count": 30
     },
     "cctv": {
@@ -654,271 +654,10 @@
           "source": "Global Times",
           "category": "cctv",
           "pub_date": "Fri, 09 Oct 2026 14:14:28 GMT"
-        },
-        {
-          "id": "71cf090aaba6",
-          "title": "EU negotiates sanctions swap with China to rescue critical ASML supplier",
-          "link": "https://www.tomshardware.com/tech-industry/semiconductors/eu-negotiates-sanction-swap-with-china-to-rescue-critical-asml-supplier-german-coatings-firm-faces-shutdown-without-chinese-rare-earths",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/eu-negotiates-sanction-swap-with-china-to-rescue-critical-asml-supplier-german-coatings-firm-faces-shutdown-without-chinese-rare-earths Comments URL: https://news.ycombinator.com/item?id=50128597 Points: 9 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 17 Oct 2026 06:49:52 +0000"
-        },
-        {
-          "id": "752b34f703d9",
-          "title": "Mapping the China AI Ecosystem with Rui Ma [video]",
-          "link": "https://www.youtube.com/watch?v=-RDpqweadlE",
-          "description": "Article URL: https://www.youtube.com/watch?v=-RDpqweadlE Comments URL: https://news.ycombinator.com/item?id=50128261 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 17 Oct 2026 05:35:59 +0000"
-        },
-        {
-          "id": "cc2be7feaba7",
-          "title": "China to Restrict Open-Weights Model Exports",
-          "link": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
-          "description": "Article URL: https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/ Comments URL: https://news.ycombinator.com/item?id=50127369 Points: 12 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 17 Oct 2026 02:41:30 +0000"
-        },
-        {
-          "id": "9646a81e6b31",
-          "title": "China is second only to the U.S. in healthcare costs as a percentage of income",
-          "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-          "description": "Article URL: https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html Comments URL: https://news.ycombinator.com/item?id=50127167 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 17 Oct 2026 02:05:09 +0000"
-        },
-        {
-          "id": "0100707f8320",
-          "title": "China moves to curb tech exports, including AI, citing national security risks",
-          "link": "https://apnews.com/article/china-export-restrictions-ai-chips-solar-us-5ac381c0c6d6628bbea2e0da7d855a5b",
-          "description": "Article URL: https://apnews.com/article/china-export-restrictions-ai-chips-solar-us-5ac381c0c6d6628bbea2e0da7d855a5b Comments URL: https://news.ycombinator.com/item?id=50122321 Points: 10 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 18:25:41 +0000"
-        },
-        {
-          "id": "e9f7f6426f40",
-          "title": "A Chinese Perspective on \"On Social Reality in China\"",
-          "link": "https://www.greaterwrong.com/posts/m4fWCPqWkpb39SKi7/",
-          "description": "Article URL: https://www.greaterwrong.com/posts/m4fWCPqWkpb39SKi7/ Comments URL: https://news.ycombinator.com/item?id=50121979 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 18:02:41 +0000"
-        },
-        {
-          "id": "fe221da72786",
-          "title": "China Reportedly Planning AI Export Controls, Citing National Security",
-          "link": "https://www.pcmag.com/news/china-reportedly-planning-ai-export-controls-citing-national-security",
-          "description": "Article URL: https://www.pcmag.com/news/china-reportedly-planning-ai-export-controls-citing-national-security Comments URL: https://news.ycombinator.com/item?id=50121764 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 17:47:43 +0000"
-        },
-        {
-          "id": "a33c007bb9ac",
-          "title": "China Proposes Export Controls on AI Technologies",
-          "link": "https://www.wsj.com/economy/trade/china-proposes-export-controls-on-ai-technologies-75ac2030",
-          "description": "Article URL: https://www.wsj.com/economy/trade/china-proposes-export-controls-on-ai-technologies-75ac2030 Comments URL: https://news.ycombinator.com/item?id=50121687 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 17:41:51 +0000"
-        },
-        {
-          "id": "fce3d1cfb399",
-          "title": "China proposes export controls on open weight models",
-          "link": "https://reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/",
-          "description": "Article URL: https://reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/ Comments URL: https://news.ycombinator.com/item?id=50121646 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 17:39:03 +0000"
-        },
-        {
-          "id": "27951948a8d5",
-          "title": "China unveils draft export controls on AI, open-weight models, and chips",
-          "link": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf",
-          "description": "Article URL: https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf Comments URL: https://news.ycombinator.com/item?id=50121439 Points: 8 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 17:24:41 +0000"
-        },
-        {
-          "id": "418af97ca4b1",
-          "title": "China's Growth Machines",
-          "link": "https://worksinprogress.co/issue/chinas-growth-machine/",
-          "description": "Article URL: https://worksinprogress.co/issue/chinas-growth-machine/ Comments URL: https://news.ycombinator.com/item?id=50120269 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 16:14:44 +0000"
-        },
-        {
-          "id": "c8c4ffd16f30",
-          "title": "China proposes export controls on AI technologies",
-          "link": "https://m.bjnews.com.cn/detail/1792137269129878.html",
-          "description": "Article URL: https://m.bjnews.com.cn/detail/1792137269129878.html Comments URL: https://news.ycombinator.com/item?id=50119804 Points: 3 # Comments: 4",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 15:42:43 +0000"
-        },
-        {
-          "id": "9317dd4851c0",
-          "title": "China Moves to Restrict Exports of Some Solar Technologies",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-16/china-moves-to-restrict-exports-of-some-solar-technologies",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-10-16/china-moves-to-restrict-exports-of-some-solar-technologies Comments URL: https://news.ycombinator.com/item?id=50119242 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 15:02:31 +0000"
-        },
-        {
-          "id": "a52aae681d39",
-          "title": "Western open-weight models still can't beat China",
-          "link": "https://restofworld.org/2026/china-open-weight-models/",
-          "description": "Article URL: https://restofworld.org/2026/china-open-weight-models/ Comments URL: https://news.ycombinator.com/item?id=50119240 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 15:02:23 +0000"
-        },
-        {
-          "id": "fb9eed3bf26a",
-          "title": "The China Rare Earth Minerals Strategy",
-          "link": "https://spectrum.ieee.org/china-rare-earth-minerals",
-          "description": "Article URL: https://spectrum.ieee.org/china-rare-earth-minerals Comments URL: https://news.ycombinator.com/item?id=50118163 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 13:29:44 +0000"
-        },
-        {
-          "id": "187d5455e593",
-          "title": "Can a Radioactive Ore Break China's Grip on Rare Earths?",
-          "link": "https://spectrum.ieee.org/monazite-rare-earth",
-          "description": "Article URL: https://spectrum.ieee.org/monazite-rare-earth Comments URL: https://news.ycombinator.com/item?id=50117817 Points: 5 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 12:56:59 +0000"
-        },
-        {
-          "id": "b5a2bf00e433",
-          "title": "How pro-China are Chinese models?",
-          "link": "https://www.vals.ai/blogs/china-us-analysis",
-          "description": "Article URL: https://www.vals.ai/blogs/china-us-analysis Comments URL: https://news.ycombinator.com/item?id=50116586 Points: 4 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 10:23:29 +0000"
-        },
-        {
-          "id": "24dab09831c1",
-          "title": "Tim Cook Says Apple Intelligence Approved in China, the Paper Reports",
-          "link": "https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/",
-          "description": "Article URL: https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50115269 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 16 Oct 2026 07:28:21 +0000"
-        },
-        {
-          "id": "fbbfcc8480f9",
-          "title": "China's Secret Nuclear Tests",
-          "link": "https://www.swp-berlin.org/10.18449/2026C31/",
-          "description": "Article URL: https://www.swp-berlin.org/10.18449/2026C31/ Comments URL: https://news.ycombinator.com/item?id=50111509 Points: 7 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 15 Oct 2026 22:53:40 +0000"
-        },
-        {
-          "id": "1cf4c76f909e",
-          "title": "Chasing China's Monazite Monopoly",
-          "link": "https://spectrum.ieee.org/china-rare-earth-minerals",
-          "description": "Article URL: https://spectrum.ieee.org/china-rare-earth-minerals Comments URL: https://news.ycombinator.com/item?id=50109520 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 15 Oct 2026 20:07:09 +0000"
-        },
-        {
-          "id": "11098e7fe356",
-          "title": "China solar giants shed another 40,000 jobs last year as overcapacity persists",
-          "link": "https://www.reuters.com/business/world-at-work/china-solar-giants-shed-another-40000-jobs-last-year-overcapacity-persists-2026-10-14/",
-          "description": "Article URL: https://www.reuters.com/business/world-at-work/china-solar-giants-shed-another-40000-jobs-last-year-overcapacity-persists-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50107347 Points: 4 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 15 Oct 2026 17:45:25 +0000"
-        },
-        {
-          "id": "c944fef113e1",
-          "title": "Has China lost 130M people?",
-          "link": "https://www.thetimes.com/world/asia/article/china-falling-population-130-million-nh6jbcftf",
-          "description": "Article URL: https://www.thetimes.com/world/asia/article/china-falling-population-130-million-nh6jbcftf Comments URL: https://news.ycombinator.com/item?id=50106123 Points: 8 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 15 Oct 2026 16:30:33 +0000"
-        },
-        {
-          "id": "9131c4fc7775",
-          "title": "EU negotiates sanction swap with China to rescue critical ASML supplier",
-          "link": "https://www.tomshardware.com/tech-industry/semiconductors/eu-negotiates-sanction-swap-with-china-to-rescue-critical-asml-supplier-german-coatings-firm-faces-shutdown-without-chinese-rare-earths",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/eu-negotiates-sanction-swap-with-china-to-rescue-critical-asml-supplier-german-coatings-firm-faces-shutdown-without-chinese-rare-earths Comments URL: https://news.ycombinator.com/item?id=50105588 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 15 Oct 2026 15:59:33 +0000"
-        },
-        {
-          "id": "1df029a8b7d8",
-          "title": "China is turning trash into treasure on a scale",
-          "link": "https://economist.com/china/2026/10/13/china-is-turning-trash-into-treasure-on-a-vast-scale",
-          "description": "Article URL: https://economist.com/china/2026/10/13/china-is-turning-trash-into-treasure-on-a-vast-scale Comments URL: https://news.ycombinator.com/item?id=50101982 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 15 Oct 2026 11:03:59 +0000"
-        },
-        {
-          "id": "e2e9f478e7f0",
-          "title": "China Has a Blueprint for the Future – 3D printing (additive manufacturing)",
-          "link": "https://www.newsweek.com/china-has-a-blueprint-for-the-future-12570833",
-          "description": "Article URL: https://www.newsweek.com/china-has-a-blueprint-for-the-future-12570833 Comments URL: https://news.ycombinator.com/item?id=50100103 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 15 Oct 2026 06:45:20 +0000"
-        },
-        {
-          "id": "e965f5b520ac",
-          "title": "SK Hynix conditions new US factory on more US chip equipment exports to China",
-          "link": "https://www.reuters.com/world/asia-pacific/sk-hynix-conditions-new-us-factory-more-us-chip-equipment-exports-china-sources-2026-10-15/",
-          "description": "Article URL: https://www.reuters.com/world/asia-pacific/sk-hynix-conditions-new-us-factory-more-us-chip-equipment-exports-china-sources-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50098326 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 15 Oct 2026 02:15:53 +0000"
-        },
-        {
-          "id": "a645a1023df4",
-          "title": "Nvidia's China AI-chip share falls to 34% as Huawei reaches 28%",
-          "link": "https://technode.com/2026/10/14/nvidias-china-ai-chip-share-falls-to-34-as-huawei-reaches-28/",
-          "description": "Article URL: https://technode.com/2026/10/14/nvidias-china-ai-chip-share-falls-to-34-as-huawei-reaches-28/ Comments URL: https://news.ycombinator.com/item?id=50096399 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 14 Oct 2026 22:30:47 +0000"
-        },
-        {
-          "id": "5e96b6810624",
-          "title": "China Starts Clinical Trial for New 128-Channel Implantable BCI",
-          "link": "https://chinaminutes.com/2026/05/19/china-128-channel-brain-computer-interface-trial/",
-          "description": "Article URL: https://chinaminutes.com/2026/05/19/china-128-channel-brain-computer-interface-trial/ Comments URL: https://news.ycombinator.com/item?id=50095178 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 14 Oct 2026 21:00:38 +0000"
-        },
-        {
-          "id": "21810dc61556",
-          "title": "A Reporter Returns to China to Find It Richer, but Also Highly Paranoid",
-          "link": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
-          "description": "Article URL: https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html Comments URL: https://news.ycombinator.com/item?id=50094758 Points: 4 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 14 Oct 2026 20:34:18 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 美国FCC计划禁止中国检测实验室，分析人士警告此举可能扰乱全球电子供应链并推高行业成本。\n2. 中国拟对AI技术、开放权重模型及芯片等实施出口管制，以国家安全为由限制相关技术出口，同时拟限制部分太阳能技术出口。\n3. 欧盟与中国就制裁交换进行谈判，以挽救关键的ASML供应商；与此同时，西方开放权重模型仍无法超越中国。\n\n今日最值得关注的发展是中国拟对AI及开放权重模型实施出口管制，这标志着技术出口监管的重大升级，可能对全球AI生态格局产生深远影响。",
-      "count": 30
+      "summary": "今日新闻联播动态摘要\n\n1. 美国联邦通信委员会（FCC）计划禁止中国检测实验室参与美国电子设备认证。\n2. 分析人士指出，该计划可能扰乱全球电子供应链。\n3. 此举预计将推高行业成本，影响范围波及全球电子产品制造商。\n\n最后一句话总结：美国拟禁止中国检测实验室参与FCC认证，分析人士警告此举将扰乱全球电子供应链并推高行业成本。",
+      "count": 1
     }
   }
 }
