@@ -1,0 +1,663 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T00:58:50.926212",
+  "categories": {
+    "tech": {
+      "articles": [
+        {
+          "id": "20a3a0241192",
+          "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+          "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+          "description": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 23:39:38 +0000"
+        },
+        {
+          "id": "90b1e6f90cca",
+          "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+          "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+          "description": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face&#8217;s chief policy officer, during a discussion at TechCrunch [&#8230;]",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 22:49:27 +0000"
+        },
+        {
+          "id": "ca2f761afe1b",
+          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+          "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+          "description": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 22:04:28 +0000"
+        },
+        {
+          "id": "c49e24cad150",
+          "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+          "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+          "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 20:09:24 +0000"
+        },
+        {
+          "id": "400aefd5dc10",
+          "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+          "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+          "description": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 19:28:34 +0000"
+        },
+        {
+          "id": "a041e3e8c8dd",
+          "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+          "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+          "description": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 19:00:12 +0000"
+        },
+        {
+          "id": "f3e9ba64e003",
+          "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+          "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+          "description": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 18:49:04 +0000"
+        },
+        {
+          "id": "a3fa2de74427",
+          "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+          "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "description": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 18:37:27 +0000"
+        },
+        {
+          "id": "c8e7558f2454",
+          "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+          "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+          "description": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 18:00:39 +0000"
+        },
+        {
+          "id": "b51657518232",
+          "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+          "link": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+          "description": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 17:39:51 +0000"
+        },
+        {
+          "id": "973dbc4056b2",
+          "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+          "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+          "description": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 16:55:56 +0000"
+        },
+        {
+          "id": "d62c62bf2849",
+          "title": "People are using AI to make their smart TVs dumb again",
+          "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+          "description": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 16:13:22 +0000"
+        },
+        {
+          "id": "c5451657ac1a",
+          "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+          "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+          "description": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 15:37:09 +0000"
+        },
+        {
+          "id": "86369c19484a",
+          "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+          "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+          "description": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 12:56:14 +0000"
+        },
+        {
+          "id": "7572681ce90e",
+          "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+          "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+          "description": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 12:42:55 +0000"
+        },
+        {
+          "id": "c7fb01b0b7d3",
+          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+          "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+          "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 12:30:00 +0000"
+        },
+        {
+          "id": "79960d0521b3",
+          "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+          "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+          "description": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 07:30:00 +0000"
+        },
+        {
+          "id": "942a9e5626e5",
+          "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+          "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+          "description": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 18 Oct 2026 21:00:00 +0000"
+        },
+        {
+          "id": "856799924bfd",
+          "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+          "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "description": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 18 Oct 2026 20:37:40 +0000"
+        },
+        {
+          "id": "53666d8c6f45",
+          "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+          "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+          "description": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 18 Oct 2026 19:03:38 +0000"
+        },
+        {
+          "id": "6a912b2e8c4f",
+          "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+          "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+          "description": "Congenital measles can be fatal, and survivors require monitoring for years.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 22:44:26 +0000"
+        },
+        {
+          "id": "4ee151302765",
+          "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+          "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+          "description": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 20:54:17 +0000"
+        },
+        {
+          "id": "c344cfadc4cc",
+          "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+          "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+          "description": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 20:21:53 +0000"
+        },
+        {
+          "id": "371b3b4ef2d8",
+          "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
+          "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+          "description": "One way to make batteries cleaner is to make fewer of them.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 20:03:55 +0000"
+        },
+        {
+          "id": "843cff3688b0",
+          "title": "PSA: Patch your Plex media server before someone hacks it",
+          "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+          "description": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 19:39:19 +0000"
+        },
+        {
+          "id": "eefc6945440c",
+          "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+          "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+          "description": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 19:27:24 +0000"
+        },
+        {
+          "id": "ac3fc9d41f7a",
+          "title": "ReactOS reaches major milestone with NTFS install support",
+          "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+          "description": "ReactOS gains NTFS install support with new driver.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 18:30:56 +0000"
+        },
+        {
+          "id": "c9cf821e851c",
+          "title": "AI game clones are making indie developers afraid to show their work",
+          "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+          "description": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 16:59:22 +0000"
+        },
+        {
+          "id": "c7e7ea4ca0c1",
+          "title": "Florida DMV hacked after police dept insecurely stored login info",
+          "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+          "description": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 16:38:13 +0000"
+        },
+        {
+          "id": "a70c57151289",
+          "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+          "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+          "description": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 14:45:43 +0000"
+        },
+        {
+          "id": "18e9d6cd62c5",
+          "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
+          "link": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
+          "description": "All the evidence points to the debris being part of a Chinese Zhuque-2E rocket.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 14:35:01 +0000"
+        },
+        {
+          "id": "43d582ef6448",
+          "title": "Review: Lanterns is a truly unique twist on the superhero genre",
+          "link": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
+          "description": "Gritty HBO series is a beacon for what's possible when one is allowed to get creative with the tropes.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 13:31:08 +0000"
+        },
+        {
+          "id": "4f9c4029b985",
+          "title": "DIY VR: How to build your own headset, and why you probably won't want to",
+          "link": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
+          "description": "A primer on the joys and pains of building your own head-mounted display.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 12:33:34 +0000"
+        },
+        {
+          "id": "f4de5564e6ac",
+          "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
+          "link": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
+          "description": "Tests showed Sceye’s high-flying platform can deliver connectivity in disasters.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 11:05:49 +0000"
+        },
+        {
+          "id": "147151c66d09",
+          "title": "Anthropic gives outside AI watchdog “employee-like” access",
+          "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+          "description": "The outside watchdog can publish its findings without Anthropic's approval.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sun, 18 Oct 2026 16:25:19 +0000"
+        },
+        {
+          "id": "d21417d29823",
+          "title": "Science says your boss should talk less in meetings",
+          "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+          "description": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sat, 17 Oct 2026 11:15:11 +0000"
+        },
+        {
+          "id": "827d30458e92",
+          "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+          "link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+          "description": "The single-player is just OK, but according to the players, that doesn't matter.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Sat, 17 Oct 2026 11:00:21 +0000"
+        },
+        {
+          "id": "997530ed536f",
+          "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
+          "link": "https://ipinfo.io/blog/france-fridges-hack",
+          "description": "Article URL: https://ipinfo.io/blog/france-fridges-hack Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 27 # Comments: 17",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Tue, 20 Oct 2026 00:00:49 +0000"
+        },
+        {
+          "id": "2266280ad160",
+          "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
+          "link": "https://openrouter.ai/rankings",
+          "description": "Article URL: https://openrouter.ai/rankings Comments URL: https://news.ycombinator.com/item?id=50159464 Points: 25 # Comments: 24",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 23:40:15 +0000"
+        },
+        {
+          "id": "bf3f02435224",
+          "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+          "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+          "description": "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned Comments URL: https://news.ycombinator.com/item?id=50159245 Points: 12 # Comments: 8",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Mon, 19 Oct 2026 23:08:52 +0000"
+        }
+      ],
+      "summary": "今日科技动态摘要\n\n1. AI算力与芯片竞争加剧：Nscale与Anthropic据报洽谈450亿美元算力协议；亚马逊推出TorchNeuron开发工具，加大对英伟达的挑战；Tenstorrent以62亿美元估值推进开放权重AI芯片；英伟达发布面向企业和PC的智能体开放模型。\n2. AI安全与信任问题突出：微软称AI智能体如同内部威胁，前沿模型不可信任；Hugging Face政策负责人表示嵌入式AI评估器并非简单解决方案；黑客攻击AI编程工具OpenCode，导致用户AI账户产生高额费用。\n3. AI创业与投资持续火热：AI伴侣应用Tolan获3000万美元融资；AI助手初创公司Town上线4个月即获独角兽估值；Replika创始人推出其12年前在Disrupt上提出的AI助手。\n4. 科技巨头能源与政策动向：亚马逊资助印第安纳州前煤电厂建设12座小型核反应堆；苹果更新审核指南，禁止伪装成普通应用的“脱衣”类应用；马斯克承诺向“美国每个孩子”赠送一股SpaceX股票。\n5. 消费与行业应用新趋势：用户正用AI让智能电视“变笨”；Rivian CEO称自动驾驶将催生“截然不同”的车辆设计。\n\n今日最值得关注的是AI算力军备竞赛与安全信任危机同步升级，行业在高速扩张中面临日益严峻的治理挑战。",
+      "count": 40
+    },
+    "ai": {
+      "articles": [
+        {
+          "id": "d40a0fbfd3ef",
+          "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "link": "https://huggingface.co/blog/hf-torchneuron",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Mon, 19 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "82ee18ef339c",
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Fri, 16 Oct 2026 01:44:47 GMT"
+        },
+        {
+          "id": "190f516908fb",
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "link": "https://huggingface.co/blog/reflection-beam",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Fri, 16 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "47daadd79646",
+          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Thu, 15 Oct 2026 20:34:01 GMT"
+        },
+        {
+          "id": "cd3937acf6fe",
+          "title": "Apertus 1.5 Release Notes",
+          "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Thu, 15 Oct 2026 09:08:45 GMT"
+        },
+        {
+          "id": "056b1af70103",
+          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "link": "https://huggingface.co/blog/meta-muse-spark-open",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Thu, 15 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "5bab10f2f09d",
+          "title": "Welcome FLUX.3 Image Klein in Diffusers",
+          "link": "https://huggingface.co/blog/flux-3",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Thu, 15 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "5e9c8aca0ada",
+          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Wed, 14 Oct 2026 16:12:42 GMT"
+        },
+        {
+          "id": "df875ad3b1e9",
+          "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 13 Oct 2026 17:05:48 GMT"
+        },
+        {
+          "id": "0766caa60b54",
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "description": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 13 Oct 2026 16:00:00 +0000"
+        },
+        {
+          "id": "9e085918289a",
+          "title": "Advancing coding in low‑resource programming languages",
+          "link": "https://openai.com/index/low-resource-programming-languages",
+          "description": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Mon, 19 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "d7f4dda174e9",
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "link": "https://openai.com/index/itau-generative-ai",
+          "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 16 Oct 2026 19:00:00 GMT"
+        },
+        {
+          "id": "6ba6d44068db",
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 16 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "49963711d540",
+          "title": "Benefit Street Partners answers questions faster with Codex",
+          "link": "https://openai.com/index/benefit-street-partners",
+          "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 16 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "d4db257fcf81",
+          "title": "Bringing GPT-Rosalind to academic research labs",
+          "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 15 Oct 2026 19:00:00 GMT"
+        },
+        {
+          "id": "da7f8b1d7183",
+          "title": "Teaching students to think and learn through questions",
+          "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "description": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 15 Oct 2026 13:00:00 GMT"
+        },
+        {
+          "id": "b96006d9788c",
+          "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+          "link": "https://openai.com/index/sullivan-cromwell",
+          "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 15 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "6b056a8c4f3e",
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "link": "https://openai.com/index/amp-beyond-coding",
+          "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 14 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "40df79f07b1b",
+          "title": "SentinelOne cuts malware analysis from weeks to hours",
+          "link": "https://openai.com/index/sentinelone",
+          "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 14 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "3457b5d8b791",
+          "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "link": "https://openai.com/index/third-moment-research",
+          "description": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 14 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "cae6c69ad8fa",
+          "title": "How Block is building AI-powered security with OpenAI technology",
+          "link": "https://openai.com/index/block-ai-powered-security",
+          "description": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 14 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "3c25b5b9474e",
+          "title": "The EU’s next chapter in AI is agentic",
+          "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Wed, 14 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "b4c456b96952",
+          "title": "Higgsfield takes AI video from 1 minute to over 10",
+          "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "description": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 13 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "bff6796662b3",
+          "title": "Lobster moderator's updates to site guidelines and AI/LLM tags",
+          "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+          "description": "Article URL: https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags Comments URL: https://news.ycombinator.com/item?id=50156116 Points: 1 # Comments: 0",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Mon, 19 Oct 2026 18:34:37 +0000"
+        },
+        {
+          "id": "c62eb052742d",
+          "title": "Linux Kernel Developers Plan to Remove \"Assisted-By\" Tag Requirement for AI/LLM",
+          "link": "https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req",
+          "description": "Article URL: https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req Comments URL: https://news.ycombinator.com/item?id=50072133 Points: 5 # Comments: 1",
+          "source": "HN-AI",
+          "category": "ai",
+          "pub_date": "Tue, 13 Oct 2026 14:15:04 +0000"
+        },
+        {
+          "id": "4200bc6292f7",
+          "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+          "link": "https://www.qbitai.com/2026/10/504136.html",
+          "description": "让人人都能自由创造并体验可交互世界",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sun, 18 Oct 2026 11:49:49 +0000"
+        },
+        {
+          "id": "40c812cd4006",
+          "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+          "link": "https://www.qbitai.com/2026/10/504067.html",
+          "description": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 17 Oct 2026 12:21:09 +0000"
+        },
+        {
+          "id": "70b794dcd9b5",
+          "title": "智谱新模型，懂法方面全球第一了",
+          "link": "https://www.qbitai.com/2026/10/503965.html",
+          "description": "AI的风还是刮到了法律圈",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 17 Oct 2026 12:13:45 +0000"
+        },
+        {
+          "id": "c289ff906515",
+          "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+          "link": "https://www.qbitai.com/2026/10/503935.html",
+          "description": "整套系统原生支持MCP",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 17 Oct 2026 12:10:35 +0000"
+        },
+        {
+          "id": "415eb9a725ba",
+          "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+          "link": "https://www.qbitai.com/2026/10/503910.html",
+          "description": "谜底指向时间",
+          "source": "量子位",
+          "category": "ai",
+          "pub_date": "Sat, 17 Oct 2026 12:06:51 +0000"
+        }
+      ],
+      "summary": "今日AI动态摘要\n\n1. Hugging Face 生态持续扩张：推出 TorchNeuron 简化在 AWS Trainium 上运行 HF 模型，发布 501B 开放模型 Beam 和 Meta 的开放权重多模态 MoE 模型 Muse Spark Open，并更新 Granite Switch 4.1、Apertus 1.5、FLUX.3 Image Klein 等模型。\n\n2. 模型能力与效率双提升：Google 发布 Gemini 4 Argon 主打解决最难题，Hugging Face 推出可在设备端运行的私密智能体模型 LFM2.5-24B-A2B，以及低成本 3 公里分辨率极端天气模拟方案 HiRO-ACEv2。\n\n3. 预训练与行业应用并进：Hugging Face 发布 2.8 万亿 token 的 Indic 预训练数据生成管线；OpenAI 侧重点包括低资源编程语言编码能力、Itaú 面向全客户群的生成式 AI 落地、Stack Overflow for Agents 注册量三倍增长、Codex 加速企业问答，以及将 GPT-Rosalind 引入学术研究实验室。\n\n今日最值得关注的是开放权重模型（Beam、Muse Spark Open）与高效端侧/低成本方案同步推进，显示 AI 能力正加速从云端前沿向可拥有、可定制的开放生态扩散。",
+      "count": 30
+    },
+    "cctv": {
+      "articles": [
+        {
+          "id": "03dbe51036f9",
+          "title": "US FCC plan to bar Chinese testing labs could disrupt global electronics supply chains, raise industry costs: analysts",
+          "link": "https://www.globaltimes.cn/page/202610/1371820.shtml",
+          "description": "",
+          "source": "Global Times",
+          "category": "cctv",
+          "pub_date": "Fri, 09 Oct 2026 14:14:28 GMT"
+        }
+      ],
+      "summary": "今日新闻联播动态摘要\n\n1. 美国联邦通信委员会（FCC）计划禁止中国检测实验室参与美国电子设备认证。\n2. 分析人士指出，该计划可能扰乱全球电子产品供应链。\n3. 此举预计将推高行业成本，影响相关企业运营。\n\n今日最值得关注的是美国FCC拟禁止中国检测实验室，此举可能对全球电子供应链和行业成本产生连锁影响。",
+      "count": 1
+    }
+  }
+}
