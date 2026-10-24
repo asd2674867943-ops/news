@@ -1,9 +1,72 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-24T00:24:17.123213",
+  "generated_at": "2026-10-24T17:14:43.572284",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "c732e6838ca8",
+          "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+          "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "description": "Instacart might sell itself to a larger competitor.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 24 Oct 2026 16:30:00 +0000"
+        },
+        {
+          "id": "61ea5c601fe7",
+          "title": "Block’s new voice model sounds eerily human",
+          "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "description": "Block said that the voice model can run locally on a MacBook M4 Max",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 24 Oct 2026 16:00:00 +0000"
+        },
+        {
+          "id": "4daa3718f013",
+          "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+          "link": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+          "description": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 24 Oct 2026 15:30:00 +0000"
+        },
+        {
+          "id": "fcc0d4e68956",
+          "title": "These clever apps show off the iPhone Duo’s potential",
+          "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "description": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 24 Oct 2026 15:00:00 +0000"
+        },
+        {
+          "id": "ea19a41aae0d",
+          "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+          "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+          "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 24 Oct 2026 15:00:00 +0000"
+        },
+        {
+          "id": "ae2c366ee507",
+          "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+          "link": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+          "description": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 24 Oct 2026 14:15:00 +0000"
+        },
+        {
+          "id": "646780a825bd",
+          "title": "Here are the top AI agents that can live in your text messages",
+          "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 24 Oct 2026 14:00:00 +0000"
+        },
         {
           "id": "0af828f9afcd",
           "title": "Startups don’t need to go viral to win customers",
@@ -113,67 +176,13 @@
           "pub_date": "Fri, 23 Oct 2026 04:00:00 +0000"
         },
         {
-          "id": "95627e96aa69",
-          "title": "Left alone with nothing to do, AI agents started playing",
-          "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-          "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-          "source": "TechCrunch",
+          "id": "d0aadf9a6d61",
+          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+          "description": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Fri, 23 Oct 2026 00:45:37 +0000"
-        },
-        {
-          "id": "c46496e16d7b",
-          "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-          "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-          "description": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 22 Oct 2026 23:50:41 +0000"
-        },
-        {
-          "id": "d17fdfb76096",
-          "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-          "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-          "description": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 22 Oct 2026 23:15:00 +0000"
-        },
-        {
-          "id": "21ffa6e087f0",
-          "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-          "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-          "description": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 22 Oct 2026 22:34:54 +0000"
-        },
-        {
-          "id": "7facadd0b436",
-          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-          "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-          "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 22 Oct 2026 22:08:24 +0000"
-        },
-        {
-          "id": "2751b27b3301",
-          "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-          "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-          "description": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 22 Oct 2026 21:05:05 +0000"
-        },
-        {
-          "id": "efcef2219115",
-          "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
-          "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
-          "description": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 22 Oct 2026 20:01:51 +0000"
+          "pub_date": "Sat, 24 Oct 2026 11:50:28 +0000"
         },
         {
           "id": "59e88f50d0fb",
@@ -338,34 +347,25 @@
           "pub_date": "Thu, 22 Oct 2026 21:07:09 +0000"
         },
         {
-          "id": "4c3a93ac21e2",
-          "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-          "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-          "description": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 22 Oct 2026 20:17:52 +0000"
-        },
-        {
-          "id": "f0501564e89d",
-          "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
-          "link": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
-          "description": "We can't have nice things, but at least we can get trailers for them.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 22 Oct 2026 19:59:37 +0000"
-        },
-        {
-          "id": "d3504e4f3edd",
-          "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-          "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-          "description": "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8 Comments URL: https://news.ycombinator.com/item?id=50216791 Points: 13 # Comments: 3",
+          "id": "8d1a47f3a297",
+          "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+          "link": "https://de.numista.com/9866",
+          "description": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 13 # Comments: 0",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Fri, 23 Oct 2026 23:30:17 +0000"
+          "pub_date": "Sat, 24 Oct 2026 16:41:55 +0000"
+        },
+        {
+          "id": "d78bb219f70c",
+          "title": "Roku developer repositories moved from GitHub to GitLab",
+          "link": "https://blog.roku.com/developer/gitlab-move",
+          "description": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 75 # Comments: 31",
+          "source": "Hacker News",
+          "category": "tech",
+          "pub_date": "Sat, 24 Oct 2026 16:06:26 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. OpenAI宣布不再使用实时互联网数据训练AI模型，称存在“重大风险”，引发对AI数据合规与安全的新一轮关注。\n2. 代理云初创公司Daytona估值达10亿美元，获FirstMark及众多天使投资人支持；联邦融合系统公司获8500万美元，用于研发聚变专用半导体。\n3. 实验室检测巨头Quest Diagnostics证实患者个人及健康数据在数据泄露事件中遭泄露；Oura再次起诉竞争对手Ultrahuman，威胁其美国智能戒指市场回归。\n4. Carta与NewView合作，希望吸引更多初创公司允许员工提前出售股份；inDrive计划2027年与Pony AI和Nvidia在中亚进行Robotaxi测试。\n5. Warhound融资2亿美元，研发“战争犬”并配备Anduril装备；TechCrunch Founder Summit 2026公布演讲嘉宾及圆桌议题，聚焦创始人当前面临的挑战。\n\n今日最值得关注的是OpenAI停止使用实时互联网数据训练模型的决定，这可能对整个AI行业的数据策略与安全标准产生深远影响。",
+      "summary": "今日科技动态摘要\n\n1. AI安全与监管动态：OpenAI宣布因“重大风险”停止用实时互联网数据训练AI模型；同时有研究显示Grok倾向共和党、OpenAI模型倾向民主党，引发对AI政治偏见的关注。\n2. 科技巨头与创业公司动向：Instacart据报与DoorDash和Uber讨论出售事宜；Block推出逼真度极高的新语音模型；Agent云创业公司Daytona获FirstMark等投资，估值达10亿美元。\n3. 开发者与产品趋势：两起严重Web漏洞（“PHP-ocalypse”）险些瘫痪互联网；多款应用展示iPhone Duo潜力；短信内AI代理应用兴起；创业公司无需病毒式传播也能获客。\n4. 融资与活动：Commonwealth Fusion Systems获8500万美元研发聚变专用半导体；Carta与NewView合作推动员工提前售股；TechCrunch Founder Summit 2026公布演讲嘉宾与圆桌议题。\n\n今日最值得关注的是OpenAI因安全风险停止用实时互联网数据训练模型，这标志着AI训练数据策略的重大转向。",
       "count": 40
     },
     "ai": {
@@ -641,275 +641,13 @@
           "pub_date": "Tue, 20 Oct 2026 07:00:00 GMT"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **Hugging Face 生态扩展硬件与部署能力**：推出 TorchNeuron 简化 AWS Trainium 上的模型运行，并发布 TorchTPU 实现 TPU 原生支持；同时上线模型兼容性查询工具，方便开发者确认模型是否可在 Trainium 上运行。\n2. **模型效率与推理优化成焦点**：研究表明 specialized vocabulary 可让 SLM 推理成本降低 77%；Granite Speech 5.0 在转录、翻译和归属准确性及速度上均有提升；IBM Granite 时序模型支持集成预测。\n3. **训练与评测方法创新**：ThinkingBox 将数据库评分转化为 RL 奖励用于后训练智能体；NVIDIA Kumo 关系型模型无需训练即可在关系数据上超越监督学习；LitPivot 通过文献动态情境化辅助科研选题。\n4. **平台与基础设施动态**：OpenAI 披露支撑超 10 亿 ChatGPT 用户的在线存储扩展方案，并介绍前沿模型训练环境的安全防护；Apple 平台本地模型 AnyLanguageModel 迎来 1.0；PyTorch 2.15 支持 MPS。\n5. **区域市场数据**：东南亚数字经济规模预计达 3680 亿美元。\n\n今日最值得关注的是 Hugging Face 在异构硬件（Trainium/TPU）上的工具链密集落地，以及推理成本优化研究取得的显著突破，这预示着模型部署效率与硬件多样性正成为下一阶段竞争重点。",
+      "summary": "今日AI动态摘要\n\n1. **AWS Trainium生态持续完善**：Hugging Face推出TorchNeuron工具链，让HF模型在AWS Trainium上运行更简单，并发布系统级性能分析指南；同时上线模型兼容性查询功能，方便开发者确认模型是否支持Trainium。\n2. **模型效率与推理成本优化**：研究表明，针对小型语言模型（SLM）专业化词表可在真实应用中降低77%推理成本；IBM Granite时序模型支持集成 forecasting；NVIDIA Kumo Relational无需训练即可在关系数据上超越监督机器学习。\n3. **语音与多模态能力升级**：Granite Speech 5.0发布，转录、翻译和属性标注更准确、更快速；AnyLanguageModel 1.0总结苹果平台本地模型一年进展；PyTorch 2.15原生支持MPS，Hugging Face原生支持TorchTPU。\n4. **AI代理训练新方法**：ThinkingBox提出将数据库评分转化为强化学习奖励，用于后训练代理；LitPivot通过文献动态情境化辅助研究思路生成。\n5. **基础设施与安全并进**：OpenAI分享支撑10亿ChatGPT用户的在线存储扩展实践（第二部分），并介绍前沿模型训练环境的安全保障措施；东南亚数字经济预计达3680亿美元。\n\n今日最值得关注的是AWS Trainium与TPU等专用AI芯片的软件生态加速成熟，模型跨平台部署门槛显著降低。",
       "count": 30
     },
     "cctv": {
-      "articles": [
-        {
-          "id": "308aa772dd1d",
-          "title": "Biggest Fails from the 2026 World Humanoid Robot Games in China [video]",
-          "link": "https://www.youtube.com/watch?v=XgnBN8BLc-o",
-          "description": "Article URL: https://www.youtube.com/watch?v=XgnBN8BLc-o Comments URL: https://news.ycombinator.com/item?id=50215485 Points: 2 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 23 Oct 2026 21:18:33 +0000"
-        },
-        {
-          "id": "d504295f3bae",
-          "title": "China's first AI-generated feature film to hit cinemas on Friday",
-          "link": "https://www.globaltimes.cn/page/202610/1372724.shtml",
-          "description": "Article URL: https://www.globaltimes.cn/page/202610/1372724.shtml Comments URL: https://news.ycombinator.com/item?id=50212366 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 23 Oct 2026 17:18:03 +0000"
-        },
-        {
-          "id": "3b165433007e",
-          "title": "TSMC seeks factory-equipment alternatives to thwart China's rare earths grip",
-          "link": "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
-          "description": "Article URL: https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/ Comments URL: https://news.ycombinator.com/item?id=50206171 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 23 Oct 2026 08:55:03 +0000"
-        },
-        {
-          "id": "c76176807ed8",
-          "title": "China offered European Commission to join its AI alliance",
-          "link": "https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/",
-          "description": "Article URL: https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/ Comments URL: https://news.ycombinator.com/item?id=50205972 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 23 Oct 2026 08:28:11 +0000"
-        },
-        {
-          "id": "860da0b61a12",
-          "title": "As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There",
-          "link": "https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/",
-          "description": "Article URL: https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/ Comments URL: https://news.ycombinator.com/item?id=50199998 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 22 Oct 2026 19:38:15 +0000"
-        },
-        {
-          "id": "853597223c7c",
-          "title": "China's Next-Generation Industrial Policy",
-          "link": "https://rhg.com/research/chinas-next-generation-industrial-policy/",
-          "description": "Article URL: https://rhg.com/research/chinas-next-generation-industrial-policy/ Comments URL: https://news.ycombinator.com/item?id=50196328 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 22 Oct 2026 14:58:50 +0000"
-        },
-        {
-          "id": "0665c9e540d5",
-          "title": "China Moves to Lock Its Own Top AI and Chip Designs Behind Export Controls",
-          "link": "https://techpresso.co/blog/china-ai-export-controls-models-chip-designs",
-          "description": "Article URL: https://techpresso.co/blog/china-ai-export-controls-models-chip-designs Comments URL: https://news.ycombinator.com/item?id=50194242 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 22 Oct 2026 12:11:06 +0000"
-        },
-        {
-          "id": "a082ebda6012",
-          "title": "What's left for us after AI? China's thinkers have different answers",
-          "link": "https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas",
-          "description": "Article URL: https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas Comments URL: https://news.ycombinator.com/item?id=50178773 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 21 Oct 2026 10:49:39 +0000"
-        },
-        {
-          "id": "1f24ef69768b",
-          "title": "In Race with U.S., China Struggles to Recruit Foreign A.I. Researchers",
-          "link": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
-          "description": "Article URL: https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html Comments URL: https://news.ycombinator.com/item?id=50176896 Points: 4 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 21 Oct 2026 06:41:01 +0000"
-        },
-        {
-          "id": "feb0f3157f99",
-          "title": "China's Smartphone Makers Turn to Recycled DRAM Chips Amid Memory Shortage",
-          "link": "https://biz.chosun.com/it-science/ict/2026/10/20/ITRDSCOXPJD4PF2C6UYUKMAFQQ/",
-          "description": "Article URL: https://biz.chosun.com/it-science/ict/2026/10/20/ITRDSCOXPJD4PF2C6UYUKMAFQQ/ Comments URL: https://news.ycombinator.com/item?id=50176046 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Wed, 21 Oct 2026 04:20:33 +0000"
-        },
-        {
-          "id": "ceb039cee619",
-          "title": "2,200-Year-Old Fingerprints Reveal Who Built China's Mysterious Terracotta Army",
-          "link": "https://www.sciencealert.com/2200-year-old-fingerprints-reveal-who-really-built-chinas-mysterious-terracotta-army",
-          "description": "Article URL: https://www.sciencealert.com/2200-year-old-fingerprints-reveal-who-really-built-chinas-mysterious-terracotta-army Comments URL: https://news.ycombinator.com/item?id=50173940 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 20 Oct 2026 23:09:12 +0000"
-        },
-        {
-          "id": "f3941c29e95f",
-          "title": "Anyone else seeing bots from China scraping HF decodes off their public SDR?",
-          "link": "https://www.reddit.com/r/amateurradio/comments/1xaidwx/anyone_else_seeing_bots_from_china_scraping_hf/",
-          "description": "Article URL: https://www.reddit.com/r/amateurradio/comments/1xaidwx/anyone_else_seeing_bots_from_china_scraping_hf/ Comments URL: https://news.ycombinator.com/item?id=50173216 Points: 2 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 20 Oct 2026 21:53:58 +0000"
-        },
-        {
-          "id": "ded87da73f79",
-          "title": "US bans DeepSeek from federal agencies, prompting angry response from China",
-          "link": "https://www.techspot.com/news/114269-us-bans-deepseek-ai-tools-built-models-federal.html",
-          "description": "Article URL: https://www.techspot.com/news/114269-us-bans-deepseek-ai-tools-built-models-federal.html Comments URL: https://news.ycombinator.com/item?id=50172376 Points: 6 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 20 Oct 2026 20:40:31 +0000"
-        },
-        {
-          "id": "afb7e0094537",
-          "title": "China mulls policies to accelerate smart manufacturing",
-          "link": "https://english.www.gov.cn/news/202610/20/content_WS6ad76e83c6d00ca5f9a0dda6.html",
-          "description": "Article URL: https://english.www.gov.cn/news/202610/20/content_WS6ad76e83c6d00ca5f9a0dda6.html Comments URL: https://news.ycombinator.com/item?id=50171074 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 20 Oct 2026 19:02:56 +0000"
-        },
-        {
-          "id": "4ac433cce1c9",
-          "title": "Who is Yuki Chen, China's 'superstar' hacker who just joined AI leader Z.ai?",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3371530/who-yuki-chen-chinas-superstar-hacker-who-just-joined-ai-leader-zai",
-          "description": "Article URL: https://www.scmp.com/tech/tech-trends/article/3371530/who-yuki-chen-chinas-superstar-hacker-who-just-joined-ai-leader-zai Comments URL: https://news.ycombinator.com/item?id=50169544 Points: 7 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 20 Oct 2026 17:13:36 +0000"
-        },
-        {
-          "id": "b847f3bad683",
-          "title": "A dispatch from China's most fashionable city",
-          "link": "https://www.cnn.com/2026/10/20/style/shanghai-fashion-week-china-designers-art",
-          "description": "Article URL: https://www.cnn.com/2026/10/20/style/shanghai-fashion-week-china-designers-art Comments URL: https://news.ycombinator.com/item?id=50169538 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 20 Oct 2026 17:13:05 +0000"
-        },
-        {
-          "id": "5cab601e947e",
-          "title": "Apple Intelligence to enter China beta testing this month, Tim Cook confirms",
-          "link": "https://technode.com/2026/10/16/apple-intelligence-to-enter-china-beta-testing-this-month-tim-cook-confirms/",
-          "description": "Article URL: https://technode.com/2026/10/16/apple-intelligence-to-enter-china-beta-testing-this-month-tim-cook-confirms/ Comments URL: https://news.ycombinator.com/item?id=50169113 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 20 Oct 2026 16:44:44 +0000"
-        },
-        {
-          "id": "f648302253e2",
-          "title": "China's DeepSeek deep-sixed at all US federal civilian agencies",
-          "link": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
-          "description": "Article URL: https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010 Comments URL: https://news.ycombinator.com/item?id=50163472 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 20 Oct 2026 09:31:24 +0000"
-        },
-        {
-          "id": "4c419b59920f",
-          "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-          "link": "https://www.bbc.com/news/articles/cjkgeq0k1wevo",
-          "description": "Article URL: https://www.bbc.com/news/articles/cjkgeq0k1wevo Comments URL: https://news.ycombinator.com/item?id=50159597 Points: 4 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 19 Oct 2026 23:58:34 +0000"
-        },
-        {
-          "id": "19e72623e067",
-          "title": "What China Gets About AI That America Doesn't [video]",
-          "link": "https://www.youtube.com/watch?v=iorTxXfBlMQ",
-          "description": "Article URL: https://www.youtube.com/watch?v=iorTxXfBlMQ Comments URL: https://news.ycombinator.com/item?id=50152781 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 19 Oct 2026 14:13:37 +0000"
-        },
-        {
-          "id": "a5f2a7b68619",
-          "title": "China Plans to Tighten Export Controls on AI Technologies",
-          "link": "https://wallhop.io/https://www.theepochtimes.com//china/china-plans-to-tighten-export-controls-on-ai-technologies-6104786",
-          "description": "Article URL: https://wallhop.io/https://www.theepochtimes.com//china/china-plans-to-tighten-export-controls-on-ai-technologies-6104786 Comments URL: https://news.ycombinator.com/item?id=50148119 Points: 5 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 19 Oct 2026 03:42:00 +0000"
-        },
-        {
-          "id": "ac42f5ad89d7",
-          "title": "Eight-Dimension Audit for AI Governance: Anthropic, EU, China, UK",
-          "link": "https://sergemso.substack.com/p/ai-governance-eight-dimension-audit",
-          "description": "Article URL: https://sergemso.substack.com/p/ai-governance-eight-dimension-audit Comments URL: https://news.ycombinator.com/item?id=50146229 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 18 Oct 2026 22:40:23 +0000"
-        },
-        {
-          "id": "9131c4fc7775",
-          "title": "EU negotiates sanction swap with China to rescue critical ASML supplier",
-          "link": "https://www.tomshardware.com/tech-industry/semiconductors/eu-negotiates-sanction-swap-with-china-to-rescue-critical-asml-supplier-german-coatings-firm-faces-shutdown-without-chinese-rare-earths",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/eu-negotiates-sanction-swap-with-china-to-rescue-critical-asml-supplier-german-coatings-firm-faces-shutdown-without-chinese-rare-earths Comments URL: https://news.ycombinator.com/item?id=50142667 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 18 Oct 2026 16:41:13 +0000"
-        },
-        {
-          "id": "a57144ecdeb3",
-          "title": "China proposes export controls on its advanced AI models and chip designs",
-          "link": "https://thenextweb.com/news/china-ai-export-controls-draft",
-          "description": "Article URL: https://thenextweb.com/news/china-ai-export-controls-draft Comments URL: https://news.ycombinator.com/item?id=50139587 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 18 Oct 2026 10:01:06 +0000"
-        },
-        {
-          "id": "1f5e6617233e",
-          "title": "China startup demoes prototype EUV light source, still years away from viability",
-          "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability Comments URL: https://news.ycombinator.com/item?id=50138285 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 18 Oct 2026 05:54:56 +0000"
-        },
-        {
-          "id": "71cf090aaba6",
-          "title": "EU negotiates sanctions swap with China to rescue critical ASML supplier",
-          "link": "https://www.tomshardware.com/tech-industry/semiconductors/eu-negotiates-sanction-swap-with-china-to-rescue-critical-asml-supplier-german-coatings-firm-faces-shutdown-without-chinese-rare-earths",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/eu-negotiates-sanction-swap-with-china-to-rescue-critical-asml-supplier-german-coatings-firm-faces-shutdown-without-chinese-rare-earths Comments URL: https://news.ycombinator.com/item?id=50128597 Points: 11 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 17 Oct 2026 06:49:52 +0000"
-        },
-        {
-          "id": "752b34f703d9",
-          "title": "Mapping the China AI Ecosystem with Rui Ma [video]",
-          "link": "https://www.youtube.com/watch?v=-RDpqweadlE",
-          "description": "Article URL: https://www.youtube.com/watch?v=-RDpqweadlE Comments URL: https://news.ycombinator.com/item?id=50128261 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 17 Oct 2026 05:35:59 +0000"
-        },
-        {
-          "id": "cc2be7feaba7",
-          "title": "China to Restrict Open-Weights Model Exports",
-          "link": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
-          "description": "Article URL: https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/ Comments URL: https://news.ycombinator.com/item?id=50127369 Points: 13 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 17 Oct 2026 02:41:30 +0000"
-        },
-        {
-          "id": "9646a81e6b31",
-          "title": "China is second only to the U.S. in healthcare costs as a percentage of income",
-          "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-          "description": "Article URL: https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html Comments URL: https://news.ycombinator.com/item?id=50127167 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 17 Oct 2026 02:05:09 +0000"
-        }
-      ],
-      "summary": "今日新闻联播动态摘要\n\n1. 中国人工智能与芯片领域动作频频：中国推动将顶尖AI和芯片设计纳入出口管制，同时向欧盟提议加入其AI联盟；美国则禁止联邦机构使用DeepSeek，引发中方强烈回应。\n2. 科技产业自主与转型加速：台积电寻求设备替代方案以应对中国稀土管控，中国智能手机厂商在存储短缺下转向回收DRAM芯片，中国还酝酿政策加速智能制造。\n3. 文化与前沿探索亮点：中国首部AI生成剧情长片将于周五上映，人形机器人运动会出现多项失误引发关注；考古发现2200年前指纹揭示兵马俑建造者身份。\n\n今日最值得关注的是中国在AI与芯片领域 simultaneous 推进出口管制与国际合作（对欧AI联盟邀约），同时面临美国对DeepSeek的禁令，科技博弈双向升级。",
-      "count": 29
+      "articles": [],
+      "summary": "今日暂无相关新闻。",
+      "count": 0
     }
   }
 }
