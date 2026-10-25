@@ -1,9 +1,36 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T00:07:51.826857",
+  "generated_at": "2026-10-25T17:27:36.370908",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "abf3f5fe9131",
+          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 25 Oct 2026 16:57:32 +0000"
+        },
+        {
+          "id": "eb20ad7f591d",
+          "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+          "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+          "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 25 Oct 2026 16:05:00 +0000"
+        },
+        {
+          "id": "c8d714d08158",
+          "title": "The hottest AI wearables and gadgets you should know about",
+          "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+          "description": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 25 Oct 2026 14:10:00 +0000"
+        },
         {
           "id": "4085f57951e9",
           "title": "Starlink seems to be working normally again in Ukraine",
@@ -147,33 +174,6 @@
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Fri, 23 Oct 2026 19:06:23 +0000"
-        },
-        {
-          "id": "2cf383253c83",
-          "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-          "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-          "description": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 23 Oct 2026 16:26:29 +0000"
-        },
-        {
-          "id": "20a2fb6232cf",
-          "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-          "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-          "description": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 23 Oct 2026 16:20:28 +0000"
-        },
-        {
-          "id": "c48a19e35444",
-          "title": "What some of Anthropic’s backers are worth before its IPO",
-          "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-          "description": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 23 Oct 2026 16:02:43 +0000"
         },
         {
           "id": "d0aadf9a6d61",
@@ -347,25 +347,25 @@
           "pub_date": "Thu, 22 Oct 2026 21:07:09 +0000"
         },
         {
-          "id": "288de579cc7b",
-          "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
-          "link": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
-          "description": "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/ Comments URL: https://news.ycombinator.com/item?id=50226434 Points: 9 # Comments: 0",
+          "id": "3020750ccee1",
+          "title": "A Mathematician Reads the AI Future",
+          "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+          "description": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 18 # Comments: 3",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 24 Oct 2026 23:14:30 +0000"
+          "pub_date": "Sun, 25 Oct 2026 16:31:21 +0000"
         },
         {
-          "id": "ebb0b064d07a",
-          "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-          "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "description": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 20 # Comments: 11",
+          "id": "f1f777631662",
+          "title": "Anthropic Wanted to Replace Engineers. Instead, They Shot Their Own Customers",
+          "link": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+          "description": "Article URL: https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace Comments URL: https://news.ycombinator.com/item?id=50232682 Points: 29 # Comments: 14",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Sat, 24 Oct 2026 23:11:54 +0000"
+          "pub_date": "Sun, 25 Oct 2026 15:34:44 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **AI与互联网基础设施风险**：OpenAI宣布不再用实时互联网数据训练AI模型， citing“重大风险”；同时有分析指出AI可能暴露互联网脆弱的基础设施，而两个关键Web漏洞（PHP相关）险些导致互联网大面积瘫痪。\n2. **AI模型政治倾向与产品失败案例**：测试显示Grok的AI模型倾向共和党，OpenAI的模型倾向民主党；另有“AI坟场”清单盘点未能存活的AI项目和初创公司。\n3. **科技公司并购与产品动态**：Instacart据报与DoorDash和Uber讨论出售自身；Block推出听起来像真人的新语音模型；Starlink在乌克兰恢复正常运行。\n4. **创业与硬件应用**：初创公司无需病毒式传播也能赢得客户；Boox Palma 2 Pro让用户不再用手机阅读；多款应用展示iPhone Duo潜力；AI代理可嵌入短信场景。\n\n今日最值得关注的是OpenAI因“重大风险”停止用实时互联网数据训练模型，这可能对AI行业的数据策略和互联网生态产生深远影响。",
+      "summary": "今日科技动态摘要\n\n1. AI商业化困境显现：Apollo经济学家指出，AI对大多数企业“零财务回报”，同时AI项目“坟场”名单持续增加，OpenAI也宣布因“重大风险”不再用实时互联网数据训练模型。\n2. 互联网基础设施隐忧：两起关键Web漏洞（“PHP末日”）险些击穿互联网，业界开始质疑AI是否会进一步暴露互联网脆弱的基础设施。\n3. AI阵营化与硬件新动向：Grok模型倾向共和党、OpenAI倾向民主党引发AI政治偏向讨论；Block发布逼真人声模型，AI可穿戴设备与短信AI代理成为新热点。\n4. 商业与地缘动态：Instacart被曝与DoorDash、Uber讨论出售；Starlink在乌克兰恢复正常运行；初创企业未必需要病毒式传播才能获客。\n\n今日最值得关注的是AI从“万能叙事”转向现实检验——企业回报乏力、模型政治偏向争议与基础设施风险同时浮出水面。",
       "count": 40
     },
     "ai": {
@@ -641,11 +641,20 @@
           "pub_date": "Tue, 20 Oct 2026 07:00:00 GMT"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **AWS Trainium生态持续完善**：Hugging Face发布TorchNeuron工具链，让HF模型在AWS Trainium上运行更简单，并推出系统级性能分析指南；同时上线模型兼容性查询功能，方便开发者确认模型是否支持Trainium。\n2. **模型效率与推理优化取得进展**：通过专门化小语言模型（SLM）的词表，在实际应用中将推理成本降低77%；IBM Granite时序模型支持集成预测；NVIDIA Kumo Relational无需训练即可在关系数据上超越监督学习。\n3. **语音与多模态能力升级**：Granite Speech 5.0在转录、翻译和属性标注上更准确、更快速；Hugging Face原生支持TorchTPU，推动TPU生态融合。\n4. **AI代理训练与科研辅助新方法**：ThinkingBox提出将数据库评分转化为强化学习奖励的代理后训练方法；LitPivot支持在文献全景中动态情境化以激发研究想法。\n5. **平台与基础设施动态**：Apple平台本地模型AnyLanguageModel迎来1.0版本；PyTorch 2.15支持MPS；OpenAI披露支撑10亿ChatGPT用户的在线存储扩展方案及前沿模型训练环境安全措施；东南亚数字经济规模预计达3680亿美元。\n\n今日最值得关注的是小模型词表专门化带来的77%推理成本下降，这为实际部署中的降本增效提供了可直接借鉴的路径。",
+      "summary": "今日AI动态摘要\n\n1. **模型部署与硬件适配工具链持续完善**：Hugging Face推出TorchNeuron，让在AWS Trainium上运行HF模型更简单，并提供系统级性能分析工具；同时宣布原生支持TorchTPU，PyTorch 2.15加入MPS支持，AnyLanguageModel 1.0迎来苹果平台本地模型一周年。\n\n2. **模型能力与效率优化取得新进展**：IBM Granite时序模型支持集成预报；Granite Speech 5.0在转录、翻译和归因上更准更快；针对小语言模型的专业化词表可将实际应用推理成本降低77%；NVIDIA Kumo Relational无需训练即可在关系数据上超越监督机器学习。\n\n3. **智能体训练与科研辅助方法创新**：ThinkingBox提出将数据库评分转化为强化学习奖励的智能体后训练方法；LitPivot通过文献动态情境化辅助研究想法生成。\n\n4. **AI基础设施与产业规模同步扩张**：OpenAI详解支撑超10亿ChatGPT用户的在线存储扩展方案，并分享前沿模型训练环境的安全保障措施；东南亚数字经济规模预计将达3680亿美元。\n\n今日最值得关注的是Hugging Face在AWS Trainium和TPU等多元硬件上的原生支持与性能工具链完善，这标志着AI模型部署正加速走向跨平台、低成本的新阶段。",
       "count": 30
     },
     "cctv": {
       "articles": [
+        {
+          "id": "c51d21b37afe",
+          "title": "China Scales Nuclear District Heating with Haiyang Project",
+          "link": "https://nuclearforgood.com/case_study/china-scales-nuclear-district-heating-with-haiyang-project/",
+          "description": "Article URL: https://nuclearforgood.com/case_study/china-scales-nuclear-district-heating-with-haiyang-project/ Comments URL: https://news.ycombinator.com/item?id=50232049 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 25 Oct 2026 14:40:00 +0000"
+        },
         {
           "id": "25400cbc2956",
           "title": "Ming dynasty statue unearthed in WA returns to China",
@@ -897,18 +906,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Sun, 18 Oct 2026 05:54:56 +0000"
-        },
-        {
-          "id": "71cf090aaba6",
-          "title": "EU negotiates sanctions swap with China to rescue critical ASML supplier",
-          "link": "https://www.tomshardware.com/tech-industry/semiconductors/eu-negotiates-sanction-swap-with-china-to-rescue-critical-asml-supplier-german-coatings-firm-faces-shutdown-without-chinese-rare-earths",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/eu-negotiates-sanction-swap-with-china-to-rescue-critical-asml-supplier-german-coatings-firm-faces-shutdown-without-chinese-rare-earths Comments URL: https://news.ycombinator.com/item?id=50128597 Points: 11 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 17 Oct 2026 06:49:52 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 中国AI与科技产业加速布局：百度在伦敦测试Robotaxi，中国首部AI生成剧情长片将于周五上映，中国提议欧盟加入其AI联盟，同时中国着手将顶尖AI与芯片设计纳入出口管制。\n2. 科技自主与供应链博弈加剧：台积电寻求设备替代方案以应对中国稀土管控，中国智能手机厂商在存储短缺下转向回收DRAM芯片，中国下一代产业政策同步推进。\n3. 人才与文化交流双向涌动：在中美AI竞赛中，中国面临招募外国AI研究人员的困难；与此同时，美国患者因本国政客争论而转向中国寻求先进治疗；明代雕像从西澳归还中国，兵马俑建造者指纹研究也揭示出新发现。\n\n今日最值得关注的是，中国在AI应用落地（Robotaxi出海、AI电影上映）与技术主权（出口管制、供应链替代）两条线上同步发力，科技竞争与自主可控正成为核心主线。",
+      "summary": "今日新闻联播动态摘要\n\n1. 中国核能区域供热规模化推进，海阳项目成为示范；同时中国推动将自身顶尖AI和芯片设计纳入出口管制，强化技术安全。\n2. 中国AI与科技应用加速落地：百度在伦敦测试Robotaxi，首部AI生成剧情长片周五上映，并邀请欧盟委员会加入其AI联盟；但美国在AI人才招聘上仍面临与中国竞争的挑战。\n3. 产业与资源博弈加剧：台积电寻求设备替代方案以应对中国稀土管控，中国手机厂商因内存短缺转向回收DRAM芯片；美国患者赴华寻求先进治疗，凸显中国医疗吸引力。\n4. 文化与历史领域：明代雕像从西澳归还中国，兵马俑建造者指纹研究揭示2200年前工匠身份。\n\n今日最值得关注的是中国在AI应用与出口管制上的“双轨并进”——既加速技术落地与国际合作，又强化核心技术的战略保护。",
       "count": 29
     }
   }
