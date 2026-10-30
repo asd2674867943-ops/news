@@ -1,9 +1,99 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T01:45:03.210136",
+  "generated_at": "2026-10-30T19:00:36.888384",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "8812b5244f8e",
+          "title": "Satlyt takes another step toward turning satellites into space data centers",
+          "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "description": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 30 Oct 2026 18:01:24 +0000"
+        },
+        {
+          "id": "e2120d863555",
+          "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+          "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "description": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 30 Oct 2026 17:47:12 +0000"
+        },
+        {
+          "id": "fb2fb6fff86e",
+          "title": "Google’s first data center satellite is online and writing poetry",
+          "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+          "description": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 30 Oct 2026 17:00:00 +0000"
+        },
+        {
+          "id": "2c993e153206",
+          "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+          "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+          "description": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 30 Oct 2026 16:03:45 +0000"
+        },
+        {
+          "id": "34833a14c3c9",
+          "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+          "link": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+          "description": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 30 Oct 2026 14:00:25 +0000"
+        },
+        {
+          "id": "2bb7bec4e7f4",
+          "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+          "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+          "description": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 30 Oct 2026 14:00:00 +0000"
+        },
+        {
+          "id": "c763ad31c9b4",
+          "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+          "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+          "description": "DoorDash said that it is open to working with third-party agent makers.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 30 Oct 2026 13:54:25 +0000"
+        },
+        {
+          "id": "743c3be29bba",
+          "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+          "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+          "description": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 30 Oct 2026 13:00:00 +0000"
+        },
+        {
+          "id": "6894c7d6b73f",
+          "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+          "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+          "description": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 30 Oct 2026 13:00:00 +0000"
+        },
+        {
+          "id": "b9190026e136",
+          "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
+          "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+          "description": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Fri, 30 Oct 2026 07:01:00 +0000"
+        },
         {
           "id": "1f82b28aa085",
           "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -17,14 +107,14 @@
           "id": "b97a3aa5c6a4",
           "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
           "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-          "description": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+          "description": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
           "source": "TechCrunch",
           "category": "tech",
           "pub_date": "Thu, 29 Oct 2026 23:44:56 +0000"
         },
         {
-          "id": "e1c2d2794f39",
-          "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "id": "06dc1a4daa7b",
+          "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
           "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
           "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
           "source": "TechCrunch",
@@ -68,8 +158,8 @@
           "pub_date": "Thu, 29 Oct 2026 21:01:04 +0000"
         },
         {
-          "id": "12d4d0920ee0",
-          "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
+          "id": "fadb99b25250",
+          "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
           "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
           "description": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
           "source": "TechCrunch",
@@ -95,94 +185,85 @@
           "pub_date": "Thu, 29 Oct 2026 20:05:47 +0000"
         },
         {
-          "id": "7f9617030edf",
-          "title": "The R2 SUV is already Rivian’s best-selling vehicle",
-          "link": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
-          "description": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
-          "source": "TechCrunch",
+          "id": "eb99ad26a0c3",
+          "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+          "link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+          "description": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 29 Oct 2026 20:02:03 +0000"
+          "pub_date": "Fri, 30 Oct 2026 18:13:42 +0000"
         },
         {
-          "id": "0687ef129329",
-          "title": "OpenAI-backed Thrive Holdings acquires ADT",
-          "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-          "description": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-          "source": "TechCrunch",
+          "id": "0bd6684a11de",
+          "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+          "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+          "description": "Low costs and offline security mean magnetic tape still has a job.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 29 Oct 2026 19:56:19 +0000"
+          "pub_date": "Fri, 30 Oct 2026 17:38:19 +0000"
         },
         {
-          "id": "82db59699c2e",
-          "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
-          "link": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
-          "description": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
-          "source": "TechCrunch",
+          "id": "2e48a06da103",
+          "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+          "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+          "description": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 29 Oct 2026 19:17:49 +0000"
+          "pub_date": "Fri, 30 Oct 2026 16:53:49 +0000"
         },
         {
-          "id": "426f7b2af128",
-          "title": "Meta quietly launches an AI fashion app called Style Sketch",
-          "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-          "description": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-          "source": "TechCrunch",
+          "id": "a4d02ea5d4d5",
+          "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+          "link": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+          "description": "There's no evidence that Starship will launch traditional satellites, either.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 29 Oct 2026 19:14:36 +0000"
+          "pub_date": "Fri, 30 Oct 2026 16:12:59 +0000"
         },
         {
-          "id": "3dfa37e12db3",
-          "title": "Granola crunches up a dictation feature to compete with Wispr",
-          "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-          "description": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-          "source": "TechCrunch",
+          "id": "a0bf6ab2568a",
+          "title": "GM to pay $220 million after selling customer Smart Driver data",
+          "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+          "description": "Owners of GM cars found their driving data had been sold to insurance companies.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 29 Oct 2026 17:54:38 +0000"
+          "pub_date": "Fri, 30 Oct 2026 13:53:20 +0000"
         },
         {
-          "id": "7c6350961628",
-          "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-          "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-          "description": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-          "source": "TechCrunch",
+          "id": "8c032041dee9",
+          "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+          "link": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+          "description": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 29 Oct 2026 17:00:00 +0000"
+          "pub_date": "Fri, 30 Oct 2026 13:46:39 +0000"
         },
         {
-          "id": "84037c9a8804",
-          "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-          "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-          "description": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-          "source": "TechCrunch",
+          "id": "9ddd86454581",
+          "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
+          "link": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
+          "description": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 29 Oct 2026 16:42:32 +0000"
+          "pub_date": "Fri, 30 Oct 2026 12:00:18 +0000"
         },
         {
-          "id": "cc0b1e154365",
-          "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-          "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-          "description": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-          "source": "TechCrunch",
+          "id": "16dba71bf312",
+          "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+          "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+          "description": "Disgraced founder of Theranos has some people falling for her act all over again.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 29 Oct 2026 16:21:00 +0000"
+          "pub_date": "Fri, 30 Oct 2026 11:30:01 +0000"
         },
         {
-          "id": "7a16fa01506e",
-          "title": "SuperMe raises $20M for its network of AI expert profiles",
-          "link": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
-          "description": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles.",
-          "source": "TechCrunch",
+          "id": "c0f474330c03",
+          "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
+          "link": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+          "description": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 29 Oct 2026 16:19:43 +0000"
-        },
-        {
-          "id": "7b4852f4f2e1",
-          "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-          "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
-          "description": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 29 Oct 2026 15:00:00 +0000"
+          "pub_date": "Fri, 30 Oct 2026 11:00:35 +0000"
         },
         {
           "id": "8ba9fea45a6e",
@@ -282,94 +363,22 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Wed, 28 Oct 2026 22:51:15 +0000"
-        },
-        {
-          "id": "91afb2b62007",
-          "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
-          "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
-          "description": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 28 Oct 2026 22:35:50 +0000"
-        },
-        {
-          "id": "50d8e70d476f",
-          "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
-          "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
-          "description": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 28 Oct 2026 22:17:15 +0000"
-        },
-        {
-          "id": "ee188493d8dd",
-          "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
-          "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
-          "description": "It has been nearly a year since any space tourism flights occurred.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 28 Oct 2026 19:20:36 +0000"
-        },
-        {
-          "id": "1ceda78077ae",
-          "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
-          "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
-          "description": "It's not as different from the previous model as you might have expected.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 28 Oct 2026 19:10:29 +0000"
-        },
-        {
-          "id": "ca8223c8cfed",
-          "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-          "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-          "description": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 28 Oct 2026 18:47:27 +0000"
-        },
-        {
-          "id": "1ff9fb444bbc",
-          "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-          "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
-          "description": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 28 Oct 2026 18:05:22 +0000"
-        },
-        {
-          "id": "be0604f70739",
-          "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
-          "link": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
-          "description": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 28 Oct 2026 17:55:45 +0000"
-        },
-        {
-          "id": "403bd55a9de7",
-          "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
-          "link": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
-          "description": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 28 Oct 2026 17:37:49 +0000"
-        },
-        {
-          "id": "ac013903531f",
-          "title": "Cormac McCarthy's Library",
-          "link": "https://cormacmccarthy.lib.utk.edu/",
-          "description": "Article URL: https://cormacmccarthy.lib.utk.edu/ Comments URL: https://news.ycombinator.com/item?id=50298318 Points: 6 # Comments: 1",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Fri, 30 Oct 2026 00:31:00 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. 亚马逊云业务表现分化：AWS营收爆发式增长，但亚马逊整体业绩未达预期；CEO Jassy称AWS终将成为万亿美元级业务，当前需大举投入，同时Prime Video也有望创造数百亿美元收入。\n2. 加密与数据安全事件：币安因怀疑黑客窃取数十亿美元加密货币而暂停提现；通用汽车因出售车主私人数据达成2.2亿美元和解。\n3. AI与平台动态：Meta悄然推出AI时尚应用Style Sketch；Rivian与大众扩大合资并加入AI助手；OpenAI支持的Thrive Holdings收购ADT；Reddit因搜索流量下滑转向登录制体验。\n4. 其他值得关注：同人小说网站Archive of Our Own可能离线长达四周；马斯克获普京称赞“真正的天才”。\n\n今日最值得关注的是币安疑似遭黑客窃取数十亿美元并暂停提现，这可能是近期最大规模的加密安全事件。",
+      "summary": "今日科技动态摘要\n\n1. 卫星与太空数据中心成为新热点：Satlyt推进将卫星变为太空数据中心的计划，谷歌首个数据中心卫星已上线并能“写诗”，同时有初创公司探索AI数据中心能否像汽车一样量产。\n2. 币安遭朝鲜黑客攻击，损失创纪录63亿美元：币安因黑客疑似窃取数十亿美元加密货币而暂停提现，黑客被指为朝鲜相关组织。\n3. AI热潮引发欺诈担忧与落地进展并存：Theranos举报人Tyler Shultz警告AI热潮是“欺骗他人的绝佳机会”；与此同时，Zest推出AI代理可通过短信找餐厅并订位，DoorDash称已收到“数百个”来自AI代理的订单。\n4. 自动驾驶与云业务扩张：Waymo携手丰田为日本和英国供应Robotaxi；亚马逊CEO Jassy称AWS将成为万亿美元业务，Prime Video也有望带来“数百亿美元”收入。\n5. 职场与会议动态：有报道称无需信仰宗教也可申请在工作中不使用AI的宗教豁免；TechCrunch Founder Summit临近，鼓励参会者通过Braindate建立高效人脉。\n\n今日最值得关注的是币安遭朝鲜黑客攻击导致创纪录的63亿美元损失，这是加密行业安全形势急剧恶化的重大信号。",
       "count": 40
     },
     "ai": {
       "articles": [
+        {
+          "id": "5aa80c9f4efd",
+          "title": "nemotron-halloween",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Fri, 30 Oct 2026 17:57:24 GMT"
+        },
         {
           "id": "5c88bf969e88",
           "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -407,15 +416,6 @@
           "pub_date": "Thu, 29 Oct 2026 00:00:00 GMT"
         },
         {
-          "id": "f0e18e64bba3",
-          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "description": "",
-          "source": "Hugging Face",
-          "category": "ai",
-          "pub_date": "Wed, 28 Oct 2026 14:58:17 GMT"
-        },
-        {
           "id": "7d15542217f0",
           "title": "Build specialized multimodal models with LFM3",
           "link": "https://huggingface.co/blog/LiquidAI/lfm3",
@@ -443,6 +443,24 @@
           "pub_date": "Mon, 26 Oct 2026 16:00:00 +0000"
         },
         {
+          "id": "3943e7bea61d",
+          "title": "Making it easier for websites to express AI training preferences",
+          "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 30 Oct 2026 09:30:00 GMT"
+        },
+        {
+          "id": "7401e4f87407",
+          "title": "Community safety report and new protections for teens",
+          "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Fri, 30 Oct 2026 09:00:00 GMT"
+        },
+        {
           "id": "44239d6ace00",
           "title": "An updated Model Spec for more capable and beneficial AI",
           "link": "https://openai.com/index/updated-model-spec",
@@ -468,6 +486,15 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 29 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "9262b0318d58",
+          "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+          "link": "https://openai.com/index/credit-saison",
+          "description": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 29 Oct 2026 00:00:00 GMT"
         },
         {
           "id": "46f0704d43a8",
@@ -587,61 +614,34 @@
           "pub_date": "Mon, 26 Oct 2026 00:00:00 GMT"
         },
         {
-          "id": "4980d5329eaa",
-          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-          "description": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Fri, 23 Oct 2026 17:00:00 GMT"
-        },
-        {
-          "id": "f7d66257d0c6",
-          "title": "Securing our frontier model training environment",
-          "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "description": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Fri, 23 Oct 2026 10:00:00 GMT"
-        },
-        {
-          "id": "702206ce37f9",
-          "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
-          "link": "https://www.qbitai.com/2026/10/506281.html",
-          "description": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+          "id": "75d6f479f524",
+          "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+          "link": "https://www.qbitai.com/2026/10/506743.html",
+          "description": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Thu, 29 Oct 2026 03:27:50 +0000"
+          "pub_date": "Fri, 30 Oct 2026 07:31:11 +0000"
         },
         {
-          "id": "ac2d2a439ca2",
-          "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
-          "link": "https://www.qbitai.com/2026/10/506273.html",
-          "description": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+          "id": "71a08fbb8fb1",
+          "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+          "link": "https://www.qbitai.com/2026/10/506686.html",
+          "description": "解析一切",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Thu, 29 Oct 2026 02:51:45 +0000"
+          "pub_date": "Fri, 30 Oct 2026 05:52:47 +0000"
         },
         {
-          "id": "f342b793089e",
-          "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-          "link": "https://www.qbitai.com/2026/10/505934.html",
-          "description": "用扩散模型怎么做做Agent？",
+          "id": "98d1bc9086b1",
+          "title": "Claude新模型曝光：新Fable，新Opus…",
+          "link": "https://www.qbitai.com/2026/10/506674.html",
+          "description": "",
           "source": "量子位",
           "category": "ai",
-          "pub_date": "Thu, 29 Oct 2026 02:18:28 +0000"
-        },
-        {
-          "id": "9faa391f876d",
-          "title": "24万开卖！理想重造i6，李想：目标全球畅销",
-          "link": "https://www.qbitai.com/2026/10/506246.html",
-          "description": "理想今年最后一场发布会，自研电池芯片全部上车",
-          "source": "量子位",
-          "category": "ai",
-          "pub_date": "Thu, 29 Oct 2026 00:59:26 +0000"
+          "pub_date": "Fri, 30 Oct 2026 05:50:44 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. Hugging Face集中发布多个开源模型与工具：Granite Switch 4.1.1支持像更新软件一样更新模型；Mistral Large 4（代号Le Chonk）上线；面向Apple平台推出语音识别与决策模型AnySpeechRecognizer和AnyDecisionModel；NVIDIA Nemotron 3.5 Transcribe与Granary v2实现可提示、可适配的多语言转录；LFM3支持构建专用多模态模型。\n\n2. Hugging Face推出Project ProtoStar，旨在让公共资助的科学成果具备AI可用性，推动开放科学数据与模型生态建设；同时引发关于LLM能否可靠评判研究想法新颖性的讨论。\n\n3. OpenAI发布更新版Model Spec，强调打造更有能力且更有益的AI；并分享检测前沿模型失准（misalignment）的方法，提升模型安全与对齐透明度。\n\n4. OpenAI企业合作与落地加速：与ServiceNow扩大企业工作流合作；法律AI公司Legora构建法律工作智能体操作系统；Ropes & Gray用于交易尽职调查；Retell基于OpenAI模型支撑每月1亿次通话。\n\n5. Google AI发布新AI探索项目，聚焦绘制人脑图谱，推动神经科学与AI交叉研究。\n\n今日最值得关注的是开源模型生态（Hugging Face多模型集中发布）与企业级AI落地（OpenAI法律、企业工作流合作）同步加速，显示AI正从模型能力竞争转向“可更新、可适配、可规模化部署”的实用化阶段。",
+      "summary": "今日AI动态摘要\n\n1. Hugging Face集中发布多项模型与工具：Nemotron万圣节主题模型、Granite Switch 4.1.1（像更新软件一样更新模型）、Mistral Large 4（Le Chonk）、面向Apple平台的AnySpeechRecognizer与AnyDecisionModel开源模型，以及用于构建专业多模态模型的LFM3。\n2. Hugging Face推出Project ProtoStar，旨在让公共资助的科学研究数据与成果具备AI可用性；同时引发讨论：LLM能否可信地评判研究想法的新颖性。\n3. Google发布新AI Quest项目，目标为绘制人类大脑图谱。\n4. OpenAI多线推进：让网站更易表达AI训练偏好、发布社区安全报告及青少年保护新措施、更新Model Spec、披露前沿模型失准检测方法。\n5. OpenAI企业应用案例扩展：Ropes & Gray用于交易尽职调查、Credit Saison的ChatGPT Enterprise试点实现954% ROI、与ServiceNow扩大企业工作流合作。\n\n今日最值得关注的是Hugging Face一次性密集发布多款开源模型与工具，显示开源AI生态在模型更新机制、多模态能力和垂直场景应用上正加速迭代。",
       "count": 30
     },
     "cctv": {
