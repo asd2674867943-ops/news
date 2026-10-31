@@ -1,9 +1,45 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T01:27:47.945696",
+  "generated_at": "2026-10-31T18:17:08.796070",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "e4dfc862e609",
+          "title": "OpenAI reportedly lowers funding target for new round",
+          "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 31 Oct 2026 16:12:55 +0000"
+        },
+        {
+          "id": "79bc41a18cbc",
+          "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+          "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+          "description": "TikTok may be working to become the app that people use for most of their digital activities.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 31 Oct 2026 15:41:57 +0000"
+        },
+        {
+          "id": "f2ef510eb85e",
+          "title": "I took two iPhones on vacation. The Duo won me over.",
+          "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+          "description": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 31 Oct 2026 14:00:00 +0000"
+        },
+        {
+          "id": "9b1df5797b63",
+          "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+          "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "description": "The money behind the money is thrilled, mostly.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 31 Oct 2026 04:16:50 +0000"
+        },
         {
           "id": "629f5391c828",
           "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -149,40 +185,22 @@
           "pub_date": "Fri, 30 Oct 2026 13:54:25 +0000"
         },
         {
-          "id": "743c3be29bba",
-          "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-          "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-          "description": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-          "source": "TechCrunch",
+          "id": "2f7b27eb051e",
+          "title": "Seabirds racing home over the ocean can get jet-lagged",
+          "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+          "description": "A long flight home from feeding grounds messes with birds' internal clocks.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Fri, 30 Oct 2026 13:00:00 +0000"
+          "pub_date": "Sat, 31 Oct 2026 11:15:26 +0000"
         },
         {
-          "id": "6894c7d6b73f",
-          "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-          "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-          "description": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-          "source": "TechCrunch",
+          "id": "6803ee8fe1ac",
+          "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+          "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+          "description": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Fri, 30 Oct 2026 13:00:00 +0000"
-        },
-        {
-          "id": "b9190026e136",
-          "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-          "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-          "description": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 30 Oct 2026 07:01:00 +0000"
-        },
-        {
-          "id": "1f82b28aa085",
-          "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-          "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-          "description": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 30 Oct 2026 01:20:48 +0000"
+          "pub_date": "Sat, 31 Oct 2026 11:02:34 +0000"
         },
         {
           "id": "52cb6e6edf23",
@@ -345,27 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Thu, 29 Oct 2026 21:47:57 +0000"
-        },
-        {
-          "id": "2e021f5872f3",
-          "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-          "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-          "description": "The latest update also brings a cloud recovery option for PCs that won't boot.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 29 Oct 2026 20:18:49 +0000"
-        },
-        {
-          "id": "a6c49fe86804",
-          "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-          "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
-          "description": "Inspector general rejected request from Democratic and Republican senators.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 29 Oct 2026 20:08:10 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. AI投资热潮现裂痕：英伟达考虑为Nscale西弗吉尼亚AI数据中心充当共同签署方，同时有报道称AI支出热潮开始出现裂缝，Theranos举报人亦警告AI热潮存在欺诈风险。\n2. 科技巨头动态频频：Salesforce以约3.75亿美元收购国防科技初创公司Rune，延续并购势头；英特尔股价暴跌，导致美国政府持股缩水120亿美元；Anthropic IPO后预计被信用机构给予高“垃圾”评级。\n3. 安全与隐私事件：朝鲜黑客被指在Binance泄露事件中窃取创纪录的63亿美元；Applebee's因在应用中遗留数据库密码而泄露客户个人数据；隐私AI助手Ollie宣布关停。\n4. 太空与AI新应用：Google首个数据中心卫星已上线并“写诗”；Satlyt推进将卫星变为太空数据中心；Zest推出AI代理，可通过短信查找餐厅并预订。\n5. 行业整合与法律科技：AI律所Crosby竞购濒临解散的知名律所Weil Gotshal。\n\n今日最值得关注的是AI支出热潮出现裂痕的迹象，叠加Anthropic的“垃圾”信用评级预警，暗示市场对AI泡沫的担忧正在升温。",
+      "summary": "今日科技动态摘要\n\n1. OpenAI据报道下调新一轮融资目标，同时AI支出热潮出现裂痕，Anthropic预计IPO后将获信用机构高“垃圾”评级，显示AI行业面临资本与信用双重压力。\n2. TikTok正从餐厅指南拓展至支付等领域，构建“超级应用”生态；Salesforce继续并购步伐，以约3.75亿美元收购国防科技初创公司Rune。\n3. 英伟达考虑为西弗吉尼亚州NScale的AI数据中心充当担保方；英特尔股价暴跌，导致美国政府持股缩水120亿美元。\n\n今日最值得关注的是AI热潮下资本信心出现松动迹象——OpenAI下调融资目标、AI支出现裂痕、Anthropic评级承压，与此同时科技巨头仍在通过并购与基础设施担保加速布局。",
       "count": 40
     },
     "ai": {
@@ -626,10 +626,10 @@
           "id": "5f278f8cb6c8",
           "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
           "link": "https://www.phoronix.com/news/PostgreSQL-19-Late",
-          "description": "Article URL: https://www.phoronix.com/news/PostgreSQL-19-Late Comments URL: https://news.ycombinator.com/item?id=50309439 Points: 10 # Comments: 0",
+          "description": "Article URL: https://www.phoronix.com/news/PostgreSQL-19-Late Comments URL: https://news.ycombinator.com/item?id=50317562 Points: 1 # Comments: 0",
           "source": "HN-AI",
           "category": "ai",
-          "pub_date": "Fri, 30 Oct 2026 20:06:12 +0000"
+          "pub_date": "Sat, 31 Oct 2026 16:25:38 +0000"
         },
         {
           "id": "d2fee3a7a860",
@@ -641,16 +641,34 @@
           "pub_date": "Tue, 27 Oct 2026 06:14:11 +0000"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. Hugging Face集中发布多项模型与工具更新：包括万圣节主题模型nemotron-halloween、Granite Switch 4.1.1（支持像更新软件一样更新模型）、Mistral Large 4（代号Le Chonk）、面向Apple平台的开源语音与决策模型AnySpeechRecognizer/AnyDecisionModel，以及用于构建专业多模态模型的LFM3。\n\n2. Hugging Face发起“Project ProtoStar”，旨在让公共资助的科学研究数据实现AI就绪；同时引发讨论：我们能否信任LLM判断研究想法的新颖性。\n\n3. OpenAI发布多项政策与安全更新：更新Model Spec以打造更有能力且有益的AI、发布前沿模型失准检测方法、推出社区安全报告与青少年保护新措施、让网站更易表达AI训练偏好，并主张“合理使用惠及所有人”。\n\n4. Google AI Blog公布最新AI探索项目：绘制人类大脑图谱。\n\n5. OpenAI分享企业应用案例：Ropes & Gray开发交易尽职调查AI，Credit Saison在ChatGPT Enterprise试点中实现954%的投资回报率。\n\n今日最值得关注的是Hugging Face与OpenAI在模型更新机制、AI就绪科研数据及模型安全规范上的同步推进，显示出AI生态正从模型发布转向基础设施与治理体系的建设。",
+      "summary": "今日AI动态摘要\n\n1. Hugging Face集中发布多项模型与计划：包括万圣节主题模型nemotron-halloween、Granite Switch 4.1.1（倡导像更新软件一样更新模型）、Mistral Large 4（代号Le Chonk）、面向Apple平台的AnySpeechRecognizer与AnyDecisionModel开源语音与决策模型，以及用LFM3构建专用多模态模型。\n\n2. Hugging Face推出Project ProtoStar，旨在让公共资助的科学成果具备AI可用性；同时发起讨论：LLM能否可信地判断研究想法的新颖性。\n\n3. OpenAI多线推进安全与规范：让网站更易表达AI训练偏好、发布社区安全报告并加强对青少年的保护、更新Model Spec以打造更有能力且有益的AI、分享检测前沿模型失准（misalignment）的方法，并主张合理使用（fair use）惠及所有人。\n\n4. Google AI Blog公布最新AI探索项目：绘制人类大脑图谱。\n\n5. OpenAI分享企业应用案例：Ropes & Gray用AI开展交易尽职调查；Credit Saison在ChatGPT Enterprise试点中实现954%的投资回报率。\n\n今日最值得关注的是OpenAI在模型规范、失准检测与训练数据偏好表达上的系列动作，显示前沿AI治理正从原则走向可操作机制。",
       "count": 30
     },
     "cctv": {
       "articles": [
         {
+          "id": "edae57e2a6ba",
+          "title": "GAC starts mass-producing Level 4 robotrucks in China",
+          "link": "https://asia-tech-news.ghost.io/gac-starts-mass-producing-level-4-pony-ai-robotrucks/",
+          "description": "Article URL: https://asia-tech-news.ghost.io/gac-starts-mass-producing-level-4-pony-ai-robotrucks/ Comments URL: https://news.ycombinator.com/item?id=50316689 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 31 Oct 2026 14:48:59 +0000"
+        },
+        {
+          "id": "1803dc810dda",
+          "title": "Last year Americans flew to China for a $10k cancer drug. Now it's $200k",
+          "link": "https://kdwalmsley.substack.com/p/last-year-americans-flew-to-china",
+          "description": "Article URL: https://kdwalmsley.substack.com/p/last-year-americans-flew-to-china Comments URL: https://news.ycombinator.com/item?id=50314288 Points: 1 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 31 Oct 2026 08:57:55 +0000"
+        },
+        {
           "id": "7bc0911f7621",
           "title": "China's CE-25A Electric Commuter Airliner Demonstrator Emerges",
           "link": "https://www.twz.com/air/chinas-ce-25a-electric-commuter-airliner-demonstrator-emerges-in-photos",
-          "description": "Article URL: https://www.twz.com/air/chinas-ce-25a-electric-commuter-airliner-demonstrator-emerges-in-photos Comments URL: https://news.ycombinator.com/item?id=50311619 Points: 2 # Comments: 0",
+          "description": "Article URL: https://www.twz.com/air/chinas-ce-25a-electric-commuter-airliner-demonstrator-emerges-in-photos Comments URL: https://news.ycombinator.com/item?id=50311619 Points: 3 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 30 Oct 2026 23:43:13 +0000"
@@ -659,7 +677,7 @@
           "id": "2b8e61cbe089",
           "title": "China unveils 13-foot robot that can lift a cow",
           "link": "https://www.the-independent.com/tech/china-robot-humanoid-neodradynamics-neo1-ai-b3074374.html",
-          "description": "Article URL: https://www.the-independent.com/tech/china-robot-humanoid-neodradynamics-neo1-ai-b3074374.html Comments URL: https://news.ycombinator.com/item?id=50308489 Points: 4 # Comments: 1",
+          "description": "Article URL: https://www.the-independent.com/tech/china-robot-humanoid-neodradynamics-neo1-ai-b3074374.html Comments URL: https://news.ycombinator.com/item?id=50308489 Points: 4 # Comments: 2",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 30 Oct 2026 18:51:44 +0000"
@@ -879,27 +897,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Tue, 27 Oct 2026 16:59:52 +0000"
-        },
-        {
-          "id": "2c06f6d7f83e",
-          "title": "Alibaba's Qwen AI caught trying to contact server in China",
-          "link": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
-          "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561 Comments URL: https://news.ycombinator.com/item?id=50259619 Points: 6 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 27 Oct 2026 14:07:27 +0000"
-        },
-        {
-          "id": "b979a555930e",
-          "title": "In China, the AI bubble has already burst",
-          "link": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
-          "description": "Article URL: https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/ Comments URL: https://news.ycombinator.com/item?id=50253320 Points: 16 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 27 Oct 2026 00:44:23 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 中国科技与产业创新持续推进：CE-25A电动通勤飞机验证机亮相，13英尺机器人展示重载能力，清洁技术出口预计2026年减排效果相当于巴西全年排放量，电池技术突破单纯产能扩张。\n2. 中美科技竞争与知识产权争议升温：有报道称中国日益依赖复制美国AI技术，欧洲议员抱怨中国出口冲击其产业，同时美方关注中国太空飞机活动及跨太平洋电缆安全风险。\n3. 中国汽车与消费市场呈现内外反差：中国汽车产业在国际上广受赞誉，但国内市场面临激烈竞争压力；老干妈因AI相关裁员传闻引发关注。\n\n今日最值得关注的是中国清洁技术与高端制造出口的全球减排影响力持续扩大，同时围绕技术自主与知识产权的国际博弈进一步凸显。",
+      "summary": "今日新闻联播动态摘要\n\n1. 中国高科技制造与出口持续发力：广汽启动L4级自动驾驶卡车量产，CE-25A电动通勤客机验证机亮相，13英尺机器人展示重载能力，清洁技术出口预计2026年可减少相当于巴西全年排放的二氧化碳。\n2. 中国AI与科技自主性引发国际关注：有报道称中国日益依赖复制美国AI技术，同时也有声音主张“让中国复制美国AI”；欧洲议员则警告中国出口正在损害其本土产业。\n3. 中国新能源汽车与电池产业呈现“内外分化”：中国汽车工业令世界瞩目，但国内市场面临剧烈竞争与压力；电池产业正从产能扩张转向技术升级。\n4. 中美博弈延伸至医药与基础设施领域：美国患者赴华获取低价抗癌药的价格优势发生逆转（从1万美元涨至20万美元）；美属跨太平洋光缆面临来自破坏活动与中国的日益增长的风险。\n5. 中国航天与舆论文化话题受关注：中国绝密太空飞机在近地轨道难以隐藏；围绕姆巴佩相关内容的“彻底抹除”现象引发讨论。\n\n今日最值得关注的发展是：中国在自动驾驶、电动航空、机器人及清洁技术等高端制造领域加速量产与出口，但与此同时，国际社会对中国AI依赖、出口冲击及基础设施安全风险的审视也在同步升温。",
       "count": 28
     }
   }
