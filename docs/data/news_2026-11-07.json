@@ -1,9 +1,45 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T01:43:26.204912",
+  "generated_at": "2026-11-07T18:29:35.008630",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "05dc8bebde5a",
+          "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+          "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+          "description": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 07 Nov 2026 17:24:07 +0000"
+        },
+        {
+          "id": "11a5cc936c84",
+          "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+          "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+          "description": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 07 Nov 2026 17:18:00 +0000"
+        },
+        {
+          "id": "c78d7b2625a3",
+          "title": "Sequoia shutting down its Scouts program marks the end of an era",
+          "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "description": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 07 Nov 2026 05:01:54 +0000"
+        },
+        {
+          "id": "10968f1effc1",
+          "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+          "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+          "description": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 07 Nov 2026 04:16:43 +0000"
+        },
         {
           "id": "cf8611b73862",
           "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -149,44 +185,26 @@
           "pub_date": "Fri, 06 Nov 2026 00:07:18 +0000"
         },
         {
-          "id": "e656a90adda8",
-          "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-          "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-          "description": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
-          "source": "TechCrunch",
+          "id": "786c324c035b",
+          "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+          "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+          "description": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Fri, 06 Nov 2026 00:01:38 +0000"
+          "pub_date": "Sat, 07 Nov 2026 12:15:55 +0000"
         },
         {
-          "id": "b1d3be8e63c9",
-          "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-          "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-          "description": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-          "source": "TechCrunch",
+          "id": "981bf456be48",
+          "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+          "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+          "description": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 05 Nov 2026 22:40:55 +0000"
+          "pub_date": "Sat, 07 Nov 2026 11:00:34 +0000"
         },
         {
-          "id": "16e382895de8",
-          "title": "Serve Robotics launches new business to become the AWS for robots",
-          "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-          "description": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 05 Nov 2026 21:15:00 +0000"
-        },
-        {
-          "id": "e2b68bec0949",
-          "title": "Meta says US users can now video chat with their Muse AI avatar",
-          "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-          "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 05 Nov 2026 19:48:28 +0000"
-        },
-        {
-          "id": "e1e7be66893d",
-          "title": "Man unexpectedly recovers from a knife wound through his eye and brain",
+          "id": "a7a8ab13b4e0",
+          "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
           "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
           "description": "It's the exact path, not the apparent severity that matters most, doctors say.",
           "source": "Ars Technica",
@@ -345,27 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Fri, 06 Nov 2026 00:17:06 +0000"
-        },
-        {
-          "id": "c5848c9835ad",
-          "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-          "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-          "description": "Certain configurations of Alpine are affected. Other distros may be as well.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 05 Nov 2026 23:09:36 +0000"
-        },
-        {
-          "id": "9e619d6114b2",
-          "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-          "link": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
-          "description": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 05 Nov 2026 22:49:03 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. OpenAI据报以1.25万亿美元估值额外融资110亿美元，AI行业资本热度持续高涨。\n2. 苹果宣布将推出Duo应用；Meta推出Spaces协作功能，同时亚马逊在封禁Muse后允许用户通过短信与Alexa购物互动，AI助手生态竞争加剧。\n3. 五角大楼向电池初创公司6K提供2.5亿美元贷款用于建厂；Palo Alto Networks洽谈以5亿美元收购AI代理安全初创公司Clutch；Fox完成220亿美元收购Roku。\n4. 数百个Artex AI黑客工具被公开暴露在网上，AI安全风险引发关注；Ramp数据显示AI支出停滞，与Anthropic临近IPO形成对比。\n\n今日最值得关注的是OpenAI以1.25万亿美元估值再融110亿美元，显示AI头部企业资本集聚效应仍在加速，而AI支出数据停滞与安全工具暴露则提示行业泡沫与风险并存。",
+      "summary": "今日科技动态摘要\n\n1. OpenAI据报以1.25万亿美元估值再融资110亿美元，AI行业资本热度持续攀升。\n2. 苹果宣布将推出Duo应用；Meta推出Spaces协作功能；亚马逊允许用户通过短信与Alexa购物，科技巨头加速AI产品落地。\n3. 币安CFO在63亿美元黑客事件后离职；红杉关闭Scouts项目标志一个时代结束；五角大楼向电池初创公司6K提供2.5亿美元贷款建厂。\n4. 中期选举后，大型科技公司与AI行业面临的政策环境成为关注焦点；Ramp数据显示AI支出停滞，恰逢Anthropic临近IPO。\n5. 数百个Artex AI黑客工具公开暴露于网络，AI安全风险引发警惕。\n\n今日最值得关注的是OpenAI以1.25万亿美元估值再融110亿美元，显示AI资本热潮与安全、政策风险并存。",
       "count": 40
     },
     "ai": {
@@ -641,13 +641,275 @@
           "pub_date": "Mon, 02 Nov 2026 15:00:00 GMT"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **机器人学习与仿真世界模型**：Hugging Face发布ToyBlocks受控机器人学习评测环境；NVIDIA推出Cosmos 3开放模型，用于交互式世界模拟。\n2. **语音与多语言能力扩展**：Open ASR排行榜新增埃及和尼日利亚英语；Phonon TTS推出高质量端侧语音合成，基准测试领先。\n3. **文档结构化与设计智能化**：Dharma Field Extractor支持任意文档输入并输出JSON结构化字段；Palette教会小模型按你的设计语言制作演示文稿。\n4. **模型集成与安全评测标准化**：Hugging Face发布Transformers模型集成契约；CWE-bench v2提升覆盖范围、质量与透明度。\n5. **AI代理与网络安全前沿**：OpenAI与Hacktron合作查找系统漏洞，发布GPT-6 Cyber推进对齐网络安全代理；Google推出Gemini Omni 1.2 Flash，快速低成本支持更长片段。\n\n今日最值得关注的是NVIDIA Cosmos 3与GPT-6 Cyber分别在世界模拟和网络安全代理前沿推进，显示AI正从感知生成走向可交互仿真与高风险领域落地。",
+      "summary": "今日AI动态摘要\n\n1. **机器人学习与仿真世界模型**：Hugging Face发布ToyBlocks受控机器人学习评测环境；NVIDIA推出Cosmos 3开放模型，用于交互式世界仿真。\n2. **语音与多语言AI能力扩展**：Phonon TTS实现高质量端侧语音合成并登顶基准；Open ASR排行榜新增埃及和尼日利亚英语支持。\n3. **文档结构化与模型集成规范化**：Dharma Field Extractor支持任意文档输入并输出JSON结构化字段；Hugging Face推出Transformers模型集成契约，提升生态规范性。\n4. **AI安全与科研应用深化**：OpenAI与Hacktron合作排查系统漏洞，发布GPT‑6 Cyber推进对齐网络安全智能体；同时开展AI智能体在湿实验室日常科研中的能力评测。\n5. **AI产品与教育落地**：Google发布Gemini Omni 1.2 Flash，主打快速低成本与更长视频片段；澳大利亚高校借助OpenAI培养AI原生毕业生，Cult.fit用Codex提升运营能力。\n\n今日最值得关注的是NVIDIA Cosmos 3与ToyBlocks等世界模型和评测环境的推进，标志着机器人学习正从单一模型能力竞争转向可控仿真、标准化评测与真实应用闭环的体系建设。",
       "count": 30
     },
     "cctv": {
-      "articles": [],
-      "summary": "今日暂无相关新闻。",
-      "count": 0
+      "articles": [
+        {
+          "id": "6de769084fd3",
+          "title": "Report alleges China linked to at least 18 overseas police stations in Canada",
+          "link": "https://www.ctvnews.ca/canada/article/report-alleges-china-linked-to-at-least-18-overseas-police-stations-in-canada/",
+          "description": "Article URL: https://www.ctvnews.ca/canada/article/report-alleges-china-linked-to-at-least-18-overseas-police-stations-in-canada/ Comments URL: https://news.ycombinator.com/item?id=50406490 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 07 Nov 2026 17:53:18 +0000"
+        },
+        {
+          "id": "5d3accf79b64",
+          "title": "China drafts lifetime ID codes for every robot it makes, not just humanoids",
+          "link": "https://asia-tech-news.ghost.io/china-drafts-lifetime-id-codes-for-every-robot-it-makes-not-just-humanoids/",
+          "description": "Article URL: https://asia-tech-news.ghost.io/china-drafts-lifetime-id-codes-for-every-robot-it-makes-not-just-humanoids/ Comments URL: https://news.ycombinator.com/item?id=50406482 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 07 Nov 2026 17:52:16 +0000"
+        },
+        {
+          "id": "65f39c22ce88",
+          "title": "China sees nearly 10% drop in marriages, foreshadowing lower birth rate in 2027",
+          "link": "https://www.scmp.com/economy/economic-indicators/article/3373383/china-sees-nearly-10-decline-marriages-2026-so-far-foreshadowing-lower-birth-rate",
+          "description": "Article URL: https://www.scmp.com/economy/economic-indicators/article/3373383/china-sees-nearly-10-decline-marriages-2026-so-far-foreshadowing-lower-birth-rate Comments URL: https://news.ycombinator.com/item?id=50406005 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 07 Nov 2026 16:53:55 +0000"
+        },
+        {
+          "id": "d564e286f307",
+          "title": "China Cuts Legacy PFAS Emissions Sharply as Hotspots Persist in Key Regions",
+          "link": "https://bioengineer.org/china-cuts-legacy-pfas-emissions-sharply-as-hotspots-persist-in-key-regions/",
+          "description": "Article URL: https://bioengineer.org/china-cuts-legacy-pfas-emissions-sharply-as-hotspots-persist-in-key-regions/ Comments URL: https://news.ycombinator.com/item?id=50405887 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 07 Nov 2026 16:38:55 +0000"
+        },
+        {
+          "id": "e6956f968d66",
+          "title": "The US let Nvidia sell chips to an empty office in China",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+          "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government Comments URL: https://news.ycombinator.com/item?id=50405793 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 07 Nov 2026 16:23:28 +0000"
+        },
+        {
+          "id": "3d0493a4cc38",
+          "title": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China",
+          "link": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
+          "description": "Article URL: https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/ Comments URL: https://news.ycombinator.com/item?id=50405591 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 07 Nov 2026 15:54:37 +0000"
+        },
+        {
+          "id": "dbae2fd33be3",
+          "title": "The Secret Lives of China's Art Factory Workers",
+          "link": "https://www.instapainting.com/blog/the-secret-lives-of-china-art-factory-workers",
+          "description": "Article URL: https://www.instapainting.com/blog/the-secret-lives-of-china-art-factory-workers Comments URL: https://news.ycombinator.com/item?id=50404786 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 07 Nov 2026 14:22:51 +0000"
+        },
+        {
+          "id": "88cd379c02b8",
+          "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
+          "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
+          "description": "Article URL: https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html Comments URL: https://news.ycombinator.com/item?id=50399226 Points: 14 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 06 Nov 2026 22:16:16 +0000"
+        },
+        {
+          "id": "35c593b5db53",
+          "title": "US warns China it must 'immediately' meet terms of Busan trade deal",
+          "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603",
+          "description": "Article URL: https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603 Comments URL: https://news.ycombinator.com/item?id=50398792 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 06 Nov 2026 21:30:56 +0000"
+        },
+        {
+          "id": "e9b7786fcc61",
+          "title": "AI models built outside the US and China are nearly a year behind",
+          "link": "https://village.dev/blog/outside-the-us-and-china-the-world-is-building-last-years-ai/",
+          "description": "Article URL: https://village.dev/blog/outside-the-us-and-china-the-world-is-building-last-years-ai/ Comments URL: https://news.ycombinator.com/item?id=50394216 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 06 Nov 2026 16:10:14 +0000"
+        },
+        {
+          "id": "447615448bc7",
+          "title": "China's Connected Industrial Ecosystem",
+          "link": "https://michaelhillaert1.substack.com/p/chinas-connected-industrial-ecosystem",
+          "description": "Article URL: https://michaelhillaert1.substack.com/p/chinas-connected-industrial-ecosystem Comments URL: https://news.ycombinator.com/item?id=50394193 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 06 Nov 2026 16:08:36 +0000"
+        },
+        {
+          "id": "689a8e6be008",
+          "title": "China has barred SoftBank from acquiring ABB Robotics' business in China",
+          "link": "https://harava.news/en/articles/2026/11/06/china-blocks-abb-robotics-deal-focus",
+          "description": "Article URL: https://harava.news/en/articles/2026/11/06/china-blocks-abb-robotics-deal-focus Comments URL: https://news.ycombinator.com/item?id=50393660 Points: 8 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 06 Nov 2026 15:38:35 +0000"
+        },
+        {
+          "id": "1fc4a050a94d",
+          "title": "U.S. university asks journal to remove a name from paper with coauthor in China",
+          "link": "https://retractionwatch.com/2026/11/04/us-university-asks-journal-to-remove-professors-name-from-paper-with-coauthor-in-china/",
+          "description": "Article URL: https://retractionwatch.com/2026/11/04/us-university-asks-journal-to-remove-professors-name-from-paper-with-coauthor-in-china/ Comments URL: https://news.ycombinator.com/item?id=50392913 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 06 Nov 2026 14:43:16 +0000"
+        },
+        {
+          "id": "41932e237873",
+          "title": "Analysis: China's quarterly CO2 falls 3% in largest drop since Covid",
+          "link": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
+          "description": "Article URL: https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid Comments URL: https://news.ycombinator.com/item?id=50390020 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 06 Nov 2026 09:16:09 +0000"
+        },
+        {
+          "id": "a8cfc9ce6f25",
+          "title": "Democratic sweep could slow AI growth in US – and help China's ambitions",
+          "link": "https://www.scmp.com/tech/big-tech/article/3373295/how-democratic-sweep-could-slow-ai-growth-us-and-help-chinas-ambitions",
+          "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3373295/how-democratic-sweep-could-slow-ai-growth-us-and-help-chinas-ambitions Comments URL: https://news.ycombinator.com/item?id=50389944 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 06 Nov 2026 09:08:17 +0000"
+        },
+        {
+          "id": "f35ed6a0e179",
+          "title": "Inkling 2 Small: highest-scoring open weights model developed outside China",
+          "link": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
+          "description": "Article URL: https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it Comments URL: https://news.ycombinator.com/item?id=50388824 Points: 3 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 06 Nov 2026 06:18:29 +0000"
+        },
+        {
+          "id": "dfbadda2a468",
+          "title": "China Plans Broad AI Guardrails After Global Security Lapses",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses Comments URL: https://news.ycombinator.com/item?id=50385439 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 05 Nov 2026 22:31:32 +0000"
+        },
+        {
+          "id": "230335f3c35e",
+          "title": "Inside America's $66B Bet to Beat China's Shipbuilding Empire [video]",
+          "link": "https://www.youtube.com/watch?v=kBP-bVci-IM",
+          "description": "Article URL: https://www.youtube.com/watch?v=kBP-bVci-IM Comments URL: https://news.ycombinator.com/item?id=50384024 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 05 Nov 2026 20:26:34 +0000"
+        },
+        {
+          "id": "c4af87247efd",
+          "title": "China Fielding Robotic Space Weapons That Can Attack Other Satellites",
+          "link": "https://www.forbes.com/sites/zitaballingerfletcher/2026/10/31/china-fielding-robotic-space-weapons-that-can-attack-other-satellites/",
+          "description": "Article URL: https://www.forbes.com/sites/zitaballingerfletcher/2026/10/31/china-fielding-robotic-space-weapons-that-can-attack-other-satellites/ Comments URL: https://news.ycombinator.com/item?id=50382868 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 05 Nov 2026 18:52:48 +0000"
+        },
+        {
+          "id": "029fa43090ca",
+          "title": "Nvidia chips pile up in Hong Kong as China withholds import approval",
+          "link": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/",
+          "description": "Article URL: https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50380752 Points: 8 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 05 Nov 2026 15:57:21 +0000"
+        },
+        {
+          "id": "32edfdee1774",
+          "title": "What GDP Means in a Soft Budget Economy Like China",
+          "link": "https://carnegieendowment.org/china-financial-markets/2026/04/what-gdp-means-in-a-soft-budget-economy-like-china",
+          "description": "Article URL: https://carnegieendowment.org/china-financial-markets/2026/04/what-gdp-means-in-a-soft-budget-economy-like-china Comments URL: https://news.ycombinator.com/item?id=50380565 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 05 Nov 2026 15:46:15 +0000"
+        },
+        {
+          "id": "d6723603b69b",
+          "title": "China's 'Sharp Power' Chills Global Free Speech",
+          "link": "https://nationalinterest.org/feature/how-china-sharp-power-chills-global-free-speech",
+          "description": "Article URL: https://nationalinterest.org/feature/how-china-sharp-power-chills-global-free-speech Comments URL: https://news.ycombinator.com/item?id=50378560 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 05 Nov 2026 12:58:57 +0000"
+        },
+        {
+          "id": "1d138de84b8a",
+          "title": "China's first AI-generated film is a flop. Some still see it as the future",
+          "link": "https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future",
+          "description": "Article URL: https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future Comments URL: https://news.ycombinator.com/item?id=50369698 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 04 Nov 2026 18:37:16 +0000"
+        },
+        {
+          "id": "3994df0b7710",
+          "title": "China's solar push reshapes traditional ways of life on Tibet's high plateau",
+          "link": "https://www.reuters.com/world/asia-pacific/chinas-solar-push-reshapes-traditional-ways-life-tibets-high-plateau-2026-11-04/",
+          "description": "Article URL: https://www.reuters.com/world/asia-pacific/chinas-solar-push-reshapes-traditional-ways-life-tibets-high-plateau-2026-11-04/ Comments URL: https://news.ycombinator.com/item?id=50369672 Points: 3 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 04 Nov 2026 18:34:52 +0000"
+        },
+        {
+          "id": "8e6c53b67162",
+          "title": "USA vs China: Who Spent $4T Better? [video]",
+          "link": "https://www.youtube.com/watch?v=RKs-33twRv8",
+          "description": "Article URL: https://www.youtube.com/watch?v=RKs-33twRv8 Comments URL: https://news.ycombinator.com/item?id=50367606 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 04 Nov 2026 16:08:16 +0000"
+        },
+        {
+          "id": "2479014c933e",
+          "title": "As Mangrove Forests Expand in China, Bird Species Multiply",
+          "link": "https://e360.yale.edu/digest/china-mangrove-restoration-bird-species",
+          "description": "Article URL: https://e360.yale.edu/digest/china-mangrove-restoration-bird-species Comments URL: https://news.ycombinator.com/item?id=50367487 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 04 Nov 2026 16:00:45 +0000"
+        },
+        {
+          "id": "cce52d191769",
+          "title": "China Debuts Fourth Exascale System, Sugon 8000",
+          "link": "https://www.hpcwire.com/2026/11/02/china-finally-debuts-fourth-exascale-system-sugon-8000/",
+          "description": "Article URL: https://www.hpcwire.com/2026/11/02/china-finally-debuts-fourth-exascale-system-sugon-8000/ Comments URL: https://news.ycombinator.com/item?id=50367086 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 04 Nov 2026 15:35:51 +0000"
+        },
+        {
+          "id": "ebe60aced277",
+          "title": "China publicly discloses plan for a lunar landing within three years",
+          "link": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
+          "description": "Article URL: https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/ Comments URL: https://news.ycombinator.com/item?id=50364939 Points: 4 # Comments: 4",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 04 Nov 2026 12:59:23 +0000"
+        },
+        {
+          "id": "a66a4a5e3811",
+          "title": "The Most Aggressive EV Push Isn't in China [video]",
+          "link": "https://www.youtube.com/watch?v=aa2VfXs3qY0",
+          "description": "Article URL: https://www.youtube.com/watch?v=aa2VfXs3qY0 Comments URL: https://news.ycombinator.com/item?id=50351312 Points: 5 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Tue, 03 Nov 2026 12:41:48 +0000"
+        }
+      ],
+      "summary": "今日新闻联播动态摘要\n\n1. 涉华安全与外交摩擦升温：加拿大方面报告称中国在加境内关联至少18个海外警务站；美国就釜山贸易协议条款向中方施压，要求“立即”履约；同时有报道称中国顶级情报机构曾招募针对英伟达CEO黄仁勋的人员。\n2. 科技与产业监管动作密集：中国为所有机器人（不止人形机器人）起草终身ID编码规则；禁止软银收购ABB机器人中国业务；美国拟为自动驾驶出租车引入青色灯光标识，跟随中德做法。\n3. 人口与经济结构信号显现：中国结婚人数下降近10%，预示2027年出生率将进一步走低；与此同时，中国季度二氧化碳排放下降3%，为疫情以来最大降幅，PFAS排放也大幅削减但热点地区仍存。\n4. 中美AI竞争与外部环境变化：分析指美国民主党大胜可能放缓美AI发展、反而助力中国雄心；中美以外地区AI模型落后近一年；美国大学要求期刊撤下与中国合著者相关的论文署名。\n\n今日最值得关注的是中国在机器人全链条监管与外资并购审查上的同步收紧，显示出对前沿技术和关键产业主导权的系统性布局。",
+      "count": 29
     }
   }
 }
