@@ -1,188 +1,296 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T03:59:45.404936",
+  "generated_at": "2026-11-10T20:42:58.263714",
   "categories": {
     "tech": {
       "articles": [
         {
-          "id": "3e734afa381e",
-          "title": "Anthropic reportedly plans to move forward with IPO plans",
-          "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-          "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+          "id": "0c1bee7b68dc",
+          "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+          "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+          "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Tue, 10 Nov 2026 01:27:12 +0000"
+          "pub_date": "Tue, 10 Nov 2026 19:57:52 +0000"
         },
         {
-          "id": "5050c36ca235",
-          "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-          "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-          "description": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+          "id": "7d5f64094175",
+          "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+          "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+          "description": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 23:28:37 +0000"
+          "pub_date": "Tue, 10 Nov 2026 19:23:34 +0000"
         },
         {
-          "id": "66d63910c9f0",
-          "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-          "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-          "description": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+          "id": "39e40d64904c",
+          "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+          "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+          "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 23:03:46 +0000"
+          "pub_date": "Tue, 10 Nov 2026 19:03:52 +0000"
         },
         {
-          "id": "7f09b2f6ba8a",
-          "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-          "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-          "description": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+          "id": "7f08b3fff522",
+          "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+          "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+          "description": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 22:46:09 +0000"
+          "pub_date": "Tue, 10 Nov 2026 18:49:52 +0000"
         },
         {
-          "id": "2d4411767e23",
-          "title": "The race is on to sue Nvidia",
-          "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-          "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+          "id": "ac28acd6c67a",
+          "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+          "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+          "description": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 22:23:42 +0000"
+          "pub_date": "Tue, 10 Nov 2026 18:49:19 +0000"
         },
         {
-          "id": "65a9cf5ae0d7",
-          "title": "Fervo now has $12B in orders for its geothermal power tech",
-          "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
-          "description": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+          "id": "392cf504e7b4",
+          "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+          "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+          "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 20:55:34 +0000"
+          "pub_date": "Tue, 10 Nov 2026 17:30:00 +0000"
         },
         {
-          "id": "c4d5e1d614e2",
-          "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-          "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-          "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+          "id": "43a80b7ceaf1",
+          "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+          "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 20:09:06 +0000"
+          "pub_date": "Tue, 10 Nov 2026 17:04:19 +0000"
         },
         {
-          "id": "389ba13a9d8d",
-          "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
-          "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
-          "description": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+          "id": "b3a1184fc92b",
+          "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+          "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+          "description": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 19:39:41 +0000"
+          "pub_date": "Tue, 10 Nov 2026 16:50:38 +0000"
         },
         {
-          "id": "5eb50be29a5c",
-          "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-          "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-          "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+          "id": "161fd942677e",
+          "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+          "link": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+          "description": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 19:24:51 +0000"
+          "pub_date": "Tue, 10 Nov 2026 16:00:00 +0000"
         },
         {
-          "id": "78812761f1a7",
-          "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-          "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-          "description": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+          "id": "b15e0e6d9558",
+          "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+          "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+          "description": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 19:21:46 +0000"
+          "pub_date": "Tue, 10 Nov 2026 15:54:08 +0000"
         },
         {
-          "id": "48d975e19574",
-          "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-          "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
-          "description": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+          "id": "618aae9e949b",
+          "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+          "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+          "description": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 19:19:24 +0000"
+          "pub_date": "Tue, 10 Nov 2026 15:45:27 +0000"
         },
         {
-          "id": "a48ff2c3c8ae",
-          "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-          "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-          "description": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+          "id": "436f7871e7ba",
+          "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+          "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+          "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 18:09:52 +0000"
+          "pub_date": "Tue, 10 Nov 2026 15:29:30 +0000"
         },
         {
-          "id": "dd929c5979a2",
-          "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-          "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-          "description": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+          "id": "c47ccad758f0",
+          "title": "Reddit is turning user conversations into AI-powered product reviews",
+          "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+          "description": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 18:00:00 +0000"
+          "pub_date": "Tue, 10 Nov 2026 15:00:00 +0000"
         },
         {
-          "id": "28b6e88ec768",
-          "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-          "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
-          "description": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+          "id": "a84dc808bb9a",
+          "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+          "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+          "description": "Kunal Shah said the company wants to make voice notes, groups, stickers, and video \"simpler and more expressive.\"",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 17:00:00 +0000"
+          "pub_date": "Tue, 10 Nov 2026 15:00:00 +0000"
         },
         {
-          "id": "13ddfd0730f4",
-          "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-          "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-          "description": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+          "id": "999972fac78a",
+          "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+          "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+          "description": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 16:56:54 +0000"
+          "pub_date": "Tue, 10 Nov 2026 14:05:10 +0000"
         },
         {
-          "id": "de6d3fe041ed",
-          "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-          "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-          "description": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+          "id": "b1f760259f9f",
+          "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+          "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+          "description": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 16:12:28 +0000"
+          "pub_date": "Tue, 10 Nov 2026 14:01:39 +0000"
         },
         {
-          "id": "174638034fea",
-          "title": "Meta expands Instagram’s AI age-guessing tech globally",
-          "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
-          "description": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
+          "id": "be9d1df9a972",
+          "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
+          "link": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
+          "description": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 15:32:27 +0000"
+          "pub_date": "Tue, 10 Nov 2026 14:00:00 +0000"
         },
         {
-          "id": "329245632410",
-          "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
-          "link": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
-          "description": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+          "id": "0de243270860",
+          "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+          "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+          "description": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 15:24:59 +0000"
+          "pub_date": "Tue, 10 Nov 2026 14:00:00 +0000"
         },
         {
-          "id": "c65bebba5d46",
-          "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-          "link": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
-          "description": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
+          "id": "1e5eb3f9bdde",
+          "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+          "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+          "description": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 14:00:00 +0000"
+          "pub_date": "Tue, 10 Nov 2026 14:00:00 +0000"
         },
         {
-          "id": "85aa854c80cd",
-          "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-          "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-          "description": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+          "id": "42490c387bde",
+          "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+          "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+          "description": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
           "source": "TechCrunch",
           "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 14:00:00 +0000"
+          "pub_date": "Tue, 10 Nov 2026 13:30:00 +0000"
+        },
+        {
+          "id": "6deca0731adf",
+          "title": "Google Fi adds support for a second 5G network, won't say which one",
+          "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+          "description": "Fi has always supported T-Mobile, but the new one? Google won't say.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 10 Nov 2026 19:35:59 +0000"
+        },
+        {
+          "id": "55ffd1e83a00",
+          "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+          "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+          "description": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 10 Nov 2026 19:00:26 +0000"
+        },
+        {
+          "id": "477e51209ed3",
+          "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+          "link": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+          "description": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 10 Nov 2026 18:39:16 +0000"
+        },
+        {
+          "id": "71cb81590863",
+          "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
+          "link": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+          "description": "Benchmark tools for generic gaming rigs could be coming soon.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 10 Nov 2026 17:26:44 +0000"
+        },
+        {
+          "id": "2b2c384d9afd",
+          "title": "High oil prices have led to a dip in global carbon emissions",
+          "link": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+          "description": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 10 Nov 2026 16:29:27 +0000"
+        },
+        {
+          "id": "362def8f6ace",
+          "title": "One space station company sues another for copying its work",
+          "link": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+          "description": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 10 Nov 2026 16:17:51 +0000"
+        },
+        {
+          "id": "a472da70fafd",
+          "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+          "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+          "description": "The new model is up to twice as successful at some tasks.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 10 Nov 2026 15:00:39 +0000"
+        },
+        {
+          "id": "cc79bbf2fdb3",
+          "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+          "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+          "description": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 10 Nov 2026 14:53:05 +0000"
+        },
+        {
+          "id": "0b1755fda347",
+          "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+          "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+          "description": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 10 Nov 2026 14:43:49 +0000"
+        },
+        {
+          "id": "0efb3002fcb0",
+          "title": "Polestar has a new look with its Formula 2030 concept",
+          "link": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+          "description": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 10 Nov 2026 14:22:02 +0000"
+        },
+        {
+          "id": "4ff27d0c3c6c",
+          "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+          "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+          "description": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 10 Nov 2026 12:15:32 +0000"
+        },
+        {
+          "id": "4b460bd9f26e",
+          "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+          "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+          "description": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
+          "source": "Ars Technica",
+          "category": "tech",
+          "pub_date": "Tue, 10 Nov 2026 12:00:21 +0000"
         },
         {
           "id": "a7ab7380e6fb",
@@ -255,121 +363,31 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Mon, 09 Nov 2026 15:23:20 +0000"
-        },
-        {
-          "id": "47b9f8537698",
-          "title": "F1 in Brazil: You’ve got to keep your tires alive",
-          "link": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
-          "description": "A topsy-turvy grid and intermittent rain resulted in a very entertaining race.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 15:16:31 +0000"
-        },
-        {
-          "id": "3c486ecd720f",
-          "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
-          "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
-          "description": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 12:00:05 +0000"
-        },
-        {
-          "id": "106f8848ef7a",
-          "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-          "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-          "description": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sun, 08 Nov 2026 12:15:31 +0000"
-        },
-        {
-          "id": "786c324c035b",
-          "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-          "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
-          "description": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sat, 07 Nov 2026 12:15:55 +0000"
-        },
-        {
-          "id": "981bf456be48",
-          "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-          "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-          "description": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sat, 07 Nov 2026 11:00:34 +0000"
-        },
-        {
-          "id": "24f8ad97c833",
-          "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-          "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-          "description": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 23 # Comments: 0",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 10 Nov 2026 03:20:06 +0000"
-        },
-        {
-          "id": "9c5f6147cfe1",
-          "title": "Locating the source of a mysterious beep",
-          "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-          "description": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 41 # Comments: 21",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 10 Nov 2026 00:10:46 +0000"
-        },
-        {
-          "id": "850284b823b3",
-          "title": "Horible public key tricks",
-          "link": "https://maurycyz.com/projects/badcert/",
-          "description": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 54 # Comments: 23",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 10 Nov 2026 00:07:17 +0000"
-        },
-        {
-          "id": "1f85e408be39",
-          "title": "Fable 5.2 one-shotted my nephew's dream game",
-          "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-          "description": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 237 # Comments: 159",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 23:08:13 +0000"
-        },
-        {
-          "id": "c236ebc2b27b",
-          "title": "Exact – a new cross platform UI framework",
-          "link": "https://github.com/expo/exact",
-          "description": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 76 # Comments: 35",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 22:59:13 +0000"
-        },
-        {
-          "id": "7f6032e8d707",
-          "title": "TPU 8tx and TPU 8i Max",
-          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-          "description": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 226 # Comments: 67",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 21:56:57 +0000"
-        },
-        {
-          "id": "d9352fa22280",
-          "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-          "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
-          "description": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 305 # Comments: 228",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Mon, 09 Nov 2026 20:04:55 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. **英伟达CEO黄仁勋深陷争议**：黄仁勋被曝与一名疑似中国间谍有染，该事件最早由做空者在丑闻曝光六个月前提示；其 reportedly 一年前聘请了一家擅长处理高调性丑闻的公关公司。黄仁勋已退出ElevenLabs峰会，英伟达的中国雄心受到审视，同时针对英伟达的诉讼竞赛已然展开。\n\n2. **Anthropic多线布局**：据报道计划推进IPO；发布新模型Mythos和Fable（正值RSI担忧之际）；加入AI天然气热潮，购买价值34亿美元的涡轮机。\n\n3. **AI与科技企业动态**：Meta发布轻量级代理执行模型Muse Ember；AI硬件初创公司Nominal估值八个月内翻三倍至30亿美元；Uber收购SpotHero后推出停车服务，并着眼Robotaxi。\n\n4. **安全与能源领域**：温德姆酒店因应用安全漏洞泄露客户数据；法国指责伊朗对杂货店冷柜和血库发动大规模黑客攻击；Fervo地热技术订单达120亿美元。\n\n5. **其他**：YouTube流媒体数据重返Billboard榜单，结束重大分歧。\n\n今日最值得关注的是英伟达CEO黄仁勋与疑似中国间谍的绯闻持续发酵，已波及公司中国战略、公开活动及法律诉讼层面。",
+      "summary": "今日科技动态摘要\n\n1. Anthropic上市在即：七位联合创始人人均套现约2.5亿美元，同时公司推出Claude Meetings，将职场讨论转化为计划和任务。\n2. AI硬件与平台扩张：谷歌推出两款专用AI芯片并发布30美元的Pixel Tag；Meta的AI助手Muse登陆Apple Watch和Android Wear OS；Adobe为Photoshop、Premiere和Firefly引入AI代理和新创作工具。\n3. 并购与商业化探索：Oura以6.25亿美元收购AI原生初级保健初创公司Counsel Health；Reddit将用户对话转化为AI产品评论；OpenAI推出企业资料功能，使ChatGPT更接近谷歌式商业平台。\n4. 安全与人事动态：N-able在研究人员公布数十个零日漏洞后下线远程访问服务；英伟达CEO黄仁勋与疑似中国间谍的绯闻时间线引发关注；WhatsApp新负责人计划简化应用并强化AI能力。\n\n今日最值得关注的是Anthropic创始团队在IPO前大规模套现，同时AI代理正加速渗透办公、硬件和创意工具等日常场景。",
       "count": 40
     },
     "ai": {
       "articles": [
+        {
+          "id": "0132e4e013f0",
+          "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+          "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 10 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "d0fa5e7d0b56",
+          "title": "Decision Models in Hugging Face",
+          "link": "https://huggingface.co/blog/decision",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 10 Nov 2026 00:00:00 GMT"
+        },
         {
           "id": "e0c684874e06",
           "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
@@ -425,13 +443,31 @@
           "pub_date": "Wed, 04 Nov 2026 17:50:10 GMT"
         },
         {
-          "id": "4dadbb10e11f",
-          "title": "Palette: teaching a small model to build decks in your design language",
-          "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-          "description": "",
-          "source": "Hugging Face",
+          "id": "fa7038d9e3bb",
+          "title": "Gemini Intelligence: New features, on more devices",
+          "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+          "description": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+          "source": "Google AI Blog",
           "category": "ai",
-          "pub_date": "Tue, 03 Nov 2026 16:35:36 GMT"
+          "pub_date": "Tue, 10 Nov 2026 19:00:00 +0000"
+        },
+        {
+          "id": "c4ea6e3a5193",
+          "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+          "description": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 10 Nov 2026 14:00:00 +0000"
+        },
+        {
+          "id": "3baa36687fa4",
+          "title": "Google Cloud launches Gemini for healthcare.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+          "description": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 10 Nov 2026 13:00:00 +0000"
         },
         {
           "id": "64600620bb92",
@@ -441,6 +477,42 @@
           "source": "Google AI Blog",
           "category": "ai",
           "pub_date": "Thu, 05 Nov 2026 17:00:00 +0000"
+        },
+        {
+          "id": "756ee79c4898",
+          "title": "Helping caregivers use AI in everyday life",
+          "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "description": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 10 Nov 2026 12:00:00 GMT"
+        },
+        {
+          "id": "314dfe50640c",
+          "title": "Introducing Businesses in ChatGPT",
+          "link": "https://openai.com/index/introducing-businesses-chatgpt",
+          "description": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 10 Nov 2026 10:00:00 GMT"
+        },
+        {
+          "id": "520b70c642a8",
+          "title": "Closing the AI guidance gap in education",
+          "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+          "description": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 10 Nov 2026 09:00:00 GMT"
+        },
+        {
+          "id": "01fa456a1eae",
+          "title": "Work at the Frontier: AI’s effect on freelance work",
+          "link": "https://openai.com/index/ai-effect-on-freelance-work",
+          "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 10 Nov 2026 07:00:00 GMT"
         },
         {
           "id": "006d798e6fe4",
@@ -567,349 +639,15 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 04 Nov 2026 14:30:00 GMT"
-        },
-        {
-          "id": "e101e321f6e8",
-          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-          "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-          "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 04 Nov 2026 07:00:00 GMT"
-        },
-        {
-          "id": "0383dc0a218d",
-          "title": "A thousand fewer paths to root",
-          "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "description": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 04 Nov 2026 08:00:00 GMT"
-        },
-        {
-          "id": "a1d1d22e353c",
-          "title": "Introducing Images 2.6",
-          "link": "https://openai.com/index/introducing-images-2-6",
-          "description": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 04 Nov 2026 00:00:00 GMT"
-        },
-        {
-          "id": "af44624802f0",
-          "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-          "link": "https://openai.com/index/devrev-enterprise-self-service",
-          "description": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 04 Nov 2026 00:00:00 GMT"
-        },
-        {
-          "id": "2b73483503a9",
-          "title": "Accelerating engineering for the physical world",
-          "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-          "description": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Tue, 03 Nov 2026 12:00:00 GMT"
-        },
-        {
-          "id": "8407f454f870",
-          "title": "How Cisco defends at machine speed with OpenAI",
-          "link": "https://openai.com/index/cisco-cyber",
-          "description": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Tue, 03 Nov 2026 08:00:00 GMT"
-        },
-        {
-          "id": "bb1979269d0b",
-          "title": "Heimstaden is changing residential real estate management with AI",
-          "link": "https://openai.com/index/heimstaden",
-          "description": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Tue, 03 Nov 2026 08:00:00 GMT"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **合成数据与垂直领域数据集持续丰富**：Hugging Face发布Nemotron-Personas-Finance-Japan合成数据集，聚焦日本人口结构与金融场景；同时推出Dharma Field Extractor，可将任意文档转化为结构化JSON字段，降低文档处理门槛。\n\n2. **语音与多模态能力加速落地**：Phonon TTS推出高质量端侧语音合成并登顶基准测试；Open ASR排行榜新增埃及和尼日利亚英语；Google发布Gemini Omni 1.2 Flash，主打快速、低成本及更长视频片段处理。\n\n3. **企业级AI部署与工程化工具扩展**：ChatGPT Enterprise上线AWS Marketplace，降低企业采购门槛；OpenAI推出Control Room集中管控研究基础设施中的模型工作负载；CodeRabbit借助AI代理实现软件开发规模化，交付量提升20倍。\n\n4. **AI在科研、安全与行业应用中深化**：OpenAI与Hacktron合作排查系统漏洞，并发布衡量AI代理处理日常湿实验室科学任务的方法；Kuken Industries用AI在数分钟内检索70年图纸档案；澳大利亚高校正培养AI原生毕业生。\n\n今日最值得关注的是企业级AI从“可用”走向“可管、可规模化”——ChatGPT Enterprise登陆AWS Marketplace与OpenAI Control Room的推出，标志着模型部署与治理正同步成熟。",
-      "count": 29
+      "summary": "今日AI动态摘要\n\n1. Hugging Face生态持续扩展：平台新增Google Cloud账户支付功能，推出决策模型（Decision Models），并发布多个专用数据集与工具，包括日本金融人口合成数据集Nemotron-Personas-Finance-Japan、机器人学习评估环境ToyBlocks、文档结构化提取工具Dharma Field Extractor，以及高质量端侧语音合成系统Phonon TTS。\n\n2. 多语言与语音能力增强：埃及英语和尼日利亚英语被纳入Open ASR Leaderboard语音识别排行榜，推动语音技术覆盖更多口音和地区。\n\n3. Google Gemini全面落地：Gemini Intelligence登陆更多设备并新增功能，Google Cloud推出面向医疗健康的Gemini，发布Gemini Omni 1.2 Flash（支持更长视频片段且更具成本效益），同时将Adobe创意与生产力工具更紧密集成到Google日常应用中。\n\n4. OpenAI拓展AI应用场景：推出ChatGPT内的“Businesses in ChatGPT”商业功能，帮助护理人员在日常生活中的使用AI，并着力弥合教育领域的AI指导差距。\n\n5. 协作与合成数据工具受关注：Hugging Face发布关于专家协作伙伴关系维护的HOPE方法，以及日本金融领域合成数据集，反映AI社区对数据质量与团队协作工具的双重重视。\n\n今日最值得关注的是Google Gemini在医疗、视频生成和多设备场景的密集落地，以及OpenAI将ChatGPT推向商业化的新举措，两大巨头正加速AI从工具向日常基础设施渗透。",
+      "count": 30
     },
     "cctv": {
-      "articles": [
-        {
-          "id": "d385fc6961a4",
-          "title": "China seeks high-tech upper hand in industry carrying 80% of global trade",
-          "link": "https://www.reuters.com/world/china/china-seeks-high-tech-upper-hand-industry-carrying-80-global-trade-2026-11-10/",
-          "description": "Article URL: https://www.reuters.com/world/china/china-seeks-high-tech-upper-hand-industry-carrying-80-global-trade-2026-11-10/ Comments URL: https://news.ycombinator.com/item?id=50435279 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 10 Nov 2026 02:18:13 +0000"
-        },
-        {
-          "id": "7281a2f9e91c",
-          "title": "We are short Nvidia $NVDA. We believe Nvidia has a significant China problem",
-          "link": "https://twitter.com/CulperResearch/status/2054623784452120917",
-          "description": "Article URL: https://twitter.com/CulperResearch/status/2054623784452120917 Comments URL: https://news.ycombinator.com/item?id=50425504 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 09 Nov 2026 13:44:06 +0000"
-        },
-        {
-          "id": "af6615ebfe07",
-          "title": "Nvidia's China Problem [pdf]",
-          "link": "https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf",
-          "description": "Article URL: https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50424604 Points: 38 # Comments: 10",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 09 Nov 2026 12:20:45 +0000"
-        },
-        {
-          "id": "184e126e2111",
-          "title": "China Newspaper Dismisses Jensen Huang Spy Claim, Warns on Ties",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties Comments URL: https://news.ycombinator.com/item?id=50421665 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 09 Nov 2026 06:09:24 +0000"
-        },
-        {
-          "id": "5d05f970a1d5",
-          "title": "China's Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
-          "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
-          "description": "Article URL: https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html Comments URL: https://news.ycombinator.com/item?id=50419491 Points: 6 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 09 Nov 2026 00:44:26 +0000"
-        },
-        {
-          "id": "54384cdc821f",
-          "title": "Less coal, less oil: China's emissions fall sharply",
-          "link": "https://www.heise.de/en/news/Less-coal-less-oil-China-s-emissions-fall-sharply-11514905.html",
-          "description": "Article URL: https://www.heise.de/en/news/Less-coal-less-oil-China-s-emissions-fall-sharply-11514905.html Comments URL: https://news.ycombinator.com/item?id=50414789 Points: 5 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 08 Nov 2026 16:43:11 +0000"
-        },
-        {
-          "id": "5e09cadefc35",
-          "title": "China's AI models, led by Kimi, dominate open-source enterprise spending",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending",
-          "description": "Article URL: https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending Comments URL: https://news.ycombinator.com/item?id=50414719 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 08 Nov 2026 16:34:28 +0000"
-        },
-        {
-          "id": "011fd1abbf59",
-          "title": "We Visited China's Stargate in Inner Mongolia",
-          "link": "https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner",
-          "description": "Article URL: https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner Comments URL: https://news.ycombinator.com/item?id=50411720 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 08 Nov 2026 09:35:15 +0000"
-        },
-        {
-          "id": "74f2001ce21c",
-          "title": "Pakistani astronaut to become first foreigner on China's space station",
-          "link": "https://www.independent.co.uk/asia/south-asia/pakistan-astronaut-china-shenzhou-space-station-b3080898.html",
-          "description": "Article URL: https://www.independent.co.uk/asia/south-asia/pakistan-astronaut-china-shenzhou-space-station-b3080898.html Comments URL: https://news.ycombinator.com/item?id=50411449 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 08 Nov 2026 08:35:04 +0000"
-        },
-        {
-          "id": "40538884274b",
-          "title": "HP and Asus shift some PC making back to China due to AI-driven cost hikes",
-          "link": "https://asia.nikkei.com/business/technology/tech-asia/hp-and-asus-shift-some-pc-making-back-to-china-due-to-ai-driven-cost-hikes",
-          "description": "Article URL: https://asia.nikkei.com/business/technology/tech-asia/hp-and-asus-shift-some-pc-making-back-to-china-due-to-ai-driven-cost-hikes Comments URL: https://news.ycombinator.com/item?id=50407972 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 07 Nov 2026 20:56:09 +0000"
-        },
-        {
-          "id": "6de769084fd3",
-          "title": "Report alleges China linked to at least 18 overseas police stations in Canada",
-          "link": "https://www.ctvnews.ca/canada/article/report-alleges-china-linked-to-at-least-18-overseas-police-stations-in-canada/",
-          "description": "Article URL: https://www.ctvnews.ca/canada/article/report-alleges-china-linked-to-at-least-18-overseas-police-stations-in-canada/ Comments URL: https://news.ycombinator.com/item?id=50406490 Points: 8 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 07 Nov 2026 17:53:18 +0000"
-        },
-        {
-          "id": "5d3accf79b64",
-          "title": "China drafts lifetime ID codes for every robot it makes, not just humanoids",
-          "link": "https://asia-tech-news.ghost.io/china-drafts-lifetime-id-codes-for-every-robot-it-makes-not-just-humanoids/",
-          "description": "Article URL: https://asia-tech-news.ghost.io/china-drafts-lifetime-id-codes-for-every-robot-it-makes-not-just-humanoids/ Comments URL: https://news.ycombinator.com/item?id=50406482 Points: 6 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 07 Nov 2026 17:52:16 +0000"
-        },
-        {
-          "id": "65f39c22ce88",
-          "title": "China sees nearly 10% drop in marriages, foreshadowing lower birth rate in 2027",
-          "link": "https://www.scmp.com/economy/economic-indicators/article/3373383/china-sees-nearly-10-decline-marriages-2026-so-far-foreshadowing-lower-birth-rate",
-          "description": "Article URL: https://www.scmp.com/economy/economic-indicators/article/3373383/china-sees-nearly-10-decline-marriages-2026-so-far-foreshadowing-lower-birth-rate Comments URL: https://news.ycombinator.com/item?id=50406005 Points: 6 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 07 Nov 2026 16:53:55 +0000"
-        },
-        {
-          "id": "d564e286f307",
-          "title": "China Cuts Legacy PFAS Emissions Sharply as Hotspots Persist in Key Regions",
-          "link": "https://bioengineer.org/china-cuts-legacy-pfas-emissions-sharply-as-hotspots-persist-in-key-regions/",
-          "description": "Article URL: https://bioengineer.org/china-cuts-legacy-pfas-emissions-sharply-as-hotspots-persist-in-key-regions/ Comments URL: https://news.ycombinator.com/item?id=50405887 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 07 Nov 2026 16:38:55 +0000"
-        },
-        {
-          "id": "e6956f968d66",
-          "title": "The US let Nvidia sell chips to an empty office in China",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-          "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government Comments URL: https://news.ycombinator.com/item?id=50405793 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 07 Nov 2026 16:23:28 +0000"
-        },
-        {
-          "id": "3d0493a4cc38",
-          "title": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China",
-          "link": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
-          "description": "Article URL: https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/ Comments URL: https://news.ycombinator.com/item?id=50405591 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 07 Nov 2026 15:54:37 +0000"
-        },
-        {
-          "id": "dbae2fd33be3",
-          "title": "The Secret Lives of China's Art Factory Workers",
-          "link": "https://www.instapainting.com/blog/the-secret-lives-of-china-art-factory-workers",
-          "description": "Article URL: https://www.instapainting.com/blog/the-secret-lives-of-china-art-factory-workers Comments URL: https://news.ycombinator.com/item?id=50404786 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 07 Nov 2026 14:22:51 +0000"
-        },
-        {
-          "id": "88cd379c02b8",
-          "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
-          "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
-          "description": "Article URL: https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html Comments URL: https://news.ycombinator.com/item?id=50399226 Points: 14 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 06 Nov 2026 22:16:16 +0000"
-        },
-        {
-          "id": "35c593b5db53",
-          "title": "US warns China it must 'immediately' meet terms of Busan trade deal",
-          "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603",
-          "description": "Article URL: https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603 Comments URL: https://news.ycombinator.com/item?id=50398792 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 06 Nov 2026 21:30:56 +0000"
-        },
-        {
-          "id": "e9b7786fcc61",
-          "title": "AI models built outside the US and China are nearly a year behind",
-          "link": "https://village.dev/blog/outside-the-us-and-china-the-world-is-building-last-years-ai/",
-          "description": "Article URL: https://village.dev/blog/outside-the-us-and-china-the-world-is-building-last-years-ai/ Comments URL: https://news.ycombinator.com/item?id=50394216 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 06 Nov 2026 16:10:14 +0000"
-        },
-        {
-          "id": "447615448bc7",
-          "title": "China's Connected Industrial Ecosystem",
-          "link": "https://michaelhillaert1.substack.com/p/chinas-connected-industrial-ecosystem",
-          "description": "Article URL: https://michaelhillaert1.substack.com/p/chinas-connected-industrial-ecosystem Comments URL: https://news.ycombinator.com/item?id=50394193 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 06 Nov 2026 16:08:36 +0000"
-        },
-        {
-          "id": "689a8e6be008",
-          "title": "China has barred SoftBank from acquiring ABB Robotics' business in China",
-          "link": "https://harava.news/en/articles/2026/11/06/china-blocks-abb-robotics-deal-focus",
-          "description": "Article URL: https://harava.news/en/articles/2026/11/06/china-blocks-abb-robotics-deal-focus Comments URL: https://news.ycombinator.com/item?id=50393660 Points: 8 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 06 Nov 2026 15:38:35 +0000"
-        },
-        {
-          "id": "1fc4a050a94d",
-          "title": "U.S. university asks journal to remove a name from paper with coauthor in China",
-          "link": "https://retractionwatch.com/2026/11/04/us-university-asks-journal-to-remove-professors-name-from-paper-with-coauthor-in-china/",
-          "description": "Article URL: https://retractionwatch.com/2026/11/04/us-university-asks-journal-to-remove-professors-name-from-paper-with-coauthor-in-china/ Comments URL: https://news.ycombinator.com/item?id=50392913 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 06 Nov 2026 14:43:16 +0000"
-        },
-        {
-          "id": "41932e237873",
-          "title": "Analysis: China's quarterly CO2 falls 3% in largest drop since Covid",
-          "link": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
-          "description": "Article URL: https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid Comments URL: https://news.ycombinator.com/item?id=50390020 Points: 6 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 06 Nov 2026 09:16:09 +0000"
-        },
-        {
-          "id": "a8cfc9ce6f25",
-          "title": "Democratic sweep could slow AI growth in US – and help China's ambitions",
-          "link": "https://www.scmp.com/tech/big-tech/article/3373295/how-democratic-sweep-could-slow-ai-growth-us-and-help-chinas-ambitions",
-          "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3373295/how-democratic-sweep-could-slow-ai-growth-us-and-help-chinas-ambitions Comments URL: https://news.ycombinator.com/item?id=50389944 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 06 Nov 2026 09:08:17 +0000"
-        },
-        {
-          "id": "f35ed6a0e179",
-          "title": "Inkling 2 Small: highest-scoring open weights model developed outside China",
-          "link": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
-          "description": "Article URL: https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it Comments URL: https://news.ycombinator.com/item?id=50388824 Points: 3 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 06 Nov 2026 06:18:29 +0000"
-        },
-        {
-          "id": "dfbadda2a468",
-          "title": "China Plans Broad AI Guardrails After Global Security Lapses",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses Comments URL: https://news.ycombinator.com/item?id=50385439 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 05 Nov 2026 22:31:32 +0000"
-        },
-        {
-          "id": "230335f3c35e",
-          "title": "Inside America's $66B Bet to Beat China's Shipbuilding Empire [video]",
-          "link": "https://www.youtube.com/watch?v=kBP-bVci-IM",
-          "description": "Article URL: https://www.youtube.com/watch?v=kBP-bVci-IM Comments URL: https://news.ycombinator.com/item?id=50384024 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 05 Nov 2026 20:26:34 +0000"
-        },
-        {
-          "id": "c4af87247efd",
-          "title": "China Fielding Robotic Space Weapons That Can Attack Other Satellites",
-          "link": "https://www.forbes.com/sites/zitaballingerfletcher/2026/10/31/china-fielding-robotic-space-weapons-that-can-attack-other-satellites/",
-          "description": "Article URL: https://www.forbes.com/sites/zitaballingerfletcher/2026/10/31/china-fielding-robotic-space-weapons-that-can-attack-other-satellites/ Comments URL: https://news.ycombinator.com/item?id=50382868 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 05 Nov 2026 18:52:48 +0000"
-        },
-        {
-          "id": "029fa43090ca",
-          "title": "Nvidia chips pile up in Hong Kong as China withholds import approval",
-          "link": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/",
-          "description": "Article URL: https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50380752 Points: 8 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Thu, 05 Nov 2026 15:57:21 +0000"
-        }
-      ],
-      "summary": "今日新闻联播动态摘要\n\n1. 中国在高科技领域寻求产业优势，同时推动绿色转型，煤炭和石油使用减少，排放大幅下降，并在内蒙古建设“星际之门”式AI基础设施。\n2. 英伟达因中国市场问题面临挑战，有报道称美国允许英伟达向中国空壳办公室出售芯片；同时中国报纸驳斥黄仁勋间谍指控，另有报道称中国间谍机构招募针对黄仁勋的女性。\n3. 中国AI模型（以Kimi为首）主导开源企业支出；中国为所有机器人起草终身ID代码；巴基斯坦宇航员将成中国空间站首位外国人；HP和华硕因AI成本上升将部分PC制造迁回中国。\n\n今日最值得关注的是中国在AI与高科技领域加速布局（从开源模型主导到机器人ID体系），同时伴随英伟达中国业务争议与间谍指控等地缘科技博弈升温。",
-      "count": 30
+      "articles": [],
+      "summary": "今日暂无相关新闻。",
+      "count": 0
     }
   }
 }
