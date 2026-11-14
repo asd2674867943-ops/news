@@ -1,9 +1,45 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T02:06:29.248270",
+  "generated_at": "2026-11-14T18:57:42.233738",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "70e06e71592a",
+          "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+          "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+          "description": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 14 Nov 2026 18:00:00 +0000"
+        },
+        {
+          "id": "2559a4966f2d",
+          "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+          "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+          "description": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 14 Nov 2026 17:45:04 +0000"
+        },
+        {
+          "id": "af3d4ad5ebb4",
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 14 Nov 2026 17:30:00 +0000"
+        },
+        {
+          "id": "c39deaec263f",
+          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+          "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "description": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sat, 14 Nov 2026 16:34:15 +0000"
+        },
         {
           "id": "3567f51033d8",
           "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
@@ -149,40 +185,22 @@
           "pub_date": "Thu, 12 Nov 2026 21:27:10 +0000"
         },
         {
-          "id": "84b10e74c0ef",
-          "title": "Jensen Huang was having a third affair, Reuters reports",
-          "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-          "description": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-          "source": "TechCrunch",
+          "id": "9e7b44380927",
+          "title": "James Webb telescope finds ice older than the star it orbits",
+          "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+          "description": "Radiation and collisions reshape the planetary building materials.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 12 Nov 2026 20:26:47 +0000"
+          "pub_date": "Sat, 14 Nov 2026 12:15:48 +0000"
         },
         {
-          "id": "418bf19a0c2a",
-          "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-          "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-          "description": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-          "source": "TechCrunch",
+          "id": "850d737ef435",
+          "title": "Winemakers are learning that conservation can be good for business",
+          "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+          "description": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Thu, 12 Nov 2026 19:27:45 +0000"
-        },
-        {
-          "id": "edf6b1051962",
-          "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-          "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-          "description": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 12 Nov 2026 19:11:00 +0000"
-        },
-        {
-          "id": "f7e7e718ebb5",
-          "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-          "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-          "description": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Thu, 12 Nov 2026 18:39:23 +0000"
+          "pub_date": "Sat, 14 Nov 2026 12:05:51 +0000"
         },
         {
           "id": "235c3e725b4a",
@@ -194,10 +212,10 @@
           "pub_date": "Sat, 14 Nov 2026 00:49:13 +0000"
         },
         {
-          "id": "9bf519261ab7",
-          "title": "FAA orders third nationwide ground stop in its history",
+          "id": "882a7fc643e0",
+          "title": "FAA has lifted its third-ever nationwide ground stop",
           "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-          "description": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+          "description": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Fri, 13 Nov 2026 23:17:38 +0000"
@@ -345,27 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Thu, 12 Nov 2026 19:23:03 +0000"
-        },
-        {
-          "id": "af31d4b583a6",
-          "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-          "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-          "description": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 12 Nov 2026 19:09:57 +0000"
-        },
-        {
-          "id": "f21910284213",
-          "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-          "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-          "description": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 12 Nov 2026 18:57:45 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. 亚马逊推出高端电子阅读器Kindle Colorsoft，配置与价格均定位高端市场。\n2. 英伟达CEO黄仁勋离职引发AI初创企业融资巨大缺口，风投和创始人纷纷表示担忧；相关丑闻持续发酵，民主党已对英伟达展开调查，以色列风投则从中看到挑战者的机会。\n3. 美国政府以“特殊情形”为由停飞全美所有航班；与此同时，微软最新邮件故障演变为全球性云服务危机。\n4. AI智能体领域动态频繁：LangChain估值达30亿美元；ChatGPT推出新钱包功能，可让AI代理代为购物和结账；ElevenLabs推出结合会议记录与听写的团队应用。\n5. Uber证实黑客在数据泄露中窃取数千名司机的驾照信息。\n\n今日最值得关注的是黄仁勋离职引发的连锁反应——从AI融资缺口、政治调查到行业格局变动，其影响正持续扩大。",
+      "summary": "今日科技动态摘要\n\n1. 英伟达CEO黄仁勋离职引发连锁反应：亚洲各国政府对此作出反应，风投和创始人称其离职给AI初创企业融资留下巨大缺口，相关丑闻时间线也在逐步展开；同时有报道指出，被出口禁令限制的英伟达芯片竟支撑了中国最强AI模型。\n\n2. 美国全国航班停飞：交通部长将停飞归咎于“例行”设备升级，政府称因“特殊情况”停飞所有航班。\n\n3. AI行业喜忧参半：AI代理初创公司LangChain估值达30亿美元；ChatGPT推出新钱包功能，可让AI代理代为购物和结账；ElevenLabs推出结合会议记录与听写的团队应用；同时有媒体整理了一份“AI墓地”清单，盘点未能存活的AI项目和初创公司。\n\n4. 科技产品与安全动态：亚马逊推出高端电子阅读器Kindle Colorsoft，售价同样高端；Uber证实黑客在数据泄露中窃取了数千名司机的驾照信息；微软最新邮件故障演变为全球性云服务危机。\n\n5. 创新与硬件：一家年轻初创公司计划利用海洋热能驱动漂浮数据中心，已获投资者支持；另有报道介绍iPhone Duo的9项实用设置技巧。\n\n今日最值得关注的是英伟达CEO黄仁勋离职所引发的AI融资震荡与地缘技术博弈，其影响正从资本市场蔓延至全球AI竞争格局。",
       "count": 40
     },
     "ai": {
@@ -641,16 +641,61 @@
           "pub_date": "Tue, 10 Nov 2026 08:00:00 GMT"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. Hugging Face 发布 llama.cpp v1.0.0，为本地AI生态提供更坚实的基础，同时推出LLMON（LLM原生标记语言）并已集成到Granite 4.1 3B和8B模型中。\n2. Hugging Face 上线多项实用工具与功能：支持用Google Cloud账户支付Hub费用、发布决策模型（Decision Models）、推出BotPsy端侧个人助理（采用亚十亿参数智能体语言模型），以及多向量嵌入模型的Token池化感知训练方法。\n3. Hugging Face 发布面向开发者的教程与指南，包括基于SimReady资产的机器人抓放仿真、3D生成模型微调权威指南，以及XYBench基准测试和专家模型协作（HOPE）相关研究。\n4. Google AI 博客宣布Gemini多项更新：搜索获Gemini 4 Hydrogen重大升级、推出快速校准的多模态Gemini Decisions API、Gemini Intelligence扩展至更多设备，并上线Tabletop协作空间及Dr. Esther Mahlangu艺术遗产体验内容。\n\n今日最值得关注的是llama.cpp v1.0.0的发布，标志着本地AI推理生态迈入成熟稳定的新阶段。",
+      "summary": "今日AI动态摘要\n\n1. Hugging Face发布llama.cpp v1.0.0，为本地AI生态奠定更坚实基础；同时推出LLMON（LLM原生标记语言），已集成至Granite 4.1 3B和8B模型。\n2. Hugging Face上线多项工具与能力：SimReady资产生成机器人抓取放置仿真教程、3D生成模型微调权威指南、支持用Google Cloud账户支付Hub费用，以及Decision Models和Token Pooling感知训练等新方法。\n3. Google AI博客发布多项更新：搜索获Gemini 4 Hydrogen重大升级、推出快速校准的Gemini Decisions多模态决策API、Gemini Intelligence扩展至更多设备，并上线Tabletop协作空间与Dr. Esther Mahlangu艺术遗产体验项目。\n4. Hugging Face还推出BotPsy（基于亚十亿参数智能体语言模型的端侧个人助理）、XYBench基准测试，以及面向专家模型协作的HOPE方法。\n\n今日最值得关注的是llama.cpp迈入v1.0.0里程碑，标志着本地AI推理生态走向成熟稳定。",
       "count": 30
     },
     "cctv": {
       "articles": [
         {
+          "id": "3d0493a4cc38",
+          "title": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China",
+          "link": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
+          "description": "Article URL: https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/ Comments URL: https://news.ycombinator.com/item?id=50499730 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 14 Nov 2026 18:57:51 +0000"
+        },
+        {
+          "id": "b53f18b6c385",
+          "title": "Behind Jensen Huang's spy scandal, a shadow war for Trump's ear on China",
+          "link": "https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/",
+          "description": "Article URL: https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/ Comments URL: https://news.ycombinator.com/item?id=50498575 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 14 Nov 2026 17:01:35 +0000"
+        },
+        {
+          "id": "ac0d1bdad83a",
+          "title": "Jensen Huang's exit from Nvidia impacts China's AI supply chain",
+          "link": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
+          "description": "Article URL: https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/ Comments URL: https://news.ycombinator.com/item?id=50497744 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 14 Nov 2026 15:22:11 +0000"
+        },
+        {
+          "id": "2586a5c9eb8d",
+          "title": "China builds 800MW AI data center campus to rival US Stargate project",
+          "link": "https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost",
+          "description": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost Comments URL: https://news.ycombinator.com/item?id=50497561 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 14 Nov 2026 15:01:29 +0000"
+        },
+        {
+          "id": "b060a32d1d3c",
+          "title": "Could China's battery-swapping e-trucks be the answer to EV range anxiety",
+          "link": "https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety",
+          "description": "Article URL: https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety Comments URL: https://news.ycombinator.com/item?id=50495321 Points: 8 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 14 Nov 2026 08:57:32 +0000"
+        },
+        {
           "id": "b519f44a20c7",
           "title": "Inside the Hidden World of China's Underground Synth Culture [video]",
           "link": "https://www.youtube.com/watch?v=DS9Zt1nQJpU",
-          "description": "Article URL: https://www.youtube.com/watch?v=DS9Zt1nQJpU Comments URL: https://news.ycombinator.com/item?id=50490938 Points: 3 # Comments: 0",
+          "description": "Article URL: https://www.youtube.com/watch?v=DS9Zt1nQJpU Comments URL: https://news.ycombinator.com/item?id=50490938 Points: 4 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 13 Nov 2026 22:28:07 +0000"
@@ -677,7 +722,7 @@
           "id": "f68638ad565d",
           "title": "Over 90% of China's solar supply chain is reporting losses",
           "link": "https://pv-magazine-usa.com/2026/11/12/over-90-of-chinas-solar-supply-chain-is-reporting-losses-says-iea/",
-          "description": "Article URL: https://pv-magazine-usa.com/2026/11/12/over-90-of-chinas-solar-supply-chain-is-reporting-losses-says-iea/ Comments URL: https://news.ycombinator.com/item?id=50487219 Points: 5 # Comments: 1",
+          "description": "Article URL: https://pv-magazine-usa.com/2026/11/12/over-90-of-chinas-solar-supply-chain-is-reporting-losses-says-iea/ Comments URL: https://news.ycombinator.com/item?id=50487219 Points: 6 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 13 Nov 2026 17:57:47 +0000"
@@ -686,7 +731,7 @@
           "id": "b19c21f8f557",
           "title": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan",
           "link": "https://www.reuters.com/world/china/china-stages-unannounced-pacific-drills-silent-intimidation-taiwan-officials-say-2026-11-13/",
-          "description": "Article URL: https://www.reuters.com/world/china/china-stages-unannounced-pacific-drills-silent-intimidation-taiwan-officials-say-2026-11-13/ Comments URL: https://news.ycombinator.com/item?id=50487181 Points: 4 # Comments: 0",
+          "description": "Article URL: https://www.reuters.com/world/china/china-stages-unannounced-pacific-drills-silent-intimidation-taiwan-officials-say-2026-11-13/ Comments URL: https://news.ycombinator.com/item?id=50487181 Points: 5 # Comments: 0",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 13 Nov 2026 17:55:16 +0000"
@@ -695,7 +740,7 @@
           "id": "6fca845cb4a9",
           "title": "China now burns more coal than the rest of the world combined",
           "link": "https://ourworldindata.org/data-insights/almost-all-the-growth-in-global-coal-use-since-the-late-1980s-has-come-from-china",
-          "description": "Article URL: https://ourworldindata.org/data-insights/almost-all-the-growth-in-global-coal-use-since-the-late-1980s-has-come-from-china Comments URL: https://news.ycombinator.com/item?id=50485692 Points: 9 # Comments: 8",
+          "description": "Article URL: https://ourworldindata.org/data-insights/almost-all-the-growth-in-global-coal-use-since-the-late-1980s-has-come-from-china Comments URL: https://news.ycombinator.com/item?id=50485692 Points: 11 # Comments: 8",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 13 Nov 2026 16:17:12 +0000"
@@ -704,7 +749,7 @@
           "id": "6be964d46ed6",
           "title": "Bessent points to Lutnick's Commerce as he slams Nvidia chip 'leakage' to China",
           "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-          "description": "Article URL: https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html Comments URL: https://news.ycombinator.com/item?id=50485217 Points: 1 # Comments: 1",
+          "description": "Article URL: https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html Comments URL: https://news.ycombinator.com/item?id=50485217 Points: 2 # Comments: 1",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 13 Nov 2026 15:46:46 +0000"
@@ -731,7 +776,7 @@
           "id": "992a71647580",
           "title": "US Intel isn't sure if Alice Huang spied on Nvidia for China",
           "link": "https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia",
-          "description": "Article URL: https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia Comments URL: https://news.ycombinator.com/item?id=50476257 Points: 37 # Comments: 52",
+          "description": "Article URL: https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia Comments URL: https://news.ycombinator.com/item?id=50476257 Points: 39 # Comments: 55",
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Fri, 13 Nov 2026 00:02:34 +0000"
@@ -852,54 +897,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Wed, 11 Nov 2026 09:10:08 +0000"
-        },
-        {
-          "id": "db5b1c2ff1f4",
-          "title": "'Flying cars' could launch in China next summer, maker of two-seat model says",
-          "link": "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
-          "description": "Article URL: https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng Comments URL: https://news.ycombinator.com/item?id=50446221 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 10 Nov 2026 20:56:16 +0000"
-        },
-        {
-          "id": "d385fc6961a4",
-          "title": "China seeks high-tech upper hand in industry carrying 80% of global trade",
-          "link": "https://www.reuters.com/world/china/china-seeks-high-tech-upper-hand-industry-carrying-80-global-trade-2026-11-10/",
-          "description": "Article URL: https://www.reuters.com/world/china/china-seeks-high-tech-upper-hand-industry-carrying-80-global-trade-2026-11-10/ Comments URL: https://news.ycombinator.com/item?id=50435279 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 10 Nov 2026 02:18:13 +0000"
-        },
-        {
-          "id": "7281a2f9e91c",
-          "title": "We are short Nvidia $NVDA. We believe Nvidia has a significant China problem",
-          "link": "https://twitter.com/CulperResearch/status/2054623784452120917",
-          "description": "Article URL: https://twitter.com/CulperResearch/status/2054623784452120917 Comments URL: https://news.ycombinator.com/item?id=50425504 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 09 Nov 2026 13:44:06 +0000"
-        },
-        {
-          "id": "af6615ebfe07",
-          "title": "Nvidia's China Problem [pdf]",
-          "link": "https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf",
-          "description": "Article URL: https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50424604 Points: 42 # Comments: 18",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 09 Nov 2026 12:20:45 +0000"
-        },
-        {
-          "id": "184e126e2111",
-          "title": "China Newspaper Dismisses Jensen Huang Spy Claim, Warns on Ties",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties Comments URL: https://news.ycombinator.com/item?id=50421665 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 09 Nov 2026 06:09:24 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 中国建成800兆瓦离网数据中心，新能源基础设施持续推进。\n2. 中国太阳能供应链超90%企业报告亏损，行业面临严峻经营压力。\n3. 中国在太平洋举行未事先宣布的军事演习，对台湾形成“沉默威慑”。\n4. 中国煤炭消耗量已超过世界其他地区总和，能源结构转型任重道远。\n5. 英伟达CEO黄仁勋突然离职震动中国员工，美国政界围绕英伟达对华芯片“泄漏”问题持续发酵，参议院就非法芯片销售展开调查。\n\n今日最值得关注的是：美国政界围绕英伟达对华芯片出口的争议持续升级，参议院启动调查，同时黄仁勋突然离职为英伟达在华业务前景增添不确定性。",
+      "summary": "今日新闻联播动态摘要\n\n1. 英伟达CEO黄仁勋突然离职，引发Nvidia中国员工震动，其退出对中国AI供应链造成影响，同时背后涉及美国情报界对其是否为中国从事间谍活动的调查争议。\n2. 中国建成800兆瓦离网AI数据中心园区，对标美国“星际之门”项目，彰显中国在AI基础设施领域的大规模布局。\n3. 中国太阳能供应链超过90%的企业报告亏损，同时中国煤炭消费量已超过世界其他地区总和，能源结构矛盾突出。\n4. 中国在太平洋举行未事先宣布的军事演习，对台湾形成“沉默威慑”；美国方面继续就英伟达芯片对华“泄漏”问题施压。\n5. 中国换电式电动卡车被视为解决电动车续航焦虑的潜在方案，同时NHTSA拟为自动驾驶出租车引入青色指示灯。\n\n今日最值得关注的发展是英伟达CEO黄仁勋突然离职及其引发的间谍调查风波，这一事件可能深刻影响中美AI芯片供应链格局与地缘科技竞争态势。",
       "count": 28
     }
   }
