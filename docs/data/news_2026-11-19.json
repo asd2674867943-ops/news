@@ -1,9 +1,135 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T03:01:12.676198",
+  "generated_at": "2026-11-19T21:59:04.445033",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "b9f7414c4a74",
+          "title": "Meta’s new Muse Charm device may cost $300",
+          "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+          "description": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 21:58:06 +0000"
+        },
+        {
+          "id": "7373aff18057",
+          "title": "These tech outages are giving Y2K, AI agent style",
+          "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+          "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 21:42:31 +0000"
+        },
+        {
+          "id": "c74cc1e8fe4e",
+          "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+          "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+          "description": "Uber is testing the new program in three U.S. cities.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 21:33:24 +0000"
+        },
+        {
+          "id": "afadad4b5b70",
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 20:18:49 +0000"
+        },
+        {
+          "id": "d919e91e7522",
+          "title": "Anthropic’s IPO could deliver $156 billion to charity",
+          "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+          "description": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 19:10:45 +0000"
+        },
+        {
+          "id": "7bc44b4f5a79",
+          "title": "Google gives Gemini the ability to use your Mac for you",
+          "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+          "description": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 18:09:11 +0000"
+        },
+        {
+          "id": "05d88b005173",
+          "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+          "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+          "description": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 17:38:40 +0000"
+        },
+        {
+          "id": "f1056cc422e6",
+          "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+          "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+          "description": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 17:00:00 +0000"
+        },
+        {
+          "id": "9eddf54582b7",
+          "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+          "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+          "description": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 16:59:23 +0000"
+        },
+        {
+          "id": "e8d19a362387",
+          "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+          "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+          "description": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 16:19:41 +0000"
+        },
+        {
+          "id": "a21a99fac01e",
+          "title": "UK government forced to disclose secret Apple backdoor order",
+          "link": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+          "description": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 15:32:20 +0000"
+        },
+        {
+          "id": "17f00312cfb7",
+          "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+          "description": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 14:54:39 +0000"
+        },
+        {
+          "id": "f67660c80e73",
+          "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+          "link": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+          "description": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 14:00:00 +0000"
+        },
+        {
+          "id": "f8676863b908",
+          "title": "Superhuman pushes its Go assistant everywhere",
+          "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+          "description": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Thu, 19 Nov 2026 14:00:00 +0000"
+        },
         {
           "id": "3d14c4913ac9",
           "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -59,130 +185,85 @@
           "pub_date": "Wed, 18 Nov 2026 22:58:11 +0000"
         },
         {
-          "id": "9f2d3a70357b",
-          "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-          "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-          "description": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-          "source": "TechCrunch",
+          "id": "ea41930b2934",
+          "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+          "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+          "description": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 22:11:15 +0000"
+          "pub_date": "Thu, 19 Nov 2026 21:19:12 +0000"
         },
         {
-          "id": "6e63a68cb8e9",
-          "title": "Palmer Luckey doesn’t deny that he’s a prepper",
-          "link": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
-          "description": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
-          "source": "TechCrunch",
+          "id": "67938464f321",
+          "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+          "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+          "description": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 22:04:03 +0000"
+          "pub_date": "Thu, 19 Nov 2026 20:29:46 +0000"
         },
         {
-          "id": "f9eb299246bb",
-          "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-          "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-          "description": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-          "source": "TechCrunch",
+          "id": "021ab455e077",
+          "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+          "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+          "description": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 21:57:40 +0000"
+          "pub_date": "Thu, 19 Nov 2026 20:19:28 +0000"
         },
         {
-          "id": "50b4bc5b4e20",
-          "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-          "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-          "description": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-          "source": "TechCrunch",
+          "id": "64c71e09e0dd",
+          "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+          "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+          "description": "\"Project Suncatcher is a long-term moonshot.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 21:34:13 +0000"
+          "pub_date": "Thu, 19 Nov 2026 19:52:54 +0000"
         },
         {
-          "id": "bc14641994e1",
-          "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-          "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-          "description": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-          "source": "TechCrunch",
+          "id": "30ae0fe887bc",
+          "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+          "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+          "description": "Some models fare better, but all fail in similar ways.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 21:31:21 +0000"
+          "pub_date": "Thu, 19 Nov 2026 18:44:39 +0000"
         },
         {
-          "id": "0f847fb1ff6e",
-          "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-          "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-          "description": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-          "source": "TechCrunch",
+          "id": "3e1460445eb7",
+          "title": "Google will launch Android app verification requirement globally in January 2027",
+          "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+          "description": "Google says almost all developers have already gotten on board with verification.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 20:07:01 +0000"
+          "pub_date": "Thu, 19 Nov 2026 18:00:33 +0000"
         },
         {
-          "id": "db80ff2083c3",
-          "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-          "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-          "description": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-          "source": "TechCrunch",
+          "id": "9419e628509e",
+          "title": "Mouse fight club might explain why we like to watch violent things",
+          "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+          "description": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 19:56:39 +0000"
+          "pub_date": "Thu, 19 Nov 2026 14:04:38 +0000"
         },
         {
-          "id": "eaa866aaafc4",
-          "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-          "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-          "description": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
-          "source": "TechCrunch",
+          "id": "60c2788f7bb1",
+          "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+          "link": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+          "description": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 19:29:41 +0000"
+          "pub_date": "Thu, 19 Nov 2026 13:40:02 +0000"
         },
         {
-          "id": "a3de288b1ec1",
-          "title": "Google’s AI feature in Search gets its own incognito mode",
-          "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-          "description": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
-          "source": "TechCrunch",
+          "id": "2dddf2933ee4",
+          "title": "How to tell a cyberattack from a plain old outage",
+          "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+          "description": "When everything goes down, don’t assume it’s a cyberattack.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 18:04:05 +0000"
-        },
-        {
-          "id": "442952f41763",
-          "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-          "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-          "description": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 17:32:10 +0000"
-        },
-        {
-          "id": "0eddf3a0433c",
-          "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
-          "link": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
-          "description": "Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 17:30:56 +0000"
-        },
-        {
-          "id": "bce8f1a652b7",
-          "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-          "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-          "description": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 16:59:00 +0000"
-        },
-        {
-          "id": "6c284a6e083d",
-          "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-          "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-          "description": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 16:14:09 +0000"
-        },
-        {
-          "id": "392a5dd27fe1",
-          "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
-          "link": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
-          "description": "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 16:00:00 +0000"
+          "pub_date": "Thu, 19 Nov 2026 11:13:01 +0000"
         },
         {
           "id": "49aa1d794db2",
@@ -275,97 +356,16 @@
           "pub_date": "Wed, 18 Nov 2026 17:53:59 +0000"
         },
         {
-          "id": "a656e309f7cd",
-          "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
-          "link": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
-          "description": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 16:58:32 +0000"
-        },
-        {
-          "id": "c200a35fbeb2",
-          "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
-          "link": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
-          "description": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 16:24:34 +0000"
-        },
-        {
-          "id": "adf13b8d5a14",
-          "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
-          "link": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
-          "description": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 14:01:45 +0000"
-        },
-        {
-          "id": "5c46d0e1a5c8",
-          "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
-          "link": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
-          "description": "\"They are pretty confident that it's going to last a long, long, long time...\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 12:15:44 +0000"
-        },
-        {
-          "id": "0fe23f9ba6cf",
-          "title": "Grand Theft Auto VI: The Ars Technica review",
-          "link": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
-          "description": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 11:00:27 +0000"
-        },
-        {
-          "id": "ec93c5dddc24",
-          "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-          "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-          "description": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Wed, 18 Nov 2026 00:27:29 +0000"
-        },
-        {
-          "id": "084f360aa925",
-          "title": "San Diego dumps both Flock cameras and smart streetlights",
-          "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
-          "description": "500+ cameras will go dark just 3 years after mayor urged approval.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 17 Nov 2026 23:09:09 +0000"
-        },
-        {
-          "id": "771e69da2386",
-          "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-          "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
-          "description": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 17 Nov 2026 22:44:46 +0000"
-        },
-        {
-          "id": "b6d8c86e086a",
-          "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-          "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-          "description": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Tue, 17 Nov 2026 22:32:16 +0000"
-        },
-        {
-          "id": "5e9422c9c31c",
-          "title": "AI Will Not Make You Rich (2025)",
-          "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
-          "description": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 49 # Comments: 29",
+          "id": "8cdfba4c6e86",
+          "title": "Rebuilding my local voice assistant pipeline",
+          "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+          "description": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Comments URL: https://news.ycombinator.com/item?id=50566261 Points: 10 # Comments: 1",
           "source": "Hacker News",
           "category": "tech",
-          "pub_date": "Thu, 19 Nov 2026 01:51:28 +0000"
+          "pub_date": "Thu, 19 Nov 2026 20:57:14 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. 微软CEO萨提亚·纳德拉表示，尽管存在AI网络攻击的担忧，大量关键基础设施仍“无法修补”；他预测AI代理将重塑互联网经济格局，并对英伟达在黄仁勋离职后保持信心。\n2. 埃隆·马斯克称自己“不是MAGA”，并表示罢免黄仁勋如同“把迈克尔·乔丹踢出球队”；帕尔默·拉基则警告AI驱动的网络攻击正超越防御能力，认为中国“乐于见到黄仁勋离开”，主张让其回归英伟达。\n3. Anthropic据报IPO定价为每股83美元，高于预期区间；Payhawk宣布融资2.8亿美元，估值达20亿美元；Snapchat允许开发者使用Claude Code和Cursor等AI助手构建AR镜头；谷歌搜索的AI功能新增无痕模式。\n\n今日最值得关注的是AI领域围绕英伟达领导层变动与网络安全的连锁反应，以及Anthropic IPO定价释放的市场信号。",
+      "summary": "今日科技动态摘要\n\n1. Anthropic完成IPO并登陆纳斯达克，发行价111美元、较IPO价格高33%，CEO重申对AI发展节奏的承诺，其IPO或向慈善机构输送1560亿美元，同时被视为对AI循环融资热潮的检验。\n2. Meta的AI智能体Muse被曝混淆对话、可能泄露私人数据，其新款Muse Charm设备或定价300美元。\n3. 谷歌为Gemini赋予代用户操作Mac的能力；微软CEO纳德拉解释为何要求6万名员工离职。\n4. Uber测试面向最低10岁儿童的乘车服务、司机可获额外报酬；英国政府被迫披露秘密要求苹果开后门的命令。\n5. 前阿里巴巴高管创办的Everful融资4850万美元，连接零售商与中国工厂。\n\n今日最值得关注的是Anthropic登陆纳斯达克，其IPO表现既检验AI行业融资模式，也因巨额慈善承诺引发广泛关注。",
       "count": 40
     },
     "ai": {
@@ -452,13 +452,22 @@
           "pub_date": "Fri, 13 Nov 2026 14:05:22 GMT"
         },
         {
-          "id": "2550c4061243",
-          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "description": "",
-          "source": "Hugging Face",
+          "id": "764be08c479c",
+          "title": "Introducing Tool Retrieval in the Gemini API",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+          "description": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+          "source": "Google AI Blog",
           "category": "ai",
-          "pub_date": "Thu, 12 Nov 2026 19:07:35 GMT"
+          "pub_date": "Thu, 19 Nov 2026 18:00:00 +0000"
+        },
+        {
+          "id": "909b5cc816ae",
+          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+          "description": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Thu, 19 Nov 2026 17:00:00 +0000"
         },
         {
           "id": "ccf1d2b60561",
@@ -488,13 +497,13 @@
           "pub_date": "Mon, 16 Nov 2026 14:00:00 +0000"
         },
         {
-          "id": "76115e77b628",
-          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-          "description": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-          "source": "Google AI Blog",
+          "id": "1c9e8b93999e",
+          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+          "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "description": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+          "source": "OpenAI Blog",
           "category": "ai",
-          "pub_date": "Thu, 12 Nov 2026 18:00:00 +0000"
+          "pub_date": "Thu, 19 Nov 2026 08:00:00 GMT"
         },
         {
           "id": "d59a362cd133",
@@ -506,19 +515,19 @@
           "pub_date": "Wed, 18 Nov 2026 10:00:00 GMT"
         },
         {
-          "id": "e3c31bbdfaf8",
-          "title": "Research acceleration: The jagged frontier",
-          "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-          "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+          "id": "17afc911309a",
+          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "link": "https://openai.com/business/customer-stories/sumitomo-life",
+          "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 18 Nov 2026 08:00:00 GMT"
         },
         {
-          "id": "17afc911309a",
-          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-          "link": "https://openai.com/business/customer-stories/sumitomo-life",
-          "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+          "id": "e3c31bbdfaf8",
+          "title": "Research acceleration: The jagged frontier",
+          "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 18 Nov 2026 08:00:00 GMT"
@@ -587,19 +596,19 @@
           "pub_date": "Tue, 17 Nov 2026 08:00:00 GMT"
         },
         {
-          "id": "eb96b7b1de56",
-          "title": "Astra for Law leads in legal intelligence",
-          "link": "https://openai.com/index/astra-law-6-2",
-          "description": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+          "id": "979972b78cf3",
+          "title": "Introducing OpenAI for Chile",
+          "link": "https://openai.com/index/introducing-openai-for-chile",
+          "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Tue, 17 Nov 2026 00:00:00 GMT"
         },
         {
-          "id": "979972b78cf3",
-          "title": "Introducing OpenAI for Chile",
-          "link": "https://openai.com/index/introducing-openai-for-chile",
-          "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+          "id": "eb96b7b1de56",
+          "title": "Astra for Law leads in legal intelligence",
+          "link": "https://openai.com/index/astra-law-6-2",
+          "description": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Tue, 17 Nov 2026 00:00:00 GMT"
@@ -630,22 +639,67 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Mon, 16 Nov 2026 12:00:00 GMT"
-        },
-        {
-          "id": "ea9f611d6beb",
-          "title": "How Revolut raises ambition without lowering the bar",
-          "link": "https://openai.com/business/customer-stories/revolut",
-          "description": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Mon, 16 Nov 2026 09:30:00 GMT"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. Hugging Face发布多项模型与工具更新：DaisyRose-27B推动后训练效率前沿，Rumble-2-Flash开源0.5B语音模型支持40+语言，llama.cpp v1.0.0为本地AI生态奠定更强基础。\n2. MoE推理与微调效率受关注：180B参数模型仅用32GB内存实现极限MoE推理，同时探讨微调任务耗时远超FLOPs预期的原因。\n3. Hugging Face与OpenRouter合作简化开放权重模型运行，并推出XYBench基准测试、LLMON标记语言（已集成至Granite 4.1 3B/8B）及时序模型新应用场景。\n4. Google AI多项更新：Gemini应用扩展至低内存Android设备，Search获Gemini 4 Hydrogen重大升级，Ask Maps新增假日出行功能。\n5. OpenAI博客发布《The Silent Consensus》，探讨AI领域隐性共识问题。\n\n今日最值得关注的是Hugging Face与OpenRouter的合作为开放权重模型降低运行门槛，以及llama.cpp v1.0.0的发布，两者共同推动本地AI生态的普及化。",
+      "summary": "今日AI动态摘要\n\n1. **模型效率与推理优化取得突破**：Hugging Face发布DaisyRose-27B推动后训练效率前沿，同时展示仅用32GB内存运行180B参数MoE模型的推理极限方案，并探讨微调任务耗时超出FLOPs预期的原因。\n2. **开源模型与工具生态持续扩展**：Rumble-2-Flash开源0.5B语音模型支持40+语言；llama.cpp发布v1.0.0为本地AI生态奠定更强基础；Hugging Face与OpenRouter合作简化开放权重模型的运行。\n3. **Google Gemini多线推进**：Gemini API引入工具检索功能，Gemini应用下探至低内存Android设备，并推广Gemini办公应用场景。\n4. **应用与基准创新**：Hugging Face推出时间序列模型新用例、基于SimReady资产的机器人抓取仿真，以及XYBench基准；Google Maps新增假期出行辅助功能。\n5. **基础设施与人物观点**：OpenAI揭秘Performance Factory如何保持ChatGPT高速响应；Walter Isaacson探讨AI时代的好奇心与创造力。\n\n今日最值得关注的是开源模型效率的集中突破——从180B MoE的低内存推理到llama.cpp v1.0.0的生态里程碑，本地AI部署门槛正快速降低。",
       "count": 30
     },
     "cctv": {
       "articles": [
+        {
+          "id": "d64f9811a16f",
+          "title": "AMD Has Its Own China Problem (Hunterbrook, Short-Seller)",
+          "link": "https://hntrbrk.com/investigations/amd-china",
+          "description": "Article URL: https://hntrbrk.com/investigations/amd-china Comments URL: https://news.ycombinator.com/item?id=50561560 Points: 8 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 19 Nov 2026 15:41:29 +0000"
+        },
+        {
+          "id": "2b01be6d7912",
+          "title": "Why is China treated as threat-actor but not India?",
+          "link": "https://news.ycombinator.com/item?id=50560324",
+          "description": "Why do people balk at someone saying that the actions of India/Indians are a negative vector for technology but you can unblinkingly say China/Chinese in the same breath and they will agree? Doublethink/it's 1984/people are gullible cretins are not acceptable answers. Comments URL: https://news.ycombinator.com/item?id=50560324 Points: 8 # Comments: 15",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 19 Nov 2026 14:09:04 +0000"
+        },
+        {
+          "id": "c11ba8bd2cb6",
+          "title": "Not Out of Control: China's Cyber Campaigns",
+          "link": "https://www.interface-eu.org/publications/china-cyber-ai",
+          "description": "Article URL: https://www.interface-eu.org/publications/china-cyber-ai Comments URL: https://news.ycombinator.com/item?id=50559846 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 19 Nov 2026 13:31:04 +0000"
+        },
+        {
+          "id": "40e6cf510935",
+          "title": "Nvidia stops shipping US-approved AI chips to China",
+          "link": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/",
+          "description": "Article URL: https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/ Comments URL: https://news.ycombinator.com/item?id=50558112 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 19 Nov 2026 09:59:57 +0000"
+        },
+        {
+          "id": "93865184e25c",
+          "title": "Potentially $43B in Nvidia chips were 'sold to China illegally'",
+          "link": "https://www.yahoo.com/news/videos/tech-journalist-says-potentially-43-144438800.html",
+          "description": "Article URL: https://www.yahoo.com/news/videos/tech-journalist-says-potentially-43-144438800.html Comments URL: https://news.ycombinator.com/item?id=50557234 Points: 8 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 19 Nov 2026 07:55:41 +0000"
+        },
+        {
+          "id": "9bdabb0a7c95",
+          "title": "Nvidia Chips Ended Up Within Reach of China's Military",
+          "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+          "description": "Article URL: https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html Comments URL: https://news.ycombinator.com/item?id=50556039 Points: 2 # Comments: 5",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 19 Nov 2026 04:19:14 +0000"
+        },
         {
           "id": "5248d153ee50",
           "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says",
@@ -852,63 +906,9 @@
           "source": "HN-China",
           "category": "cctv",
           "pub_date": "Mon, 16 Nov 2026 06:54:03 +0000"
-        },
-        {
-          "id": "1ae469eaf12d",
-          "title": "Jensen Huang's downfall will accelerate US-China 'great decoupling'",
-          "link": "https://www.channelnewsasia.com/commentary/nvidia-jensen-huang-affair-us-china-ai-tech-decoupling-6552516",
-          "description": "Article URL: https://www.channelnewsasia.com/commentary/nvidia-jensen-huang-affair-us-china-ai-tech-decoupling-6552516 Comments URL: https://news.ycombinator.com/item?id=50514223 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 16 Nov 2026 04:59:19 +0000"
-        },
-        {
-          "id": "dcd5bb8d38a7",
-          "title": "China's Economic Slowdown Deepens",
-          "link": "https://www.scmp.com/economy/economic-indicators/article/3374531/chinas-economic-activity-falters-october-amid-sluggish-retail-sales",
-          "description": "Article URL: https://www.scmp.com/economy/economic-indicators/article/3374531/chinas-economic-activity-falters-october-amid-sluggish-retail-sales Comments URL: https://news.ycombinator.com/item?id=50513444 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 16 Nov 2026 02:52:35 +0000"
-        },
-        {
-          "id": "c3bbe3423a20",
-          "title": "Why Is China Shipping Jensen Huang? [video]",
-          "link": "https://www.youtube.com/watch?v=gJGiApWDzjM",
-          "description": "Article URL: https://www.youtube.com/watch?v=gJGiApWDzjM Comments URL: https://news.ycombinator.com/item?id=50509152 Points: 2 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 15 Nov 2026 18:07:23 +0000"
-        },
-        {
-          "id": "ac0d1bdad83a",
-          "title": "Jensen Huang's exit from Nvidia impacts China's AI supply chain",
-          "link": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
-          "description": "Article URL: https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/ Comments URL: https://news.ycombinator.com/item?id=50508909 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 15 Nov 2026 17:41:01 +0000"
-        },
-        {
-          "id": "0bb5ee0d1976",
-          "title": "China's COMAC completes first piloted flight of CE-25A electric aircraft",
-          "link": "https://www.aerotime.aero/articles/chinas-comac-completes-first-piloted-flight-of-ce-25a-electric-aircraft",
-          "description": "Article URL: https://www.aerotime.aero/articles/chinas-comac-completes-first-piloted-flight-of-ce-25a-electric-aircraft Comments URL: https://news.ycombinator.com/item?id=50507461 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 15 Nov 2026 15:11:01 +0000"
-        },
-        {
-          "id": "cb51b844a4d5",
-          "title": "New Species of Giant Fungus Discovered in China Grows Up to 20 Inches Tall",
-          "link": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
-          "description": "Article URL: https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/ Comments URL: https://news.ycombinator.com/item?id=50506928 Points: 21 # Comments: 6",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 15 Nov 2026 13:49:00 +0000"
         }
       ],
-      "summary": "今日新闻联播动态摘要\n\n1. 中美AI芯片博弈持续升级：英伟达在美方批准情况下仍全面停止对华AI芯片销售（含H200），美方进一步收紧对华AI芯片出口限制；与此同时，中国寻求获取英伟达先进芯片用于AI武器研发，并利用美国AI模型训练本土竞争对手。\n2. 中国科技与军事自主突破：中国保持全球最快超级计算机地位；J-35战斗机工程师率先应用3D打印承重结构；内蒙古“星门”式算力设施引发关注；北方完成5吨级货运无人机试飞。\n3. 中国汽车产业崛起与隐忧并存：中国正成为全球领先汽车制造国，但“完美汽车”背后暗藏隐忧；台湾本世纪首次对美出口超过对大陆出口，反映供应链格局变化。\n\n今日最值得关注的是：英伟达在获得美方许可后仍全面断供中国AI芯片，标志着中美科技脱钩进一步加深，中国AI产业面临更严峻的算力挑战。",
+      "summary": "今日新闻联播动态摘要\n\n1. 英伟达对华AI芯片销售全面停滞：尽管部分芯片已获美国出口批准，英伟达仍停止向中国出货所有AI芯片（包括H200），同时有报道称价值约430亿美元的英伟达芯片可能通过非法渠道流入中国，并存在进入中国军事领域风险。\n2. 中国AI与超算能力持续突破：中国寻求先进英伟达芯片用于AI武器研发以应对美国限制；同时中国保持全球最快超级计算机地位，并在内蒙古建设大型算力设施（被称为中国“星际之门”）。\n3. 中国汽车与无人机产业加速领跑：中国正成为全球领先的汽车制造国，但报道也提及“完美汽车”背后的隐忧；此外，5吨级货运无人机在北方完成试飞。\n4. 涉华舆论与网络议题升温：有报道质疑为何中国被视为威胁行为体而印度不是，另有关于中国网络行动“并非失控”的分析，以及AMD面临自身中国问题的做空报告。\n\n今日最值得关注的是：英伟达对华AI芯片出货全面叫停，叠加芯片非法流向及军事用途的报道，显示中美科技博弈在AI算力领域进一步升级。",
       "count": 29
     }
   }
