@@ -1,9 +1,36 @@
 {
   "date": "2026-11-22",
-  "generated_at": "2026-11-22T01:58:55.607065",
+  "generated_at": "2026-11-22T20:36:05.989180",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "3b667931908c",
+          "title": "Why data centers are at the center of the Big Tech backlash",
+          "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+          "description": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 22 Nov 2026 18:08:43 +0000"
+        },
+        {
+          "id": "4df6c129b1f1",
+          "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+          "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+          "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 22 Nov 2026 17:06:00 +0000"
+        },
+        {
+          "id": "10987f0b7596",
+          "title": "Can a TV be too large? An investigation",
+          "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+          "description": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Sun, 22 Nov 2026 15:00:00 +0000"
+        },
         {
           "id": "c6a68734fa94",
           "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -158,31 +185,13 @@
           "pub_date": "Fri, 20 Nov 2026 13:21:11 +0000"
         },
         {
-          "id": "a52ef0c19f02",
-          "title": "The US national cyber director is stepping down",
-          "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
-          "description": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
-          "source": "TechCrunch",
+          "id": "9c155dafedb8",
+          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+          "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "description": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Fri, 20 Nov 2026 09:14:19 +0000"
-        },
-        {
-          "id": "80ef99262584",
-          "title": "Apple may be developing its own AI agent that runs your Mac",
-          "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-          "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 20 Nov 2026 00:56:01 +0000"
-        },
-        {
-          "id": "f66d3545a3c5",
-          "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-          "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-          "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-          "source": "TechCrunch",
-          "category": "tech",
-          "pub_date": "Fri, 20 Nov 2026 00:43:50 +0000"
+          "pub_date": "Sun, 22 Nov 2026 12:07:41 +0000"
         },
         {
           "id": "498f9267072b",
@@ -354,18 +363,9 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Thu, 19 Nov 2026 22:16:37 +0000"
-        },
-        {
-          "id": "ea41930b2934",
-          "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-          "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
-          "description": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Thu, 19 Nov 2026 21:19:12 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. Signal限制移动端截图功能，以应对AI监控带来的“生存威胁”。\n2. Bending Spoons以36.8亿美元收购Mailchimp。\n3. 一家被警方、检察官和科技巨头使用的转录公司发生客户数据在线泄露事件。\n4. 专家警告：当前几乎所有AI从业者都容易受到“美人计”式攻击。\n5. AI与人类同时宣称解决了167年历史的黎曼猜想。\n\n今日最值得关注的是AI监控与安全风险的双重升级——Signal被迫限制截图功能以对抗AI监控，而AI行业自身也暴露出普遍的安全脆弱性。",
+      "summary": "今日科技动态摘要\n\n1. 数据中心成为大型科技公司遭遇公众抵制的焦点，同时超热岩石地热技术被认为有望解决数据中心的能源困境。\n2. Signal因面临AI监控的“生存威胁”而限制移动端截图功能；专家警告AI领域几乎所有人都易受“蜂蜜陷阱”攻击。\n3. AI智能体可嵌入短信应用的趋势兴起，另有初创公司因“轻触共享联系人”功能在印度起诉苹果。\n4. 英伟达呈现“两个英伟达”的分化态势；AI与人类各自宣称解决了167年历史的黎曼假设，引发关注。\n5. 特朗普就FBI数据库遭黑客攻击的报道表态称“不妙”；芯片虽能承受太空环境，但其融资能力面临考验。\n\n今日最值得关注的是：AI监控威胁正迫使加密通讯应用调整隐私策略，而AI在基础科学领域的宣称与争议同时升温。",
       "count": 40
     },
     "ai": {
@@ -488,6 +488,15 @@
           "pub_date": "Mon, 16 Nov 2026 14:00:00 +0000"
         },
         {
+          "id": "dcc59959c9ad",
+          "title": "Perplexity and Intelligence",
+          "link": "https://openai.com/index/perplexity-and-intelligence",
+          "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Sun, 22 Nov 2026 00:00:00 GMT"
+        },
+        {
           "id": "dbe2bb9d3b36",
           "title": "Combatting adversarial distillation",
           "link": "https://openai.com/index/combatting-adversarial-distillation",
@@ -524,10 +533,10 @@
           "pub_date": "Thu, 19 Nov 2026 08:00:00 GMT"
         },
         {
-          "id": "7d9aaa0850d3",
-          "title": "Explore the Codex Security Plugin",
-          "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "description": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+          "id": "7b2857d5be11",
+          "title": "Deploying Daybreak Red",
+          "link": "https://openai.com/business/learn/deploying-daybreak-red",
+          "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 19 Nov 2026 00:00:00 GMT"
@@ -551,10 +560,10 @@
           "pub_date": "Thu, 19 Nov 2026 00:00:00 GMT"
         },
         {
-          "id": "7b2857d5be11",
-          "title": "Deploying Daybreak Red",
-          "link": "https://openai.com/business/learn/deploying-daybreak-red",
-          "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+          "id": "7d9aaa0850d3",
+          "title": "Explore the Codex Security Plugin",
+          "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "description": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 19 Nov 2026 00:00:00 GMT"
@@ -569,19 +578,19 @@
           "pub_date": "Wed, 18 Nov 2026 10:00:00 GMT"
         },
         {
-          "id": "17afc911309a",
-          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-          "link": "https://openai.com/business/customer-stories/sumitomo-life",
-          "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+          "id": "e3c31bbdfaf8",
+          "title": "Research acceleration: The jagged frontier",
+          "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 18 Nov 2026 08:00:00 GMT"
         },
         {
-          "id": "e3c31bbdfaf8",
-          "title": "Research acceleration: The jagged frontier",
-          "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-          "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+          "id": "17afc911309a",
+          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "link": "https://openai.com/business/customer-stories/sumitomo-life",
+          "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Wed, 18 Nov 2026 08:00:00 GMT"
@@ -630,24 +639,277 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Tue, 17 Nov 2026 17:45:00 GMT"
-        },
-        {
-          "id": "f54f90c8c7c3",
-          "title": "Strengthening NATO and allied cyber defenses with AI",
-          "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-          "description": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Tue, 17 Nov 2026 00:00:00 GMT"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. Hugging Face集中发布多项模型与工具更新：推出Inkling 2 Mini本地高性能模型、DaisyRose-27B后训练效率突破、Rumble-2-Flash多语言语音模型（0.5B参数支持40+语言），以及harness适配器帮助用户优化模型性能与成本。\n2. Hugging Face在推理与工程效率上持续突破：实现180B参数MoE模型仅需32GB内存的极限推理，探讨微调任务耗时超出FLOPs预期的原因，并发布Streamhouse时间序列模型新应用场景。\n3. Hugging Face与OpenRouter达成合作，降低开放权重模型的运行门槛，推动开源模型更易用落地。\n4. Google Gemini生态扩展：Gemini API新增工具检索功能，Gemini应用下放至低内存Android设备，并推出Ask Maps假日出行新功能及Gemini办公应用推广。\n5. OpenAI关注安全与研究应用：发布对抗性蒸馏防御研究，同时Hebbia利用GPT-6 Astra在金融研究场景取得效果提升。\n\n今日最值得关注的是Hugging Face在开源模型效率与易用性上的密集突破——从180B MoE低内存推理到与OpenRouter的集成合作，正加速开放权重模型的实用化进程。",
+      "summary": "今日AI动态摘要\n\n1. Hugging Face集中发布多项模型与工具更新：推出Inkling 2 Mini（本地部署高性能模型）、DaisyRose-27B（后训练效率新突破）、Rumble-2-Flash（支持40+语言的0.5B开源语音模型），并发布harness adapters帮助用户适配模型以提升性能与成本效益。\n2. 推理与部署技术持续突破：展示180B参数MoE模型仅用32GB内存运行的极限推理方案；Hugging Face与OpenRouter合作简化开源权重模型的运行；同时探讨了微调任务实际耗时远超FLOPs理论值的原因。\n3. Google Gemini生态扩展：Gemini API新增工具检索功能，Gemini应用下探至低内存Android设备，并推出面向工作效率的Gemini应用场景及Ask Maps节假日出行新功能。\n4. OpenAI发布Perplexity与智能相关研究，并探讨对抗性蒸馏（adversarial distillation）的防御问题。\n5. 行业观点：Walter Isaacson在Google AI博客上分享AI时代的好奇心与创造力思考。\n\n今日最值得关注的是Hugging Face在开源模型效率上的密集突破——从27B后训练效率到180B MoE的32GB内存推理，开源生态正快速缩小与闭源模型的部署门槛差距。",
       "count": 30
     },
     "cctv": {
-      "articles": [],
-      "summary": "今日暂无相关新闻。",
-      "count": 0
+      "articles": [
+        {
+          "id": "3d5afc5f58c7",
+          "title": "Mexico's President Flew 21 Hours to China in Economy (In a Middle Seat)",
+          "link": "https://onemileatatime.com/news/mexico-president-flew-china-economy-middle-seat/",
+          "description": "Article URL: https://onemileatatime.com/news/mexico-president-flew-china-economy-middle-seat/ Comments URL: https://news.ycombinator.com/item?id=50602781 Points: 10 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 22 Nov 2026 19:03:14 +0000"
+        },
+        {
+          "id": "642616c93e10",
+          "title": "China's Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+          "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+          "description": "Article URL: https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html Comments URL: https://news.ycombinator.com/item?id=50601272 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 22 Nov 2026 16:44:24 +0000"
+        },
+        {
+          "id": "ea060a1dfc72",
+          "title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+          "link": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836",
+          "description": "Article URL: https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836 Comments URL: https://news.ycombinator.com/item?id=50601262 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sun, 22 Nov 2026 16:43:53 +0000"
+        },
+        {
+          "id": "6b440fa0b764",
+          "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day",
+          "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+          "description": "Article URL: https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382 Comments URL: https://news.ycombinator.com/item?id=50592379 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 21 Nov 2026 18:56:35 +0000"
+        },
+        {
+          "id": "5f2798755ec7",
+          "title": "China unveils space mining road map with a big move on the moon within 4 years",
+          "link": "https://www.scmp.com/news/china/science/article/3375323/china-unveils-space-mining-road-map-big-move-moon-within-4-years",
+          "description": "Article URL: https://www.scmp.com/news/china/science/article/3375323/china-unveils-space-mining-road-map-big-move-moon-within-4-years Comments URL: https://news.ycombinator.com/item?id=50591383 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 21 Nov 2026 17:18:59 +0000"
+        },
+        {
+          "id": "5c140e00777e",
+          "title": "AMD dives on short seller report of alleged China exposure",
+          "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+          "description": "Article URL: https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html Comments URL: https://news.ycombinator.com/item?id=50585985 Points: 5 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 21 Nov 2026 04:36:39 +0000"
+        },
+        {
+          "id": "d1fb4aa275e5",
+          "title": "House China Cmte: China Trying to Get US Companies Addicted to Chinese AI Models",
+          "link": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
+          "description": "Article URL: https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models Comments URL: https://news.ycombinator.com/item?id=50584675 Points: 3 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Sat, 21 Nov 2026 01:03:45 +0000"
+        },
+        {
+          "id": "b6e0baa64f5c",
+          "title": "UK conducting offensive cyber ops against Russia, China, Iran and North Korea",
+          "link": "https://news.sky.com/story/uk-conducting-offensive-cyber-ops-against-russia-china-iran-and-north-korea-top-commander-reveals-13614163",
+          "description": "Article URL: https://news.sky.com/story/uk-conducting-offensive-cyber-ops-against-russia-china-iran-and-north-korea-top-commander-reveals-13614163 Comments URL: https://news.ycombinator.com/item?id=50583699 Points: 5 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 20 Nov 2026 23:12:05 +0000"
+        },
+        {
+          "id": "cc9ceaaed1d7",
+          "title": "China Is Mass-Producing One-Person AI Companies",
+          "link": "https://www.bloomberg.com/news/features/2026-11-12/how-china-is-creating-a-new-generation-of-ai-entrepreneurs",
+          "description": "Article URL: https://www.bloomberg.com/news/features/2026-11-12/how-china-is-creating-a-new-generation-of-ai-entrepreneurs Comments URL: https://news.ycombinator.com/item?id=50580788 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 20 Nov 2026 19:45:43 +0000"
+        },
+        {
+          "id": "d36691189c30",
+          "title": "China's Involution Trap",
+          "link": "https://worldofsystems.co/involution-in-china",
+          "description": "Article URL: https://worldofsystems.co/involution-in-china Comments URL: https://news.ycombinator.com/item?id=50579883 Points: 1 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 20 Nov 2026 18:53:57 +0000"
+        },
+        {
+          "id": "5e0e6c0b3e2c",
+          "title": "Germany's China Shock",
+          "link": "https://www.damagemag.com/p/germanys-china-shock",
+          "description": "Article URL: https://www.damagemag.com/p/germanys-china-shock Comments URL: https://news.ycombinator.com/item?id=50578231 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 20 Nov 2026 17:14:00 +0000"
+        },
+        {
+          "id": "3b56f67e6756",
+          "title": "AI Is Making China's Jobs Slump Worse",
+          "link": "https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/",
+          "description": "Article URL: https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/ Comments URL: https://news.ycombinator.com/item?id=50572621 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 20 Nov 2026 10:15:28 +0000"
+        },
+        {
+          "id": "b471f978537b",
+          "title": "China blocks SoftBank's $5.4B takeover of ABB's robotics division",
+          "link": "https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/",
+          "description": "Article URL: https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50572464 Points: 6 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 20 Nov 2026 09:56:24 +0000"
+        },
+        {
+          "id": "5e15044963ce",
+          "title": "China's 19-passenger electric aircraft completes first crewed flight",
+          "link": "https://thedriven.io/2026/11/20/chinas-19-passenger-electric-aircraft-completes-first-crewed-flight/",
+          "description": "Article URL: https://thedriven.io/2026/11/20/chinas-19-passenger-electric-aircraft-completes-first-crewed-flight/ Comments URL: https://news.ycombinator.com/item?id=50572141 Points: 9 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 20 Nov 2026 09:16:09 +0000"
+        },
+        {
+          "id": "0c1b35d5ec63",
+          "title": "US Approved AI Chip Sales to China's Tencent, Alibaba, Data Show",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-19/us-approved-ai-chip-sales-to-china-s-tencent-alibaba-data-show",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-11-19/us-approved-ai-chip-sales-to-china-s-tencent-alibaba-data-show Comments URL: https://news.ycombinator.com/item?id=50571151 Points: 6 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 20 Nov 2026 07:08:21 +0000"
+        },
+        {
+          "id": "db5b1c2ff1f4",
+          "title": "'Flying cars' could launch in China next summer, maker of two-seat model says",
+          "link": "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
+          "description": "Article URL: https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng Comments URL: https://news.ycombinator.com/item?id=50569287 Points: 2 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Fri, 20 Nov 2026 02:08:52 +0000"
+        },
+        {
+          "id": "1810c2745161",
+          "title": "AMD dives on short-seller report of alleged China exposure",
+          "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+          "description": "Article URL: https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html Comments URL: https://news.ycombinator.com/item?id=50567304 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 19 Nov 2026 22:21:49 +0000"
+        },
+        {
+          "id": "d64f9811a16f",
+          "title": "AMD Has Its Own China Problem (Hunterbrook, Short-Seller)",
+          "link": "https://hntrbrk.com/investigations/amd-china",
+          "description": "Article URL: https://hntrbrk.com/investigations/amd-china Comments URL: https://news.ycombinator.com/item?id=50561560 Points: 8 # Comments: 2",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 19 Nov 2026 15:41:29 +0000"
+        },
+        {
+          "id": "2b01be6d7912",
+          "title": "Why is China treated as threat-actor but not India?",
+          "link": "https://news.ycombinator.com/item?id=50560324",
+          "description": "Why do people balk at someone saying that the actions of India/Indians are a negative vector for technology but you can unblinkingly say China/Chinese in the same breath and they will agree? Doublethink/it's 1984/people are gullible cretins are not acceptable answers. Comments URL: https://news.ycombinator.com/item?id=50560324 Points: 8 # Comments: 16",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 19 Nov 2026 14:09:04 +0000"
+        },
+        {
+          "id": "c11ba8bd2cb6",
+          "title": "Not Out of Control: China's Cyber Campaigns",
+          "link": "https://www.interface-eu.org/publications/china-cyber-ai",
+          "description": "Article URL: https://www.interface-eu.org/publications/china-cyber-ai Comments URL: https://news.ycombinator.com/item?id=50559846 Points: 1 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 19 Nov 2026 13:31:04 +0000"
+        },
+        {
+          "id": "40e6cf510935",
+          "title": "Nvidia stops shipping US-approved AI chips to China",
+          "link": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/",
+          "description": "Article URL: https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/ Comments URL: https://news.ycombinator.com/item?id=50558112 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 19 Nov 2026 09:59:57 +0000"
+        },
+        {
+          "id": "93865184e25c",
+          "title": "Potentially $43B in Nvidia chips were 'sold to China illegally'",
+          "link": "https://www.yahoo.com/news/videos/tech-journalist-says-potentially-43-144438800.html",
+          "description": "Article URL: https://www.yahoo.com/news/videos/tech-journalist-says-potentially-43-144438800.html Comments URL: https://news.ycombinator.com/item?id=50557234 Points: 8 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 19 Nov 2026 07:55:41 +0000"
+        },
+        {
+          "id": "9bdabb0a7c95",
+          "title": "Nvidia Chips Ended Up Within Reach of China's Military",
+          "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+          "description": "Article URL: https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html Comments URL: https://news.ycombinator.com/item?id=50556039 Points: 3 # Comments: 5",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Thu, 19 Nov 2026 04:19:14 +0000"
+        },
+        {
+          "id": "5248d153ee50",
+          "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says",
+          "link": "https://www.msn.com/en-us/technology/tech-companies/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says/ar-AA2hHxP8",
+          "description": "Article URL: https://www.msn.com/en-us/technology/tech-companies/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says/ar-AA2hHxP8 Comments URL: https://news.ycombinator.com/item?id=50552251 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 18 Nov 2026 21:19:25 +0000"
+        },
+        {
+          "id": "eb5690f3e66c",
+          "title": "Field Notes from China",
+          "link": "https://parthchopra.substack.com/p/field-notes-from-china",
+          "description": "Article URL: https://parthchopra.substack.com/p/field-notes-from-china Comments URL: https://news.ycombinator.com/item?id=50550656 Points: 3 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 18 Nov 2026 19:10:07 +0000"
+        },
+        {
+          "id": "dfcb7171994b",
+          "title": "The Dark Side of China's Perfect Cars",
+          "link": "https://www.youtube.com/watch?v=awjlMCCdqXw",
+          "description": "Article URL: https://www.youtube.com/watch?v=awjlMCCdqXw Comments URL: https://news.ycombinator.com/item?id=50549693 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 18 Nov 2026 17:58:44 +0000"
+        },
+        {
+          "id": "bc1ea0bd77f3",
+          "title": "Nvidia halts all AI chip sales to China, including US-approved H200",
+          "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+          "description": "Article URL: https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling Comments URL: https://news.ycombinator.com/item?id=50547376 Points: 12 # Comments: 1",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 18 Nov 2026 15:20:02 +0000"
+        },
+        {
+          "id": "011fd1abbf59",
+          "title": "We Visited China's Stargate in Inner Mongolia",
+          "link": "https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner",
+          "description": "Article URL: https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner Comments URL: https://news.ycombinator.com/item?id=50545786 Points: 4 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 18 Nov 2026 12:58:56 +0000"
+        },
+        {
+          "id": "17442adf1450",
+          "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china Comments URL: https://news.ycombinator.com/item?id=50543844 Points: 2 # Comments: 0",
+          "source": "HN-China",
+          "category": "cctv",
+          "pub_date": "Wed, 18 Nov 2026 09:11:42 +0000"
+        }
+      ],
+      "summary": "今日新闻联播动态摘要\n\n1. 墨西哥总统经济舱赴华访问：墨西哥总统乘坐经济舱、历时21小时飞抵中国，展现对华关系的高度重视。\n2. 中国AI与芯片领域动作频密：中国被指多年前即瞄准AI芯片情报搜集，并出现利用AI代理自主发现和利用零日漏洞的网络攻击行为；同时美方数据显示曾批准向腾讯、阿里出售AI芯片，AMD因涉华敞口报告股价大跌。\n3. 中国太空采矿与前沿科技推进：中国公布太空采矿路线图，计划4年内实现月球重大动作；国产19座电动飞机完成首次载人飞行。\n4. 经济与产业博弈加剧：中国阻止软银54亿美元收购ABB机器人业务；德国面临“中国冲击”，中国“内卷陷阱”与AI加剧就业压力受到关注；美众院中国委员会称中国试图让美企对中国AI模型上瘾。\n5. 网络安全与AI产业形态：英国对俄、中、伊朗、朝鲜开展进攻性网络行动；中国正批量生产“一人AI公司”。\n\n今日最值得关注的是中国在AI芯片、太空采矿与电动航空等前沿领域同步推进，而围绕芯片出口、企业收购与AI生态的博弈正全面升温。",
+      "count": 29
     }
   }
 }
