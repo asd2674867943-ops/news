@@ -1,9 +1,162 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T05:48:00.716892",
+  "generated_at": "2026-11-24T23:24:16.029604",
   "categories": {
     "tech": {
       "articles": [
+        {
+          "id": "4d3aba07f192",
+          "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+          "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+          "description": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 22:27:52 +0000"
+        },
+        {
+          "id": "cbe1b688521f",
+          "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+          "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+          "description": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 21:48:27 +0000"
+        },
+        {
+          "id": "f6a13116e71c",
+          "title": "Even the best AI agents struggle with everyday life",
+          "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 21:33:29 +0000"
+        },
+        {
+          "id": "54f976f1eaa6",
+          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+          "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+          "description": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 21:32:38 +0000"
+        },
+        {
+          "id": "f68bf79f8332",
+          "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+          "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+          "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 21:19:52 +0000"
+        },
+        {
+          "id": "db8083ea61dd",
+          "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+          "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+          "description": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 21:09:04 +0000"
+        },
+        {
+          "id": "3b93a86a7ae4",
+          "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+          "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "description": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 18:30:42 +0000"
+        },
+        {
+          "id": "ca1dfafbfd61",
+          "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+          "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+          "description": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 18:02:59 +0000"
+        },
+        {
+          "id": "81e5f088714f",
+          "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+          "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+          "description": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 17:44:34 +0000"
+        },
+        {
+          "id": "ceaaac08c6d8",
+          "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+          "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+          "description": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 17:29:09 +0000"
+        },
+        {
+          "id": "1899f77b93f0",
+          "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+          "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "description": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 17:00:00 +0000"
+        },
+        {
+          "id": "259b2ddd51e7",
+          "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+          "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+          "description": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 16:46:00 +0000"
+        },
+        {
+          "id": "d3ec2849b60e",
+          "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+          "link": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+          "description": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 16:40:46 +0000"
+        },
+        {
+          "id": "6072a5b9c725",
+          "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+          "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+          "description": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 16:10:00 +0000"
+        },
+        {
+          "id": "caa6593f96c0",
+          "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+          "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+          "description": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 16:02:37 +0000"
+        },
+        {
+          "id": "2a397978850d",
+          "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+          "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+          "description": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 15:51:07 +0000"
+        },
+        {
+          "id": "d493b17a87a4",
+          "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
+          "link": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+          "description": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
+          "source": "TechCrunch",
+          "category": "tech",
+          "pub_date": "Tue, 24 Nov 2026 13:29:53 +0000"
+        },
         {
           "id": "9549eccd4b0e",
           "title": "Figma employee sues, alleging company forced her to confront harassers",
@@ -32,157 +185,157 @@
           "pub_date": "Mon, 23 Nov 2026 22:02:05 +0000"
         },
         {
-          "id": "dc12670c2ac3",
-          "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-          "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-          "description": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-          "source": "TechCrunch",
+          "id": "ea8e019e157d",
+          "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+          "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+          "description": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 21:47:41 +0000"
+          "pub_date": "Tue, 24 Nov 2026 22:50:11 +0000"
         },
         {
-          "id": "9a3feb525b6d",
-          "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-          "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-          "description": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
-          "source": "TechCrunch",
+          "id": "23393cc3e266",
+          "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+          "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "description": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 21:25:42 +0000"
+          "pub_date": "Tue, 24 Nov 2026 22:36:28 +0000"
         },
         {
-          "id": "ac0063144819",
-          "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-          "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-          "description": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-          "source": "TechCrunch",
+          "id": "14c4ef557b72",
+          "title": "What's going on with the Riemann hypothesis?",
+          "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+          "description": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 20:38:53 +0000"
+          "pub_date": "Tue, 24 Nov 2026 20:34:53 +0000"
         },
         {
-          "id": "7a61fd930d81",
-          "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
-          "link": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
-          "description": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
-          "source": "TechCrunch",
+          "id": "a087609d9c8a",
+          "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+          "link": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+          "description": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 19:31:41 +0000"
+          "pub_date": "Tue, 24 Nov 2026 20:00:18 +0000"
         },
         {
-          "id": "39c979acb280",
-          "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-          "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-          "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-          "source": "TechCrunch",
+          "id": "7e40680afd0a",
+          "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+          "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+          "description": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 19:14:46 +0000"
+          "pub_date": "Tue, 24 Nov 2026 18:47:57 +0000"
         },
         {
-          "id": "1ae0b04e1475",
-          "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-          "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-          "description": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-          "source": "TechCrunch",
+          "id": "a3cdc86232d6",
+          "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+          "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+          "description": "Amazon has hundreds of satellites in storage waiting for rides to space.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 18:12:22 +0000"
+          "pub_date": "Tue, 24 Nov 2026 18:30:36 +0000"
         },
         {
-          "id": "86884740335a",
-          "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-          "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-          "description": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
-          "source": "TechCrunch",
+          "id": "653f8f4a1143",
+          "title": "How brewers can protect beers from smoke-tainted hops",
+          "link": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
+          "description": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 17:14:23 +0000"
+          "pub_date": "Tue, 24 Nov 2026 18:18:37 +0000"
         },
         {
-          "id": "88096aa6581c",
-          "title": "Meta throws out its net-zero goal — its competitors should be furious",
-          "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
-          "description": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
-          "source": "TechCrunch",
+          "id": "43b51158087b",
+          "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
+          "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
+          "description": "Kalshi’s pause in Utah draws cheers as critics bash ads and boo insider trading.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 17:13:45 +0000"
+          "pub_date": "Tue, 24 Nov 2026 18:03:58 +0000"
         },
         {
-          "id": "1abe35da2165",
-          "title": "Jensen Huang isn’t out of the woods yet",
-          "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-          "description": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
-          "source": "TechCrunch",
+          "id": "c657901becb0",
+          "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+          "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+          "description": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 16:57:40 +0000"
+          "pub_date": "Tue, 24 Nov 2026 17:34:34 +0000"
         },
         {
-          "id": "80ef277ef22a",
-          "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-          "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-          "description": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
-          "source": "TechCrunch",
+          "id": "5fa92b00483b",
+          "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
+          "link": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
+          "description": "Technical details are still limited, but we already know it's fun to drive.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 16:39:10 +0000"
+          "pub_date": "Tue, 24 Nov 2026 16:58:20 +0000"
         },
         {
-          "id": "5297e7adafc3",
-          "title": "CrowdStrike to acquire Zscaler for $44 billion",
-          "link": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
-          "description": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
-          "source": "TechCrunch",
+          "id": "c287e8c1739f",
+          "title": "No more heated seat subscriptions for cars in New York from 2027",
+          "link": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
+          "description": "Services with “ongoing costs” are a pretty big loophole in the new law.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 16:20:11 +0000"
+          "pub_date": "Tue, 24 Nov 2026 16:20:37 +0000"
         },
         {
-          "id": "6ac58340d4a7",
-          "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
-          "link": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
-          "description": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
-          "source": "TechCrunch",
+          "id": "94f7b7d3a69b",
+          "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
+          "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
+          "description": "\"Without this funding, activities would be delayed.\"",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 15:29:49 +0000"
+          "pub_date": "Tue, 24 Nov 2026 16:12:46 +0000"
         },
         {
-          "id": "f129b7524135",
-          "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-          "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-          "description": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
-          "source": "TechCrunch",
+          "id": "238afdd1d843",
+          "title": "Homo erectus lived in the rainforest alongside Denisovans",
+          "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
+          "description": "You can learn a surprising amount from a few loose teeth.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 15:04:01 +0000"
+          "pub_date": "Tue, 24 Nov 2026 16:01:19 +0000"
         },
         {
-          "id": "d8d7d577f9fb",
-          "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-          "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-          "description": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-          "source": "TechCrunch",
+          "id": "91c97ba6d98f",
+          "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+          "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+          "description": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 14:43:03 +0000"
+          "pub_date": "Tue, 24 Nov 2026 14:56:50 +0000"
         },
         {
-          "id": "637445532f62",
-          "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-          "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-          "description": "The stunning reversal was supported by senior officials in the U.S. government.",
-          "source": "TechCrunch",
+          "id": "1a0b5e1e307a",
+          "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+          "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+          "description": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 14:21:59 +0000"
+          "pub_date": "Tue, 24 Nov 2026 12:30:05 +0000"
         },
         {
-          "id": "3005a6dcbd43",
-          "title": "Uber now lets you book rides that record the drive by default",
-          "link": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
-          "description": "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app.",
-          "source": "TechCrunch",
+          "id": "0f2ed9e592d4",
+          "title": "One terminal command gave my forgotten Android device a desk job",
+          "link": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
+          "description": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 14:00:00 +0000"
+          "pub_date": "Tue, 24 Nov 2026 12:15:38 +0000"
         },
         {
-          "id": "af0588c961c9",
-          "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-          "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-          "description": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-          "source": "TechCrunch",
+          "id": "7416afa2cb7d",
+          "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+          "link": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+          "description": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea.",
+          "source": "Ars Technica",
           "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 01:25:53 +0000"
+          "pub_date": "Tue, 24 Nov 2026 12:00:57 +0000"
         },
         {
           "id": "ecaece9b6129",
@@ -210,166 +363,22 @@
           "source": "Ars Technica",
           "category": "tech",
           "pub_date": "Mon, 23 Nov 2026 20:34:51 +0000"
-        },
-        {
-          "id": "b68159e489cb",
-          "title": "Surveillance pricing uses our personal data to make us pay more",
-          "link": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
-          "description": "Personalized pricing can mean unfair, and even biased, prices.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 20:11:43 +0000"
-        },
-        {
-          "id": "a6105dc7d8e6",
-          "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
-          "link": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
-          "description": "Amazon now uses its packages for political purposes.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 19:38:13 +0000"
-        },
-        {
-          "id": "dd74d630101c",
-          "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
-          "link": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
-          "description": "A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 19:28:30 +0000"
-        },
-        {
-          "id": "e39b89fbfebf",
-          "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
-          "link": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
-          "description": "\"All of you have lived stolen lives. But now you must give them back.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 15:55:12 +0000"
-        },
-        {
-          "id": "ec7237d5c77c",
-          "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-          "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-          "description": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 15:46:18 +0000"
-        },
-        {
-          "id": "dbfe833f2132",
-          "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
-          "link": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
-          "description": "COP31 ended without a consensus deal for the first time since 2009.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 15:23:26 +0000"
-        },
-        {
-          "id": "f507a123191b",
-          "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
-          "link": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/",
-          "description": "There were 352 position changes, including 35 for the lead.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 13:54:22 +0000"
-        },
-        {
-          "id": "49bcd2abbfb0",
-          "title": "Tri-screen portable monitors aren’t for the faint of heart",
-          "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
-          "description": "Three extra screens boost multitasking but can distract and overwhelm.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 12:15:16 +0000"
-        },
-        {
-          "id": "49f28a557b65",
-          "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-          "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-          "description": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Mon, 23 Nov 2026 12:00:00 +0000"
-        },
-        {
-          "id": "9c155dafedb8",
-          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-          "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
-          "description": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sun, 22 Nov 2026 12:07:41 +0000"
-        },
-        {
-          "id": "dd6f4a419084",
-          "title": "Review: Godzilla Minus Zero joins the ranks of truly stellar sequels",
-          "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-          "description": "Director Takashi Yamazaki ups the ante, pitting Godzilla against one of the monster's greatest foes.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sat, 21 Nov 2026 22:12:41 +0000"
-        },
-        {
-          "id": "143a32815dfd",
-          "title": "“Race realism” isn’t realistic—and it isn’t good science",
-          "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
-          "description": "Modern genetics does not support claims of innate racial differences in intelligence.",
-          "source": "Ars Technica",
-          "category": "tech",
-          "pub_date": "Sat, 21 Nov 2026 12:01:13 +0000"
-        },
-        {
-          "id": "2f7209dd4609",
-          "title": "Drone Maps of Salvage Yards",
-          "link": "https://salvageyarddrone.wordpress.com/",
-          "description": "Article URL: https://salvageyarddrone.wordpress.com/ Comments URL: https://news.ycombinator.com/item?id=50623515 Points: 28 # Comments: 11",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 24 Nov 2026 04:00:28 +0000"
-        },
-        {
-          "id": "bde86355cbcd",
-          "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-          "link": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
-          "description": "Article URL: https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26 Comments URL: https://news.ycombinator.com/item?id=50623175 Points: 8 # Comments: 0",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 24 Nov 2026 03:16:58 +0000"
-        },
-        {
-          "id": "47672e63621e",
-          "title": "Hacking radiators",
-          "link": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
-          "description": "Article URL: https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/ Comments URL: https://news.ycombinator.com/item?id=50623020 Points: 11 # Comments: 4",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 24 Nov 2026 02:56:41 +0000"
-        },
-        {
-          "id": "d729337e9149",
-          "title": "Making a dumb TV just smart enough",
-          "link": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
-          "description": "Article URL: https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/ Comments URL: https://news.ycombinator.com/item?id=50622934 Points: 30 # Comments: 13",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 24 Nov 2026 02:46:54 +0000"
-        },
-        {
-          "id": "6b4ab0dc9c0e",
-          "title": "Declare is a UI language for you and your AI",
-          "link": "https://davidtemkin.github.io/declarelang/",
-          "description": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 27 # Comments: 8",
-          "source": "Hacker News",
-          "category": "tech",
-          "pub_date": "Tue, 24 Nov 2026 02:36:56 +0000"
         }
       ],
-      "summary": "今日科技动态摘要\n\n1. Figma一名员工起诉公司，称公司强迫她直面骚扰者，引发职场权益关注。\n2. Anthropic推出Claude Ship，允许AI智能体审查、修复并批准代码变更，推进AI编程自动化。\n3. 英伟达CEO黄仁勋在丑闻后复职，引发政界和业界强烈反应；涉事公司Megaspeed或将被美国列入黑名单，黄仁勋下周将赴参议院作证。\n4. 谷歌搜索AI模式接入Drive和Wallet，可提供更个性化回答；亚马逊以75亿美元收购Decart的AI优化技术，为销售Trainium芯片做准备。\n5. CrowdStrike以440亿美元收购Zscaler；Meta放弃净零排放目标；荷兰隐私机构呼吁消费者不要购买“偷窥眼镜”。\n\n今日最值得关注的是黄仁勋在丑闻后重返英伟达所引发的一系列连锁反应，以及Anthropic推出Claude Ship推动AI智能体自主管理代码变更。",
+      "summary": "今日科技动态摘要\n\n1. **英伟达CEO黄仁勋的管理理念与动向**：黄仁勋仍认为制定继任计划会造成不必要的层级结构；同时在全员会议上感谢白宫，并透露自己正在接受心理治疗。\n2. **AI行业喜忧参半**：Anthropic股价跌破IPO发行价，被视为AI初创企业的警示信号；与此同时，最优秀的AI智能体在日常任务中仍表现吃力，英国也警告AI驱动的网络攻击正暴露多年来的安全薄弱问题。\n3. **AI与零售、社交平台加速融合**：沃尔玛联手Meta将黑五优惠引入AI助手Muse，Meta也将Muse直接嵌入Instagram私信；Threads登陆iPad并引入类似X的cashtags功能；Pinterest允许家长限制青少年看到的AI生成内容。\n4. **安全与内容治理压力上升**：数十艘油轮和货轮近几周遭黑客攻击；Tidal将封禁并下架数百万首AI生成曲目，以应对“AI垃圾”淹没音乐流媒体的问题。\n5. **出行与能源基建持续推进**：Uber与Nuro开始在Lucid无人驾驶出租车上进行无人测试，目标2027年上线；投资者看好太阳能与电池为未来AI数据中心供电。\n\n今日最值得关注的是AI行业估值降温信号（Anthropic跌破发行价）与AI安全风险（大规模船舶黑客攻击、英国安全警告）同时浮现，显示AI热潮正进入更严峻的审视期。",
       "count": 40
     },
     "ai": {
       "articles": [
+        {
+          "id": "59bd3abaec9d",
+          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "description": "",
+          "source": "Hugging Face",
+          "category": "ai",
+          "pub_date": "Tue, 24 Nov 2026 16:34:13 GMT"
+        },
         {
           "id": "4e5f7961cd78",
           "title": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -452,6 +461,15 @@
           "pub_date": "Wed, 18 Nov 2026 00:00:00 GMT"
         },
         {
+          "id": "3e478978a0ff",
+          "title": "How Gemini is changing the game for Golden State's organization and fans.",
+          "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+          "description": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+          "source": "Google AI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 24 Nov 2026 16:00:00 +0000"
+        },
+        {
           "id": "3899b52401ff",
           "title": "A more tailored Google Search that’s uniquely yours",
           "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
@@ -488,13 +506,49 @@
           "pub_date": "Wed, 18 Nov 2026 17:00:00 +0000"
         },
         {
-          "id": "a1f39767c2ef",
-          "title": "Put Gemini to work for you",
-          "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-          "description": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-          "source": "Google AI Blog",
+          "id": "46743b0d2a2c",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+          "source": "OpenAI Blog",
           "category": "ai",
-          "pub_date": "Tue, 17 Nov 2026 17:00:00 +0000"
+          "pub_date": "Tue, 24 Nov 2026 13:00:00 GMT"
+        },
+        {
+          "id": "80f4de150b46",
+          "title": "Searching for distant planets with Astra",
+          "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "description": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 24 Nov 2026 11:00:00 GMT"
+        },
+        {
+          "id": "c8d14ba4375f",
+          "title": "How Intentful uses dots to make more time for growth",
+          "link": "https://openai.com/business/customer-stories/intentful-dots",
+          "description": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 24 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "faf72ae2fc73",
+          "title": "How iFood scales coding agents across 15,000 repositories",
+          "link": "https://openai.com/business/customer-stories/ifood",
+          "description": "",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 24 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "ea38ff9f688c",
+          "title": "Clay helps sales teams win with Codex and ChatGPT",
+          "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+          "description": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+          "source": "OpenAI Blog",
+          "category": "ai",
+          "pub_date": "Tue, 24 Nov 2026 00:00:00 GMT"
         },
         {
           "id": "a262e3f6027d",
@@ -578,24 +632,6 @@
           "pub_date": "Thu, 19 Nov 2026 00:00:00 GMT"
         },
         {
-          "id": "607e365a95b1",
-          "title": "Get started with Daybreak Blue",
-          "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-          "description": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Thu, 19 Nov 2026 00:00:00 GMT"
-        },
-        {
-          "id": "7d9aaa0850d3",
-          "title": "Explore the Codex Security Plugin",
-          "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "description": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Thu, 19 Nov 2026 00:00:00 GMT"
-        },
-        {
           "id": "7b2857d5be11",
           "title": "Deploying Daybreak Red",
           "link": "https://openai.com/business/learn/deploying-daybreak-red",
@@ -603,304 +639,15 @@
           "source": "OpenAI Blog",
           "category": "ai",
           "pub_date": "Thu, 19 Nov 2026 00:00:00 GMT"
-        },
-        {
-          "id": "d59a362cd133",
-          "title": "The Silent Consensus",
-          "link": "https://openai.com/index/the-silent-consensus",
-          "description": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 18 Nov 2026 10:00:00 GMT"
-        },
-        {
-          "id": "e3c31bbdfaf8",
-          "title": "Research acceleration: The jagged frontier",
-          "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-          "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 18 Nov 2026 08:00:00 GMT"
-        },
-        {
-          "id": "17afc911309a",
-          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-          "link": "https://openai.com/business/customer-stories/sumitomo-life",
-          "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 18 Nov 2026 08:00:00 GMT"
-        },
-        {
-          "id": "edc37b9a93ea",
-          "title": "Inside the Codex sandbox",
-          "link": "https://openai.com/index/inside-the-codex-sandbox",
-          "description": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-          "source": "OpenAI Blog",
-          "category": "ai",
-          "pub_date": "Wed, 18 Nov 2026 08:00:00 GMT"
         }
       ],
-      "summary": "今日AI动态摘要\n\n1. **机器人操作与点跟踪技术**：Hugging Face发布RoboTrack，将点跟踪技术应用于真实世界机器人操作，提升机械臂等设备的精细操控能力。\n2. **智能体评估与模型适配工具**：Hugging Face推出智能体评估构建维护指南及harness adapters，帮助用户将模型适配到自有测试框架以优化性能与成本。\n3. **高效模型与推理突破**：DaisyRose-27B推动后训练效率前沿；180B参数MoE模型仅用32GB内存实现极限推理；Rumble-2-Flash发布支持40+语言的0.5B开源语音模型；Inkling 2 Mini面向本地部署提供前沿性能。\n4. **Google Gemini生态扩展**：Gemini API新增工具检索功能；Gemini应用登陆低内存Android设备；Google搜索推出更个性化的定制体验。\n5. **企业合作与AI应用**：OpenAI与Cisco联合推出Shirudo；Walter Isaacson探讨AI时代的好奇心与创造力。\n\n今日最值得关注的是Hugging Face在模型效率上的多点突破——从180B MoE的32GB内存推理到后训练效率提升，正大幅降低大模型部署门槛。",
+      "summary": "今日AI动态摘要\n\n1. **机器人仿真到现实与操作追踪**：Hugging Face发布Microduck避障的Sim2Real工作流（基于Isaac Lab和Newton），以及RoboTrack点追踪技术，推动真实世界机器人操作能力。\n2. **智能体评估与模型适配工具**：推出构建和维护智能体评估的方法指南，以及harness adapters，可将常用模型适配到特定harness以提升性能并降低成本。\n3. **高效训练与推理优化**：DaisyRose-27B推进后训练效率前沿；分析微调任务耗时超出FLOPs预期的原因；实现180B参数MoE模型在32GB内存上的极限推理。\n4. **多模态与本地模型发布**：Inkling 2 Mini面向本地部署提供前沿性能；Rumble-2-Flash为开源0.5B语音模型，支持40+语言；时间序列模型进入Streamhouse新场景。\n5. **Google Gemini生态扩展**：Gemini API引入工具检索；Gemini应用支持低内存Android设备；Gemini助力金州勇士队组织与球迷体验升级，并推出更个性化的Google搜索。\n\n今日最值得关注的是Hugging Face在机器人Sim2Real、智能体评估工具链及MoE高效推理上的多项开源进展，同时Google Gemini持续扩展API能力与设备覆盖。",
       "count": 30
     },
     "cctv": {
-      "articles": [
-        {
-          "id": "0cf5678a677e",
-          "title": "China has changed tactics but is still thwarting India's rise",
-          "link": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
-          "description": "Article URL: https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html Comments URL: https://news.ycombinator.com/item?id=50623886 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 24 Nov 2026 04:53:15 +0000"
-        },
-        {
-          "id": "8a302d87dd8d",
-          "title": "Last Week in AI Topic Deep Dive: The Geopolitics of AI (I.e. The China Episode)",
-          "link": "https://podcasts.apple.com/us/podcast/topic-deep-dive-the-geopolitics-of-ai-i-e-the-china-episode/id1502782720?i=1000803686828",
-          "description": "Article URL: https://podcasts.apple.com/us/podcast/topic-deep-dive-the-geopolitics-of-ai-i-e-the-china-episode/id1502782720?i=1000803686828 Comments URL: https://news.ycombinator.com/item?id=50621815 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Tue, 24 Nov 2026 00:38:25 +0000"
-        },
-        {
-          "id": "d992811a7759",
-          "title": "China Is Winning the Car War",
-          "link": "https://app.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681",
-          "description": "Article URL: https://app.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681 Comments URL: https://news.ycombinator.com/item?id=50620875 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 23:15:46 +0000"
-        },
-        {
-          "id": "0c64ab38be23",
-          "title": "Trump hints Nvidia CEO Jensen Huang could've moved to China if not reinstated",
-          "link": "https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/",
-          "description": "Article URL: https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/ Comments URL: https://news.ycombinator.com/item?id=50620363 Points: 3 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 22:33:02 +0000"
-        },
-        {
-          "id": "5d3efce9b560",
-          "title": "U.S. Tracked Alice Huang's Contacts with China Spy Agency During Nvidia Affair",
-          "link": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
-          "description": "Article URL: https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html Comments URL: https://news.ycombinator.com/item?id=50618718 Points: 8 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 20:25:27 +0000"
-        },
-        {
-          "id": "4987e7a6ac18",
-          "title": "China sends spy balloons over Taiwan before crucial elections",
-          "link": "https://www.telegraph.co.uk/world-news/2026/11/23/china-sends-spy-balloons-over-taiwan-before-elections/",
-          "description": "Article URL: https://www.telegraph.co.uk/world-news/2026/11/23/china-sends-spy-balloons-over-taiwan-before-elections/ Comments URL: https://news.ycombinator.com/item?id=50616697 Points: 4 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 18:32:15 +0000"
-        },
-        {
-          "id": "c0b4e48875ed",
-          "title": "China-backed hackers suspected behind ongoing EU Commission cyberattack",
-          "link": "https://www.euronews.com/2026/11/23/exclusive-china-backed-hackers-suspected-behind-ongoing-eu-commission-cyberattack",
-          "description": "Article URL: https://www.euronews.com/2026/11/23/exclusive-china-backed-hackers-suspected-behind-ongoing-eu-commission-cyberattack Comments URL: https://news.ycombinator.com/item?id=50616246 Points: 6 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 18:04:03 +0000"
-        },
-        {
-          "id": "76d977896c99",
-          "title": "$1 of GPT-5.1 tokens finds new ways around China's Great Firewall",
-          "link": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
-          "description": "Article URL: https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532 Comments URL: https://news.ycombinator.com/item?id=50614822 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 16:41:21 +0000"
-        },
-        {
-          "id": "3bc33895ef06",
-          "title": "China blocked our IPv4 address overnight",
-          "link": "https://natbox.io/blog/china-blocked-our-ipv4",
-          "description": "Article URL: https://natbox.io/blog/china-blocked-our-ipv4 Comments URL: https://news.ycombinator.com/item?id=50613646 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 15:39:17 +0000"
-        },
-        {
-          "id": "768a2249e9bb",
-          "title": "Why Is China Not Freaking Out about AGI?",
-          "link": "https://www.richardhanania.com/p/why-is-china-not-freaking-out-about",
-          "description": "Article URL: https://www.richardhanania.com/p/why-is-china-not-freaking-out-about Comments URL: https://news.ycombinator.com/item?id=50611482 Points: 3 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 13:50:13 +0000"
-        },
-        {
-          "id": "ffb9d736619b",
-          "title": "The US-China LLM Open-Weight Feedback Loop",
-          "link": "https://sebastianraschka.com/blog/2026/us-china-open-weight-feedback-loop.html",
-          "description": "Article URL: https://sebastianraschka.com/blog/2026/us-china-open-weight-feedback-loop.html Comments URL: https://news.ycombinator.com/item?id=50611455 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 13:47:03 +0000"
-        },
-        {
-          "id": "9bd75e7adf4a",
-          "title": "Staying Connected in China",
-          "link": "https://thomas.skowron.eu/blog/staying-connected-in-china/",
-          "description": "Article URL: https://thomas.skowron.eu/blog/staying-connected-in-china/ Comments URL: https://news.ycombinator.com/item?id=50611267 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 13:29:23 +0000"
-        },
-        {
-          "id": "4556aac7a96f",
-          "title": "China's prison for the elite is massively expanding",
-          "link": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
-          "description": "Article URL: https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding Comments URL: https://news.ycombinator.com/item?id=50610073 Points: 13 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 10:58:55 +0000"
-        },
-        {
-          "id": "19452f276382",
-          "title": "China's Innovation Playbook; Bottom-Up Tech; Directed Autonomy; Going Global [video]",
-          "link": "https://www.youtube.com/watch?v=bcfpqH1WnhM",
-          "description": "Article URL: https://www.youtube.com/watch?v=bcfpqH1WnhM Comments URL: https://news.ycombinator.com/item?id=50609603 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 09:57:31 +0000"
-        },
-        {
-          "id": "e97a0f772b9f",
-          "title": "Ask HN: Cybersecurity risk of taking personal devices on business trip to China",
-          "link": "https://news.ycombinator.com/item?id=50608585",
-          "description": "I am going on a business trip to China in the next couple of weeks and my company prohibits taking your work laptop to China and instead issues employees security-hardened devices for use during such trips. I am not in an especially sensitive role so I have no reason to expect to be targeted but I am starting to question the wisdom of taking my personal devices with me on this trip. After all, an attacker would not know (or care) that the device is not corporate issued. My personal policy is to avoid using work devices for any personal use so not having a personal device for the duration of th",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 07:35:24 +0000"
-        },
-        {
-          "id": "5d3058530e5b",
-          "title": "America cannot destroy Iran's or China's missiles",
-          "link": "https://www.aspistrategist.org.au/america-cannot-destroy-irans-missiles-chinas-will-be-a-far-greater-challenge/",
-          "description": "Article URL: https://www.aspistrategist.org.au/america-cannot-destroy-irans-missiles-chinas-will-be-a-far-greater-challenge/ Comments URL: https://news.ycombinator.com/item?id=50608060 Points: 7 # Comments: 3",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Mon, 23 Nov 2026 06:06:25 +0000"
-        },
-        {
-          "id": "3d5afc5f58c7",
-          "title": "Mexico's President Flew 21 Hours to China in Economy (In a Middle Seat)",
-          "link": "https://onemileatatime.com/news/mexico-president-flew-china-economy-middle-seat/",
-          "description": "Article URL: https://onemileatatime.com/news/mexico-president-flew-china-economy-middle-seat/ Comments URL: https://news.ycombinator.com/item?id=50602781 Points: 20 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 22 Nov 2026 19:03:14 +0000"
-        },
-        {
-          "id": "642616c93e10",
-          "title": "China's Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-          "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
-          "description": "Article URL: https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html Comments URL: https://news.ycombinator.com/item?id=50601272 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 22 Nov 2026 16:44:24 +0000"
-        },
-        {
-          "id": "ea060a1dfc72",
-          "title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
-          "link": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836",
-          "description": "Article URL: https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836 Comments URL: https://news.ycombinator.com/item?id=50601262 Points: 2 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sun, 22 Nov 2026 16:43:53 +0000"
-        },
-        {
-          "id": "6b440fa0b764",
-          "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day",
-          "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
-          "description": "Article URL: https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382 Comments URL: https://news.ycombinator.com/item?id=50592379 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 21 Nov 2026 18:56:35 +0000"
-        },
-        {
-          "id": "5f2798755ec7",
-          "title": "China unveils space mining road map with a big move on the moon within 4 years",
-          "link": "https://www.scmp.com/news/china/science/article/3375323/china-unveils-space-mining-road-map-big-move-moon-within-4-years",
-          "description": "Article URL: https://www.scmp.com/news/china/science/article/3375323/china-unveils-space-mining-road-map-big-move-moon-within-4-years Comments URL: https://news.ycombinator.com/item?id=50591383 Points: 3 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 21 Nov 2026 17:18:59 +0000"
-        },
-        {
-          "id": "5c140e00777e",
-          "title": "AMD dives on short seller report of alleged China exposure",
-          "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-          "description": "Article URL: https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html Comments URL: https://news.ycombinator.com/item?id=50585985 Points: 5 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 21 Nov 2026 04:36:39 +0000"
-        },
-        {
-          "id": "d1fb4aa275e5",
-          "title": "House China Cmte: China Trying to Get US Companies Addicted to Chinese AI Models",
-          "link": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
-          "description": "Article URL: https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models Comments URL: https://news.ycombinator.com/item?id=50584675 Points: 3 # Comments: 2",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Sat, 21 Nov 2026 01:03:45 +0000"
-        },
-        {
-          "id": "b6e0baa64f5c",
-          "title": "UK conducting offensive cyber ops against Russia, China, Iran and North Korea",
-          "link": "https://news.sky.com/story/uk-conducting-offensive-cyber-ops-against-russia-china-iran-and-north-korea-top-commander-reveals-13614163",
-          "description": "Article URL: https://news.sky.com/story/uk-conducting-offensive-cyber-ops-against-russia-china-iran-and-north-korea-top-commander-reveals-13614163 Comments URL: https://news.ycombinator.com/item?id=50583699 Points: 5 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 20 Nov 2026 23:12:05 +0000"
-        },
-        {
-          "id": "cc9ceaaed1d7",
-          "title": "China Is Mass-Producing One-Person AI Companies",
-          "link": "https://www.bloomberg.com/news/features/2026-11-12/how-china-is-creating-a-new-generation-of-ai-entrepreneurs",
-          "description": "Article URL: https://www.bloomberg.com/news/features/2026-11-12/how-china-is-creating-a-new-generation-of-ai-entrepreneurs Comments URL: https://news.ycombinator.com/item?id=50580788 Points: 4 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 20 Nov 2026 19:45:43 +0000"
-        },
-        {
-          "id": "d36691189c30",
-          "title": "China's Involution Trap",
-          "link": "https://worldofsystems.co/involution-in-china",
-          "description": "Article URL: https://worldofsystems.co/involution-in-china Comments URL: https://news.ycombinator.com/item?id=50579883 Points: 1 # Comments: 1",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 20 Nov 2026 18:53:57 +0000"
-        },
-        {
-          "id": "5e0e6c0b3e2c",
-          "title": "Germany's China Shock",
-          "link": "https://www.damagemag.com/p/germanys-china-shock",
-          "description": "Article URL: https://www.damagemag.com/p/germanys-china-shock Comments URL: https://news.ycombinator.com/item?id=50578231 Points: 1 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 20 Nov 2026 17:14:00 +0000"
-        },
-        {
-          "id": "3b56f67e6756",
-          "title": "AI Is Making China's Jobs Slump Worse",
-          "link": "https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/",
-          "description": "Article URL: https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/ Comments URL: https://news.ycombinator.com/item?id=50572621 Points: 6 # Comments: 0",
-          "source": "HN-China",
-          "category": "cctv",
-          "pub_date": "Fri, 20 Nov 2026 10:15:28 +0000"
-        }
-      ],
-      "summary": "今日新闻联播动态摘要\n\n1. 中美科技竞争持续升温：中国在汽车产业和人工智能领域展现强劲竞争力，美国关注英伟达CEO与中国的联系，并追踪相关涉华情报活动。\n2. 中国网络安全与地缘政治议题受关注：涉及中国对台间谍气球活动、欧盟委员会遭疑华黑客攻击、中国防火墙被AI技术突破等报道。\n3. 中国科技自主创新与全球布局：中国创新策略、开源大模型反馈循环、科技企业全球化等议题成为讨论焦点，同时涉及在华外籍人士的网络安全风险提示。\n\n今日最值得关注的是中国在人工智能和汽车等关键技术领域的全球竞争力持续引发美方高度关注与战略应对。",
-      "count": 28
+      "articles": [],
+      "summary": "今日暂无相关新闻。",
+      "count": 0
     }
   }
 }
